@@ -1,0 +1,403 @@
+/*
+ *  Academicons 1.8.0 by James Walsh - https://github.com/jpswalsh
+ *  Fonts generated using the IcoMoon app - http://icomoon.io/app
+ *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
+ *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
+ */
+@font-face {
+    font-family: 'Academicons';
+    src:url('../fonts/academicons.eot?v=1.8.0');
+    src:url('../fonts/academicons.eot?v=1.8.0') format('embedded-opentype'),
+        url('../fonts/academicons.ttf?v=1.8.0') format('truetype'),
+        url('../fonts/academicons.woff?v=1.8.0') format('woff'),
+        url('../fonts/academicons.svg?v=1.8.0#academicons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.ai {
+	display:inline-block;
+	font:normal normal normal 14px/1 Academicons;
+	font-size:inherit;
+	text-rendering:auto;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+}
+.ai-academia:before {
+  content: "\e800";
+}
+.ai-academia-square:before {
+  content: "\e801";
+}
+.ai-acclaim:before {
+  content: "\e802";
+}
+.ai-acclaim-square:before {
+  content: "\e803";
+}
+.ai-acm:before {
+  content: "\e804";
+}
+.ai-acm-square:before {
+  content: "\e805";
+}
+.ai-ads:before {
+  content: "\e806";
+}
+.ai-ads-square:before {
+  content: "\e807";
+}
+.ai-arxiv:before {
+  content: "\e808";
+}
+.ai-arxiv-square:before {
+  content: "\e809";
+}
+.ai-biorxiv:before {
+  content: "\e810";
+}
+.ai-biorxiv-square:before {
+  content: "\e811";
+}
+.ai-ceur:before {
+  content: "\e812";
+}
+.ai-ceur-box:before {
+  content: "\e813";
+}
+.ai-courser:before {
+  content: "\e814";
+}
+.ai-courser-square:before {
+  content: "\e815";
+}
+.ai-dataverse:before {
+  content: "\e816";
+}
+.ai-dataverse-box:before {
+  content: "\e817";
+}
+.ai-dblp:before {
+  content: "\e818";
+}
+.ai-dblp-square:before {
+  content: "\e819";
+}
+.ai-depsy:before {
+  content: "\e820";
+}
+.ai-depsy-square:before {
+  content: "\e821";
+}
+.ai-doi:before {
+  content: "\e822";
+}
+.ai-doi-square:before {
+  content: "\e823";
+}
+.ai-dryad:before {
+  content: "\e824";
+}
+.ai-dryad-square:before {
+  content: "\e825";
+}
+.ai-figshare:before {
+  content: "\e826";
+}
+.ai-figshare-square:before {
+  content: "\e827";
+}
+.ai-google-scholar:before {
+  content: "\e828";
+}
+.ai-google-scholar-square:before {
+  content: "\e829";
+}
+.ai-ieee:before {
+  content: "\e830";
+}
+.ai-ieee-square:before {
+  content: "\e831";
+}
+.ai-impactstory:before {
+  content: "\e832";
+}
+.ai-impactstory-square:before {
+  content: "\e833";
+}
+.ai-inspire:before {
+  content: "\e834";
+}
+.ai-inspire-square:before {
+  content: "\e835";
+}
+.ai-mendeley:before {
+  content: "\e836";
+}
+.ai-mendeley-square:before {
+  content: "\e837";
+}
+.ai-open-access:before {
+  content: "\e838";
+}
+.ai-open-access-square:before {
+  content: "\e839";
+}
+.ai-orcid:before {
+  content: "\e840";
+}
+.ai-orcid-square:before {
+  content: "\e841";
+}
+.ai-osf:before {
+  content: "\e842";
+}
+.ai-osf-square:before {
+  content: "\e843";
+}
+.ai-overleaf:before {
+  content: "\e844";
+}
+.ai-overleaf-square:before {
+  content: "\e845";
+}
+.ai-philpapers:before {
+  content: "\e846";
+}
+.ai-philpapers-square:before {
+  content: "\e847";
+}
+.ai-piazza:before {
+  content: "\e848";
+}
+.ai-piazza-square:before {
+  content: "\e849";
+}
+.ai-publons:before {
+  content: "\e850";
+}
+.ai-publons-square:before {
+  content: "\e851";
+}
+.ai-pubmed:before {
+  content: "\e852";
+}
+.ai-pubmed-square:before {
+  content: "\e853";
+}
+.ai-researchgate:before {
+  content: "\e854";
+}
+.ai-researchgate-square:before {
+  content: "\e855";
+}
+.ai-scirate:before {
+  content: "\e856";
+}
+.ai-scirate-square:before {
+  content: "\e857";
+}
+.ai-springer:before {
+  content: "\e858";
+}
+.ai-springer-square:before {
+  content: "\e859";
+}
+.ai-zotero:before {
+  content: "\e860";
+}
+.ai-zotero-square:before {
+  content: "\e861";
+}
+/*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
+.ai-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.ai-2x {
+  font-size: 2em;
+}
+.ai-3x {
+  font-size: 3em;
+}
+.ai-4x {
+  font-size: 4em;
+}
+.ai-5x {
+  font-size: 5em;
+}
+.ai-fw {
+  width: 1.28571429em;
+  text-align: center;
+}
+.ai-ul {
+  padding-left: 0;
+  margin-left: 2.14285714em;
+  list-style-type: none;
+}
+.ai-ul > li {
+  position: relative;
+}
+.ai-li {
+  position: absolute;
+  left: -2.14285714em;
+  width: 2.14285714em;
+  top: 0.14285714em;
+  text-align: center;
+}
+.ai-li.fa-lg {
+  left: -1.85714286em;
+}
+.ai-border {
+  padding: .2em .25em .15em;
+  border: solid 0.08em #eeeeee;
+  border-radius: .1em;
+}
+.ai-pull-left {
+  float: left;
+}
+.ai-pull-right {
+  float: right;
+}
+.ai.fa-pull-left {
+  margin-right: .3em;
+}
+.ai.fa-pull-right {
+  margin-left: .3em;
+}
+/*  
+ *  Repeat of the FontAwesome style classes to prevent override if academicons.css
+ *  is called after font-awesome.css.
+ */
+.fa-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.fa-2x {
+  font-size: 2em;
+}
+.fa-3x {
+  font-size: 3em;
+}
+.fa-4x {
+  font-size: 4em;
+}
+.fa-5x {
+  font-size: 5em;
+}
+.fa-fw {
+  width: 1.28571429em;
+  text-align: center;
+}
+.fa-ul {
+  padding-left: 0;
+  margin-left: 2.14285714em;
+  list-style-type: none;
+}
+.fa-ul > li {
+  position: relative;
+}
+.fa-li {
+  position: absolute;
+  left: -2.14285714em;
+  width: 2.14285714em;
+  top: 0.14285714em;
+  text-align: center;
+}
+.fa-li.fa-lg {
+  left: -1.85714286em;
+}
+.fa-border {
+  padding: .2em .25em .15em;
+  border: solid 0.08em #eeeeee;
+  border-radius: .1em;
+}
+.fa-pull-left {
+  float: left;
+}
+.fa-pull-right {
+  float: right;
+}
+.fa.fa-pull-left {
+  margin-right: .3em;
+}
+.fa.fa-pull-right {
+  margin-left: .3em;
+}
+.news-container {
+  height: 200px; /* Or any other height */
+  overflow-y: scroll; /* This enables the vertical scrollbar if content overflows */
+}
+.news-item {
+  background-color: #f8f8f8; /* Light gray background */
+  border: 1px solid #ddd; /* Light gray border */
+  padding: 15px; /* Spacing inside the news item */
+  margin-bottom: 10px; /* Spacing between news items */
+  border-radius: 5px; /* Rounded corners */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.news-item h3 {
+  margin-top: 0;
+  color: #333; /* Darker color for the title */
+  font-size: 1.2em; /* Slightly larger font for the title */
+}
+
+.news-item p {
+  color: #666; /* Gray color for the text */
+  font-size: 1em; /* Standard font size for the text */
+  line-height: 1.5; /* Spacing between lines */
+}
+
+.news-item .date {
+  font-size: 0.8em; /* Smaller font size for the date */
+  color: #999; /* Lighter color for the date */
+  margin-top: 10px; /* Spacing above the date */
+}
+
+.motto-section {
+  background-image: url('/images/bg.png'); /* Add your image path */
+  background-size: cover; /* Ensures the image covers the entire section */
+  background-position: center; /* Centers the image */
+  text-align: center;
+  padding: 50px 0; /* Adds padding above and below the motto */
+}
+
+.motto {
+  font-style: italic;
+  color: white; /* Choose a color that contrasts well with the background */
+  font-size: 2em; /* Adjust size as necessary */
+  margin: 0; /* Removes default margin */
+  /* Optional: Add a text shadow for better readability on complex backgrounds */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+
+.publication {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.video-container iframe {
+  width: 480px; /* Adjust the size as needed */
+  height: 270px; /* Based on a 16:9 aspect ratio */
+}
+
+.publication-links {
+  flex-grow: 1;
+  margin-left: 20px;
+}
+
+.publication-links h3 {
+  margin-top: 0;
+}
+
+.publication-links a {
+  display: block; /* Makes each link take its own line */
+  margin-bottom: 10px;
+  color: #007bff; /* Example link color */
+  text-decoration: none;
+}

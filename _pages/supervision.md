@@ -1,0 +1,40 @@
+---
+layout: archive
+title: "Supervision"
+permalink: /supervision/
+author_profile: true
+---
+{% include base_path %}
+
+
+**At the University of Exeter**
+
+If you want to join my research group, please send me an email. For more details, see the 'Join My Group' tab on the right. 
+
+**At Imperial College London**
+
+I was a primary supervisor of MSc students in Applied Machine Learning at EEE from 2022 to 2023 and has been an [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) appointed by the College since December 2020. All the MSc students I supervised or co-supervised got their degrees with distinction. I was a mentor of [Imperial’s Activate Student Mentoring Programm](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/), where I support one PhD student to enhance her academic and professional development.  
+
+- As the primary supervisor
+
+	- Zixian Zhao (MSc, distinction):  Computer Vision-based Video Anonymisation for Privacy Protection
+
+- As the assistant supervisor (co-supervise with Prof.  Yiannis Demiris)
+
+	- [Zhigang Sun](https://www.linkedin.com/in/zhigang-sun-b7390921b/?trk=people-guest_people_search-card&originalSubdomain=cn) (MSc, distinction): Visual Scene Understanding and Tracking from Traffic Cameras 
+
+	- [Tobias Hillier](https://www.linkedin.com/in/tobias-hillier/?locale=no_NO) (MEng): Mixed Traffic Simulation for Autonomous Systems in Shared Spaces 	
+
+	- [Victor Badoual](https://www.linkedin.com/in/victor-badoual/?originalSubdomain=uk) (MEng): Visual Scene Understanding and Tracking from Traffic Cameras  
+
+- As a mentor of Imperial’s Activate Student Mentoring Programme
+
+	- Sneha Jha, PhD student at Imperial College London
+
+**At Shanghai Jiao Tong University**
+
+- Co-supervise
+
+	- [Shengyun Peng](https://shengyun-peng.github.io/). Now a PhD student in CS at Georgia Institute of Technology.
+
+	- Ping Ye. Now a PhD student at Shanghai Jiao Tong University.
