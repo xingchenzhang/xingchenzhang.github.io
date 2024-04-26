@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Xingchen Zhang"
 title_separator          : "-"
 name                     : "Xingchen Zhang"
-description              :  "Lecturer in Computer Vision and Artificial Intelligence at University of Exeter"
+description              :  "Senior Lecturer in Computer Vision and Artificial Intelligence at University of Exeter"
 url                      : https://xingchenzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xingchenzhang/xingchenzhang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xingchen Zhang"
   avatar           : "Xingchen Zhang.jpg"
-  bio              : "Lecturer in Computer Vision and Artificial Intelligence"
+  bio              : "Senior Lecturer in Computer Vision and Artificial Intelligence"
   location         : "University of Exeter"
   employer         :
   pubmed           : 
