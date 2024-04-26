@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xingchen Zhang"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Bio
----
 
 I am a Senior Lecturer in Computer Vision and Artificial Intelligence at the Department of Computer Science, University of Exeter. Before this, I was a Marie Skłodowska-Curie Individual Fellow at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/), working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). Prior to this, I was a Teaching Fellow and Research Associate in the same department at Imperial College London. Additionally, I have worked as the main supervisor of MSc students, [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) and Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/), at Imperial College London.
 
