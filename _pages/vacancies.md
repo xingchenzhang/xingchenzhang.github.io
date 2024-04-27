@@ -6,6 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+If you're interested in joining my group as a PhD student (a full PhD studentship is available) or a visiting scholar, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV.
+
 **PhD Opportunities**
 
 - PhD studentship (**available now**). This studentship covers international student fees and stipend

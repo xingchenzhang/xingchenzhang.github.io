@@ -3,10 +3,10 @@ main:
 
   # - title: "Research"
   #   url: /research/
-    
-  - title: "Supervision"
-    url: /supervision/
 
+  - title: "Vacancies"
+    url: /vacancies/
+    
   - title: "Publications"
     url: /publications/
 
@@ -15,9 +15,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Supervision"
+    url: /supervision/
    
   - title: "Services"
     url: /services/
 
-  - title: "Vacancies"
-    url: /vacancies/
