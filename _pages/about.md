@@ -43,17 +43,6 @@ News
 [04/2024] I joined the University of Exeter as a Senior Lecturer.
 
 
-Honors and Awards (Selected)
-------------------
-
-
-- 2023: Department Award for Citizenship and Community, Department of EEE, Imperial College London [Imperial College News]  
-- 2023: Fellow of the Month, Postdoc and Fellows Development Centre (PFDC), Imperial College London [Imperial PFDC Newsletter]
-- 2023: Fellow,  The Higher Education Academy
-- 2021: Marie Skłodowska-Curie Individual Fellowship, European Union
-- 2019: National Science and Technology Academic Publication Fund (for the Image Fusion book that I co-authored), awarded by the National Science and Technology Academic Works Publishing Fund Committee of China
-- 2019: Best Paper Honorable Mention Award, The 9th Chinese Conference on Information Fusion 
-- 2011: National Scholarship (top 2% of all students), awarded by the Ministry of Education of China 
 
 Contact
 -------
