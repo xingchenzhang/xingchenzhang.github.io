@@ -36,11 +36,11 @@ News
 ----
 [04/2024] I will give a talk on 6th June at an Early Career Researcher Networks (ECRN) event "Future of AI Awards 2024: Collaborate, Debate, Invent" organised by my Exeter colleagues. I will introduce my research and my fellowship experience.
 
-[04/2024] Our tutorial proposal entitled "DIFA: Deep Learning-based Image Fusion and Its Applications" was accepted by the [International Conference on Information Fusion (Fusion2024)](https://fusion2024.org/), which will be held in Venice, Italy, on 7th-11th July. I am organizing the tutorial with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from the University of Cambridge, and Prof. Yiannis Demiris from Imperial College London. The tutorial will be on 8th July. Pleasee register if you are interested in this topic.
+[04/2024] Our tutorial proposal entitled "DIFA: Deep Learning-based Image Fusion and Its Applications" was accepted by the [International Conference on Information Fusion (Fusion2024)](https://fusion2024.org/), which will be held in Venice, Italy, on 7th-11th July. I am organizing the tutorial with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from the University of Cambridge, and Prof. Yiannis Demiris from Imperial College London. The tutorial will be on 8th July. Please register if you are interested in this topic.
 
 [04/2024] I gave a talk at the [BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) on 24 April 2024.
 
-[04/2024] I joined the University of Exeter as a Senior Lecturer.
+[04/2024] I joined the University of Exeter as a **Senior Lecturer**.
 
 [03/2024] I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)".
 
