@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-If you're interested in joining my group as a PhD student (a full PhD studentship is available) or a visiting scholar, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV.
+If you're interested in joining my group as a PhD student (a full PhD studentship is available for 2024 entry) or a visiting scholar, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV.
 
 **PhD Opportunities**
 
@@ -17,8 +17,6 @@ If you're interested in joining my group as a PhD student (a full PhD studentshi
 
 **Postdoc Opportunities**
 
-- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024)
+- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024): **The deadline is 11 September 2024**. Please contact me if you want to apply with me as your supervisor.
 - [EPSRC Postdoctoral Fellowships](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
-- [Royal Academy of Engineering Fellowship](https://raeng.org.uk/research-fellowships)
-- [Newton International Fellowships](https://royalsociety.org/grants/newton-international/)
 
