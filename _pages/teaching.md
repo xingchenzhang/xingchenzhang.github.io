@@ -10,7 +10,7 @@ I enjoy doing research and seeing students improve through my teaching and super
 
 **At Imperial College London**
 
-- **Lecturer**, ELEC60009/96033/96039, Deep Learning (Spring 2021-2022), Department of EEE
+- **Lecturer**, ELEC60009/96033/96039, Deep Learning (Spring 2021-2022), Department of EEE. I taught representation learning, generative models, reinforcement learning, hyperparameters and meta-learning to **more than 100 MEng and MSc students**. 
 
 - **Teaching Fellow**, ELEC60019/96037, Machine Learning (Autumn 2021-2022),  Department of EEE
 

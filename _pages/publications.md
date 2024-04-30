@@ -26,3 +26,9 @@ Selected Publications
 - **X. Zhang**, P. Ye, G. Xiao. VIFB: A Visible and Infrared Image Fusion Benchmark, In the Proceedings of IEEE/CVF Conference on Computer Vision Workshops, 2020. (The first image fusion benchmark, which has been utilized by researchers from more than 10 countries.)
 
 - G. Xiao, D. Bavirisetti, G. Liu, **X. Zhang**. Image Fusion. Springer Nature Singapore and Shanghai Jiao Tong University Press, 2020. (This book was awarded the National Science and Technology Academic Publications of China in 2019.) 
+
+Funders
+--
+My research has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant and the InnovateUK DRISK project (D-RISK: Validating the autonomous vehicle safety-case using simulation and adaptive test generation).
+
+<img align="center" width="300" src="/images/marie-curie.jpg" style="margin-right: 15px" />
