@@ -34,6 +34,8 @@ author_profile: true
 
 - IEEE Transactions on Neural Networks and Learning Systems
 
+- IEEE Transactions on Artificial Intelligence
+
 - IEEE Transactions on Intelligent Transportation Systems 
 
 - IEEE Transactions on Instrumentation & Measurement
