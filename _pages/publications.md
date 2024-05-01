@@ -31,13 +31,6 @@ Funders
 --
 My research has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant and the InnovateUK DRISK project (D-RISK: Validating the autonomous vehicle safety-case using simulation and adaptive test generation).
 
-<img align="center" width="300" src="/images/marie-curie.jpg" style="margin-right: 5px" />
-
-<img align="center" width="300" src="/images/eu.jpg" style="margin-right: 5px" />
-
-<img align="center" width="300" src="/images/innovateuk.jpg" style="margin-right: 5px" />
-
-
 <div style="display:inline-block">
   <img src="/images/marie-curie.jpg" alt="image1" width="300">
   <img src="/images/eu.jpg" alt="image2" width="300">
