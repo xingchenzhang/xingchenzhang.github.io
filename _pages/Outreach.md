@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Public engagement and outreach activities"
-permalink: /Outreach/
+permalink: /outreach/
 author_profile: true
 ---
 {% include base_path %}
