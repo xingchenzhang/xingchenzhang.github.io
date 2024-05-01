@@ -83,7 +83,7 @@ News
 
 [08/2020] The book [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3) that I co-authored has been published by Shanghai Jiao Tong University Press & Springer Nature Singapore. This book has won the National Science and Technology Academic Publications Fund of China (2019).
 
-<div style="display:inline-block" align="center">
+<div style="display: flex; justify-content: center;">
   <img src="/images/image-fusion.jpg" alt="image1" width="150">
 </div>
 
