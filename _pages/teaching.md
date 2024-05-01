@@ -12,7 +12,7 @@ I enjoy doing research and seeing students improve through my teaching and super
 
 - **Lecturer**, ELEC60009/96033/96039, Deep Learning (Spring 2021-2022), Department of EEE. I taught representation learning, generative models, reinforcement learning, hyperparameters and meta-learning to **more than 100 MEng and MSc students**. 
 
-<div style="display:inline-block">
+<div style="display:inline-block" align="center">
   <img src="/images/teaching-DL-1.jpg" alt="image1" width="400">
   <img src="/images/teaching-DL-2.png" alt="image2" width="400">
 </div>
