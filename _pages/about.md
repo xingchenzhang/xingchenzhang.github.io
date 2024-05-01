@@ -43,6 +43,9 @@ News
 [04/2024] I joined the University of Exeter as a **Senior Lecturer**.
 
 [03/2024] I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)".
+<div style="display:inline-block" align="center">
+  <img src="/images/imperial-people.jpg" alt="image1" width="400">
+</div>
 
 [12/2023] I was awarded the Department Award for Citizenship and Community by the Department of EEE, Imperial College London. [[Imperial News]](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/).
 
@@ -80,7 +83,9 @@ News
 
 [08/2020] The book [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3) that I co-authored has been published by Shanghai Jiao Tong University Press & Springer Nature Singapore. This book has won the National Science and Technology Academic Publications Fund of China (2019).
 
-
+<div style="display:inline-block" align="center">
+  <img src="/images/image-fusion.jpg" alt="image1" width="150">
+</div>
 
 
 Contact
