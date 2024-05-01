@@ -39,7 +39,7 @@ My research has received funding from the European Union’s Horizon 2020 resear
 
 
 <div style="display:inline-block">
-  <img src="/images/marie-curie.jpg" alt="image1" width="100">
-  <img src="/images/eu.jpg" alt="image2" width="100">
-  <img src="/images/innovateuk.jpg" alt="image3" width="100">
+  <img src="/images/marie-curie.jpg" alt="image1" width="300">
+  <img src="/images/eu.jpg" alt="image2" width="300">
+  <img src="/images/innovateuk.jpg" alt="image3" width="300">
 </div>
