@@ -43,7 +43,7 @@ News
 [04/2024] I joined the University of Exeter as a **Senior Lecturer**.
 
 [03/2024] I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)".
-<div style="display:inline-block" align="center">
+<div style="display: flex; justify-content: center;">
   <img src="/images/imperial-people.jpg" alt="image1" width="400">
 </div>
 
