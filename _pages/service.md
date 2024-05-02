@@ -6,6 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
+
 **Reviewer for grants**
 
 - UKRI Future Leaders Fellowship
@@ -16,6 +17,9 @@ author_profile: true
 
 - EPSRC Standard Research Grant 
 
+**Organiser for tutorials/workshops**
+
+- Tutorial: "DIFA: Deep Learning-based Image Fusion and Its Applications", FUSION2024, Italy, July 2024
 
 **Editorial boards**
 
