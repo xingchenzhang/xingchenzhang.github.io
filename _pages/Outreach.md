@@ -19,5 +19,5 @@ author_profile: true
 	- As an outreach activity of my MSCA fellowship, my demo "The Smart Wheelchair" at the Great Exhibition Road Festival 2023 was very successful! We attracted more than 2000 visitors during the weekend. We successfully introduced our smart wheelchair and our ongoing research to our visitors, including many children. 
 <div style="display: flex; justify-content: center;">
   <img src="/images/Great-exhibition-festival-2023.jpg" alt="image1" width="400">
-  <img src="/images/Great-exhibition-festival-2023-3.jpg" alt="image2" width="400">
+  <img src="/images/Great-exhibition-festival-2023-3.jpg" alt="image3" width="400">
 </div>
