@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Join my group"
+title: "Join My Group"
 permalink: /vacancies/
 author_profile: true
 ---
