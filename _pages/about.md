@@ -22,6 +22,10 @@ Joining my group
 -------
 If you're interested in joining my group as a PhD student (a PhD studentship is available) or a visiting scholar, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV. For more details, see 'Join My Group' section for details.
 
+[05/2024] I am looking for candidates to apply for a full PhD studentship (international fess plus tax-free stipend). The topic is "Deep Learning for multimodal information fusion". Please contact me if you are interested in this project.
+
+[05/2024] I am looking for candidates to apply for Marie-Curie Postdoctoral Fellowship. The application deadline is 11 September 2024. Please contact me if you are interested in this fellowship. 
+
 Research interests
 --
 My research areas include
@@ -34,9 +38,6 @@ My research areas include
 
 News
 ----
-[05/2024] I am looking for candidates to apply for a full PhD studentship (international fess plus tax-free stipend). The topic is "Deep Learning for multimodal information fusion". Please contact me if you are interested in this project.
-
-[05/2024] I am looking for candidates to apply for Marie-Curie Postdoctoral Fellowship. The application deadline is 11 September 2024. Please contact me if you are interested in this fellowship. 
 
 [04/2024] I will give a talk on **6th June** at "[Future of AI Awards 2024: Collaborate, Debate, Invent](https://www.eventbrite.co.uk/e/future-of-ai-awards-2024-collaborate-debate-invent-tickets-893583621667)". I will introduce my research and my fellowship experience.
 
@@ -96,4 +97,4 @@ Contact
 -------
 
 - Email: x (dot) zhang12 (at) exeter (dot) ac (dot) uk
-- Address: Department of Computer Science, University of Exeter, Exeter EX4 4PY
+- Address: Department of Computer Science, University of Exeter, Exeter EX4 4RN
