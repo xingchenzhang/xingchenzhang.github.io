@@ -4,7 +4,7 @@ main:
   # - title: "Research"
   #   url: /research/
 
-  - title: "Join my group"
+  - title: "Join My Group"
     url: /vacancies/
     
   - title: "Publications"
@@ -22,7 +22,7 @@ main:
   - title: "Services"
     url: /services/
 
-  - title: "Honors and Awards"
+  - title: "Honors"
     url: /honors/
 
   - title: "Outreach"
