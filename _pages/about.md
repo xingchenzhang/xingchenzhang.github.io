@@ -22,7 +22,7 @@ Joining my group
 -------
 If you're interested in joining my group as a PhD student (a PhD studentship is available) or a visiting scholar, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV. For more details, see 'Join My Group' section for details.
 
-[05/2024] I am looking for candidates to apply for **a full PhD studentship (international fess plus tax-free stipend)**. The topic is "Deep Learning for multimodal information fusion". Please contact me if you are interested in this project.
+[05/2024] I am looking for candidates to apply for **a full PhD studentship (international fess plus tax-free stipend)**. The topic is "Deep Learning for multimodal information fusion". **Deadline: 31st May 2024**. [[Exeter website]](https://www.exeter.ac.uk/study/funding/award/?id=5132) [[FindAPhD]](https://www.findaphd.com/phds/project/deep-learning-for-multimodal-information-fusion-computer-science/?p171812)
 
 [05/2024] I am looking for candidates to apply for **Marie-Curie Postdoctoral Fellowship**. The application deadline is 11 September 2024. Please contact me if you are interested in this fellowship. 
 
