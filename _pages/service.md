@@ -19,7 +19,7 @@ author_profile: true
 
 **Organiser for tutorials/workshops**
 
-- Tutorial: "DIFA: Deep Learning-based Image Fusion and Its Applications", FUSION2024, Italy, July 2024
+- Tutorial: "DIFA: Deep Learning-based Image Fusion and Its Applications", FUSION2024, Italy, July 2024. [[Tutorial website]](https://difa2024.github.io/)
 
 **Editorial boards**
 
