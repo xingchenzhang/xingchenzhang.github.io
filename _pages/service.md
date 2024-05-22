@@ -17,13 +17,9 @@ author_profile: true
 
 - EPSRC Standard Research Grant 
 
-**Organiser for tutorials/workshops**
-
-- Tutorial: "DIFA: Deep Learning-based Image Fusion and Its Applications", FUSION2024, Italy, July 2024. [[Tutorial website]](https://difa2024.github.io/)
 
 **Editorial boards**
 
-- Guest editor, Frontiers in Neurorobotics
 
 - Reviewer editor, Brain Imaging Methods, Frontiers in Neuroscience
 
