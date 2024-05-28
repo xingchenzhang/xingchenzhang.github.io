@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-If you're interested in joining my group as a PhD student (a full PhD studentship is available for 2024 entry) or a visiting scholar, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV.
+If you're interested in joining my group as a PhD student (a full PhD studentship is available for 2024 entry) or a visiting scholar, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**).
 
 **PhD Opportunities**
 
