@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Senior Lecturer in Computer Vision and Artificial Intelligence at the Department of Computer Science, University of Exeter. Before this, I was a Marie Skłodowska-Curie Individual Fellow at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/), working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). Prior to this, I was a Teaching Fellow and Research Associate in the same department at Imperial College. Additionally, I have worked as the main supervisor of one MSc student, [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) and Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/), at Imperial College London.
+I am a Senior Lecturer in Computer Vision and Artificial Intelligence at the Department of Computer Science, University of Exeter, where I lead the Fusion Intelligence Lab. Before this, I was a Marie Skłodowska-Curie Individual Fellow at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/), working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). Prior to this, I was a Teaching Fellow and Research Associate in the same department at Imperial College. Additionally, I have worked as the main supervisor of one MSc student, [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) and Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/), at Imperial College London.
 
 I am also a Visiting Researcher at the Personal Robotics Laboratory, Imperial College London, since April 2024. I am a Fellow of the Higher Education Academy (HEA).
 
@@ -38,6 +38,9 @@ My research areas include
 
 News
 ----
+
+[05/2024] I will establish and lead the Fusion Intelligence Lab at the Department of Computer Science, University of Exeter.
+
 [05/2024] I am co-organizing a special issue entitled "Multi-source and Multi-domain Data Fusion and Enhancement: Methods, Evaluation, and Applications" in Frontiers in Neurorobotics. Please submit your manuscript if you are interested. More details can be found [[here]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications).
 
 [05/2024] I will take the Deputy Director of Business Engagement & Innovation role at the Department of Computer Science, University of Exeter
