@@ -56,6 +56,7 @@ News
   <img src="/images/imperial-people.jpg" alt="image1" width="400">
 </div>
 
+
 [12/2023] I was awarded the Department Award for Citizenship and Community by the Department of EEE, Imperial College London. [[Imperial News]](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/).
 
 [11/2023] I gave an invited talk at the Redwood Academy entitled "Beauty of fusion: Deep learning-based image fusion and its applications" on 8th November 2023.

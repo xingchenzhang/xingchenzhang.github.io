@@ -17,24 +17,30 @@ I was a primary supervisor of MSc students in Applied Machine Learning at EEE fr
 
 - As the primary supervisor
 
-	- Zixian Zhao (MSc, distinction):  Computer Vision-based Video Anonymisation for Privacy Protection
-
+	- Zixian Zhao (MSc, **distinction**)
+		- Topic: Computer Vision-based Video Anonymisation for Privacy Protection  
+	
 - As the assistant supervisor (co-supervise with Prof.  Yiannis Demiris)
 
-	- [Zhigang Sun](https://www.linkedin.com/in/zhigang-sun-b7390921b/?trk=people-guest_people_search-card&originalSubdomain=cn) (MSc, distinction): Visual Scene Understanding and Tracking from Traffic Cameras 
+	- [Zhigang Sun](https://www.linkedin.com/in/zhigang-sun-b7390921b/?trk=people-guest_people_search-card&originalSubdomain=cn) (MSc, **distinction**). Now Research Engineer at Bosch Research.
+		- Topic: Visual Scene Understanding and Tracking from Traffic Cameras
 
-	- [Tobias Hillier](https://www.linkedin.com/in/tobias-hillier/?locale=no_NO) (MEng): Mixed Traffic Simulation for Autonomous Systems in Shared Spaces 	
+	- [Victor Badoual](https://www.linkedin.com/in/victor-badoual/?originalSubdomain=uk) (MEng). Now Software Engineer at Google
+		- Topic: Visual Scene Understanding and Tracking from Traffic Cameras  
 
-	- [Victor Badoual](https://www.linkedin.com/in/victor-badoual/?originalSubdomain=uk) (MEng): Visual Scene Understanding and Tracking from Traffic Cameras  
+	- [Tobias Hillier](https://www.linkedin.com/in/tobias-hillier/?locale=no_NO) (MEng). Now Project Engineer at Kongsberg Defence & Aerospace
+		- Topic: Mixed Traffic Simulation for Autonomous Systems in Shared Spaces 	
 
 - As a mentor of Imperial’s Activate Student Mentoring Programme
 
-	- Sneha Jha, PhD student at Imperial College London
+	- [Sneha Jha](https://profiles.imperial.ac.uk/sneha.jha20) (PhD student)
 
 **At Shanghai Jiao Tong University**
 
-- Co-supervise
+- Co-supervised
 
-	- [Shengyun Peng](https://shengyun-peng.github.io/). Now a PhD student in CS at Georgia Institute of Technology.
+	- [Ping Ye](https://www.researchgate.net/profile/Ping-Ye-6) (PhD student)
+	
+	- [Shengyun Peng](https://shengyun-peng.github.io/) (undergraduate student). Now a PhD student in Computer Science at Georgia Institute of Technology.
 
-	- Ping Ye. Now a PhD student at Shanghai Jiao Tong University.
+	- [Jun Liu](https://zxxy.suse.edu.cn/p/74/?StId=st_app_news_i_x637974583413820740) (graduate student). Now a lecturer at the Sichuan University of Science and Engineering.
