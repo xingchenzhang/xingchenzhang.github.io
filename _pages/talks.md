@@ -13,7 +13,7 @@ author_profile: true
 
 - Self-supervised RGBT tracking with Cross-input consistency, BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications, British Computer Society, London, April 2024
 
-- The beauty of fusion: Deep learning-based image fusion and its applications" Redwood Academy (online talk), November 2023
+- The beauty of fusion: Deep learning-based image fusion and its applications, Redwood Academy (online talk), November 2023
 
 - The beauty of fusion: Deep learning-based image fusion and its applications, China Agricultural University (online talk), November 2022
 
