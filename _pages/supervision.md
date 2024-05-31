@@ -6,6 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
+I have supervised and co-supervised students at different universities. I enjoy doing research and seeing students improve through my supervision. 
 
 **At the University of Exeter**
 
