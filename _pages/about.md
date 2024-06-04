@@ -41,8 +41,6 @@ News
 
 [05/2024] I am co-organizing a special issue entitled "Multi-source and Multi-domain Data Fusion and Enhancement: Methods, Evaluation, and Applications" in Frontiers in Neurorobotics. Please submit your manuscript if you are interested. More details can be found [[here]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications).
 
-[05/2024] I will take the Deputy Director of Business Engagement & Innovation role at the Department of Computer Science, University of Exeter
-
 [04/2024] I will give a talk on **6th June** at "[Future of AI Awards 2024: Collaborate, Debate, Invent](https://www.eventbrite.co.uk/e/future-of-ai-awards-2024-collaborate-debate-invent-tickets-893583621667)". I will introduce my research and my fellowship experience. Please register if you are interested.
 
 [04/2024] I gave a talk at the [BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) on 24 April 2024.
