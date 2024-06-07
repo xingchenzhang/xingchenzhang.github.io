@@ -37,11 +37,13 @@ My research areas include
 News
 ----
 
+[06/2024] Our workshop proposal entitled "DIFA: Deep Learning-based Image Fusion and Its Applications" was accepted by the [British Machine Vision Conference (BMVC) 2024](https://bmvc2024.org/), which will be held in Glassgow, UK, on 25th - 28th November 2024. I am organizing the workshop with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from the University of Cambridge, and Prof. Yiannis Demiris from Imperial College London. More details will come soon.
+
+[06/2024] I gave a talk on **6th June** at "[Future of AI Awards 2024: Collaborate, Debate, Invent](https://www.eventbrite.co.uk/e/future-of-ai-awards-2024-collaborate-debate-invent-tickets-893583621667)". I introduced Fusion Intelligence and shared my fellowship experience.
+
 [05/2024] I will establish and lead the **Fusion Intelligence Lab** at the Department of Computer Science, University of Exeter.
 
 [05/2024] I am co-organizing a special issue entitled "Multi-source and Multi-domain Data Fusion and Enhancement: Methods, Evaluation, and Applications" in Frontiers in Neurorobotics. Please submit your manuscript if you are interested. More details can be found [[here]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications).
-
-[04/2024] I will give a talk on **6th June** at "[Future of AI Awards 2024: Collaborate, Debate, Invent](https://www.eventbrite.co.uk/e/future-of-ai-awards-2024-collaborate-debate-invent-tickets-893583621667)". I will introduce my research and my fellowship experience. Please register if you are interested.
 
 [04/2024] I gave a talk at the [BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) on 24 April 2024.
 

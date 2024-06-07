@@ -17,6 +17,10 @@ author_profile: true
 
 - EPSRC Standard Research Grant 
 
+**Organizers for Workshops**
+
+- BMVC2024 Workshop: DIFA: Deep Learning-based Image Fusion and Its Applications
+
 
 **Editorial boards**
 

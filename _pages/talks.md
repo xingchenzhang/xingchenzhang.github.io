@@ -7,9 +7,10 @@ author_profile: true
 
 **Incoming talks**
 
-- I will give a talk on 6th June at an Early Career Researcher Networks (ECRN) event "Future of AI Awards 2024: Collaborate, Debate, Invent" organized by my Exeter colleagues.
 
 **Past talks**
+
+- Fusion Intelligence and Fellowship Experience, Future of AI Awards 2024: Collaborate, Debate, Invent, University of Exeter, June 2024.
 
 - Self-supervised RGBT tracking with Cross-input consistency, BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications, British Computer Society, London, April 2024
 
