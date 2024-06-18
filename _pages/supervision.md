@@ -10,7 +10,7 @@ I have supervised and co-supervised students at different universities. I enjoy 
 
 **At the University of Exeter**
 
-If you want to join my research group, please send me an email. For more details, see the 'Join My Group' section.
+A PhD student will join my lab at Exeter shortly.
 
 **At Imperial College London**
 
