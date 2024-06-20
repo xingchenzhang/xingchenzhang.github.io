@@ -24,7 +24,7 @@ author_profile: true
 
 **Editorial boards**
 
-- Guest editor, "Multi-source and Multi-domain Data Fusion and Enhancement: Methods, Evaluation, and Applications" research topic, Frontiers in Neurorobotics [[link]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications)
+- Guest Associate Editor, Frontiers in Neurorobotics [[link]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications)
 
 - Reviewer editor, Brain Imaging Methods, Frontiers in Neuroscience
 
