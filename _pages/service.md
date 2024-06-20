@@ -24,6 +24,8 @@ author_profile: true
 
 **Editorial boards**
 
+- Editorial Board Member, Chinese Journal of Information Fusion
+
 - Guest Associate Editor, Frontiers in Neurorobotics [[link]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications)
 
 - Reviewer editor, Brain Imaging Methods, Frontiers in Neuroscience
