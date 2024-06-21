@@ -37,19 +37,19 @@ My research areas include
 News
 ----
 
-[06/2024] Our paper has been accepted by IEEE Transactions on Intelligent Transportation Systems. Congratulations to Zixian! 
+[06/2024] Our paper has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian! 
 
 [06/2024] Our workshop proposal entitled "DIFA: Deep Learning-based Image Fusion and Its Applications" has been accepted by the [British Machine Vision Conference (BMVC) 2024](https://bmvc2024.org/), which will be held in Glassgow, UK, on 25th - 28th November 2024. More details will come soon.
 
-[06/2024] I gave a talk on **6th June** at "[Future of AI Awards 2024: Collaborate, Debate, Invent](https://www.eventbrite.co.uk/e/future-of-ai-awards-2024-collaborate-debate-invent-tickets-893583621667)". I introduced Fusion Intelligence and shared my fellowship experience.
+[06/2024] Invited to give a talk on 6th June at "[Future of AI Awards 2024: Collaborate, Debate, Invent](https://www.eventbrite.co.uk/e/future-of-ai-awards-2024-collaborate-debate-invent-tickets-893583621667)". I introduced Fusion Intelligence and shared my fellowship experience.
 
-[05/2024] I will establish and lead the **Fusion Intelligence Lab** at the Department of Computer Science, University of Exeter.
+[05/2024] I will establish and lead the Fusion Intelligence Lab at the Department of Computer Science, University of Exeter.
 
 [05/2024] I am co-organizing a special issue entitled "Multi-source and Multi-domain Data Fusion and Enhancement: Methods, Evaluation, and Applications" in Frontiers in Neurorobotics. Please submit your manuscript if you are interested. More details can be found [[here]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications).
 
 [04/2024] I gave a talk at the [BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) on 24 April 2024.
 
-[04/2024] I joined the University of Exeter as a **Senior Lecturer**.
+[04/2024] I joined the University of Exeter as a **Senior Lecturer** (~Associate Professor).
 
 [03/2024] I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)".
 <div style="display: flex; justify-content: center;">
@@ -67,7 +67,7 @@ News
 
 [07/2023] It was a very nice experience to show EEE kids what we are doing at the Personal Robotics Lab at the Faculty of Engineering's "Bring Your Child to Work Day"! In particular, I showcased the Unusual Cameras (thermal camera, event camera) of our lab. [[Imperial News]](https://www.imperial.ac.uk/news/246594/cool-exciting-place-work-families-agree/).
 
-[07/2023] I was selected as a **Fellow of the Higher Education Academy (HEA)**! 
+[07/2023] I am now a **Fellow of the Higher Education Academy (HEA)**! 
 
 [06/2023] As an outreach activity of my MSCA fellowship, my demo "The Smart Wheelchair" at the Great Exhibition Road Festival 2023 was very successful! We attracted more than 2000 visitors during the weekend. We successfully introduced our smart wheelchair and our ongoing research to our visitors, including many children. [[Imperial News]](https://www.imperial.ac.uk/news/245713/eee-great-exhibition-road-festival-2023/).
 
