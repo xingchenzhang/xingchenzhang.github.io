@@ -37,11 +37,11 @@ My research areas include
 News
 ----
 
+[**<span style="color: red;">06/2024</span>**] Our workshop proposal entitled "DIFA: Deep Learning-based Image Fusion and Its Applications" has been accepted by the [British Machine Vision Conference (BMVC) 2024](https://bmvc2024.org/), which will be held in Glassgow, UK, on 25th - 28th November 2024. Papers can be submitted via [OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2024/Workshop/DIFA#tab-your-consoles). **<span style="color: red;">Submission deadline is 26 July 2024, 23:59 (UK time).</span>**. More details can be found from our [workshop website](https://difa2024.github.io/).
+
 [06/2024] I am co-organizing a special issue entitled "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum" in Remote Sensing. Please submit your manuscript if you are interested. [[More details]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)
 
 [06/2024] One paper has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian! This paper resulted from Zixian's MSc project at Imperial College London, where Prof. Demiris and I were his supervisors.
-
-[06/2024] Our workshop proposal entitled "DIFA: Deep Learning-based Image Fusion and Its Applications" has been accepted by the [British Machine Vision Conference (BMVC) 2024](https://bmvc2024.org/), which will be held in Glassgow, UK, on 25th - 28th November 2024. More details will come soon.
 
 [06/2024] Invited to give a talk on 6th June at "[Future of AI Awards 2024: Collaborate, Debate, Invent](https://www.eventbrite.co.uk/e/future-of-ai-awards-2024-collaborate-debate-invent-tickets-893583621667)". I introduced my research and shared my fellowship experience.
 

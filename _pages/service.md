@@ -19,7 +19,7 @@ author_profile: true
 
 **Organizers for Workshops**
 
-- BMVC2024 Workshop: DIFA: Deep Learning-based Image Fusion and Its Applications
+- BMVC2024 Workshop: DIFA: Deep Learning-based Image Fusion and Its Applications [[Workshop website]](https://difa2024.github.io/)
 
 
 **Editorial boards**
