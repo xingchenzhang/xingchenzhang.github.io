@@ -22,7 +22,7 @@ Joining my group
 -------
 If you're interested in joining my group as a PhD student or a visiting scholar, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details, please see the 'Join My Group' section.
 
-[05/2024] I am looking for candidates to apply for the [**Marie-Curie Postdoctoral Fellowship**]((https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024)). The application **deadline is 11 September 2024**. Please contact me **before 11 July** if you are interested in this fellowship. 
+[05/2024] I am looking for candidates to apply for the [**Marie-Curie Postdoctoral Fellowship**]((https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024)). The application **deadline is 11 September 2024**. Please contact me via email **<span style="color: red;">before 11 July</span>** if you are interested in applying for this fellowship with me. 
 
 Research interests
 --
@@ -37,7 +37,7 @@ My research areas include
 News
 ----
 
-[**<span style="color: red;">06/2024</span>**] Our workshop proposal entitled "DIFA: Deep Learning-based Image Fusion and Its Applications" has been accepted by the [British Machine Vision Conference (BMVC) 2024](https://bmvc2024.org/), which will be held in Glassgow, UK, on 25th - 28th November 2024. Papers can be submitted via [OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2024/Workshop/DIFA#tab-your-consoles). **<span style="color: red;">Submission deadline is 26 July 2024, 23:59 (UK time).</span>**. More details can be found from our [workshop website](https://difa2024.github.io/).
+[**<span style="color: red;">06/2024</span>**] Our workshop proposal entitled "DIFA: Deep Learning-based Image Fusion and Its Applications" has been accepted by the [British Machine Vision Conference (BMVC) 2024](https://bmvc2024.org/), which will be held in Glassgow, UK, on 25th - 28th November 2024. Papers can be submitted via [OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2024/Workshop/DIFA#tab-your-consoles). **<span style="color: red;">Submission deadline is 26 July 2024, 23:59 (UK time).</span>** More details can be found from our [workshop website](https://difa2024.github.io/).
 
 [06/2024] I am co-organizing a special issue entitled "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum" in Remote Sensing. Please submit your manuscript if you are interested. [[More details]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)
 
