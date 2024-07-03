@@ -69,6 +69,8 @@ author_profile: true
 
 - Neurocomputing
 
+- Transportation Research Part C
+
 - Computational Visual Media
 
 - Computational Visual Method 
