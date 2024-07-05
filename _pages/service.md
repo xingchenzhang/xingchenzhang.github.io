@@ -28,6 +28,8 @@ author_profile: true
 
 - Guest Editor, Remote Sensing [[Details]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)
 
+- Guest Editor, Electronics [[Details]](https://www.mdpi.com/journal/electronics/special_issues/48P302N872) 
+
 - Guest Associate Editor, Frontiers in Neurorobotics [[Details]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications)
 
 - Reviewer editor, Brain Imaging Methods, Frontiers in Neuroscience
