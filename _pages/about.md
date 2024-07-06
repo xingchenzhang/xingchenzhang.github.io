@@ -49,6 +49,8 @@ News
 
 [04/2024] I gave a talk at the [BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) on 24 April 2024.
 
+[04/2024] I established the **Fusion Intelligence Lab** at the Department of Computer Science, University of Exeter.
+
 [04/2024] I joined the University of Exeter as a **Senior Lecturer** (~Associate Professor).
 
 [03/2024] I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)".
