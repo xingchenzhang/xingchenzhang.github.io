@@ -18,11 +18,9 @@ In 2024, I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imper
 I am a member of the UKRI Talent Peer Review College, where I review the prestigious UKRI Future Leaders Fellowships, EPSRC New Investigator Award, EPSRC Open Fellowship, and EPSRC Standard Research Grant. I am also a reviewer for more than 20 well-known journals (e.g., IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TIM, IEEE RAL, Information Fusion) and more than 10 conferences (e.g., CVPR, ECCV, ICCV, AAAI, BMVC, ACCV, ICRA, IROS). 
 
 
-Joining my group
+Joining my Fusion Intelligence Lab
 -------
-If you're interested in joining my group as a PhD student or a visiting student (scholar), or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details, please see the 'Join My Group' section.
-
-[05/2024] I am looking for candidates to apply for the [**Marie-Curie Postdoctoral Fellowship**]((https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024)). The application **deadline is 11 September 2024**. Please contact me via email **<span style="color: red;">before 11 July</span>** if you are interested in applying for this fellowship with me. 
+If you're interested in joining my Fusion Intelligence Lab as a PhD student or a visiting student (scholar), or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details, please see the 'Join My Group' section.
 
 Research interests
 --
