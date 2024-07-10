@@ -20,7 +20,7 @@ I am a member of the UKRI Talent Peer Review College, where I review the prestig
 
 Joining my Fusion Intelligence Lab
 -------
-If you're interested in joining my Fusion Intelligence Lab as a PhD student or a visiting student (scholar), or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details, please see the 'Join My Group' section.
+If you're interested in joining my Fusion Intelligence Lab as a PhD student or a visiting student (scholar), or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details, please see the '[Join My Group](https://xingchenzhang.github.io/vacancies/)' section.
 
 Research interests
 --
