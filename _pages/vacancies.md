@@ -17,6 +17,15 @@ At the moment, I don't have funding for PhD students. However, **in late 2024 an
 
 Additionally, self-funded PhD opportunities are available. Please send an email to me to discuss research proposals.
 
+**Visiting PhD students**
+
+I am also looking for visiting PhD students. More details about how to apply, visa and tuition fees, can be found [here](https://as.exeter.ac.uk/academic-policy-standards/tqa-manual/pgr/visitingpgrstudents/). In general,
+
+- For visits of no more than (including) 3 calendar months), there is no tuition fee
+- For visits of between 3 and (including) 6 calendar months, the tuition fee is £500
+- For visits of between 6 and (including) 12 calendar months, the tuition fee is £1000
+- For visits of between 12 and (including) 24 calendar months, the tuition fee is £1000 per annum
+
 **Postdoc Opportunities**
 
 - [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024)
