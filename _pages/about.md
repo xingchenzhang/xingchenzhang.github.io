@@ -40,15 +40,13 @@ Welcome to submit your manuscript to the following workshops, journals, or speci
 - **BMVC2024 Workshop**: DIFA: Deep Learning-based Image Fusion and Its Applications. **Deadline: 26 July 2024, 23:59 (UK time)**. [[Submission website]](https://openreview.net/group?id=bmva.org/BMVC/2024/Workshop/DIFA#tab-your-consoles)
 
 - **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif)
+ 
+- **Frontiers in Neurorobotics** Special Issue: "Multi-source and Multi-domain Data Fusion and Enhancement: Methods, Evaluation, and Applications". **Deadline:  04 November 2024**. [[Details and Submission]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications)
 
 - **Remote Sensing** and **Electronics** Special Issue: "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum". **Deadline: 31 December 2024**. [[Remote Sensing Submission]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)  [[Electronics Submission]](https://www.mdpi.com/journal/electronics/special_issues/48P302N872) 
 
-- **Frontiers in Neurorobotics** Special Issue: "Multi-source and Multi-domain Data Fusion and Enhancement: Methods, Evaluation, and Applications". **Deadline:  04 November 2024**. [[Details and Submission]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications)
-
 News
 ----
-
-[07/2024] I organized the first Exeter Computer Vision Meeting.
 
 [**<span style="color: red;">06/2024</span>**] I am organizing a [BMVC2024](https://bmvc2024.org/) workshop entitled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London. The workshop will be held in Glasgow, UK, on either the 27th or 28th of November 2024. **We are calling for papers**. Papers can be submitted via [OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2024/Workshop/DIFA#tab-your-consoles). The **<span style="color: red;">paper submission deadline is 26 July 2024, 23:59 (UK time).</span>**. More details can be found on our [workshop website](https://difa2024.github.io/).
 
