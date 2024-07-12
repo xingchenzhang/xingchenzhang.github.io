@@ -17,11 +17,6 @@ In 2024, I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imper
 
 I am a member of the UKRI Talent Peer Review College, where I review the prestigious UKRI Future Leaders Fellowships, EPSRC New Investigator Award, EPSRC Open Fellowship, and EPSRC Standard Research Grant. I am also a reviewer for more than 20 well-known journals (e.g., IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TIM, IEEE RAL, Information Fusion) and more than 10 conferences (e.g., CVPR, ECCV, ICCV, AAAI, BMVC, ACCV, ICRA, IROS). 
 
-
-Joining my Fusion Intelligence Lab
--------
-If you're interested in joining my Fusion Intelligence Lab as a PhD student or a visiting student (scholar), or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details, please see the '[Join My Group](https://xingchenzhang.github.io/vacancies/)' section.
-
 Research interests
 --
 My research areas include
@@ -32,20 +27,34 @@ My research areas include
 - Multimodal perception and applications (e.g., RGB-T tracking, robot perception)  
 - Ethical AI (pedestrian privacy protection)   
 
+
+Joining my Fusion Intelligence Lab
+-------
+If you're interested in joining my Fusion Intelligence Lab as a PhD student or a visiting student (scholar), or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details, please see the '[Join My Group](https://xingchenzhang.github.io/vacancies/)' section.
+
+
+**<span style="color: red;">Call for papers</span>**
+-------
+Welcome to submit your manuscript to the following workshops, journals, or special issues that I am organizing or for which I am an editorial board member. Please feel free to contact me before submission if you have any questions.
+
+- **BMVC2024 Workshop**: DIFA: Deep Learning-based Image Fusion and Its Applications. **Deadline: 26 July 2024, 23:59 (UK time)**. [[Submission website]](https://openreview.net/group?id=bmva.org/BMVC/2024/Workshop/DIFA#tab-your-consoles)
+
+- **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif)
+
+- **Remote Sensing** and **Electronics** Special Issue: "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum". **Deadline: 31 December 2024**. [[Remote Sensing Submission]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)  [[Electronics Submission]](https://www.mdpi.com/journal/electronics/special_issues/48P302N872) 
+
+- **Frontiers in Neurorobotics** Special Issue: "Multi-source and Multi-domain Data Fusion and Enhancement: Methods, Evaluation, and Applications". **Deadline:  04 November 2024**. [[Details and Submission]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications)
+
 News
 ----
 
-[**<span style="color: red;">06/2024</span>**] I am organizing a [BMVC2024](https://bmvc2024.org/) workshop entitled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London. The workshop will be held in Glasgow, UK, on either the 27th or 28th of November 2024. We are calling for papers. Papers can be submitted via [OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2024/Workshop/DIFA#tab-your-consoles). The **<span style="color: red;">paper submission deadline is 26 July 2024, 23:59 (UK time).</span>**. More details can be found on our [workshop website](https://difa2024.github.io/).
+[07/2024] I organized the first Exeter Computer Vision Meeting.
 
-[07/2024] I am co-organizing a special issue entitled "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum" in Electronics. Please submit your manuscript if you are interested. [[More details]](https://www.mdpi.com/journal/electronics/special_issues/48P302N872). 
+[**<span style="color: red;">06/2024</span>**] I am organizing a [BMVC2024](https://bmvc2024.org/) workshop entitled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London. The workshop will be held in Glasgow, UK, on either the 27th or 28th of November 2024. **We are calling for papers**. Papers can be submitted via [OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2024/Workshop/DIFA#tab-your-consoles). The **<span style="color: red;">paper submission deadline is 26 July 2024, 23:59 (UK time).</span>**. More details can be found on our [workshop website](https://difa2024.github.io/).
 
 [06/2024] One paper has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian! This paper resulted from Zixian's MSc project at Imperial College London, where Prof. Demiris and I were his supervisors.
 
 [06/2024] Invited to give a talk on 6th June at "[Future of AI Awards 2024: Collaborate, Debate, Invent](https://www.eventbrite.co.uk/e/future-of-ai-awards-2024-collaborate-debate-invent-tickets-893583621667)". I introduced my research and shared my fellowship experience.
-
-[06/2024] I am co-organizing a special issue entitled "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum" in Remote Sensing. Please submit your manuscript if you are interested. [[More details]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E). 
-
-[05/2024] I am co-organizing a special issue entitled "Multi-source and Multi-domain Data Fusion and Enhancement: Methods, Evaluation, and Applications" in Frontiers in Neurorobotics. Please submit your manuscript if you are interested. [[More details]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications)
 
 [04/2024] I gave a talk at the [BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) on 24 April 2024.
 
