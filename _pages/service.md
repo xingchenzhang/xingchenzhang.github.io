@@ -75,7 +75,9 @@ author_profile: true
 
 - Computational Visual Media
 
-- Computational Visual Method 
+- Computational Visual Method
+ 
+- Structures
 
 - Computer-Aided Design
 
