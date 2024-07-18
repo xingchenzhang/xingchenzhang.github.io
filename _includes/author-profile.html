@@ -38,12 +38,12 @@
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
       {% if author.exeter_website %}
-  <li>
-    <a href="{{ author.university_website }}" target="_blank">
-      <i class="fas fa-fw fa-university" aria-hidden="true"></i> Exeter Profile
-    </a>
-  </li>
-{% endif %}
+      <li>
+      <a href="{{ author.exeter_website }}" target="_blank">
+         <i class="fas fa-fw fa-university" aria-hidden="true"></i> Exeter Profile
+      </a>
+      </li>
+      {% endif %}
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
