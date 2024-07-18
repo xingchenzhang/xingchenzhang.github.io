@@ -84,6 +84,7 @@ author:
   avatar           : "Xingchen Zhang.jpg"
   bio              : "Senior Lecturer in Computer Vision and Artificial Intelligence, Director of the Fusion Intelligence Lab"
   location         : "University of Exeter"
+  exeter_website: "https://computerscience.exeter.ac.uk/people/profile/index.php?web_id=xz569" 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=w-7b36cAAAAJ&hl=en"
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : “https://www.linkedin.com/in/xingchen-zhang-56006794/?trk=hp-identity-name”
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
