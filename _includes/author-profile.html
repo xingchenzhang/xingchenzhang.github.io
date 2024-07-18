@@ -44,6 +44,13 @@
       </a>
       </li>
       {% endif %}
+      {% if author.imperial_website %}
+      <li>
+      <a href="{{ author.imperial_website }}" target="_blank">
+         <i class="fas fa-fw fa-university" aria-hidden="true"></i> Imperial Profile
+      </a>
+      </li>
+      {% endif %}
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
