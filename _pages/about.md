@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Bio"
 excerpt: "About me"
@@ -50,7 +51,7 @@ News
 
 [**<span style="color: red;">06/2024</span>**] I am organizing a [BMVC2024](https://bmvc2024.org/) workshop entitled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London. The workshop will be held in Glasgow, UK, on either the 27th or 28th of November 2024. **We are calling for papers**. Papers can be submitted via [OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2024/Workshop/DIFA#tab-your-consoles). The **<span style="color: red;">paper submission deadline is 26 July 2024, 23:59 (UK time).</span>**. More details can be found on our [workshop website](https://difa2024.github.io/).
 
-[07/2024] I organised the first Exeter Computer Vision Meeting.
+[07/2024] One paper has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab at Imperial College London and TUM.
 
 [06/2024] One paper has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian! This paper resulted from Zixian's MSc project at Imperial College London, where Prof. Demiris and I were his supervisors.
 
