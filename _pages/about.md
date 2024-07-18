@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /
 title: "Bio"
 excerpt: "About me"
@@ -109,6 +108,16 @@ News
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/image-fusion.jpg" alt="image1" width="150">
+</div>
+
+Funders
+--
+My research has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant and the InnovateUK DRISK project (D-RISK: Validating the autonomous vehicle safety-case using simulation and adaptive test generation).
+
+<div style="display:inline-block">
+  <img src="/images/marie-curie.jpg" alt="image1" width="250">
+  <img src="/images/eu.jpg" alt="image2" width="250">
+  <img src="/images/innovateuk.jpg" alt="image3" width="250">
 </div>
 
 
