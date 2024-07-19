@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-For a full list of our publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=w-7b36cAAAAJ&hl=en).
+For a full list of my publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=w-7b36cAAAAJ&hl=en).
 
 Selected Publications
 ---------------------
@@ -21,6 +21,8 @@ Selected Publications
  
 - **X. Zhang**, Deep Learning-based Multi-focus Image Fusion: A Survey and A Comparative Study, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, No. 9, pp. 4819 – 4838, 2022. [[Link]](https://github.com/xingchenzhang/MFIFB)
 
-- **X. Zhang**. Benchmarking and Comparing Multi-exposure Image Fusion Algorithms. Information Fusion, vol. 74, pp. 111-131, 2021. (The first multi-exposure image fusion benchmark) [[Link]](https://github.com/xingchenzhang/MEFB)
+- **X. Zhang**. Benchmarking and Comparing Multi-exposure Image Fusion Algorithms. Information Fusion, vol. 74, pp. 111-131, 2021. (The first multi-exposure image fusion benchmark) [[Benchmark link]](https://github.com/xingchenzhang/MEFB)
 
-- **X. Zhang**, P. Ye, G. Xiao. VIFB: A Visible and Infrared Image Fusion Benchmark, In the Proceedings of IEEE/CVF Conference on Computer Vision Workshops, 2020. (The first image fusion benchmark, which has been utilized by researchers from more than 10 countries.) [[Link]](https://github.com/xingchenzhang/VIFB)
+- **X. Zhang**, P. Ye, G. Xiao. VIFB: A Visible and Infrared Image Fusion Benchmark, In the Proceedings of IEEE/CVF Conference on Computer Vision Workshops, 2020. (The first image fusion benchmark, which has been utilized by researchers from more than 10 countries.) [[Benchmark link]](https://github.com/xingchenzhang/VIFB)
+
+*indicates corresponding author
