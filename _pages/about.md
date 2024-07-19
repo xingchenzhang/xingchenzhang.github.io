@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a Senior Lecturer in Computer Vision and Artificial Intelligence at the Department of Computer Science, University of Exeter, where I lead the Fusion Intelligence Lab. I am also a Visiting Researcher at the Personal Robotics Laboratory, Imperial College London (since April 2024). Before this, I was a Marie Skłodowska-Curie Individual Fellow at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/), working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). Prior to this, I was a Teaching Fellow and Research Associate in the same department at Imperial College London. Additionally, I have worked as the main supervisor of one MSc student, [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) and Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/), at Imperial College London.
+I am a Senior Lecturer in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), University of Exeter, where I lead the Fusion Intelligence Lab. I am also a Visiting Researcher at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/). Previously, I was a Marie Skłodowska-Curie Individual Fellow at the same laboratory, working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). Before that, I was a Teaching Fellow and Research Associate in the same department at Imperial College London. 
+Additionally, I have held other roles at Imperial College London, including main supervisor of one MSc student, [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) and Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/).
 
 I am a Fellow of the Higher Education Academy (HEA).
 
@@ -48,7 +48,7 @@ Welcome to submit your manuscript to the following workshops, journals, or speci
 News
 ----
 
-[07/2024] One paper has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab at Imperial College London and Technical University of Munich.
+[07/2024] One paper has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab at Imperial College London. We proposed an end-to-end approach for short-term traffic flow prediction using surveillance cameras.
 
 [06/2024] One paper has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian! This paper resulted from Zixian's MSc project at Imperial College London, where Prof. Demiris and I were his supervisors.
 
