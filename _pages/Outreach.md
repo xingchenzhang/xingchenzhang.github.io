@@ -13,6 +13,7 @@ author_profile: true
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/outreach-EEE-kid-2023.JPG" alt="image1" width="400">
+  <img src="/images/outreach-EEE-kid-2023-2.JPG" alt="image1" width="400">
 </div>
 
 - June 2023, **The Smart Wheelchair**, The Great Exhibition Road Festival. 
