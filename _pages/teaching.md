@@ -6,14 +6,14 @@ author_profile: true
 ---
 {% include base_path %}
 
-I enjoy doing research and seeing students improve through my teaching and supervision. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life**.  
+I enjoy doing research and seeing students improve through my teaching. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life**.  
 
 **At Imperial College London**
 
 - **Lecturer**, ELEC60009/96033/96039, Deep Learning (Spring 2021-2022), Department of EEE. I taught representation learning, generative models, reinforcement learning, hyperparameters and meta-learning to **more than 100 MEng and MSc students**. 
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/teaching-DL-1.jpg" alt="image1" width="400">
+  <img src="/images/teaching-DL-1.jpg" alt="image1" width="400" style="margin-right: 10px;">
   <img src="/images/teaching-DL-2.png" alt="image2" width="400">
 </div>
 
