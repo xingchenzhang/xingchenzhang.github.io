@@ -7,7 +7,7 @@ author_profile: true
 
 **Incoming talks**
 
-- Faculty position application and fellowship experience, August 2024, Outstanding Young Scholars Society UK  
+- Faculty position application and fellowship experience, Outstanding Young Scholars Society UK, August 2024
 
 
 **Past talks**
