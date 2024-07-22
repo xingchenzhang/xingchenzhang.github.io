@@ -7,10 +7,12 @@ author_profile: true
 
 **Incoming talks**
 
+- Faculty position application and fellowship experience, August 2024, Outstanding Young Scholars Society UK  
+
 
 **Past talks**
 
-- Fusion Intelligence and Fellowship Experience, Future of AI Awards 2024: Collaborate, Debate, Invent, University of Exeter, June 2024.
+- Fusion Intelligence and Fellowship Experience, Future of AI Awards 2024: Collaborate, Debate, Invent, University of Exeter, June 2024
 
 - Self-supervised RGBT tracking with Cross-input consistency, BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications, British Computer Society, London, April 2024
 
