@@ -47,7 +47,7 @@ Welcome to submit your manuscript to the following workshops, journals, or speci
 News
 ----
 
-[07/2024] One paper has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab at Imperial College London. We proposed an end-to-end approach for short-term traffic flow prediction using surveillance cameras.
+[07/2024] [One paper](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab at Imperial College London. We proposed an end-to-end approach for short-term traffic flow prediction using surveillance cameras.
 
 [06/2024] One paper has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian! This paper resulted from Zixian's MSc project at Imperial College London, where Prof. Demiris and I were his supervisors.
 
