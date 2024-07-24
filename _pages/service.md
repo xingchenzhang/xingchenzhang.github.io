@@ -79,6 +79,8 @@ author_profile: true
  
 - Structures
 
+- Displays
+
 - Computer-Aided Design
 
 - ASME Journal of Turbomachinery
