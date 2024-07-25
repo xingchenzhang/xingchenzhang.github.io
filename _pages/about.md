@@ -53,9 +53,9 @@ News
 
 [06/2024] One paper has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian! This paper resulted from Zixian's MSc project at Imperial College London, where Prof. Demiris and I were his supervisors.
 
-[06/2024] Invited to give a talk on 6th June at "[Future of AI Awards 2024: Collaborate, Debate, Invent](https://www.eventbrite.co.uk/e/future-of-ai-awards-2024-collaborate-debate-invent-tickets-893583621667)". I introduced my research and shared my fellowship experience.
+[06/2024] Invited to give a talk on 6th June at "Future of AI Awards 2024: Collaborate, Debate, Invent". I introduced my research and shared my fellowship experience.
 
-[04/2024] I gave a talk at the [BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) on 24 April 2024.
+[04/2024] I gave a talk at the BMVA One Day Meeting - Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications on 24 April 2024.
 
 [04/2024] I established the **Fusion Intelligence Lab** at the Department of Computer Science, University of Exeter.
 
@@ -77,7 +77,7 @@ News
 
 [07/2023] It was a very nice experience to show EEE kids what we are doing at the Personal Robotics Lab at the Faculty of Engineering's "Bring Your Child to Work Day"! In particular, I showcased the Unusual Cameras (thermal camera, event camera) of our lab. [[Imperial News]](https://www.imperial.ac.uk/news/246594/cool-exciting-place-work-families-agree/).
 
-[07/2023] I am now a **Fellow of the Higher Education Academy (HEA)**! 
+[07/2023] I am now a **Fellow of the Higher Education Academy (HEA)**! [[EEE Staff Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/qyw8xg2ljae?lang=en&a=6&p=11740175&t=4233382) [[EEE Staff Newsletter 2]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/rmlhmbxw3e5?lang=en&a=2&p=11740143&t=5376334)
 
 [06/2023] As an outreach activity of my MSCA fellowship, my demo "The Smart Wheelchair" at the Great Exhibition Road Festival 2023 was very successful! We attracted more than 2000 visitors during the weekend. We successfully introduced our smart wheelchair and our ongoing research to our visitors, including many children. [[Imperial News]](https://www.imperial.ac.uk/news/245713/eee-great-exhibition-road-festival-2023/).
 
