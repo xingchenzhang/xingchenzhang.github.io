@@ -24,7 +24,7 @@ author_profile: true
 
 **Editorial boards**
 
-- Editorial Board Member, Chinese Journal of Information Fusion
+- Academic Editor, Chinese Journal of Information Fusion
 
 - Guest Editor, Remote Sensing [[Details]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)
 
