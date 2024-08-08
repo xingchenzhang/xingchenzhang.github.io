@@ -61,3 +61,5 @@ Many videos are captured to train AI models. We aim to protect pedestrian privac
 
 Related publications:  
 1. Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportations, 2024.
+
+<h2>4. Multimodal robot perception</h2>
