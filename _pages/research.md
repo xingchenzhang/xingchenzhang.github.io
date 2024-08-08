@@ -6,10 +6,10 @@ author_profile: true
 ---
 {% include base_path %}
 
-TBD.
+**1. Pedestrian privacy protection**
 
 <!-- <img align="center" width="600" src="/images/word cloud.png" />  -->
 
 <p align="center"> 
-  <img width="600" src="/images/word cloud.png" />
+  <img width="600" src="/images/research/3PFS.png" />
 </p>
