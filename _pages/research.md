@@ -30,12 +30,12 @@ Related publications:
 <h2>2. Pedestrian-centric visual computing</h2>
 <h3>Pedestrian trajectory prediction based on graph neural network</h3>
 <p align="center"> 
-  <img width="400" src="/images/research/Demo Social TAG.gif" />
+  <img width="500" src="/images/research/Demo Social TAG.gif" />
 </p>
 
 <h3>Pedestrian crossing intention prediction based on graph neural network</h3>
 <p align="center"> 
-  <img width="600" src="/images/research/crossingpose.png" />
+  <img width="700" src="/images/research/crossingpose.png" />
 </p>
 
 Related publications:  
@@ -43,7 +43,7 @@ Related publications:
 2. **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportations, vol. 23, no. 11, pp. 20773-20782, 2022.
  
 
-<h2>3. Pedestrian privacy protection</h2>
+<h2>3. Responsible and ethical AI: Pedestrian privacy protection</h2>
 Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles. 
 
 <!-- <img align="center" width="600" src="/images/word cloud.png" />  -->
@@ -56,7 +56,7 @@ Many videos are captured to train AI models. We aim to protect pedestrian privac
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="/images/research/3PFS.png" alt="First Image" style="height: 300px; width: auto; margin-right: 20px;">
-  <img src="/images/research/3PFS2.png" alt="Second Image" style="height: 300px; width: auto;">
+  <img src="/images/research/3PFS.gif" alt="Second Image" style="height: 300px; width: auto;">
 </div>
 
 Related publications:  
