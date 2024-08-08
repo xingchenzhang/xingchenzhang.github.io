@@ -14,8 +14,7 @@ My research areas include
 - Multimodal perception and applications (e.g., RGB-T tracking, robot perception)  
 - Ethical AI (pedestrian privacy protection)   
 
-1. Pedestrian privacy protection
---
+<h2>1. Pedestrian privacy protection</h2>
 
 In this project, we aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles. 
 
@@ -28,8 +27,8 @@ In this project, we aim to protect pedestrian privacy in videos captured by came
 -->
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="/images/research/3PFS.png" alt="First Image" style="height: 150px; width: auto; margin-right: 10px;">
-  <img src="/images/research/3PFS2.png" alt="Second Image" style="height: 150px; width: auto;">
+  <img src="/images/research/3PFS.png" alt="First Image" style="height: 300px; width: auto; margin-right: 10px;">
+  <img src="/images/research/3PFS2.png" alt="Second Image" style="height: 300px; width: auto;">
 </div>
 
 Related publications:
