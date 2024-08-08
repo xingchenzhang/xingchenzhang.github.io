@@ -14,13 +14,26 @@ My research areas include
 - Multimodal perception and applications (e.g., RGB-T tracking, robot perception)  
 - Ethical AI (pedestrian privacy protection)   
 
-<h2>1. Pedestrian-centric visual computing</h2>
-<h3>Pedestrian trajectory prediction</h3>
+Some of my projects are as follows:
+
+<h2>1. Deep Learning-based image fusion: methods, applications and benchmarks</h2>
+<p align="center"> 
+  <img width="500" src="/images/research/vif.png" />
+</p>
+
+Related publications:
+1.**X. Zhang**, Y. Demiris. Visible and Infrared Image Fusion using Deep Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 10535-10554, 2023.
+2.**X. Zhang**. Deep Learning-based Multi-focus Image Fusion: A Survey and A Comparative Study, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, No. 9, pp. 4819 – 4838, 2022. [[Link]](https://github.com/xingchenzhang/MFIFB)
+3.**X. Zhang**. Benchmarking and Comparing Multi-exposure Image Fusion Algorithms. Information Fusion, vol. 74, pp. 111-131, 2021. (The first multi-exposure image fusion benchmark) [[Benchmark link]](https://github.com/xingchenzhang/MEFB)
+4.**X. Zhang**, P. Ye, G. Xiao. VIFB: A Visible and Infrared Image Fusion Benchmark, In the Proceedings of IEEE/CVF Conference on Computer Vision Workshops, 2020. (The first image fusion benchmark, which has been utilized by researchers from more than 10 countries.) [[Benchmark link]](https://github.com/xingchenzhang/VIFB)
+
+<h2>2. Pedestrian-centric visual computing</h2>
+<h3>Pedestrian trajectory prediction based on graph neural network</h3>
 <p align="center"> 
   <img width="400" src="/images/research/Demo Social TAG.gif" />
 </p>
 
-<h3>Pedestrian crossing intention prediction</h3>
+<h3>Pedestrian crossing intention prediction based on graph neural network</h3>
 <p align="center"> 
   <img width="600" src="/images/research/crossingpose.png" />
 </p>
@@ -30,7 +43,7 @@ Related publications:
 2. **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportations, vol. 23, no. 11, pp. 20773-20782, 2022.
  
 
-<h2>2. Pedestrian privacy protection</h2>
+<h2>3. Pedestrian privacy protection</h2>
 Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles. 
 
 <!-- <img align="center" width="600" src="/images/word cloud.png" />  -->
