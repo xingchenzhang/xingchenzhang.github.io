@@ -15,15 +15,16 @@ My research areas include
 - Ethical AI (pedestrian privacy protection)   
 
 <h2>1. Pedestrian intention and trajectory prediction</h2>
-We aim to prediction pedestrain corssing intention and trajectories.
+We aim to prediction pedestrain trajectories and corssing intention.
 
-<video width="320" height="240" controls>
-  <source src="videos/Demo Social TAG.MP4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center"> 
+  <img width="400" src="/images/research/Demo Social TAG.gif" />
+</p>
 
 
-<h2>1. Pedestrian privacy protection</h2>
+
+
+<h2>2. Pedestrian privacy protection</h2>
 
 We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles. 
 
