@@ -21,7 +21,14 @@ We aim to prediction pedestrain trajectories and corssing intention.
   <img width="400" src="/images/research/Demo Social TAG.gif" />
 </p>
 
+<p align="center"> 
+  <img width="400" src="/images/research/crossingpose.png" />
+</p>
 
+Related publications:
+1. **X. Zhang***, P. Angeloudis, Y. Demiris. Dual-branch Spatio-Temporal Graph Neural Networks for Pedestrian Trajectory Prediction, Pattern Recognition, vol. 142, 2023.
+2. **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportations, vol. 23, no. 11, pp. 20773-20782, 2022.
+ 
 
 
 <h2>2. Pedestrian privacy protection</h2>
