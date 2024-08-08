@@ -16,7 +16,7 @@ My research areas include
 
 Some of my projects are as follows:
 
-<h2>1. Deep Learning-based image fusion: methods, applications and benchmarks</h2>
+<h2>1. Deep Learning-based image fusion: methods, benchmarks, and multi-modal applications</h2>
 <p align="center"> 
   <img width="500" src="/images/research/vif.png" />
 </p>
