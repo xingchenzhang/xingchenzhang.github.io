@@ -14,15 +14,15 @@ My research areas include
 - Multimodal perception and applications (e.g., RGB-T tracking, robot perception)  
 - Ethical AI (pedestrian privacy protection)   
 
-<h2>1. Pedestrian intention and trajectory prediction</h2>
-We aim to prediction pedestrain trajectories and corssing intention.
-
+<h2>1. Pedestrian-centric visual computing</h2>
+<h3>Pedestrian trajectory prediction</h3>
 <p align="center"> 
   <img width="400" src="/images/research/Demo Social TAG.gif" />
 </p>
 
+<h3>Pedestrian crossing intention prediction</h3>
 <p align="center"> 
-  <img width="400" src="/images/research/crossingpose.png" />
+  <img width="600" src="/images/research/crossingpose.png" />
 </p>
 
 Related publications:
@@ -30,10 +30,8 @@ Related publications:
 2. **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportations, vol. 23, no. 11, pp. 20773-20782, 2022.
  
 
-
 <h2>2. Pedestrian privacy protection</h2>
-
-We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles. 
+Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles. 
 
 <!-- <img align="center" width="600" src="/images/word cloud.png" />  -->
 
