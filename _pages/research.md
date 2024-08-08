@@ -38,7 +38,7 @@ Related publications:
   <img width="600" src="/images/research/crossingpose.png" />
 </p>
 
-Related publications:
+Related publications:  
 1. **X. Zhang***, P. Angeloudis, Y. Demiris. Dual-branch Spatio-Temporal Graph Neural Networks for Pedestrian Trajectory Prediction, Pattern Recognition, vol. 142, 2023.
 2. **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportations, vol. 23, no. 11, pp. 20773-20782, 2022.
  
@@ -59,5 +59,5 @@ Many videos are captured to train AI models. We aim to protect pedestrian privac
   <img src="/images/research/3PFS2.png" alt="Second Image" style="height: 300px; width: auto;">
 </div>
 
-Related publications:
+Related publications:  
 1. Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportations, 2024.
