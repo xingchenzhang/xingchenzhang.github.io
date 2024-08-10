@@ -17,9 +17,11 @@ My research areas include
 Some of my projects are as follows:
 
 <h2>1. Deep Learning-based image fusion: methods, benchmarks, and multi-modal applications</h2>
-<p align="center"> 
-  <img width="500" src="/images/research/vif.png" />
-</p>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="/images/research/vif.png" alt="First Image" style="height: 300px; width: auto; margin-right: 20px;">
+  <img src="/images/research/mef.png" alt="Second Image" style="height: 300px; width: auto;">
+</div>
 
 Related publications:  
 1. **X. Zhang**, Y. Demiris. Visible and Infrared Image Fusion using Deep Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 10535-10554, 2023.  
@@ -28,12 +30,12 @@ Related publications:
 4. **X. Zhang**, P. Ye, G. Xiao. VIFB: A Visible and Infrared Image Fusion Benchmark, In the Proceedings of IEEE/CVF Conference on Computer Vision Workshops, 2020. (The first image fusion benchmark, which has been utilized by researchers from more than 10 countries.) [[Benchmark link]](https://github.com/xingchenzhang/VIFB)
 
 <h2>2. Pedestrian-centric visual computing</h2>
-<h3>Pedestrian trajectory prediction based on graph neural network</h3>
+<h3>(1) Pedestrian trajectory prediction based on graph neural network</h3>
 <p align="center"> 
   <img width="500" src="/images/research/Demo Social TAG.gif" />
 </p>
 
-<h3>Pedestrian crossing intention prediction based on graph neural network</h3>
+<h3>(2) Pedestrian crossing intention prediction based on graph neural network</h3>
 <p align="center"> 
   <img width="700" src="/images/research/crossingpose.png" />
 </p>
