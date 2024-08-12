@@ -7,10 +7,10 @@ author_profile: true
 
 **Incoming talks**
 
-- Faculty position application and fellowship experience, Outstanding Young Scholars Society UK, August 2024
-
 
 **Past talks**
+
+- Faculty position application and fellowship application experience, Outstanding Young Scholars Society UK, August 2024
 
 - Fusion Intelligence and Fellowship Experience, Future of AI Awards 2024: Collaborate, Debate, Invent, University of Exeter, June 2024
 
