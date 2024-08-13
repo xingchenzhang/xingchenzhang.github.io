@@ -19,12 +19,12 @@ author_profile: true
 
 **Organizers for Workshops**
 
-- BMVC2024 Workshop: DIFA: Deep Learning-based Image Fusion and Its Applications [[Workshop website]](https://difa2024.github.io/)
+- BMVC2024 Workshop: "DIFA: Deep Learning-based Image Fusion and Its Applications" [[Workshop website]](https://difa2024.github.io/)
 
 
 **Editorial boards**
 
-- Academic Editor, Chinese Journal of Information Fusion
+- Associate Editor, Chinese Journal of Information Fusion
 
 - Guest Editor, Remote Sensing [[Details]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)
 
