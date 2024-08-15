@@ -34,9 +34,7 @@ If you're interested in joining my Fusion Intelligence Lab as a PhD student or a
 
 **<span style="color: red;">Call for papers</span>**
 -------
-Welcome to submit your manuscript to the following workshops, journals, or special issues that I am organizing or for which I am an editorial board member. Please feel free to contact me before submission if you have any questions.
-
-- **<span style="color: red;">BMVC2024 Workshop</span>**: I am organizing a [BMVC2024](https://bmvc2024.org/) workshop entitled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London. The workshop will be held in Glasgow, UK, on either the 27th or 28th of November 2024. **We are calling for papers**. Papers can be submitted via [OpenReview](https://openreview.net/group?id=bmva.org/BMVC/2024/Workshop/DIFA#tab-your-consoles). The **<span style="color: red;">paper submission deadline is 14th August 2024, 23:59 (UK time)</span>**. More details can be found on our [workshop website](https://difa2024.github.io/).
+Welcome to submit your manuscript to the following journals and special issues for which I am an editorial board member. Please feel free to contact me before submission if you have any questions.
 
 - **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif)
  
@@ -46,6 +44,8 @@ Welcome to submit your manuscript to the following workshops, journals, or speci
 
 News
 ----
+
+[08/2024] I am organizing a [BMVC2024](https://bmvc2024.org/) workshop entitled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London. The workshop will be held in Glasgow, UK, on 27th November 2024. More details can be found on our [workshop website](https://difa2024.github.io/).
 
 [08/2024] Invited by the Outstanding Young Scholars Society UK to give a talk about facilty position and fellowship application.
 
