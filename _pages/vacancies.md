@@ -10,12 +10,12 @@ If you are interested in joining my group as a PhD student or a visiting student
 
 PhD Opportunities
 -------------
-At the moment, I don't have funding for PhD students. However, **in late 2024 and early 2025, the following opportunities will be available for 2025 Fall entry**. 
+**The following opportunities are available for 2025 September entry**. 
 
 - [China Scholarship Council (CSC) and University of Exeter PhD scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/) (The University of Exeter has 50 scholarships for Chinese students per year). The deadline is usually in **<span style="color: red;">early January</span>**.
 - [EPSRC Funded PhD Studentships](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dtp-studentships/). The deadline is usually in **<span style="color: red;">mid February</span>**.
 
-Additionally, self-funded PhD opportunities are available. Please send an email to me to discuss research proposals.
+Additionally, **self-funded PhD students are always welcome** and can apply at any time. Please send an email to me to discuss more details, e.g., research proposals.
 
 Visiting PhD students
 -------------
