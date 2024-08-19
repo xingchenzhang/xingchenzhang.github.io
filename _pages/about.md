@@ -26,13 +26,12 @@ My research areas include
 - Multimodal perception and applications (e.g., RGB-T tracking, robot perception)  
 - Ethical AI (pedestrian privacy protection)   
 
-
-Joining my Fusion Intelligence Lab
+**<span style="color: red;">Joining my Fusion Intelligence Lab</span>**
 -------
 I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Lab as a PhD student or a visiting student, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Join My Group](https://xingchenzhang.github.io/vacancies/)' section.
 
 
-**<span style="color: red;">Call for papers</span>**
+**Call for papers**
 -------
 Welcome to submit your manuscript to the following journals and special issues for which I am an editorial board member. Please feel free to contact me before submission if you have any questions.
 
