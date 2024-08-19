@@ -26,22 +26,3 @@ permalink: /previous_news/
 <div style="display: flex; justify-content: center;">
   <img src="/images/image-fusion.jpg" alt="image1" width="150">
 </div>
-
-Funders
---
-My research has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant and the InnovateUK.
-
-<div style="display:inline-block">
-  <img src="/images/marie-curie.jpg" alt="image1" width="250">
-  <img src="/images/eu.jpg" alt="image2" width="250">
-  <img src="/images/innovateuk.jpg" alt="image3" width="250">
-</div>
-
-
-Contact
--------
-
-- Email: x (dot) zhang12 (at) exeter (dot) ac (dot) uk
-- Address: Department of Computer Science, University of Exeter, Exeter EX4 4RN
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-CywtQgKHbGRRCnc-YpbDfl5bc7oR80ZEIzATZjRRJA&cl=ffffff&w=a"></script>

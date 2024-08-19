@@ -47,9 +47,11 @@ News
 
 [08/2024] I am organizing a [BMVC2024](https://bmvc2024.org/) workshop entitled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London. The workshop will be held in Glasgow, UK, on 27th November 2024. More details can be found on our [workshop website](https://difa2024.github.io/).
 
-[08/2024] Invited by the Outstanding Young Scholars Society UK to give a talk about facilty position and fellowship application.
+[08/2024] Invited by the Outstanding Young Scholars Society UK to give a talk about faculty positions and fellowship applications.
 
-[07/2024]  Starting from 1st September 2024, I will serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
+[08/2024] Started serving as an Associate Editor for the Chinese Journal of Information Fusion.
+
+[07/2024] Starting from 1st September 2024, I will serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
 
 [07/2024] [One paper](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab at Imperial College London. We proposed an end-to-end approach for short-term traffic flow prediction using surveillance cameras.
 
@@ -89,27 +91,7 @@ News
 
 [03/2023] One paper has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
 
-[12/2022] I was invited to give a talk "The beauty of fusion: Deep learning-based image fusion and its applications" at China Agricultural University (online).
-
-[04/2022] One paper has been accepted by **IEEE Transactions on Intelligent Transportation Systems**.
-
-[03/2022] I have taught five lectures for the Deep Learning (Spring 2021-2022, ELEC60009/96033/96039) course at the Department of EEE, Imperial College London, to more than 100 students. The topics are representation learning, generative models, reinforcement learning, hyperparameters, and meta-learning. It was a really nice experience to teach this course together with Prof. Krystian Mikolajczyk. 
-
-[01/2022] I will be a lecturer of ELEC60009/96033/96039 - Deep Learning (Spring 2021-2022) at the Department of EEE, Imperial College London.
-
-[01/2022] One paper has been accepted by **IEEE Transactions on Intelligent Transportation Systems**.
-
-[05/2021] One paper has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
-
-[02/2021] My application for Marie Skłodowska-Curie Individual Fellowships has been successful. This is one of the most prestigious fellowships in the world. [[EEE Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/12ut2w7sbtx).
-
-[02/2021] One paper has been accepted by **Information Fusion**.
-
-[08/2020] The book [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3) that I co-authored has been published by Shanghai Jiao Tong University Press & Springer Nature Singapore. This book has won the National Science and Technology Academic Publications Fund of China (2019).
-
-<div style="display: flex; justify-content: center;">
-  <img src="/images/image-fusion.jpg" alt="image1" width="150">
-</div>
+More news about me can be found [**here**](https://xingchenzhang.github.io/previous_news/).
 
 Funders
 --
