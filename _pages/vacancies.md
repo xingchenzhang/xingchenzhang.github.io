@@ -17,6 +17,12 @@ PhD Opportunities
 
 Additionally, **self-funded PhD students are always welcome** and can apply at any time. Please send an email to me to discuss more details, e.g., research proposals.
 
+**<span style="color: red;">Academic entry requirements</span>**
+
+You should have obtained, or be about to obtain, a First or Upper Second Class UK Honours degree, or the equivalent qualifications gained outside the UK, in an appropriate area of science, engineering or technology.  Applicants with a Lower Second Class degree will be considered if they also have Masters degree or have significant relevant non-academic experience.
+
+If English is not your first language you will need to meet the English language requirements and provide proof of proficiency prior to starting your programme of study. Click [here](https://www.exeter.ac.uk/study/englishlanguagerequirements/) for more information and a list of acceptable alternative tests。
+
 Visiting PhD students
 -------------
 
