@@ -8,6 +8,10 @@ author_profile: true
 
 I enjoy doing research and seeing students improve through my teaching. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life**.  
 
+**At University of Exeter**
+
+- **Lecturer**, Introduction to Prompt Engineering (2024-2025), Department of Computer Science
+
 **At Imperial College London**
 
 - **Lecturer**, ELEC60009/96033/96039, Deep Learning (Spring 2021-2022), Department of EEE. I taught representation learning, generative models, reinforcement learning, hyperparameters and meta-learning to **more than 100 MEng and MSc students**. 
