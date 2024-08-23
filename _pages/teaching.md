@@ -10,7 +10,9 @@ I enjoy doing research and seeing students improve through my teaching. As Menci
 
 **At University of Exeter**
 
-- **Lecturer**, Introduction to Prompt Engineering (2024-2025), Department of Computer Science
+- Introduction to Prompt Engineering (2024-2025), Department of Computer Science
+
+- Data Science Group Project (2024-2025), Department of Computer Science
 
 **At Imperial College London**
 
