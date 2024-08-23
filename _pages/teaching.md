@@ -12,7 +12,7 @@ I enjoy doing research and seeing students improve through my teaching. As Menci
 
 - Introduction to Prompt Engineering (2024-2025), Department of Computer Science
 
-- Data Science Group Project (2024-2025), Department of Computer Science
+- Data Science Group Project (2024-2025), Department of Computer Science. Module lead.
 
 **At Imperial College London**
 
