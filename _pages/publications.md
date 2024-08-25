@@ -25,4 +25,13 @@ Selected Publications
 
 - **X. Zhang**, P. Ye, G. Xiao. VIFB: A Visible and Infrared Image Fusion Benchmark, In the Proceedings of IEEE/CVF Conference on Computer Vision Workshops, 2020. (The first image fusion benchmark, which has been utilized by researchers from more than 10 countries.) [[Benchmark link]](https://github.com/xingchenzhang/VIFB)
 
+
 *indicates corresponding author
+
+Book
+---------------------
+G. Xiao, D.P. Bavirisetti , G. Liu , **X. Zhang**, Image Fusion, Springer Nature Singapore and Shanghai Jiao Tong University Press, 2020.   
+
+<div style="display: flex; justify-content: center;">
+  <img src="/images/image-fusion.jpg" alt="image1" width="150">
+</div>
