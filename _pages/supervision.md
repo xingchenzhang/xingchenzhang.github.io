@@ -52,7 +52,7 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at E
 
 **At Shanghai Jiao Tong University**
 
-- Co-supervised
+- As the co-supervisor
 
 	- [Ping Ye](https://www.researchgate.net/profile/Ping-Ye-6) (PhD student)
 		- Topic: Object tracking, information fusion
