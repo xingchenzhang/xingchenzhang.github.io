@@ -10,7 +10,9 @@ I have supervised and co-supervised students at different universities. I enjoy 
 
 **At the University of Exeter**
 
-A PhD student will join my lab at Exeter shortly.
+PhD student:
+
+- Zixian Zhao (Sep 2024 - )
 
 MSc students:
 
