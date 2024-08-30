@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Lecturer in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/), where I lead the Fusion Intelligence Lab. Starting from 1st September 2024, I will also serve as the Deputy Director of Business Engagement & Innovation at the Department. I am also a Visiting Researcher at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/). Previously, I was a Marie Skłodowska-Curie Individual Fellow at the Personal Robotics Laboratory, Imperial College London, working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). Before that, I was a Teaching Fellow and Research Associate in the same department at Imperial College London. Additionally, I have previously held several roles at Imperial College London, including main supervisor of one MSc student, [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) and Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/).
+I am a Senior Lecturer in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/), where I lead the Fusion Intelligence Lab. I also serve as the Deputy Director of Business Engagement & Innovation at the Department. I am a Visiting Researcher at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/). 
+
+Previously, I was a Marie Skłodowska-Curie Individual Fellow at the Personal Robotics Laboratory, Imperial College London, working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). Before that, I was a Teaching Fellow and Research Associate in the same department (working with Prof. Yiannis Demiris) at Imperial College London. Additionally, I have previously held several roles at Imperial College London, including main supervisor of one MSc student, [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) and Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/).
 
 I am a Fellow of the Higher Education Academy (HEA).
 
@@ -44,13 +46,13 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
+[09/2024] I started to serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
+
 [08/2024] I am organizing a [BMVC2024](https://bmvc2024.org/) workshop entitled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London. The workshop will be held in Glasgow, UK, on 27th November 2024. More details can be found on our [workshop website](https://difa2024.github.io/).
 
 [08/2024] Invited by the Outstanding Young Scholars Society UK to give a talk about faculty positions and fellowship applications.
 
 [08/2024] Started serving as an Associate Editor for the Chinese Journal of Information Fusion.
-
-[07/2024] Starting from 1st September 2024, I will serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
 
 [07/2024] [One paper](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab at Imperial College London. We proposed an end-to-end approach for short-term traffic flow prediction using surveillance cameras.
 
