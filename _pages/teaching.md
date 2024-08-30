@@ -10,7 +10,7 @@ I enjoy doing research and seeing students improve through my teaching. As Menci
 
 **At University of Exeter**
 
-- **Lecturer**, COM2017, Introduction to Prompt Engineering (2024-2025), Department of Computer Science
+- **Lecturer**, COM2017, Introduction to Prompt Engineering (2024-2025), Department of Computer Science. I teach this module together with Dr. Avon Huxor
 
 - **Lecturer and module lead**, COM2013, Data Science Group Project (2024-2025), Department of Computer Science
 

@@ -16,11 +16,11 @@ PhD student:
 
 MSc students:
 
-- Charlie Wilkinson
+- Charlie Wilkinson (2024)
  
-- Ahmer Jalil Najar
+- Ahmer Jalil Najar (2024)
 
-- Yifeng Wang 
+- Yifeng Wang (2024)
 
 **At Imperial College London**
 
