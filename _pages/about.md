@@ -32,6 +32,8 @@ My research areas include
 -------
 I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Lab as a PhD student or a visiting student, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Join My Group](https://xingchenzhang.github.io/vacancies/)' section.
 
+- **<span style="color: red;">EPSRC PhD studentship available!** I am looking for candidates to apply for an EPSRC DTP PhD studentship (**for January 2025 entry**) to join my group to work on a project entitled "**Efficient Deep Learning Algorithms for Pedestrian-Centric Multimodal Robot Perception**". Our Head of Department, Prof. Andrew Howes will be the co-supervisor. The application deadline is **<span style="color: red;">4th October 2025</span>** via [this website](https://www.exeter.ac.uk/study/funding/award/?id=5228). More details about the project can be found [here](https://www.exeter.ac.uk/v8media/recruitmentsites/documents/Efficient_Deep_Learning_Algorithms_for_Pedestrian-Centric_Multimodal_Robot_Perception_(Dr._Xingchen_Zhang).pdf).  
+
 
 **Call for papers**
 -------
