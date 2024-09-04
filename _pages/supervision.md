@@ -10,7 +10,7 @@ I have supervised and co-supervised students at different universities. I enjoy 
 
 **At the University of Exeter**
 
-PhD student:
+PhD student (primary supervisor):
 
 - Zixian Zhao (Sep 2024 - )
 
