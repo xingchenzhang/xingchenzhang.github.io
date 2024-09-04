@@ -8,7 +8,7 @@ author_profile: true
 
 I have supervised and co-supervised students at different universities. I enjoy seeing students improve through my supervision. 
 
-**At the University of Exeter**
+**At University of Exeter**
 
 PhD student (primary supervisor):
 
