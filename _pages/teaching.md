@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-I enjoy doing research and seeing students improve through my teaching. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life**.  
+I enjoy seeing students improve through my teaching. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life**.  
 
 **At University of Exeter**
 
