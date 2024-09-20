@@ -73,7 +73,7 @@ Related publications:
 
 <h2>4. RGB-based Computer vision</h2>
 <p align="center"> 
-  <img width="600" src="/images/research/tracking.png" />
+  <img width="700" src="/images/research/tracking.png" />
 </p>
 
 1. J. Liu, P. Ye. **X. Zhang***, G. Xiao. Real-time long-term tracking with reliability assessment and
