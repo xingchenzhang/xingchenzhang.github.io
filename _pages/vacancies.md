@@ -31,7 +31,7 @@ If English is not your first language you will need to meet the English language
 Visiting PhD students
 -------------
 
-I am also looking for visiting PhD students. More details about how to apply, visa and tuition fees, can be found [here](https://as.exeter.ac.uk/academic-policy-standards/tqa-manual/pgr/visitingpgrstudents/). In general,
+I am also looking for visiting PhD students. More details about how to apply, visa and tuition fees, can be found [here](https://www.exeter.ac.uk/v8media/specificsites/tqa/pgr/PGR_Handbook_Chapter_16.pdf). In general,
 
 - For visits of no more than (including) 3 calendar months), there is no tuition fee
 - For visits of between 3 and (including) 6 calendar months, the tuition fee is £500
