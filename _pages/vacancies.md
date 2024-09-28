@@ -17,7 +17,7 @@ PhD Opportunities
 
 **The following opportunities are available for September 2025 entry**: 
 
-- [China Scholarship Council (CSC) and University of Exeter PhD scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/) (The University of Exeter has 50 scholarships for Chinese students per year). The deadline is usually in **<span style="color: red;">early January</span>**.
+- [China Scholarship Council (CSC) and University of Exeter PhD scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/) (The University of Exeter has 50 scholarships for Chinese students per year). The application deadline is **<span style="color: red;">02 December 2024</span>**.
 - [EPSRC Funded PhD Studentships](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dtp-studentships/). The deadline is usually in **<span style="color: red;">mid February</span>**.
 
 Additionally, **self-funded PhD students are always welcome** and can apply at any time. Please send an email to me to discuss more details, e.g., research proposals.
