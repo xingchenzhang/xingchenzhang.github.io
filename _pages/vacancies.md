@@ -10,12 +10,7 @@ If you are interested in joining my group at the University of Exeter as a PhD s
 
 PhD Opportunities
 -------------
-**<span style="color: red;">EPSRC PhD studentship (home-fee students only) available for January 2025 entry!</span>** 
-
-- I am looking for candidates to apply for an EPSRC DTP PhD studentship (**for January 2025 entry**) to join my group to work on a project entitled "**Efficient Deep Learning Algorithms for Pedestrian-Centric Multimodal Robot Perception**". Our Head of Department, Prof. Andrew Howes, will be the co-supervisor. The application deadline is **<span style="color: red;">4th October 2024</span>** via [this website](https://www.exeter.ac.uk/study/funding/award/?id=5228). More details about the project can be found [here](https://www.exeter.ac.uk/v8media/recruitmentsites/documents/Efficient_Deep_Learning_Algorithms_for_Pedestrian-Centric_Multimodal_Robot_Perception_(Dr._Xingchen_Zhang).pdf).  
-
-
-**The following opportunities are available for September 2025 entry**: 
+**<span style="color: red;">The following opportunities are available for September 2025 entry</span>**: 
 
 - [China Scholarship Council (CSC) and University of Exeter PhD scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/) (The University of Exeter has 50 scholarships for Chinese students per year). The application deadline is **<span style="color: red;">02 December 2024</span>**.
 - [EPSRC Funded PhD Studentships](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dtp-studentships/). The deadline is usually in **<span style="color: red;">mid February</span>**.

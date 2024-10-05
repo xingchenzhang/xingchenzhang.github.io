@@ -36,7 +36,8 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at E
 
 	- Zixian Zhao (MSc, **distinction**)
 		- Topic: Computer Vision-based Video Anonymisation for Privacy Protection
-		- Published one paper in IEEE Transactions on Intelligent Transportation Systems based on the MSc project  
+		- Published one paper in IEEE Transactions on Intelligent Transportation Systems based on the MSc project
+		- Now a PhD student at the University of Exeter (fully funded by the university)  
 	
 - As the assistant supervisor (co-supervise with Prof.  Yiannis Demiris)
 
