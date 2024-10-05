@@ -106,9 +106,9 @@ Collaborators
 --
 
 <div style="display:inline-block">
-  <img src="/images/collaborator/ICL.jpg" alt="image1" width="250">
-  <img src="/images/collaborator/Sheffield.png" alt="image2" width="250">
-  <img src="/images/collaborator/QUB.png" alt="image3" width="250">
+  <img src="/images/collaborators/ICL.jpg" alt="image1" width="250">
+  <img src="/images/collaborators/Sheffield.png" alt="image2" width="250">
+  <img src="/images/collaborators/QUB.png" alt="image3" width="250">
 </div>
 
 
