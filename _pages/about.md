@@ -102,6 +102,15 @@ My research has received funding from the European Union’s Horizon 2020 resear
   <img src="/images/innovateuk.jpg" alt="image3" width="250">
 </div>
 
+Collaborators
+--
+
+<div style="display:inline-block">
+  <img src="/images/collaborator/ICL.jpg" alt="image1" width="250">
+  <img src="/images/collaborator/Sheffield.png" alt="image2" width="250">
+  <img src="/images/collaborator/QUB.png" alt="image3" width="250">
+</div>
+
 
 Contact
 -------
