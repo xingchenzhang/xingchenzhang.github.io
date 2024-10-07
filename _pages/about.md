@@ -48,7 +48,7 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
-[10/2024] I gave a Research Talk titled "Human-Centered Computer Vision: From Unimodal to Multimodal" at the University Open Day 
+[10/2024] I gave a research talk titled "Human-Centered Computer Vision: From Unimodal to Multimodal" at the University Open Day 
 
 [09/2024] Welcome Zixian to join my lab as a PhD student!
 
