@@ -50,6 +50,8 @@ News
 
 [10/2024] I gave a research talk titled "Human-Centered Computer Vision: From Unimodal to Multimodal" at the University Open Day 
 
+[09/2024] I have been listed among the **World's Top 2% Scientists** for 2024!
+
 [09/2024] Welcome Zixian to join my lab as a PhD student!
 
 [09/2024] I started to serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
