@@ -12,7 +12,7 @@ I am a Senior Lecturer (~Associate Professor) in Computer Vision and Artificial 
 
 Previously, I was a Marie Skłodowska-Curie Individual Fellow at the Personal Robotics Laboratory, Imperial College London, working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). Before that, I was a Teaching Fellow and Research Associate in the same department (working with Prof. Yiannis Demiris) at Imperial College London. Additionally, I have previously held several roles at Imperial College London, including main supervisor of one MSc student, [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) and Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/).
 
-I am a Fellow of the Higher Education Academy (HEA). I have been listed among the **World’s Top 2% Scientists** for both 2023 and 2024! 
+I am a Fellow of the Higher Education Academy (HEA). I have been listed among the **World’s Top 2% Scientists** for both 2023 and 2024 ([Stanford University's list](https://topresearcherslist.com/))! 
 
 In 2024, I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)" by Imperial College London. In 2023, I received the [Imperial's EEE Department Award for Citizenship and Community](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/). I was selected as the "[Fellow of the Month](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1d91qfpwhn6m5ti3wepqzp?email=true&lang=en&a=6&p=11850824&t=3895058)" by the Postdocs and Fellows Development Centre (PFDC) of Imperial College London in November 2023.  In 2022, I was a lecturer for the Deep Learning course at the Department of Electrical and Electronic Engineering, Imperial College London, where I taught representation learning, generative models, reinforcement learning, hyperparameters and meta-learning **to more than 100 MEng and MSc students**.  In 2021, I was awarded the prestigious Marie Skłodowska-Curie Individual Fellowship by the European Commission. Additionally, I co-authored a book entitled [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors), which won the National Science and Technology Academic Publications Fund of China (2019). I received the Best Paper Honorable Mention Award of the 9th Chinese Conference on Information Fusion (2019). 
 
@@ -50,7 +50,7 @@ News
 
 [10/2024] I gave a research talk titled "Human-Centered Computer Vision: From Unimodal to Multimodal" at the University Open Day 
 
-[09/2024] I have been listed among the **World's Top 2% Scientists** for 2024!
+[09/2024] I have been listed among the **World's Top 2% Scientists** for 2024 ([Stanford University's list](https://topresearcherslist.com/))!
 
 [09/2024] Welcome Zixian to join my lab as a PhD student!
 
@@ -86,7 +86,7 @@ News
 
 [11/2023] My MSc student obtained his degree with distinction! Congratulations to Zixian! So far, **all the MSc students I supervised or co-supervised have got distinction**!
 
-[09/2023] I have been listed among the **World's Top 2% Scientists** for 2023!
+[09/2023] I have been listed among the **World's Top 2% Scientists** for 2023 ([Stanford University's list](https://topresearcherslist.com/))!
 
 [07/2023] I am now a **Fellow of the Higher Education Academy (HEA)**! [[EEE Staff Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/qyw8xg2ljae?lang=en&a=6&p=11740175&t=4233382) [[EEE Staff Newsletter 2]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/rmlhmbxw3e5?lang=en&a=2&p=11740143&t=5376334)
 
