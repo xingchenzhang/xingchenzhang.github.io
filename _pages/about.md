@@ -86,6 +86,8 @@ News
 
 [11/2023] My MSc student obtained his degree with distinction! Congratulations to Zixian! So far, **all the MSc students I supervised or co-supervised have got distinction**!
 
+[09/2023] I have been listed among the **World's Top 2% Scientists** for 2023!
+
 [07/2023] I am now a **Fellow of the Higher Education Academy (HEA)**! [[EEE Staff Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/qyw8xg2ljae?lang=en&a=6&p=11740175&t=4233382) [[EEE Staff Newsletter 2]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/rmlhmbxw3e5?lang=en&a=2&p=11740143&t=5376334)
 
 [04/2023] One paper has been accepted by **Pattern Recognition**.
