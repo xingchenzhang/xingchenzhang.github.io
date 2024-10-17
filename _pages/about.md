@@ -12,7 +12,7 @@ I am a Senior Lecturer (~Associate Professor) in Computer Vision and Artificial 
 
 Previously, I was a Marie Skłodowska-Curie Individual Fellow at the Personal Robotics Laboratory, Imperial College London, working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). Before that, I was a Teaching Fellow and Research Associate in the same department (working with Prof. Yiannis Demiris) at Imperial College London. Additionally, I have previously held several roles at Imperial College London, including main supervisor of one MSc student, [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) and Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/).
 
-I am a Fellow of the Higher Education Academy (HEA). I have been listed among the **World’s Top 2% Scientists** for both 2023 and 2024 ([Stanford University's list](https://topresearcherslist.com/))! 
+I am a Fellow of the Higher Education Academy (HEA). I have been listed among the **World’s Top 2% Scientists**([Stanford University's list](https://topresearcherslist.com/), 2023, 2024)! 
 
 In 2024, I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)" by Imperial College London. In 2023, I received the [Imperial's EEE Department Award for Citizenship and Community](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/). I was selected as the "[Fellow of the Month](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1d91qfpwhn6m5ti3wepqzp?email=true&lang=en&a=6&p=11850824&t=3895058)" by the Postdocs and Fellows Development Centre (PFDC) of Imperial College London in November 2023.  In 2022, I was a lecturer for the Deep Learning course at the Department of Electrical and Electronic Engineering, Imperial College London, where I taught representation learning, generative models, reinforcement learning, hyperparameters and meta-learning **to more than 100 MEng and MSc students**.  In 2021, I was awarded the prestigious Marie Skłodowska-Curie Individual Fellowship by the European Commission. Additionally, I co-authored a book entitled [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors), which won the National Science and Technology Academic Publications Fund of China (2019). I received the Best Paper Honorable Mention Award of the 9th Chinese Conference on Information Fusion (2019). 
 
@@ -28,7 +28,7 @@ My research areas include
 - Multimodal perception and applications (e.g., RGB-T tracking, robot perception)  
 - Ethical AI (pedestrian privacy protection)   
 
-**<span style="color: red;">Joining my Fusion Intelligence Lab at the University of Exeter</span>**
+**Joining my Fusion Intelligence Lab at the University of Exeter**
 -------
 I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Lab as a PhD student or a visiting student, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Join My Group](https://xingchenzhang.github.io/vacancies/)' section.
 
@@ -39,24 +39,27 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 -------
 Welcome to submit your manuscript to the following journals and special issues for which I am an editorial board member. Please feel free to contact me before submission if you have any questions.
 
-- **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif)
+- **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif). We always welcome submissions.
  
 - **Frontiers in Neurorobotics** Special Issue: "Multi-source and Multi-domain Data Fusion and Enhancement: Methods, Evaluation, and Applications". **Deadline:  04 November 2024**. [[Details and Submission]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications)
 
 - **Remote Sensing** and **Electronics** Special Issue: "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum". **Deadline: 31 December 2024**. [[Remote Sensing Submission]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)  [[Electronics Submission]](https://www.mdpi.com/journal/electronics/special_issues/48P302N872) 
 
+**Activities**
+-------
+[08/2024] I am organizing a [BMVC2024](https://bmvc2024.org/) workshop entitled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London. The workshop will be held in Glasgow, UK, on 27th November 2024. More details can be found on our [workshop website](https://difa2024.github.io/).
+
+
 News
 ----
 
-[10/2024] I gave a research talk titled "Human-Centered Computer Vision: From Unimodal to Multimodal" at the University Open Day 
+[10/2024] I gave a research talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the University Open Day 
 
-[09/2024] I have been listed among the **World's Top 2% Scientists** for 2024 ([Stanford University's list](https://topresearcherslist.com/))!
+[09/2024] I have been listed among the **World's Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2024)!
 
 [09/2024] Welcome Zixian to join my lab as a PhD student!
 
 [09/2024] I started to serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
-
-[08/2024] I am organizing a [BMVC2024](https://bmvc2024.org/) workshop entitled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London. The workshop will be held in Glasgow, UK, on 27th November 2024. More details can be found on our [workshop website](https://difa2024.github.io/).
 
 [08/2024] Invited by the Outstanding Young Scholars Society UK to give a talk about faculty positions and fellowship applications.
 
@@ -66,7 +69,7 @@ News
 
 [07/2024] Two of my IEEE T-PAMI papers were selected as **ESI Highly Cited Papers**.
 
-[06/2024] One paper has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian! This paper resulted from Zixian's MSc project at Imperial College London, where Prof. Demiris and I were his supervisors.
+[06/2024] [One paper](https://ieeexplore.ieee.org/abstract/document/10682960/) has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian! This paper resulted from Zixian's MSc project at Imperial College London, where Prof. Demiris and I were his supervisors.
 
 [06/2024] Invited to give a talk on 6th June at "Future of AI Awards 2024: Collaborate, Debate, Invent". I introduced my research and shared my fellowship experience.
 
@@ -88,13 +91,13 @@ News
 
 [11/2023] My MSc student obtained his degree with distinction! Congratulations to Zixian! So far, **all the MSc students I supervised or co-supervised have got distinction**!
 
-[09/2023] I have been listed among the **World's Top 2% Scientists** for 2023 ([Stanford University's list](https://topresearcherslist.com/))!
+[09/2023] I have been listed among the **World's Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2023)!
 
 [07/2023] I am now a **Fellow of the Higher Education Academy (HEA)**! [[EEE Staff Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/qyw8xg2ljae?lang=en&a=6&p=11740175&t=4233382) [[EEE Staff Newsletter 2]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/rmlhmbxw3e5?lang=en&a=2&p=11740143&t=5376334)
 
-[04/2023] One paper has been accepted by **Pattern Recognition**.
+[04/2023] [One paper](https://www.sciencedirect.com/science/article/pii/S0031320323003345) has been accepted by **Pattern Recognition**.
 
-[03/2023] One paper has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
+[03/2023] [One paper](https://ieeexplore.ieee.org/abstract/document/10088423/) has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
 
 More news about me can be found [**here**](https://xingchenzhang.github.io/previous_news/).
 
