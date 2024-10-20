@@ -5,12 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-**Incoming talks**
-
 
 **Past talks**
 
-- Human-Centered Computer Vision: From Unimodal to Multimodal, University of Exeter Open Day, October, 2024
+- Human-Centered Computer Vision: From Unimodality to Multimodality, IDSAI + Maths & Stats ECR Lighting talks, University of Exeter, October, 2024
+
+- Human-Centered Computer Vision: From Unimodality to Multimodality, University of Exeter Open Day, October, 2024
 
 - Faculty position application and fellowship application experience, Outstanding Young Scholars Society UK, August 2024
 
