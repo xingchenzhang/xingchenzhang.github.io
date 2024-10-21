@@ -15,7 +15,7 @@ PhD Opportunities
 - [China Scholarship Council (CSC) and University of Exeter PhD scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/) (The University of Exeter has 50 scholarships for Chinese students per year). The application deadline is **<span style="color: red;">02 December 2024</span>**.
 - [EPSRC Funded PhD Studentships](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dtp-studentships/). The deadline is usually in **<span style="color: red;">mid February</span>**.
 
-** Other possible opportunities**
+**Other possible opportunities**
 
 - [Commonwealth PhD Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. 
 
