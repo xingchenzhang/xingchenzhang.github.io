@@ -79,7 +79,7 @@ Related publications:
 
 <h2>4. RGB-based Computer vision</h2>
 <p align="center"> 
-  <img width="700" src="/images/research/tracking.png" />
+  <img width="800" src="/images/research/tracking.png" />
 </p>
 
 1. J. Liu, P. Ye. **X. Zhang***, G. Xiao. Real-time long-term tracking with reliability assessment and
@@ -91,6 +91,6 @@ correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-
 <h2>5. Multimodal robot perception</h2>
 This is a collaborative project between University of Exeter and Imperial College London. We are aiming at improving the perception capability of mobile robots.
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="/images/research/dog_video1.gif" alt="First Image" style="height: 300px; width: auto; margin-right: 20px;">
-  <img src="/images/research/dog_video2.gif" alt="Second Image" style="height: 300px; width: auto;">
+  <img src="/images/research/dog_video1.gif" alt="First Image" style="height: 350px; width: auto; margin-right: 20px;">
+  <img src="/images/research/dog_video2.gif" alt="Second Image" style="height: 350px; width: auto;">
 </div>
