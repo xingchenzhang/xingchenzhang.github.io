@@ -12,7 +12,11 @@ PhD Opportunities
 -------------
 **<span style="color: red;">The following opportunities are available for September 2025 entry</span>**: 
 
-- [China Scholarship Council (CSC) and University of Exeter PhD scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/) (The University of Exeter has 50 scholarships for Chinese students per year). The application deadline is **<span style="color: red;">02 December 2024</span>**.
+- [China Scholarship Council (CSC) and University of Exeter PhD scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/) (The University of Exeter has 50 scholarships for Chinese students per year). The application deadline is **<span style="color: red;">02 December 2024</span>**. Applicants can select one project from the following list, or they can discuss with me to write their own research proposal.
+	- Robust and Efficient Multi-Modal Perception for AI Robots
+	- Deep Learning for Multi-Modality Image Fusion in Computer Vision
+	- Application-Driven Multi-Modal Medical Information Fusion Using Deep Learning
+	- Ethical AI in Computer Vision: Balancing Pedestrian Privacy and Data Utility  
 - [EPSRC Funded PhD Studentships](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dtp-studentships/). The deadline is usually in **<span style="color: red;">mid February</span>**.
 
 **Other possible opportunities**

@@ -83,7 +83,8 @@ correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-
 3. J. Zhao, G. Xiao, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019.
 
 <h2>5. Multimodal robot perception</h2>
+This is a collaborative project between University of Exeter and Imperial College London. We are aiming at improving the perception capability of mobile robots.
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="/images/research/arta-wheelchair.jpg" alt="First Image" style="height: 300px; width: auto; margin-right: 20px;">
-  <img src="/images/research/Unitree-GO2.jpg" alt="Second Image" style="height: 300px; width: auto;">
+  <img src="/images/research/dog_video1.gif" alt="First Image" style="height: 300px; width: auto; margin-right: 20px;">
+  <img src="/images/research/dog_video2.gif" alt="Second Image" style="height: 300px; width: auto;">
 </div>
