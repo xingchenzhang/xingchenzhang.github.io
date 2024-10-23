@@ -47,7 +47,7 @@ International Conference on Information Fusion, 2019.
   <img width="700" src="/images/research/crossingpose.png" />
 </p>
 
-<h3>(3) Pedestrian tracking/h3>
+<h3>(3) Pedestrian tracking</h3>
 <p align="center"> 
   <img width="700" src="/images/research/Pedestrian-tracking.gif" />
 </p>
