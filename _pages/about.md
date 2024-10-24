@@ -57,6 +57,8 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
+[10/2024] Invited to join the AI roundtable discussion at the Outstanding Young Scholars Society UK Annual Meeting, which will be held on 30th November 2024 in London. 
+
 [10/2024] Invited to give a research talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the University Open Day 
 
 [09/2024] I have been listed among the **World's Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2024)!
