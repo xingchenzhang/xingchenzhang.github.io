@@ -7,14 +7,14 @@ author_profile: true
 {% include base_path %}
 
 **At University of Exeter**
-- 26th October, Robot dog demos, Open Day
+- 26th October 2024, Robot dog demos, Open Day
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/outreach/openday2-1.jpg" alt="image1" width="400" style="margin-right: 10px;">
   <img src="/images/outreach/openday2-2.jpg" alt="image1" width="400">
 </div>
 
-- 5th October, Research Talk: Human-Centered Computer Vision: From Unimodal to Multimodal, Open Day
+- 5th October 2024, Research Talk: Human-Centered Computer Vision: From Unimodal to Multimodal, Open Day
 <div style="display: flex; justify-content: center;">
   <img src="/images/outreach/openday-1.JPG" alt="image1" width="400">
 </div>
