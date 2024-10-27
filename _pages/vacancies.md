@@ -17,10 +17,11 @@ PhD Opportunities
 	- Deep Learning for Multi-Modality Image Fusion in Computer Vision
 	- Application-Driven Multi-Modal Medical Information Fusion Using Deep Learning
 	- Ethical AI in Computer Vision: Balancing Pedestrian Privacy and Data Utility  
-- [EPSRC Funded PhD Studentships](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dtp-studentships/). The deadline is usually in **<span style="color: red;">mid February</span>**.
+
 
 **Other possible opportunities**
 
+- [EPSRC Funded PhD Studentships](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dtp-studentships/). The deadline is usually in **<span style="color: red;">mid February</span>**.
 - [Commonwealth PhD Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. 
 
 
