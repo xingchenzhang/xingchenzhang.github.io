@@ -16,11 +16,11 @@ PhD student (primary supervisor):
 
 MSc students:
 
-- Charlie Wilkinson (2024)
+- Charlie Wilkinson (June - Aug 2024)
  
-- Ahmer Jalil Najar (2024)
+- Ahmer Jalil Najar (June - Aug 2024)
 
-- Yifeng Wang (2024)
+- Yifeng Wang (June - Aug 2024)
 
 Undergraduate students:
 

@@ -107,9 +107,9 @@ News
 
 More news about me can be found [**here**](https://xingchenzhang.github.io/previous_news/).
 
-Funders
+Selected funders
 --
-My research has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant and the InnovateUK.
+My research has received funding from several funders, including the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant and the Innovate UK.
 
 <div style="display:inline-block">
   <img src="/images/marie-curie.jpg" alt="image1" width="250">
