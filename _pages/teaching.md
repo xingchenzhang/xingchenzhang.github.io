@@ -12,6 +12,11 @@ I enjoy seeing students improve through my teaching. As Mencius the philosopher 
 
 - **Lecturer**, COM2017, Introduction to Prompt Engineering (2024-2025), Department of Computer Science. I teach this module together with Dr. Avon Huxor
 
+<div style="display: flex; justify-content: center;">
+  <img src="/images/teaching/teaching-prompt-engineering-1.jpg" alt="image1" width="400" style="margin-right: 10px;">
+  <img src="/images/teaching/teaching-prompt-engineering-2.jpg" alt="image2" width="400">
+</div>
+
 - **Lecturer and module leader**, COM2013, Data Science Group Project (2024-2025), Department of Computer Science
 
 **At Imperial College London**
@@ -19,8 +24,8 @@ I enjoy seeing students improve through my teaching. As Mencius the philosopher 
 - **Lecturer**, ELEC60009/96033/96039, Deep Learning (Spring 2021-2022), Department of Electrical and Electronic Engineering. I taught representation learning, generative models, reinforcement learning, hyperparameters and meta-learning to **more than 100 MEng and MSc students**. 
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/teaching-DL-1.jpg" alt="image1" width="400" style="margin-right: 10px;">
-  <img src="/images/teaching-DL-2.png" alt="image2" width="400">
+  <img src="/images/teaching/teaching-DL-1.jpg" alt="image1" width="400" style="margin-right: 10px;">
+  <img src="/images/teaching/teaching-DL-2.png" alt="image2" width="400">
 </div>
 
 - **Teaching Fellow**, ELEC60019/96037, Machine Learning (Autumn 2021-2022),  Department of EEE
