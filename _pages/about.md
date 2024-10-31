@@ -51,13 +51,15 @@ Welcome to submit your manuscript to the following journals and special issues f
 
 **Activities**
 -------
-[08/2024] I am organizing a [BMVC2024](https://bmvc2024.org/) workshop entitled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London. The workshop will be held in Glasgow, UK, on 27th November 2024. More details can be found on our [workshop website](https://difa2024.github.io/).
+[11/2024] I am organizing a [BMVC2024](https://bmvc2024.org/) workshop entitled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London. The workshop will be held in Glasgow, UK, on **27th November 2024**. More details can be found on our [workshop website](https://difa2024.github.io/).
 
 
 News
 ----
 
-[10/2024] Invited to join the AI roundtable discussion at the Outstanding Young Scholars Society UK Annual Meeting, which will be held on 30th November 2024 in London. 
+[12/2024] I will give a talk entitled “Rethinking performance evaluation in image fusion” at the [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html), which will be held on 11 December 2024 in the British Computer Society (BCS).
+
+[11/2024] Invited to join the AI roundtable discussion at the Outstanding Young Scholars Society UK Annual Meeting, which will be held on 30th November 2024 in London. 
 
 [10/2024] Invited to give a research talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the University Open Day 
 

@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+**Coming talks**
+
+[12/2024] Rethinking performance evaluation in image fusion, [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html), December 2024, the British Computer Society, London.
+
+[11/2024] AI roundtable discussion, Outstanding Young Scholars Society UK Annual Meeting, November 2024, London. 
 
 **Past talks**
 
