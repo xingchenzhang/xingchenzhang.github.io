@@ -11,7 +11,8 @@ My research areas include
 - Computer vision (e.g., object tracking, human pose estimation, human behavior prediction)   
 - Deep learning (e.g., multi-modal learning, self-supervised learning, graph-based learning)  
 - Image fusion (visible-infrared, multi-focus, multi-exposure)  
-- Multimodal perception and applications (e.g., RGB-T tracking, robot perception)  
+- Multimodal learning and applications (e.g., RGB-T tracking, RGB-T segmentation, RGB-T crowd counting)  
+- Robotics and AI (Multimodal robot perception)
 - Ethical AI (pedestrian privacy protection)   
 
 Some of my projects are as follows:
