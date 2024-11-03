@@ -66,7 +66,7 @@ News
 
 [09/2024] I started to serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
 
-[08/2024] Invited by the Outstanding Young Scholars Society UK to give a talk about faculty positions and fellowship applications.
+[08/2024] Invited by the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) to give a talk about faculty positions and fellowship applications.
 
 [08/2024] Started serving as an Associate Editor for the Chinese Journal of Information Fusion.
 
@@ -108,12 +108,11 @@ More news about me can be found [**here**](https://xingchenzhang.github.io/previ
 
 Selected funders
 --
-My research has received funding from several funders, including the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant and the Innovate UK.
+My research has received funding from several funders, including the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant.
 
 <div style="display:inline-block">
   <img src="/images/marie-curie.jpg" alt="image1" width="250">
   <img src="/images/eu.jpg" alt="image2" width="250">
-  <img src="/images/innovateuk.jpg" alt="image3" width="250">
 </div>
 
 Selected collaborators
