@@ -68,7 +68,7 @@ News
 
 [08/2024] Invited by the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) to give a talk about faculty positions and fellowship applications.
 
-[08/2024] Started serving as an Associate Editor for the Chinese Journal of Information Fusion.
+[08/2024] Started serving as an Associate Editor for the [Chinese Journal of Information Fusion](https://www.iece.org/journal/cjif).
 
 [07/2024] [One paper](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab at Imperial College London. We proposed an end-to-end approach for short-term traffic flow prediction using surveillance cameras.
 
@@ -78,7 +78,7 @@ News
 
 [06/2024] Invited to give a talk on 6th June at "Future of AI Awards 2024: Collaborate, Debate, Invent". I introduced my research and shared my fellowship experience.
 
-[04/2024] I gave a talk at the BMVA One Day Meeting - Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications on 24 April 2024.
+[04/2024] I gave a talk at the [BMVA One Day Meeting - Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) on 24 April 2024.
 
 [04/2024] I established the **Fusion Intelligence Laboratory** at the Department of Computer Science, University of Exeter.
 
@@ -94,7 +94,7 @@ News
 
 [11/2023] I was selected as "**Fellow of the Month**" by the Postdoc and Fellows Development Centre (PFDC), Imperial College London. [[PFDC Newsletter]](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1fftgrnkwzim5ti3wepqzp?lang=en&a=2&p=11850824&t=4496005).
 
-[11/2023] My MSc student obtained his degree with distinction! Congratulations to Zixian! So far, **all the MSc students I supervised or co-supervised have got distinction**!
+[11/2023] My MSc student obtained his degree with distinction! Congratulations to Zixian! So far, **all the MSc students I supervised or co-supervised at Imperial College London have got distinction**!
 
 [09/2023] I have been listed among the **World's Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2023)!
 
@@ -113,7 +113,6 @@ My research has received funding from several funders, including the European Un
 <div style="display:inline-block">
   <img src="/images/funders/marie-curie.jpg" alt="image1" width="250">
   <img src="/images/funders/eu.jpg" alt="image2" width="250">
-  <img src="/images/funders/shanghai.png" alt="image2" width="250">
 </div>
 
 Selected collaborators
@@ -121,7 +120,6 @@ Selected collaborators
 
 <div style="display:inline-block">
   <img src="/images/collaborators/ICL.jpg" alt="image1" width="250">
-  <img src="/images/collaborators/Wuhan_Union_Hospital_of_China_logo.png" alt="image1" width="250">
 </div>
 
 
