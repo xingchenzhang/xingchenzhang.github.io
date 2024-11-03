@@ -111,8 +111,9 @@ Selected funders
 My research has received funding from several funders, including the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant.
 
 <div style="display:inline-block">
-  <img src="/images/marie-curie.jpg" alt="image1" width="250">
-  <img src="/images/eu.jpg" alt="image2" width="250">
+  <img src="/images/funders/marie-curie.jpg" alt="image1" width="250">
+  <img src="/images/funders/eu.jpg" alt="image2" width="250">
+  <img src="/images/funders/shanghai.png" alt="image2" width="250">
 </div>
 
 Selected collaborators
@@ -120,6 +121,7 @@ Selected collaborators
 
 <div style="display:inline-block">
   <img src="/images/collaborators/ICL.jpg" alt="image1" width="250">
+  <img src="/images/collaborators/Wuhan_Union_Hospital_of_China_logo.png" alt="image1" width="250">
 </div>
 
 
