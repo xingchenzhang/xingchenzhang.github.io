@@ -80,7 +80,7 @@ News
 
 [04/2024] I gave a talk at the [BMVA One Day Meeting - Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) on 24 April 2024.
 
-[04/2024] I established the **Fusion Intelligence Laboratory** at the Department of Computer Science, University of Exeter.
+[04/2024] I established the **Fusion Intelligence Laboratory** at the Department of Computer Science, University of Exeter. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
 [04/2024] I joined the University of Exeter as a **Senior Lecturer** (~Associate Professor).
 
