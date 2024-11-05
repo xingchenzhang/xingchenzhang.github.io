@@ -60,7 +60,7 @@ News
 
 [10/2024] Invited to give a research talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the University Open Day 
 
-[09/2024] I have been listed among the **World's Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2024)!
+[09/2024] I have been listed among the **World's Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2024)! This is the second time I have been recognized as one of the "World's Top 2% Scientists".
 
 [09/2024] Welcome Zixian to join my lab as a PhD student!
 
