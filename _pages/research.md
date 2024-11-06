@@ -25,8 +25,8 @@ Some of my projects are as follows:
 </div>
 
 Related publications:  
-1. **X. Zhang**, Y. Demiris. Visible and Infrared Image Fusion using Deep Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 10535-10554, 2023.  
-2. **X. Zhang**. Deep Learning-based Multi-focus Image Fusion: A Survey and A Comparative Study, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, No. 9, pp. 4819 – 4838, 2022. [[Link]](https://github.com/xingchenzhang/MFIFB)  
+1. **X. Zhang**, Y. Demiris. Visible and Infrared Image Fusion using Deep Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 10535-10554, 2023. (**ESI Highly Cited Paper)**  
+2. **X. Zhang**. Deep Learning-based Multi-focus Image Fusion: A Survey and A Comparative Study, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, No. 9, pp. 4819 – 4838, 2022. [[Link]](https://github.com/xingchenzhang/MFIFB) (**ESI Highly Cited Paper**)  
 3. **X. Zhang**. Benchmarking and Comparing Multi-exposure Image Fusion Algorithms. Information Fusion, vol. 74, pp. 111-131, 2021. (The first multi-exposure image fusion benchmark) [[Benchmark link]](https://github.com/xingchenzhang/MEFB)  
 4. **X. Zhang**, P. Ye, G. Xiao. VIFB: A Visible and Infrared Image Fusion Benchmark, In the Proceedings of IEEE/CVF Conference on Computer Vision Workshops, 2020. (The first image fusion benchmark, which has been utilized by researchers from more than 10 countries.) [[Benchmark link]](https://github.com/xingchenzhang/VIFB)  
 5. **X. Zhang**, P. Ye, S. Peng, J. Liu, G. Xiao. DSiamMFT: An RGB-T fusion tracking method via
@@ -60,7 +60,7 @@ Related publications:
  
 
 <h2>3. Responsible and ethical AI: Pedestrian privacy protection</h2>
-Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles. 
+Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles while maintaining the utility of the anonymized videos.
 
 <!-- <img align="center" width="600" src="/images/word cloud.png" />  -->
 
@@ -95,3 +95,6 @@ I am collaborating with the Personal Robotics Lab at Imperial College London. We
   <img src="/images/research/dog_video1.gif" alt="First Image" style="height: 350px; width: auto; margin-right: 20px;">
   <img src="/images/research/dog_video2.gif" alt="Second Image" style="height: 350px; width: auto;">
 </div>
+
+<h2>6. AI for Science</h2>
+An ongoing collaborative project.
