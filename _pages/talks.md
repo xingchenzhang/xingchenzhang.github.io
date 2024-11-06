@@ -13,6 +13,8 @@ author_profile: true
 
 **Past talks**
 
+- A brief introduction to AI, Wuhan Union Hospital of China (online), November, 2024
+
 - Human-Centered Computer Vision: From Unimodality to Multimodality, IDSAI + Maths & Stats ECR Lighting talks, University of Exeter, October, 2024
 
 - Human-Centered Computer Vision: From Unimodality to Multimodality, University of Exeter Open Day, October, 2024
