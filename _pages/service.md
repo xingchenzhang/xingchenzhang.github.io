@@ -118,6 +118,8 @@ author_profile: true
 
 - Member, IEEE
 
+- Member, BMVA
+
 - Member, Marie Curie Alumni Association
 
 - Member, China Society of Image and Graphics
