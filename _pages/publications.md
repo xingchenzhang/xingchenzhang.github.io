@@ -35,3 +35,9 @@ G. Xiao, D.P. Bavirisetti , G. Liu , **X. Zhang**, Image Fusion, Springer Nature
 <div style="display: flex; justify-content: center;">
   <img src="/images/image-fusion.jpg" alt="image1" width="150">
 </div>
+
+Preprints
+------------  
+[P2] X. Zhang*, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023).
+
+[P1] X. Zhang. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community)
