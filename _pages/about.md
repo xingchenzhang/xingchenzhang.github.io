@@ -73,7 +73,7 @@ News
 
 [07/2024] Two of my IEEE T-PAMI papers were selected as **ESI Highly Cited Papers**.
 
-[06/2024] [One paper](https://ieeexplore.ieee.org/abstract/document/10682960/) has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian! This paper resulted from Zixian's MSc project at Imperial College London, where Prof. Demiris and I were his supervisors.
+[06/2024] [One paper](https://ieeexplore.ieee.org/abstract/document/10682960/) has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian!  The paper is based on Zixian's MSc project at Imperial College London, where I was his primary supervisor and Prof. Yiannis Demiris was his co-supervisor.
 
 [06/2024] Invited to give a talk on 6th June at "Future of AI Awards 2024: Collaborate, Debate, Invent". I introduced my research and shared my fellowship experience.
 
