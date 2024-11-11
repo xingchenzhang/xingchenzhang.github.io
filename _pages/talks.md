@@ -7,9 +7,11 @@ author_profile: true
 
 **Coming talks**
 
-- Rethinking performance evaluation in image fusion, [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html), December 2024, the British Computer Society, London.
+- AI roundtable discussion, [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting, London, **November 2024**.
 
-- AI roundtable discussion, [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting, November 2024, London. 
+- Rethinking performance evaluation in image fusion, [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html), the British Computer Society, London, **December 2024**.
+
+- How AI Transforms My Job, Marie Curie Alumni Association Artificial Intelligence General Interest Group, **December 2024**.
 
 **Past talks**
 
