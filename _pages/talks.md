@@ -15,6 +15,8 @@ author_profile: true
 
 **Past talks**
 
+- An introduction to Prompt Engineering, Wuhan Union Hospital of China (online), November, 2024
+
 - A brief introduction to AI, Wuhan Union Hospital of China (online), November, 2024
 
 - Human-Centered Computer Vision: From Unimodality to Multimodality, IDSAI + Maths & Stats ECR Lighting talks, University of Exeter, October, 2024
