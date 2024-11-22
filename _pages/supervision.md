@@ -13,7 +13,7 @@ I have supervised and co-supervised students at different universities. I enjoy 
 PhD student (primary supervisor):
 
 - Zixian Zhao (Sep 2024 - )
-- Ning Wang (Dec 2024 - )
+- Ning Wang (Jan 2025 - )
 
 MSc students:
 
