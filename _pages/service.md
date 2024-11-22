@@ -19,7 +19,7 @@ author_profile: true
 
 **Organizer for Workshops**
 
-- BMVC2024 Workshop: "DIFA: Deep Learning-based Image Fusion and Its Applications" [[Workshop website]](https://difa2024.github.io/)
+- Lead organizer, BMVC2024 Workshop: "DIFA: Deep Learning-based Image Fusion and Its Applications" [[Workshop website]](https://difa2024.github.io/)
 
 
 **Editorial boards**
@@ -114,13 +114,19 @@ author_profile: true
 
 - SIGGRAPH Asia
 
-**Membership**
+**Professional membership**
 
 - Member, IEEE
+
+- Member, IET
+
+- Member, BCS
 
 - Member, BMVA
 
 - Member, Marie Curie Alumni Association
+
+- Member, Marie Curie Alumni Association General Interest Group in Artificial Intelligence
 
 - Member, China Society of Image and Graphics
 
