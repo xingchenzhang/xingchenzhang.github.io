@@ -18,5 +18,5 @@ author_profile: true
 - 2016:   **2nd place** (out of 551 teams from 54 countries), Mission On Mars Robot Challenge, Mathworks, Inc. [[News link]](https://www.sems.qmul.ac.uk/news/4297/sems-qstar-beat-over-550-to-win-second-prize-in-robot-competition)
 - 2016:   **Champion**, Beijing Overseas Talents Entrepreneurship Competition (UK Division), Beijing Overseas Talents Center & Chinese Students and Scholars Association in the University of Oxford. [[News link]](https://www.sems.qmul.ac.uk/news/4303/sems-students-win-2016-beijing-overseas-talent-entrepreneurship-challenge)
 - 2016:   **2nd prize** (2 out of 16 projects), Beijing Overseas Talents Entrepreneurship Competition, Beijing Overseas Talents Center [[News link]](https://www.sems.qmul.ac.uk/news/4311/beijing-overseas-talents-entrepreneurship-competition-more-success-for-sems-student)
-- 2015:  **Finalist** (4th place), High-Level Entrepreneurship Challenge in the UK, by the Chinese Students and Scholars Association in the United Kingdom 
+- 2015:  **Finalist**, High-Level Entrepreneurship Challenge in the UK, by the Chinese Students and Scholars Association in the United Kingdom 
 - 2011: **National Scholarship** (top 2% of all students), awarded by the Ministry of Education of China 
