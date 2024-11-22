@@ -59,6 +59,10 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
+[11/2024] Invited to give a talk titled "An introduction to Prompt Engineering" at Wuhan Union Hospital of China (online)
+
+[11/2024] Invited to give a talk titled "A brief introduction to AI" at Wuhan Union Hospital of China (online)
+
 [10/2024] Invited to give a research talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the University of University Open Day 
 
 [09/2024] I have been listed among the **World's Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2024)! This is the second time I have been recognized as one of the "World's Top 2% Scientists".
