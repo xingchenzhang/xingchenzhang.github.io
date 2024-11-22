@@ -104,7 +104,7 @@ author_profile: true
 
 - International Conference on Robotics and Automation (ICRA) 
 
-- International Conference on Intelligent Robots and Systems (IROS 2022) 
+- International Conference on Intelligent Robots and Systems (IROS) 
 
 - International Conference on Pattern Recognition (ICPR)
 
