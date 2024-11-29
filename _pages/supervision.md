@@ -12,7 +12,7 @@ I have supervised and co-supervised students at different universities. I enjoy 
 
 PhD student (primary supervisor):
 
-- Zixian Zhao (Sep 2024 - )
+- Zixian Zhao (Sep 2024 - ). Co-supervisor: Prof. Andrew Howes (Head of Department)
 
 MSc students:
 
