@@ -10,9 +10,6 @@ If you are interested in joining my group at the University of Exeter as a PhD s
 
 PhD Opportunities
 -------------
-**<span style="color: red;">The following opportunities are available for September 2025 entry</span>**: 
-
-- [China Scholarship Council (CSC) and University of Exeter PhD scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/) (The University of Exeter has 50 scholarships for Chinese students per year). The application deadline is **<span style="color: red;">02 December 2024</span>**. Applicants can select one project from the projected I listed [online](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/environment/), or they can discuss with me to write their own research proposal.
 
 **Other possible opportunities**
 
