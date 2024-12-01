@@ -7,6 +7,15 @@ author_profile: true
 {% include base_path %}
 
 **At University of Exeter**
+
+- 30th November, **AI roundtable discussion** at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting, London
+	- It was a great experience to talk about AI with Dr. Zhu Li from Imperial College, Dr. Yu Guan from Warwick University, and Dr. Yunpeng Li from KCL.
+
+<div style="display: flex; justify-content: center;">
+  <img src="/images/outreach/ai-roundtable-1.jpg" alt="image1" width="400" style="margin-right: 10px;">
+  <img src="/images/outreach/ai-roundtable-2.jpg" alt="image1" width="400">
+</div>
+
 - 26th October 2024, Robot dog demos, Open Day
 
 <div style="display: flex; justify-content: center;">
