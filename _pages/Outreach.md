@@ -13,6 +13,7 @@ author_profile: true
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/outreach/ai-roundtable-1.jpg" alt="image1" width="400" style="margin-right: 10px;">
+
   <img src="/images/outreach/ai-roundtable-2.jpg" alt="image1" width="400">
 </div>
 
