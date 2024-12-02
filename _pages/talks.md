@@ -7,13 +7,13 @@ author_profile: true
 
 **Coming talks**
 
-- AI roundtable discussion, [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting, London, **November 2024**.
-
 - Rethinking performance evaluation in image fusion, [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html), the British Computer Society, London, **December 2024**.
 
 - How AI Transforms My Job, Marie Curie Alumni Association Artificial Intelligence General Interest Group, **December 2024**.
 
 **Past talks**
+
+- AI roundtable discussion, [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting, London, November 2024.
 
 - An introduction to Prompt Engineering, Wuhan Union Hospital of China (online), November, 2024
 
