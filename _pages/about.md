@@ -53,19 +53,19 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
-[11/2024] I attended the **AI roundtable discussion** at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting on **30th November 2024** in London. It was a great experience to talk about AI with Dr. Zhu Li from Imperial College, Dr. Yu Guan from Warwick University, and Dr. Yunpeng Li from KCL.
+[11/2024] Invited to attend the **AI roundtable discussion** at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting on **30th November 2024** in London. It was a great experience to talk about AI with Dr. Zhu Li from Imperial College, Dr. Yu Guan from Warwick University, and Dr. Yunpeng Li from KCL.
 
-[11/2024] I organized a [BMVC2024](https://bmvc2024.org/) workshop entitled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London. The workshop was held in Glasgow, UK, on **27th November 2024**. The turnout far exceeded our expectations, and it was an inspiring experience for all. A huge thank you to our incredible keynote speakers, Prof. Bartlomiej Papiez and Prof. Hui Wang for their enlightening talks. More details can be found on our [workshop website](https://difa2024.github.io/).
+[11/2024] I organized a [BMVC2024](https://bmvc2024.org/) workshop titled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London, in Glasgow, UK, on **27th November 2024**. The turnout far exceeded our expectations, and it was an inspiring experience for all. A huge thank you to our incredible keynote speakers, Prof. Bartlomiej Papiez and Prof. Hui Wang for their enlightening talks. More details can be found on our [workshop website](https://difa2024.github.io/).
 
 [11/2024] Invited to give a talk titled "An introduction to Prompt Engineering" at Wuhan Union Hospital of China (online)
 
 [11/2024] Invited to give a talk titled "A brief introduction to AI" at Wuhan Union Hospital of China (online)
 
-[10/2024] Invited to give a research talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the University of University Open Day 
+[10/2024] Invited to give a research talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the University of Exeter Open Day 
 
 [09/2024] I have been listed among the **World's Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2024)! This is the second time I have been recognized as one of the "World's Top 2% Scientists".
 
-[09/2024] Welcome Zixian to join my lab as a PhD student!
+[09/2024] Welcome Zixian to join my group as a PhD student! Before joined my group, Zixian obtained his MSc degree (distinction) from Imperial College London.
 
 [09/2024] I started to serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
 
@@ -73,11 +73,11 @@ News
 
 [08/2024] Started serving as an Associate Editor for the [Chinese Journal of Information Fusion](https://www.iece.org/journal/cjif).
 
-[07/2024] [One paper](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab at Imperial College London. We proposed an end-to-end approach for short-term traffic flow prediction using surveillance cameras.
+[07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab at Imperial College London. We proposed an end-to-end approach for short-term traffic flow prediction using surveillance cameras.
 
 [07/2024] Two of my IEEE T-PAMI papers were selected as **ESI Highly Cited Papers**.
 
-[06/2024] [One paper](https://ieeexplore.ieee.org/abstract/document/10682960/) has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian!  The paper is based on Zixian's MSc project at Imperial College London, where I was his primary supervisor and Prof. Yiannis Demiris was his co-supervisor.
+[06/2024] Our paper “[3PFS: Protecting pedestrian privacy through face swapping](https://ieeexplore.ieee.org/abstract/document/10682960/) ” has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian!  The paper is based on Zixian's MSc project at Imperial College London, where I was his primary supervisor and Prof. Yiannis Demiris was his co-supervisor.
 
 [06/2024] Invited to give a talk on 6th June at "Future of AI Awards 2024: Collaborate, Debate, Invent". I introduced my research and shared my fellowship experience.
 
