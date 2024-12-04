@@ -105,9 +105,9 @@ News
 
 [07/2023] I am now a **Fellow of the Higher Education Academy (HEA)**! [[EEE Staff Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/qyw8xg2ljae?lang=en&a=6&p=11740175&t=4233382) [[EEE Staff Newsletter 2]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/rmlhmbxw3e5?lang=en&a=2&p=11740143&t=5376334)
 
-[04/2023] [One paper](https://www.sciencedirect.com/science/article/pii/S0031320323003345) has been accepted by **Pattern Recognition**.
+[04/2023] Our paper ['Dual-branch spatio-temporal graph neural networks for pedestrian trajectory prediction'](https://www.sciencedirect.com/science/article/pii/S0031320323003345) has been accepted by **Pattern Recognition**.
 
-[03/2023] [One paper](https://ieeexplore.ieee.org/abstract/document/10088423/) has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
+[03/2023] Our paper ['Visible and Infrared Image Fusion Using Deep Learning'](https://ieeexplore.ieee.org/abstract/document/10088423/) has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
 
 More news about me can be found [**here**](https://xingchenzhang.github.io/previous_news/).
 
