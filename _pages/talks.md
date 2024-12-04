@@ -13,6 +13,8 @@ author_profile: true
 
 **Past talks**
 
+- Techniques for Using Large Language Models, Wuhan Union Hospital of China (online), December 2024   
+
 - AI roundtable discussion, [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting, London, November 2024.
 
 - An introduction to Prompt Engineering, Wuhan Union Hospital of China (online), November, 2024
