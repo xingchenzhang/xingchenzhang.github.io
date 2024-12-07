@@ -11,13 +11,15 @@ If you are interested in joining my group at the University of Exeter as a PhD s
 PhD Opportunities
 -------------
 
+The application for Exeter-CSC PhD studentship (2025 September entry) **<span style="color: red;">has now closed</span>**. 
+
 **Other possible opportunities**
 
 - [EPSRC Funded PhD Studentships](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dtp-studentships/). The deadline is usually in **<span style="color: red;">mid February</span>**.
 - [Commonwealth PhD Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. 
 
 
-Additionally, **self-funded PhD students are always welcome** and can apply at any time. Please send an email to me to discuss more details, e.g., research proposals.
+Additionally, **self-funded PhD students are always welcome** and can apply at any time. Please send an email (with your CV) to me if you are interested.  
 
 **<span style="color: red;">Entry requirements</span>**
 
@@ -28,7 +30,8 @@ If English is not your first language you will need to meet the English language
 Visiting PhD students
 -------------
 
-I am also looking for visiting PhD students. More details about how to apply, visa and tuition fees, can be found [here](https://www.exeter.ac.uk/v8media/specificsites/tqa/pgr/PGR_Handbook_Chapter_16.pdf). In general,
+I am also looking for visiting PhD students. Please send an email (with your CV) to me if you are interested. 
+More details about how to apply, visa and tuition fees, can be found [here](https://www.exeter.ac.uk/v8media/specificsites/tqa/pgr/PGR_Handbook_Chapter_16.pdf). In general, the tuition fee for Visiting PhD students is as follows:
 
 - For visits of no more than (including) 3 calendar months), there is no tuition fee
 - For visits of between 3 and (including) 6 calendar months, the tuition fee is £500
