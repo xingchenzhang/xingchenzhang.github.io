@@ -34,10 +34,11 @@ dynamic Siamese networks using multi-layer feature fusion. Signal Processing: Im
 Communication, vol. 84, 2020.  
 6. **X. Zhang**, P. Ye, D. Qiao, J. Zhao, S. Peng, G. Xiao. Object Fusion Tracking Based on Visible and
 Infrared Images Using Fully Convolutional Siamese Networks. In Proceedings of the 22nd
-International Conference on Information Fusion, 2019.
+International Conference on Information Fusion, 2019.  
+7. **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community)
 
 
-<h2>2. Pedestrian-centric visual computing</h2>
+<h2>2. Human-centered visual computing</h2>
 <h3>(1) Pedestrian trajectory prediction based on graph neural network</h3>
 <p align="center"> 
   <img width="500" src="/images/research/Demo Social TAG.gif" />
@@ -53,10 +54,13 @@ International Conference on Information Fusion, 2019.
   <img width="700" src="/images/research/Pedestrian-tracking.gif" />
 </p>
 
+<h3>(4) Crowd counting</h3>
+
 
 Related publications:    
 1. **X. Zhang***, P. Angeloudis, Y. Demiris. Dual-branch Spatio-Temporal Graph Neural Networks for Pedestrian Trajectory Prediction, Pattern Recognition, vol. 142, 2023.    
 2. **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportations, vol. 23, no. 11, pp. 20773-20782, 2022.  
+3. **X. Zhang***, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023).  
  
 
 <h2>3. Responsible and ethical AI: Pedestrian privacy protection</h2>
