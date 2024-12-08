@@ -38,8 +38,6 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 Welcome to submit your manuscript to the following journals and special issues for which I am an editorial board member. Please feel free to contact me before submission if you have any questions.
 
 - **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif). We always welcome submissions.
- 
-- **Frontiers in Neurorobotics** Special Issue: "Multi-source and Multi-domain Data Fusion and Enhancement: Methods, Evaluation, and Applications". **Deadline:  04 December 2024**. [[Details and Submission]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications)
 
 - **Remote Sensing** and **Electronics** Special Issue: "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum". **Deadline: 31 December 2024**. [[Remote Sensing Submission]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)  [[Electronics Submission]](https://www.mdpi.com/journal/electronics/special_issues/48P302N872) 
 
