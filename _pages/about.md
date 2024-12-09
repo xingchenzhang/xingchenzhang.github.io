@@ -131,9 +131,9 @@ Selected collaborators
   <img src="/images/collaborators/PRL.png" alt="image1" height="50">
   <img src="/images/collaborators/ecnu.png" alt="image1" height="50">
   <img src="/images/collaborators/tsl.png" alt="image1" height="50">
-  <img src="/images/collaborators/sjtu.png" alt="image1" height="40">
-  <img src="/images/collaborators/hust.png" alt="image1" height="40">
-  <img src="/images/collaborators/yanshan.jpeg" alt="image1" height="40">
+  <img src="/images/collaborators/sjtu-2.png" alt="image1" height="40">
+  <img src="/images/collaborators/hust-2.png" alt="image1" height="40">
+  <img src="/images/collaborators/yanshan-2.png" alt="image1" height="40">
 </div>
 
 
