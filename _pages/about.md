@@ -48,6 +48,8 @@ Welcome to submit your manuscript to the following journals and special issues f
 
 [12/2024] I am organising **the first Exeter Computer Vision Workshop**. This is the first formal activity of the **Exeter Computer Vision Group**. This in-person workshop will feature engaging talks by academics, as well as presentations by postdocs and PhD students, offering a valuable platform for sharing research and receiving constructive feedback.  
 
+[12/2024] I will give a talk entitled "**Human-Centered Computer Vision: From Unimodality to Multimodality**" at the 1st Exeter Computer Vision Workshop, Exeter, UK, **December 2024**.
+
 [12/2024] I will give a talk entitled "**How AI Transforms My Job**" for the Around The World Webinar of the MCAA AI GIG (Marie Curie Alumni Association Artificial Intelligence General Interest Group). The talk will be on **13 December 2024**.
 
 News
@@ -118,6 +120,7 @@ My research has received funding from several funders, including the European Un
 <div style="display:inline-block">
   <img src="/images/funders/marie-curie.jpg" alt="image1" width="250">
   <img src="/images/funders/eu.jpg" alt="image2" width="250">
+  <img src="/images/funders/innovateuk.jpg" alt="image2" width="250">
 </div>
 
 Selected collaborators
