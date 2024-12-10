@@ -26,7 +26,7 @@ author_profile: true
 
 **Editorial boards**
 
-- Associate Editor, Chinese Journal of Information Fusion
+- Associate Editor, Chinese Journal of Information Fusion [[Details]](https://www.iece.org/journal/cjif)
 
 - Guest Editor, Remote Sensing [[Details]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)
 
@@ -37,7 +37,7 @@ author_profile: true
 - Reviewer editor, Brain Imaging Methods, Frontiers in Neuroscience
 
 
-**Reviewer for journals**
+**Reviewer for journals (Selected)**
 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
 
@@ -75,23 +75,8 @@ author_profile: true
 
 - Transportation Research Part C
 
-- Computational Visual Media
 
-- Computational Visual Method
- 
-- Structures
-
-- Displays
-
-- Computer-Aided Design
-
-- ASME Journal of Turbomachinery
-
-- Computers & Graphics
-
-- Entropy
-
-**Reviewer for conferences**
+**Reviewer for conferences (Selected)**
 
 
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
