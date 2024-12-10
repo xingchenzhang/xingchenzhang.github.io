@@ -11,7 +11,7 @@ For a full list of my publications, please refer to my [Google Scholar profile](
 Selected Publications
 ---------------------
 
-- Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, 2024.
+- Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.
 
 - **X. Zhang***, Y. Demiris. Visible and Infrared Image Fusion using Deep Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence,* vol. 45, no. 8, pp. 10535-10554, 2023. (**ESI Highly Cited Paper**)
 
