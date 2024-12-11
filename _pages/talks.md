@@ -7,13 +7,13 @@ author_profile: true
 
 **Coming talks**
 
-- Rethinking performance evaluation in image fusion, [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html), the British Computer Society, London, **December 2024**.
-
 - Human-Centered Computer Vision: From Unimodality to Multimodality, the 1st Exeter Computer Vision Workshop, University of Exeter, UK, **December 2024**.
 
 - How AI Transforms My Job, Marie Curie Alumni Association Artificial Intelligence General Interest Group, **December 2024**.
 
 **Past talks**
+
+- Rethinking performance evaluation in image fusion, [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html), the British Computer Society, London, December 2024.
 
 - Techniques for Using Large Language Models, Wuhan Union Hospital of China (online), December 2024   
 
