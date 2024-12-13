@@ -44,14 +44,14 @@ Welcome to submit your manuscript to the following journals and special issues f
 **Incoming activities**
 -------
 
-[12/2024] I am organising **the first Exeter Computer Vision Workshop**. This is the first formal activity of the **Exeter Computer Vision Group**. This in-person workshop will feature engaging talks by academics, as well as presentations by postdocs and PhD students, offering a valuable platform for sharing research and receiving constructive feedback. The workshop will be held at the University of Exeter on 13 December 2024.
-
-[12/2024] I will give a talk entitled "**Human-Centered Computer Vision: From Unimodality to Multimodality**" at the 1st Exeter Computer Vision Workshop, Exeter, UK, **December 2024**.
-
-[12/2024] I will give a talk entitled "**How AI Transforms My Job**" for the Around The World Webinar of the MCAA AI GIG (Marie Curie Alumni Association Artificial Intelligence General Interest Group). The talk will be on **13 December 2024**.
 
 News
 ----
+[12/2024] I organised **the first Exeter Computer Vision Workshop** at the University of Exeter. This is the first formal activity of the **Exeter Computer Vision Group**. This in-person workshop features engaging talks by academics, as well as presentations by postdocs and PhD students.
+
+[12/2024] I gave a talk titled "**Human-Centered Computer Vision: From Unimodality to Multimodality**" at the 1st Exeter Computer Vision Workshop, Exeter, UK.
+
+[12/2024] I gave a talk titled "**How AI is changing my job**" for the Around The World Webinar of the MCAA AI GIG (Marie Curie Alumni Association Artificial Intelligence General Interest Group).
 
 [12/2024] I gave a talk titled “**Rethinking performance evaluation in image fusion**” at the [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html) in the British Computer Society (BCS), London.
 
