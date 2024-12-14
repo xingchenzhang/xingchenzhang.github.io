@@ -8,6 +8,8 @@ author_profile: true
 
 **At University of Exeter**
 
+- 13th December, **How AI is changing my job** the Around The World Webinar of the MCAA AI GIG (Marie Curie Alumni Association Artificial Intelligence General Interest Group)
+
 - 30th November, **AI roundtable discussion** at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting, London
 	- It was a great experience to talk about AI with Dr. Zhu Li from Imperial College, Dr. Yu Guan from Warwick University, and Dr. Yunpeng Li from KCL.
 
