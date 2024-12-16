@@ -15,13 +15,13 @@ PhD Opportunities
 **Other possible opportunities**
 
 - [EPSRC Funded PhD Studentships](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dtp-studentships/): The deadline is around **<span style="color: red;">Midnight Monday 20th January 2025</span>**.
-- [Exeter-CSC PhD studentship](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2025 September entry) **<span style="color: red;">is now closed</span>**. 
+- [Exeter-CSC PhD studentship (Chinese students only)](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2025 September entry) **<span style="color: red;">is now closed</span>**. 
 - [Commonwealth PhD Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2025/26 academic year **<span style="color: red;">is now closed</span>**. 
 
 
 Additionally, **self-funded PhD students are always welcome** and can apply at any time. Please send an email (with your CV) to me if you are interested.  
 
-**<span style="color: red;">Entry requirements</span>**
+**Entry requirements**
 
 You should have obtained, or be about to obtain, a First or Upper Second Class UK Honours degree, or the equivalent qualifications gained outside the UK, in an appropriate area of science, engineering or technology.  Applicants with a Lower Second Class degree will be considered if they also have Masters degree or have significant relevant non-academic experience.
 
