@@ -15,7 +15,7 @@ PhD Opportunities
 
 - EPSRC DLA PhD Studentship: More details to be confirmed. The deadline is possibly in <span style="color: red;">**Feb 2025**</span>.
 - [University of Exeter PhD Scholarships for Black British Researchers](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/black-british/): This programme offers 4-year fully-funded PhD studentships to support Black British researchers. <span style="color: red;">**Deadline: midnight (UK time) on Friday 28 February 2025**</span>.
-- University of Exeter - Paris-Saclay studentships (Double PhD Degrees): <span style="color: red;">**Deadline: 31 March 2025**</span>. 
+- [University of Exeter - Paris-Saclay studentships (Double PhD Degrees)](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): <span style="color: red;">**Deadline: 31 March 2025**</span>. 
 
 **Other opportunities**
 
