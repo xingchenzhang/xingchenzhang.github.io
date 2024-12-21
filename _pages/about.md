@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Senior Lecturer (~Associate Professor)** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/), where I lead the Fusion Intelligence Laboratory. I also serve as the Deputy Director of Business Engagement & Innovation at the Department. I am a Visiting Researcher at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/). 
+I am a **Senior Lecturer (~Associate Professor)** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/), where I lead the Fusion Intelligence Laboratory. I also serve as the Deputy Director of Business Engagement & Innovation at the Department of Computing Science. I am a Visiting Researcher at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/). 
 
 Previously, I was a **Marie Skłodowska-Curie Individual Fellow** (Horizon 2020) at the Personal Robotics Laboratory, Imperial College London, working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). Before that, I was a Teaching Fellow (working with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk)) and Research Associate (working with Prof. Yiannis Demiris)  in the same department at Imperial College London. Additionally, I have previously held several roles at Imperial College London, including main supervisor of one MSc student, [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) and Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/).
 
@@ -41,17 +41,13 @@ Welcome to submit your manuscript to the following journals and special issues f
 
 - **Remote Sensing** and **Electronics** Special Issue: "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum". **Deadline: 31 December 2024**. [[Remote Sensing Submission]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)  [[Electronics Submission]](https://www.mdpi.com/journal/electronics/special_issues/48P302N872) 
 
-**Incoming activities**
--------
-
-
 News
 ----
 [12/2024] I organised the first Exeter Computer Vision Workshop at the University of Exeter. This is the first formal activity of the Exeter Computer Vision Group. This in-person workshop features engaging talks by academics, as well as presentations by postdocs and PhD students. [Exeter CS News (internal only)](https://universityofexeteruk.sharepoint.com/:u:/r/sites/ComputerScienceESE/SitePages/1st-Exeter-Computer-Vision-Workshop!.aspx?csf=1&web=1&e=bZ8QI6)
 
 [12/2024] I gave a talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the 1st Exeter Computer Vision Workshop, Exeter, UK.
 
-[12/2024] I gave a talk titled "How AI is changing my job" at the Around The World Webinar of the MCAA AI GIG (Marie Curie Alumni Association Artificial Intelligence General Interest Group).
+[12/2024] Invited to give a talk titled "How AI is changing my job" at the Around The World Webinar of the MCAA AI GIG (Marie Curie Alumni Association Artificial Intelligence General Interest Group).
 
 [12/2024] I gave a talk titled “Rethinking performance evaluation in image fusion” at the [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html) in the British Computer Society (BCS), London.
 
@@ -79,7 +75,7 @@ News
 
 [07/2024] Two of my IEEE T-PAMI papers were selected as **ESI Highly Cited Papers**.
 
-[06/2024] Our paper “[3PFS: Protecting pedestrian privacy through face swapping](https://ieeexplore.ieee.org/abstract/document/10682960/) ” has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian!  The paper is based on Zixian's MSc project at Imperial College London, where I was his primary supervisor and Prof. Yiannis Demiris was his co-supervisor.
+[06/2024] Our paper “[3PFS: Protecting pedestrian privacy through face swapping](https://ieeexplore.ieee.org/abstract/document/10682960/)” has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian!  The paper is based on Zixian's MSc project at Imperial College London, where I was his primary supervisor and Prof. Yiannis Demiris was his co-supervisor. The demo can be found in my '[Research](https://xingchenzhang.github.io/research/)' section.
 
 [06/2024] Invited to give a talk on 6th June at "Future of AI Awards 2024: Collaborate, Debate, Invent". I introduced my research and shared my fellowship experience.
 
