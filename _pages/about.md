@@ -55,8 +55,6 @@ News
 
 [12/2024] I gave a talk titled “Rethinking performance evaluation in image fusion” at the [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html) in the British Computer Society (BCS), London.
 
-[12/2024] Invited to give a talk "Techniques for Using Large Language Models" at Wuhan Union Hospital of China (online)   
-
 [11/2024] Invited to attend the AI roundtable discussion at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting on 30th November 2024 in London. It was a great experience to talk about AI with Dr. Zhu Li from Imperial College, Dr. Yu Guan from Warwick University, and Dr. Yunpeng Li from KCL.
 
 [11/2024] I organized a [BMVC2024](https://bmvc2024.org/) workshop titled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London, in Glasgow, UK, on 27th November 2024. The turnout far exceeded our expectations, and it was an inspiring experience for all. A huge thank you to our incredible keynote speakers, Prof. Bartlomiej Papiez and Prof. Hui Wang for their enlightening talks. More details can be found on our [workshop website](https://difa2024.github.io/).
