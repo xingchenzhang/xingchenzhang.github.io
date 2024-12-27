@@ -5,7 +5,7 @@ main:
     url: /vacancies/
     
   - title: "Team"
-    url: /Team/ 
+    url: /team/ 
     
   - title: "Research"
     url: /research/
