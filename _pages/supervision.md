@@ -10,9 +10,11 @@ I have supervised and co-supervised students at different universities. I enjoy 
 
 **At University of Exeter**
 
-PhD student (primary supervisor):
+PhD students (primary supervisor):
 
-- Zixian Zhao (Sep 2024 - ). Co-supervisor: Prof. Andrew Howes (Head of Department)
+- Zixian Zhao (Sep 2024 - ). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science)
+
+- Ning Wang (Jan 2025 - ). Co-supervisor: Prof. Xujiong Ye
 
 MSc students:
 
