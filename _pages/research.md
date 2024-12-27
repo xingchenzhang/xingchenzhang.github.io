@@ -101,4 +101,4 @@ I am collaborating with the Personal Robotics Lab at Imperial College London. We
 </div>
 
 <h2>6. AI for Science</h2>
-An ongoing collaborative project.
+Ongoing collaborative projects.
