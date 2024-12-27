@@ -4,6 +4,9 @@ main:
   - title: "Vacancies"
     url: /vacancies/
     
+  - title: "Team"
+    url: /Team/ 
+    
   - title: "Research"
     url: /research/
     
@@ -12,9 +15,6 @@ main:
 
   - title: "Talks"
     url: /talks/   
-    
-  - title: "Team"
-    url: /Team/ 
 
   - title: "Teaching"
     url: /teaching/    

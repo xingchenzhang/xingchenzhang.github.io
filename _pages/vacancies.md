@@ -22,8 +22,9 @@ PhD Opportunities
 - [Exeter-CSC PhD studentship (Chinese students only)](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2025 September entry) **<span style="color: red;">is now closed</span>**. 
 - [Commonwealth PhD Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2025/26 academic year **<span style="color: red;">is now closed</span>**. 
 
+**Self-funded PhD students**
 
-Additionally, **self-funded PhD students are always welcome** and can apply at any time. Please send an email (with your CV) to me if you are interested.  
+Self-funded PhD students are always welcome and can apply at any time. Please send an email (with your CV) to me if you are interested.  
 
 **Entry requirements**
 
