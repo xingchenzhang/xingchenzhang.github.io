@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Public engagement, Outreach, and Open Day"
+title: "Public engagement, Outreach, and Open Days"
 permalink: /outreach/
 author_profile: true
 ---
