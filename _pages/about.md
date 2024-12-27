@@ -31,7 +31,7 @@ My research areas include
 
 **Joining my Fusion Intelligence Laboratory at the University of Exeter**
 -------
-I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Laboratory as a PhD student or a visiting student, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Join My Group](https://xingchenzhang.github.io/vacancies/)' section.
+I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Laboratory as a PhD student or a visiting student, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Vacancies](https://xingchenzhang.github.io/vacancies/)' section.
 
 **Call for papers**
 -------
