@@ -1,8 +1,5 @@
 # main links links
 main:
-
-  - title: "Vacancies"
-    url: /vacancies/
     
   - title: "Team"
     url: /team/ 
@@ -18,12 +15,15 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-  
-  - title: "Services"
-    url: /services/
 
+  - title: "Vacancies"
+    url: /vacancies/
+  
   - title: "Honors"
     url: /honors/
+
+  - title: "Services"
+    url: /services/
 
   - title: "Outreach"
     url: /outreach/
