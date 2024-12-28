@@ -26,7 +26,7 @@ My research areas include
 - Deep learning (e.g., multi-modal learning, self-supervised learning, graph-based learning)  
 - Image fusion (visible-infrared, multi-focus, multi-exposure, multi-modal medical image)  
 - Multimodal applications (e.g., RGB-T tracking, RGB-T segmentation, RGB-T crowd counting)  
-- Robotics and AI (Multimodal robot perception)
+- Robotics and AI (e.g., Robot perception)
 - Ethical AI (pedestrian privacy protection)    
 
 **Joining my Fusion Intelligence Laboratory at the University of Exeter**

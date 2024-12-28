@@ -12,7 +12,7 @@ My research areas include
 - Deep learning (e.g., multi-modal learning, self-supervised learning, graph-based learning)  
 - Image fusion (visible-infrared, multi-focus, multi-exposure)  
 - Multimodal applications (e.g., RGB-T tracking, RGB-T segmentation, RGB-T crowd counting)  
-- Robotics and AI (Multimodal robot perception)
+- Robotics and AI (e.g., Robot perception)
 - Ethical AI (pedestrian privacy protection)   
 
 Some of my projects are as follows:
@@ -93,7 +93,7 @@ object recovery. IET Image Processing, vol. 15, no. 4, pp. 918-935, 2021.
 correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-761, 2020.
 3. J. Zhao, G. Xiao, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019.
 
-<h2>5. Robotics and AI, especially Multimodal robot perception</h2>
+<h2>5. Robotics and AI, especially robot perception</h2>
 I am collaborating with the Personal Robotics Lab at Imperial College London. We are aiming at improving the perception capability of mobile robots.
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="/images/research/dog_video1.gif" alt="First Image" style="height: 350px; width: auto; margin-right: 20px;">
