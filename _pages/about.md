@@ -43,7 +43,7 @@ Welcome to submit your manuscript to the following journals and special issues f
 
 News
 ----
-[12/2024] Welcome Ning to join my lab as a PhD student! 
+[01/2025] Welcome Ning to join my lab as a PhD student! 
 
 [12/2024] I organised the first Exeter Computer Vision Workshop at the University of Exeter. This is the first formal activity of the **Exeter Computer Vision Group**. This in-person workshop featured engaging talks by academics, as well as presentations by postdocs and PhD students. [Exeter CS News (internal only)](https://universityofexeteruk.sharepoint.com/:u:/r/sites/ComputerScienceESE/SitePages/1st-Exeter-Computer-Vision-Workshop!.aspx?csf=1&web=1&e=bZ8QI6)
 
