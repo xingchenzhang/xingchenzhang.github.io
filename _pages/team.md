@@ -6,11 +6,13 @@ author_profile: true
 ---
 {% include base_path %}
 
-I have supervised and co-supervised students at different universities. I enjoy seeing students improve through my supervision. 
+I have supervised and co-supervised students at various universities and continue to do so in my current role. I deeply enjoy supporting students' growth and development through my supervision.
 
 **At University of Exeter**
 
-PhD students (primary supervisor):
+At the University of Exeter, I lead the **Fusion Intelligence Laboratory**, where I supervise PhD, MSc, and undergraduate students.
+
+PhD students (as primary supervisor):
 
 - Zixian Zhao (Sep 2024 - ). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science)
 
@@ -20,11 +22,11 @@ MSc students:
 
 - Qinqing Li (November 2024 - )
 
-- Charlie Wilkinson (June - Aug 2024)
+- Charlie Wilkinson (June - Aug 2024): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators
  
-- Ahmer Jalil Najar (June - Aug 2024)
+- Ahmer Jalil Najar (June - Aug 2024): Advanced Sentiment Analysis in Sub-Reddit Discussions
 
-- Yifeng Wang (June - Aug 2024)
+- Yifeng Wang (June - Aug 2024): NLP Techniques for Anonymising Sensitive Data
 
 Undergraduate students:
 
@@ -34,7 +36,7 @@ Undergraduate students:
 
 **At Imperial College London**
 
-I was the primary supervisor of one MSc student in Applied Machine Learning at EEE from 2022 to 2023 and has been an [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) appointed by Imperial College since December 2020. **All the MSc students I supervised or co-supervised at Imperial College got their degrees with distinction**. I am a mentor of [Imperial’s Activate Student Mentoring Programm](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/), where I support one PhD student to enhance her academic and professional development.  
+I was the primary supervisor of one MSc student in Applied Machine Learning at the Department of EEE from 2022 to 2023 and has been an [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) appointed by Imperial College since December 2020. **All the MSc students I supervised or co-supervised at Imperial College got their degrees with distinction**. Additionally, I am a mentor of [Imperial’s Activate Student Mentoring Programm](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/), where I supported one PhD student to enhance her academic and professional development.  
 
 - As the primary supervisor
 
@@ -42,6 +44,12 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at E
 		- Topic: Computer Vision-based Video Anonymisation for Privacy Protection
 		- Published one paper in IEEE Transactions on Intelligent Transportation Systems based on the MSc project
 		- Now a PhD student at the University of Exeter (fully funded by the university)  
+
+
+- As a mentor of Imperial’s Activate Student Mentoring Programme
+
+	- [Sneha Jha](https://profiles.imperial.ac.uk/sneha.jha20) (PhD student)
+	
 	
 - As the assistant supervisor (co-supervise with Prof.  Yiannis Demiris)
 
@@ -57,9 +65,6 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at E
 		- Topic: Mixed Traffic Simulation for Autonomous Systems in Shared Spaces 	
 		- Now a Project Engineer at Kongsberg Defence & Aerospace
 
-- As a mentor of Imperial’s Activate Student Mentoring Programme
-
-	- [Sneha Jha](https://profiles.imperial.ac.uk/sneha.jha20) (PhD student)
 
 **At Shanghai Jiao Tong University**
 
