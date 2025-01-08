@@ -6,7 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-I have supervised and co-supervised students at various universities and continue to do so in my current role. I deeply enjoy supporting students' growth and development through my supervision.
+I have supervised and co-supervised students at various universities and continue to do so in my current role. I deeply enjoy supporting students' growth and development through my supervision. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life.**
+
 
 **At University of Exeter**
 
