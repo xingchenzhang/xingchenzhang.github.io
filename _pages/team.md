@@ -23,6 +23,10 @@ MSc students:
 
 - Qinqing Li (November 2024 - )
 
+- Raghavendra Margasahayam Venkatesh (Jan 2025 - )
+
+- Mujeeb Adewuyi Sonibare (Jan 2025 -)
+
 - Charlie Wilkinson (June - Aug 2024): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators
  
 - Ahmer Jalil Najar (June - Aug 2024): Advanced Sentiment Analysis in Sub-Reddit Discussions
@@ -31,9 +35,9 @@ MSc students:
 
 Undergraduate students:
 
-- Toby Shelford (2024 Sep - 2025)
+- Toby Shelford (Sep 2024 - 2025)
 
-- Zihan Wang (2024 Sep - 2025)
+- Zihan Wang (Sep 2024 - 2025)
 
 **At Imperial College London**
 
