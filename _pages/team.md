@@ -27,17 +27,20 @@ MSc students:
 
 - Mujeeb Adewuyi Sonibare (Jan 2025 -)
 
-- Charlie Wilkinson (June - Aug 2024): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators
- 
-- Ahmer Jalil Najar (June - Aug 2024): Advanced Sentiment Analysis in Sub-Reddit Discussions
-
-- Yifeng Wang (June - Aug 2024): NLP Techniques for Anonymising Sensitive Data
 
 Undergraduate students:
 
 - Toby Shelford (Sep 2024 - 2025)
 
 - Zihan Wang (Sep 2024 - 2025)
+
+Alumni:
+
+- Charlie Wilkinson (June - Aug 2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators
+ 
+- Ahmer Jalil Najar (June - Aug 2024, MSc): Advanced Sentiment Analysis in Sub-Reddit Discussions
+
+- Yifeng Wang (June - Aug 2024, MSc): NLP Techniques for Anonymising Sensitive Data
 
 **At Imperial College London**
 
