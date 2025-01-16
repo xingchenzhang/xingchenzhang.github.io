@@ -30,9 +30,9 @@ MSc students:
 
 Undergraduate students:
 
-- Toby Shelford (Sep 2024 - 2025)
+- Toby Shelford (Sep 2024 -)
 
-- Zihan Wang (Sep 2024 - 2025)
+- Zihan Wang (Sep 2024 - )
 
 Alumni:
 
