@@ -80,10 +80,11 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
 
 	- [Ping Ye](https://www.researchgate.net/profile/Ping-Ye-6) (PhD student)
 		- Topic: Object tracking, information fusion
+		- Now a lecturer at Ningxia University
 
 	- [Jun Liu](https://zxxy.suse.edu.cn/p/74/?StId=st_app_news_i_x637974583413820740) (graduate student)
 		- Topic: Object tracking
-		- Now a lecturer at the Sichuan University of Science and Engineering
+		- Now a lecturer at Sichuan University of Science and Engineering
 	
 	- [Shengyun Peng](https://shengyun-peng.github.io/) (undergraduate student)
 		- Topic: Computer vision, object tracking
