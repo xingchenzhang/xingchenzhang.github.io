@@ -23,9 +23,9 @@ MSc students:
 
 - Qinqing Li (November 2024 - )
 
-- Raghavendra Margasahayam Venkatesh (Jan 2025 - )
-
 - Mujeeb Adewuyi Sonibare (Jan 2025 -)
+
+- Raghavendra Margasahayam Venkatesh (Jan 2025 - )
 
 
 Undergraduate students:
