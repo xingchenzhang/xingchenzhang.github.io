@@ -47,7 +47,7 @@ News
 ----
 [01/2025] Welcome Ning to join my lab as a PhD student! 
 
-[12/2024] I organised the first Exeter Computer Vision Workshop at the University of Exeter. This is the first formal activity of the **Exeter Computer Vision Group**. This in-person workshop featured engaging talks by academics, as well as presentations by postdocs and PhD students. [Exeter CS News (internal only)](https://universityofexeteruk.sharepoint.com/:u:/r/sites/ComputerScienceESE/SitePages/1st-Exeter-Computer-Vision-Workshop!.aspx?csf=1&web=1&e=bZ8QI6)
+[12/2024] I organised the first Exeter Computer Vision Workshop at the University of Exeter. This is the first formal activity of the **Exeter Computer Vision Group**. [Exeter CS News (internal only)](https://universityofexeteruk.sharepoint.com/:u:/r/sites/ComputerScienceESE/SitePages/1st-Exeter-Computer-Vision-Workshop!.aspx?csf=1&web=1&e=bZ8QI6)
 
 [12/2024] I gave a talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the 1st Exeter Computer Vision Workshop, Exeter, UK.
 
@@ -55,9 +55,9 @@ News
 
 [12/2024] I gave a talk titled “Rethinking performance evaluation in image fusion” at the [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html) in the British Computer Society (BCS), London.
 
-[11/2024] Invited to attend the AI roundtable discussion at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting on 30th November 2024 in London. It was a great experience to talk about AI with Dr. Zhu Li from Imperial College, Dr. Yu Guan from Warwick University, and Dr. Yunpeng Li from KCL.
+[11/2024] Invited to attend the AI roundtable discussion at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting on 30th November 2024 in London. 
 
-[11/2024] I organized a [BMVC2024](https://bmvc2024.org/) workshop titled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” with Dr. Zhixiang Chen from the University of Sheffield, Dr. Shuyan Li from Queen's University Belfast, and Prof. Yiannis Demiris from Imperial College London, in Glasgow, UK, on 27th November 2024. The turnout far exceeded our expectations, and it was an inspiring experience for all. A huge thank you to our incredible keynote speakers, Prof. Bartlomiej Papiez and Prof. Hui Wang for their enlightening talks. More details can be found on our [workshop website](https://difa2024.github.io/).
+[11/2024] I organized a [BMVC2024](https://bmvc2024.org/) workshop titled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” as the lead organizer in Glasgow, UK, on 27th November 2024. More details can be found on our [workshop website](https://difa2024.github.io/).
 
 [11/2024] Invited to give a talk titled "An introduction to Prompt Engineering" at Wuhan Union Hospital of China (online)
 
@@ -65,9 +65,9 @@ News
 
 [10/2024] Invited to give a research talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the University of Exeter Open Day 
 
-[09/2024] I have been listed among the **World's Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2024)! This is the second time I have been recognized as one of the "World's Top 2% Scientists".
+[09/2024] I have been listed among the **World's Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2024)!
 
-[09/2024] Welcome Zixian to join my group as a PhD student! Before joined my group, Zixian obtained his MSc degree (distinction) from Imperial College London.
+[09/2024] Welcome Zixian to join my group as a PhD student! Before joined my group, Zixian obtained his MSc degree (with distinction) from Imperial College London.
 
 [09/2024] I started to serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
 
@@ -98,8 +98,6 @@ News
 [12/2023] I was awarded the **Department Award for Citizenship and Communit**y by the Department of EEE, Imperial College London. [[Imperial News]](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/).
 
 [11/2023] I was selected as "**Fellow of the Month**" by the Postdoc and Fellows Development Centre (PFDC), Imperial College London. [[PFDC Newsletter]](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1fftgrnkwzim5ti3wepqzp?lang=en&a=2&p=11850824&t=4496005).
-
-[11/2023] My MSc student obtained his degree with distinction! Congratulations to Zixian! So far, **all the MSc students I supervised or co-supervised at Imperial College London have got distinction**!
 
 [09/2023] I have been listed among the **World's Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2023)!
 

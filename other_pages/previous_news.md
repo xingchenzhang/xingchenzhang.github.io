@@ -13,6 +13,9 @@ permalink: /previous_news/
 
 [06/2023] I was selected as a Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/).
 
+
+[11/2023] My MSc student obtained his degree with distinction! Congratulations to Zixian! So far, **all the MSc students I supervised or co-supervised at Imperial College London have got distinction**!
+
 [12/2022] I was invited to give a talk "The beauty of fusion: Deep learning-based image fusion and its applications" at China Agricultural University (online).
 
 [04/2022] One paper has been accepted by **IEEE Transactions on Intelligent Transportation Systems**.
