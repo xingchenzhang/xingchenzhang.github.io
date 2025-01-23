@@ -67,7 +67,8 @@ News
 
 [10/2024] Invited to give a research talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the University of Exeter Open Day 
 
-[09/2024] I have been listed among the **World's Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2024)!
+[09/2024] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>**
+ ([Stanford University's list](https://topresearcherslist.com/), 2024)!
 
 [09/2024] Welcome Zixian to join my group as a PhD student! Before joined my group, Zixian obtained his MSc degree (with distinction) from Imperial College London.
 
@@ -79,7 +80,7 @@ News
 
 [07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab at Imperial College London. We proposed an end-to-end approach for short-term traffic flow prediction using surveillance cameras.
 
-[07/2024] Two of my IEEE T-PAMI papers were selected as **ESI Highly Cited Papers**.
+[07/2024] Two of my IEEE T-PAMI papers were selected as **<span style="color: red;">ESI Highly Cited Papers</span>**.
 
 [06/2024] Our paper “[3PFS: Protecting pedestrian privacy through face swapping](https://ieeexplore.ieee.org/abstract/document/10682960/)” has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian!  The paper is based on Zixian's MSc project at Imperial College London, where I was his primary supervisor and Prof. Yiannis Demiris was his co-supervisor. The demo can be found in my '[Research](https://xingchenzhang.github.io/research/)' section.
 
@@ -91,7 +92,8 @@ News
 
 [04/2024] I joined the University of Exeter as a **Senior Lecturer** (~Associate Professor).
 
-[03/2024] I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)".
+[03/2024] I was featured as **<span style="color: red;">"Imperial People"</span>**
+[[Details]](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/).
 <div style="display: flex; justify-content: center;">
   <img src="/images/imperial-people.jpg" alt="image1" width="400">
 </div>
@@ -101,9 +103,9 @@ News
 
 [11/2023] I was selected as "**Fellow of the Month**" by the Postdoc and Fellows Development Centre (PFDC), Imperial College London. [[PFDC Newsletter]](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1fftgrnkwzim5ti3wepqzp?lang=en&a=2&p=11850824&t=4496005).
 
-[09/2023] I have been listed among the **World's Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2023)!
+[09/2023] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>** ([Stanford University's list](https://topresearcherslist.com/), 2023)!
 
-[07/2023] I am now a **Fellow of the Higher Education Academy (HEA)**! [[EEE Staff Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/qyw8xg2ljae?lang=en&a=6&p=11740175&t=4233382) [[EEE Staff Newsletter 2]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/rmlhmbxw3e5?lang=en&a=2&p=11740143&t=5376334)
+[07/2023] I am now a **<span style="color: red;">Fellow of the Higher Education Academy (HEA)</span>**! [[EEE Staff Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/qyw8xg2ljae?lang=en&a=6&p=11740175&t=4233382) [[EEE Staff Newsletter 2]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/rmlhmbxw3e5?lang=en&a=2&p=11740143&t=5376334)
 
 [04/2023] Our paper ['Dual-branch spatio-temporal graph neural networks for pedestrian trajectory prediction'](https://www.sciencedirect.com/science/article/pii/S0031320323003345) has been accepted by **Pattern Recognition**.
 
