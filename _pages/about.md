@@ -10,11 +10,11 @@ redirect_from:
 
 I am a **Senior Lecturer (~Associate Professor)** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/), where I lead the **Fusion Intelligence Laboratory**. I am a core member of the **Exeter Computer Vision Group** and the Deputy Director of Business Engagement & Innovation at the Department of Computing Science. I am also a Visiting Researcher at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/). 
 
-Previously, I was a **Marie Skłodowska-Curie Individual Fellow** (Horizon 2020) at the Personal Robotics Laboratory, Imperial College London, working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). Before that, I was a Teaching Fellow (working with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk)) and Research Associate (working with Prof. Yiannis Demiris)  in the same department at Imperial College London. Additionally, I have previously held several roles at Imperial College London, including main supervisor of one MSc student, [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) and Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/).
+Previously, I was a **Marie Skłodowska-Curie Individual Fellow** (Horizon 2020) at the Personal Robotics Laboratory, Imperial College London, working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). Before that, I was a Teaching Fellow (working with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk). I was a lecturer for the Deep Learning course at the Department of EEE, where I taught representation learning, generative models, reinforcement learning, hyperparameters and meta-learning to more than 100 MEng and MSc students) and Research Associate (working with Prof. Yiannis Demiris)  in the same department at Imperial College London. Additionally, I have previously held several roles at Imperial College London, including main supervisor of one MSc student, [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) and Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/).
 
 I am a Fellow of the [Higher Education Academy (HEA)](https://www.advance-he.ac.uk/). I have been listed among the **World’s Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2023, 2024)! 
 
-In 2024, I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)" by Imperial College London. In 2023, I received the [Imperial's EEE Department Award for Citizenship and Community](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/). I was selected as the "[Fellow of the Month](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1d91qfpwhn6m5ti3wepqzp?email=true&lang=en&a=6&p=11850824&t=3895058)" by the Postdocs and Fellows Development Centre (PFDC) of Imperial College London in November 2023.  In 2022, I was a lecturer for the Deep Learning course at the Department of Electrical and Electronic Engineering, Imperial College London, where I taught representation learning, generative models, reinforcement learning, hyperparameters and meta-learning **to more than 100 MEng and MSc students**.  In 2021, I was awarded the prestigious Marie Skłodowska-Curie Individual Fellowship by the European Commission. Additionally, I co-authored a book entitled [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors), which won the **National Science and Technology Academic Publications Fund of China (2019)**. I received the Best Paper Honorable Mention Award of the 9th Chinese Conference on Information Fusion (2019). 
+In 2024, I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)" by Imperial College London. In 2023, I received the [Imperial's EEE Department Award for Citizenship and Community](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/). In November 2023, I was selected as the "[Fellow of the Month](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1d91qfpwhn6m5ti3wepqzp?email=true&lang=en&a=6&p=11850824&t=3895058)" by the Postdocs and Fellows Development Centre (PFDC) of Imperial College London. In 2021, I was awarded the prestigious Marie Skłodowska-Curie Individual Fellowship by the European Commission. Additionally, I co-authored a book entitled [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors), which won the **National Science and Technology Academic Publications Fund of China (2019)**. I received the Best Paper Honorable Mention Award of the 9th Chinese Conference on Information Fusion (2019). 
 
 I am a member of the UKRI Talent Peer Review College, where I review the prestigious UKRI Future Leaders Fellowships, EPSRC Open Fellowship, EPSRC New Investigator Award, and EPSRC Standard Research Grant. I am also a reviewer for more than 20 well-known journals (e.g., IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TIM, IEEE RAL, Information Fusion) and more than 10 conferences (e.g., CVPR, ECCV, ICCV, AAAI, BMVC, ACCV, ICRA, IROS). 
 
@@ -35,6 +35,8 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 
 - [EPSRC Doctoral Landscape Award Studentship](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dla-studentships/): I am looking for candidates for the EPSRC PhD Studentship (international students are eligible). The project is **Efficient Deep Learning Algorithms for Pedestrian-Centric Multimodal Robot Perception**. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor. [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris) from Imperial College London is a collaborator of this project, and he will host the student for a placement of at least three months at Imperial College London. The application deadline is  **<span style="color: red;">midnight Monday 10 February 2025</span>**. More details can be found [here](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dla-studentships/). 
 
+- [University of Exeter PhD Scholarships for Black British Researchers](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/black-british/): This programme offers 4-year fully-funded PhD studentships to support Black British researchers. <span style="color: red;">**Deadline: midnight (UK time) on Friday 28 February 2025**</span>.
+
 **Call for papers**
 -------
 Welcome to submit your manuscript to the following journals and special issues for which I am an editorial board member. Please feel free to contact me before submission if you have any questions.
@@ -45,7 +47,9 @@ Welcome to submit your manuscript to the following journals and special issues f
 
 News
 ----
-[02/2025] I will give a talk at the Personal Robotics Lab at Imperial College London. I will also give a talk at the Intelligent Systems and Networks group at Imperial College London.
+[02/2025] I will give a talk at the Personal Robotics Lab at Imperial College London. 
+
+[02/2025] I will give a talk at the Intelligent Systems and Networks group at Imperial College London.
 
 [01/2025] Welcome Ning to join my lab as a PhD student! 
 
@@ -78,7 +82,7 @@ News
 
 [08/2024] Started serving as an Associate Editor for the [Chinese Journal of Information Fusion](https://www.iece.org/journal/cjif).
 
-[07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab at Imperial College London. We proposed an end-to-end approach for short-term traffic flow prediction using surveillance cameras.
+[07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab and Personal Robotics Lab at Imperial College London. We proposed an end-to-end approach for short-term traffic flow prediction using surveillance cameras (Transport for London).
 
 [07/2024] Two of my IEEE T-PAMI papers were selected as **<span style="color: red;">ESI Highly Cited Papers</span>**.
 
@@ -90,7 +94,7 @@ News
 
 [04/2024] I established the **Fusion Intelligence Laboratory** at the Department of Computer Science, University of Exeter. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
-[04/2024] I joined the University of Exeter as a **Senior Lecturer** (~Associate Professor).
+[04/2024] I joined the University of Exeter as a **Senior Lecturer** (~Associate Professor in the UK system).
 
 [03/2024] I was featured as **<span style="color: red;">"Imperial People"</span>**
 [[Details]](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/).
