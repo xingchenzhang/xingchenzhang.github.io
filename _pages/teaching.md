@@ -22,7 +22,7 @@ I enjoy seeing students improve through my teaching. As Mencius the philosopher 
 
 **At Imperial College London**
 
-- **Lecturer**, ELEC60009/96033/96039, Deep Learning (Spring 2021-2022), Department of Electrical and Electronic Engineering. I taught representation learning, generative models, reinforcement learning, hyperparameters and meta-learning to **more than 100 MEng and MSc students**. 
+- **Lecturer**, ELEC60009/96033/96039, Deep Learning (Spring 2021-2022), Department of Electrical and Electronic Engineering. I taught representation learning, generative models, reinforcement learning, hyperparameters and meta-learning to **more than 100 MEng and MSc students**. Working with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk)
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/teaching/teaching-DL-1.jpg" alt="image1" width="400" style="margin-right: 10px;">
