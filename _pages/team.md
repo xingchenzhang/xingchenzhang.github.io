@@ -27,6 +27,7 @@ MSc students:
 
 - Raghavendra Margasahayam Venkatesh (Jan 2025 - )
 
+- Heegon Kim (Jan 2025 - )
 
 Undergraduate students:
 
