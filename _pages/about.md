@@ -49,8 +49,6 @@ News
 ----
 [02/2025] I will give a talk at the Personal Robotics Lab at Imperial College London. 
 
-[02/2025] I will give a talk at the Intelligent Systems and Networks group at Imperial College London.
-
 [01/2025] Welcome Ning to join my lab as a PhD student! 
 
 [12/2024] I organised the first Exeter Computer Vision Workshop at the University of Exeter. This is the first formal activity of the **Exeter Computer Vision Group**. [Exeter CS News (internal only)](https://universityofexeteruk.sharepoint.com/:u:/r/sites/ComputerScienceESE/SitePages/1st-Exeter-Computer-Vision-Workshop!.aspx?csf=1&web=1&e=bZ8QI6)
