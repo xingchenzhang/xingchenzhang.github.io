@@ -7,7 +7,9 @@ author_profile: true
 
 **Coming talks**
 
-- [02/2025] I will give a talk at the Personal Robotics Lab at Imperial College London. 
+- [02/2025] I will give a talk at the Personal Robotics Lab, Imperial College London. 
+
+- [02/2025] I will give a talk at the Intelligent Systems and Network Group, Imperial College London.
 
 **Past talks**
 
