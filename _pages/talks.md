@@ -9,9 +9,10 @@ author_profile: true
 
 - [02/2025] I will give a talk at the Personal Robotics Lab, Imperial College London. 
 
-- [02/2025] I will give a talk at the Intelligent Systems and Network Group, Imperial College London.
 
 **Past talks**
+
+- Human-Centered Computer Vision: From Unimodality to Multimodality, Intelligent Systems and Network Group, Imperial College London, Feb 2025.
 
 - Human-Centered Computer Vision: From Unimodality to Multimodality, the 1st Exeter Computer Vision Workshop, University of Exeter, UK, December 2024.
 
