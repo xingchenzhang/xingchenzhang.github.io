@@ -13,9 +13,8 @@ PhD Opportunities
 
 **Current opportunities**
 
-- [EPSRC Doctoral Landscape Award Studentship](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dla-studentships/): I am looking for candidates for the EPSRC PhD Studentship (international students are eligible). The project is **Efficient Deep Learning Algorithms for Pedestrian-Centric Multimodal Robot Perception**. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor. [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris) from Imperial College London is a collaborator of this project, and he will host the student for a placement of at least three months at Imperial College London. The application deadline is  **<span style="color: red;">midnight Monday 10 February 2025</span>**. More details can be found [here](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dla-studentships/). **The project description can be found** [here](https://www.exeter.ac.uk/v8media/recruitmentsites/documents/Efficient_Deep_Learning_Algorithms_for_Pedestrian-Centric_Multimodal_Robot_Perception_EPSRC_DLA_Project_September_2025_Entry.pdf).
 - [University of Exeter PhD Scholarships for Black British Researchers](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/black-british/): This programme offers 4-year fully-funded PhD studentships to support Black British researchers. <span style="color: red;">**Deadline: midnight (UK time) on Friday 28 February 2025**</span>.
-- [University of Exeter - Paris-Saclay studentships (Double PhD Degrees)](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): <span style="color: red;">**Deadline: 31 March 2025**</span>. 
+- [University of Exeter - Paris-Saclay studentships (Double PhD Degrees)](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for the EPSRC PhD Studentship (international students are eligible). The project is **Efficient Multimodal Perception Integrating Human Decision Models for Robot-Pedestrian Interaction Applications**. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. More details can be found [here](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=61449). <span style="color: red;">**Application Deadline: 31 March 2025**</span>. 
 
 **Other opportunities**
 
@@ -46,6 +45,6 @@ More details about how to apply, visa and tuition fees, can be found [here](http
 Postdoc Opportunities
 -------------
 
-- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024)
+- [Newton Fellowship](https://royalsociety.org/grants/newton-international/). Deadline: 18 March 2025.
+- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024). Deadline: September 2025.
 - [EPSRC Postdoctoral Fellowships](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
-
