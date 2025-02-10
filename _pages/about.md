@@ -27,7 +27,9 @@ My research areas include
 - Image fusion (visible-infrared, multi-focus, multi-exposure, multi-modal medical image)  
 - Multimodal applications (e.g., RGB-T tracking, RGB-T segmentation, RGB-T crowd counting)  
 - Robotics and AI (e.g., Robot perception)
-- Ethical AI (pedestrian privacy protection)    
+- Ethical AI (pedestrian privacy protection)   
+
+To know more about my research, please go to the  '[Research](https://xingchenzhang.github.io/research/)' section.
 
 **Joining my Fusion Intelligence Laboratory at the University of Exeter**
 -------
