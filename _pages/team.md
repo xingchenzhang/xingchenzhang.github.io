@@ -8,8 +8,7 @@ author_profile: true
 
 I have supervised and co-supervised students at various universities and continue to do so in my current role. I deeply enjoy supporting students' growth and development through my supervision. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life.**
 
-
-**At University of Exeter**
+**Current team**
 
 At the University of Exeter, I lead the **Fusion Intelligence Laboratory**, where I supervise PhD, MSc, and undergraduate students.
 
@@ -35,7 +34,9 @@ Undergraduate students:
 
 - Zihan Wang (Sep 2024 - )
 
-Alumni:
+**Alumni**
+
+University of Exeter:
 
 - Charlie Wilkinson (June - Aug 2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators
  
@@ -43,7 +44,7 @@ Alumni:
 
 - Yifeng Wang (June - Aug 2024, MSc): NLP Techniques for Anonymising Sensitive Data
 
-**At Imperial College London**
+Imperial College London:
 
 I was the primary supervisor of one MSc student in Applied Machine Learning at the Department of EEE from 2022 to 2023 and has been an [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) appointed by Imperial College since December 2020. **All the MSc students I supervised or co-supervised at Imperial College got their degrees with distinction**. Additionally, I am a mentor of [Imperial’s Activate Student Mentoring Programm](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/), where I supported one PhD student to enhance her academic and professional development.  
 
@@ -75,7 +76,7 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
 		- Now a Project Engineer at Kongsberg Defence & Aerospace
 
 
-**At Shanghai Jiao Tong University**
+Shanghai Jiao Tong University
 
 - As the co-supervisor
 
