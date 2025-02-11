@@ -50,6 +50,8 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
+[02/2025] I gave a talk at the Personal Robotics Laboratory, Imperial College London.
+
 [02/2025] I gave a talk at the Intelligent Systems and Network Group, Imperial College London.
 
 [01/2025] Welcome Ning to join my lab as a PhD student! 

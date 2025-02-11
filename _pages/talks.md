@@ -7,10 +7,10 @@ author_profile: true
 
 **Coming talks**
 
-- [02/2025] I will give a talk at the Personal Robotics Lab, Imperial College London. 
-
 
 **Past talks**
+
+- A brief introduction to Prompt Engineering, Personal Robotics Laboratory, Imperial College London, Feb 2025.
 
 - Human-Centered Computer Vision: From Unimodality to Multimodality, Intelligent Systems and Network Group, Imperial College London, Feb 2025.
 
