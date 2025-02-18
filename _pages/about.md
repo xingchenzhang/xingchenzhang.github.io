@@ -20,8 +20,9 @@ I am a member of the UKRI Talent Peer Review College, where I review the prestig
 
 Research interests
 --
+
 My research areas include
-   
+
 - Computer vision (e.g., object tracking, human pose estimation, human behavior prediction)   
 - Deep learning (e.g., multi-modal learning, self-supervised learning, graph-based learning)  
 - Image fusion (visible-infrared, multi-focus, multi-exposure, multi-modal medical image)  
@@ -33,14 +34,15 @@ To know more about my research, please go to the  '[Research](https://xingchenzh
 
 **Joining my Fusion Intelligence Laboratory at the University of Exeter**
 -------
+
 I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Laboratory as a PhD student or a visiting student, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, Newton International Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Vacancies](https://xingchenzhang.github.io/vacancies/)' section.
 
 - [University of Exeter PhD Scholarships for Black British Researchers](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/black-british/): This programme offers 4-year fully-funded PhD studentships to support **Black British** researchers. <span style="color: red;">**Deadline: midnight (UK time) on Friday 28 February 2025**</span>.
 - [University of Exeter - Paris-Saclay studentships (Double PhD Degrees)](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for the EPSRC PhD Studentship (international students are eligible). The project is **Efficient Multimodal Perception Integrating Human Decision Models for Robot-Pedestrian Interaction Applications**. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. More details can be found [here](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=61449). <span style="color: red;">**Application Deadline: 31 March 2025**</span>. 
 
-
 **Call for papers**
 -------
+
 Welcome to submit your manuscript to the following journals and special issues for which I am an editorial board member. Please feel free to contact me before submission if you have any questions.
 
 - **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif). We always welcome submissions.
@@ -101,10 +103,10 @@ News
 
 [03/2024] I was featured as **<span style="color: red;">"Imperial People"</span>**
 [[Details]](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/).
+
 <div style="display: flex; justify-content: center;">
   <img src="/images/imperial-people.jpg" alt="image1" width="400">
 </div>
-
 
 [12/2023] I was awarded the **Department Award for Citizenship and Communit**y by the Department of EEE, Imperial College London. [[Imperial News]](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/).
 
@@ -122,6 +124,7 @@ More news about me can be found [**here**](https://xingchenzhang.github.io/previ
 
 Selected funders
 --
+
 My research has received funding from several funders, including the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant.
 
 <div style="display:inline-block">
@@ -142,11 +145,11 @@ Selected collaborators
   <img src="/images/collaborators/QUB.png" alt="image1" height="40">
   <img src="/images/collaborators/warwick.png" alt="image1" height="50">
   <img src="/images/collaborators/hust-2.png" alt="image1" height="40">
+  <img src="/images/collaborators/hust-2.png" alt="image1" height="40">
   <img src="/images/collaborators/ecnu.png" alt="image1" height="40">
   <img src="/images/collaborators/yanshan-2.png" alt="image1" height="40">
 
 </div>
-
 
 Contact
 -------
