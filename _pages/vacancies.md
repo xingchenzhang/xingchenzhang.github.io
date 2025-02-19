@@ -19,8 +19,9 @@ PhD Opportunities
 
 **Other opportunities**
 
-- [Exeter-CSC PhD studentship (Chinese students only)](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2025 September entry) **<span style="color: red;">is now closed</span>**. 
-- [Commonwealth PhD Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2025/26 academic year **<span style="color: red;">is now closed</span>**. 
+- [EPSRC DLA PhD studentships](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/fundedcentres/epsrcdla/): The application for 2025 September entry **is now closed**.
+- [Exeter-CSC PhD studentship (Chinese students only)](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2025 September entry) **is now closed**. 
+- [Commonwealth PhD Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2025/26 academic year **is now closed**. 
 
 **Self-funded PhD students**
 

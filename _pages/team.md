@@ -54,7 +54,7 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
 
 - As the primary supervisor
   
-  - [Zixian Zhao]([‪Zixian Zhao‬ - ‪Google Scholar‬](https://scholar.google.com/citations?hl=en&user=0mkQvWYAAAAJ&view_op=list_works&sortby=pubdate)) (MSc, **distinction**)
+  - [Zixian Zhao](https://scholar.google.com/citations?hl=en&user=0mkQvWYAAAAJ&view_op=list_works&sortby=pubdate) (MSc, **distinction**)
     - Topic: Computer Vision-based Video Anonymisation for Privacy Protection
     - Published one paper in IEEE Transactions on Intelligent Transportation Systems based on the MSc project
     - Now a PhD student at the University of Exeter (fully funded by the university)  
