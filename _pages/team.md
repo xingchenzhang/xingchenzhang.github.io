@@ -40,7 +40,7 @@ I am also co-supervising some students with my external collaborators.
 
 ## **Alumni**
 
-#### University of Exeter:
+### University of Exeter:
 
 - Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators
 
@@ -48,7 +48,7 @@ I am also co-supervising some students with my external collaborators.
 
 - Yifeng Wang (2024, MSc): NLP Techniques for Anonymising Sensitive Data
 
-#### Imperial College London:
+### Imperial College London:
 
 I was the primary supervisor of one MSc student in Applied Machine Learning at the Department of EEE from 2022 to 2023 and has been an [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) appointed by Imperial College since December 2020. **All the MSc students I supervised or co-supervised at Imperial College got their degrees with distinction**. Additionally, I am a mentor of [Imperial’s Activate Student Mentoring Programm](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/), where I supported one PhD student to enhance her academic and professional development.  
 
@@ -80,7 +80,7 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
     - Topic: Mixed Traffic Simulation for Autonomous Systems in Shared Spaces     
     - Now a Project Engineer at Kongsberg Defence & Aerospace
 
-#### Shanghai Jiao Tong University
+### Shanghai Jiao Tong University
 
 - As the co-supervisor
   
