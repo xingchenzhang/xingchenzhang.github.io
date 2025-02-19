@@ -9,12 +9,13 @@ author_profile: true
 If you are interested in joining my group at the University of Exeter as a PhD student or a visiting student (scholar), or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**).
 
 PhD Opportunities
--------------
+----------
+---
 
 **Current opportunities**
 
 - [University of Exeter PhD Scholarships for Black British Researchers](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/black-british/): This programme offers 4-year fully-funded PhD studentships to support Black British researchers. <span style="color: red;">**Deadline: midnight (UK time) on Friday 28 February 2025**</span>.
-- [University of Exeter - Paris-Saclay studentships (Double PhD Degrees)](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for the EPSRC PhD Studentship (international students are eligible). The project is **Efficient Multimodal Perception Integrating Human Decision Models for Robot-Pedestrian Interaction Applications**. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. More details can be found [here](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=61449). <span style="color: red;">**Application Deadline: 31 March 2025**</span>. 
+- [University of Exeter - Paris-Saclay studentships (Double PhD Degrees)](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). The project is **Efficient Multimodal Robot Perception for Pedestrian-Centric Applications with Human Decision-Making Models**. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. More details can be found [here](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=61449). <span style="color: red;">**Application Deadline: 31 March 2025**</span>. 
 
 **Other opportunities**
 

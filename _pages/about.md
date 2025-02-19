@@ -32,13 +32,13 @@ My research areas include
 
 To know more about my research, please go to the  '[Research](https://xingchenzhang.github.io/research/)' section.
 
-**Joining my Fusion Intelligence Laboratory at the University of Exeter**
+**Joining my Fusion Intelligence Laboratory**
 -------
 
-I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Laboratory as a PhD student or a visiting student, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, Newton International Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Vacancies](https://xingchenzhang.github.io/vacancies/)' section.
+I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Laboratory as a PhD student or a visiting student, or if you wish to join by applying for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, Newton International Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Vacancies](https://xingchenzhang.github.io/vacancies/)' section.
 
 - [University of Exeter PhD Scholarships for Black British Researchers](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/black-british/): This programme offers 4-year fully-funded PhD studentships to support **Black British** researchers. <span style="color: red;">**Deadline: midnight (UK time) on Friday 28 February 2025**</span>.
-- [University of Exeter - Paris-Saclay studentships (Double PhD Degrees)](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for the EPSRC PhD Studentship (international students are eligible). The project is **Efficient Multimodal Perception Integrating Human Decision Models for Robot-Pedestrian Interaction Applications**. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. More details can be found [here](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=61449). <span style="color: red;">**Application Deadline: 31 March 2025**</span>. 
+- [University of Exeter - Paris-Saclay studentships (Double PhD Degrees)](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD Studentship (international students are eligible). The project is **Efficient Multimodal Robot Perception for Pedestrian-Centric Applications with Human Decision-Making Models**. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. More details can be found [here](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=61449). <span style="color: red;">**Application Deadline: 31 March 2025**</span>. 
 
 **Call for papers**
 -------
@@ -58,11 +58,11 @@ News
 
 [01/2025] Welcome Ning to join my lab as a PhD student! 
 
-[12/2024] I organised the first Exeter Computer Vision Workshop at the University of Exeter. This is the first formal activity of the **Exeter Computer Vision Group**. [Exeter CS News (internal only)](https://universityofexeteruk.sharepoint.com/:u:/r/sites/ComputerScienceESE/SitePages/1st-Exeter-Computer-Vision-Workshop!.aspx?csf=1&web=1&e=bZ8QI6)
+[12/2024] I organised the first Exeter Computer Vision Workshop at the University of Exeter. This is the first formal activity of the Exeter Computer Vision Group. [Exeter CS News (internal only)](https://universityofexeteruk.sharepoint.com/:u:/r/sites/ComputerScienceESE/SitePages/1st-Exeter-Computer-Vision-Workshop!.aspx?csf=1&web=1&e=bZ8QI6)
 
 [12/2024] I gave a talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the 1st Exeter Computer Vision Workshop, Exeter, UK.
 
-[12/2024] Invited to give a talk titled "How AI is changing my job" at the Around The World Webinar of the MCAA AI GIG (Marie Curie Alumni Association Artificial Intelligence General Interest Group).
+[12/2024] I gave a talk titled "How AI is changing my job" at the Around The World Webinar of the MCAA AI GIG (Marie Curie Alumni Association Artificial Intelligence General Interest Group).
 
 [12/2024] I gave a talk titled “Rethinking performance evaluation in image fusion” at the [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html) in the British Computer Society (BCS), London.
 
@@ -87,7 +87,7 @@ News
 
 [08/2024] Started serving as an Associate Editor for the [Chinese Journal of Information Fusion](https://www.iece.org/journal/cjif).
 
-[07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab and Personal Robotics Lab at Imperial College London. We proposed an end-to-end approach for short-term traffic flow prediction using surveillance cameras (Transport for London).
+[07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by **Transportmetrica B: Transport Dynamics**. This is a collaborative paper with the Transport Systems & Logistics Lab and Personal Robotics Lab at Imperial College London. We proposed an end-to-end approach for short-term traffic flow prediction using surveillance cameras (Transport for London).
 
 [07/2024] Two of my IEEE T-PAMI papers were selected as **<span style="color: red;">ESI Highly Cited Papers</span>**.
 

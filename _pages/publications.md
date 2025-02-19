@@ -9,7 +9,8 @@ author_profile: true
 For a full list of my publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=w-7b36cAAAAJ&hl=en).
 
 Selected Publications
----------------------
+------------------
+---
 
 - Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.
 
@@ -25,11 +26,11 @@ Selected Publications
 
 - **X. Zhang**, P. Ye, G. Xiao. VIFB: A Visible and Infrared Image Fusion Benchmark, In the Proceedings of IEEE/CVF Conference on Computer Vision Workshops, 2020. (The first image fusion benchmark, which has been utilized by researchers from more than 10 countries.) [[Benchmark link]](https://github.com/xingchenzhang/VIFB)
 
-
 *indicates corresponding author
 
 Book
 ---------------------
+
 G. Xiao, D.P. Bavirisetti , G. Liu , **X. Zhang**, [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3), Springer Nature Singapore and Shanghai Jiao Tong University Press, 2020. This book has won the **National Science and Technology Academic Publications Fund of China** (2019).    
 
 <div style="display: flex; justify-content: center;">
@@ -37,7 +38,8 @@ G. Xiao, D.P. Bavirisetti , G. Liu , **X. Zhang**, [Image Fusion](https://link.s
 </div>
 
 Preprints
-------------  
+------------
+
 [P2] **X. Zhang***, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023).
 
 [P1] **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community)
