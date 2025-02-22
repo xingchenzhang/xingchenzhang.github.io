@@ -66,20 +66,18 @@ News
 
 [12/2024] I gave a talk titled “Rethinking performance evaluation in image fusion” at the [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html) in the British Computer Society (BCS), London.
 
-[11/2024] Invited to attend the AI roundtable discussion at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting on 30th November 2024 in London. 
+[11/2024] Invited to attend the AI roundtable discussion at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting in London. 
 
 [11/2024] I organized a [BMVC2024](https://bmvc2024.org/) workshop titled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” as the lead organizer in Glasgow, UK, on 27th November 2024. More details can be found on our [workshop website](https://difa2024.github.io/).
 
-[11/2024] Invited to give a talk titled "An introduction to Prompt Engineering" at Wuhan Union Hospital of China (online)
+[11/2024] I gave a talk titled "An introduction to Prompt Engineering" at Wuhan Union Hospital of China (online).
 
-[11/2024] Invited to give a talk titled "A brief introduction to AI" at Wuhan Union Hospital of China (online)
-
-[10/2024] Invited to give a research talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the University of Exeter Open Day 
+[11/2024] I gave a talk titled "A brief introduction to AI" at Wuhan Union Hospital of China (online).
 
 [09/2024] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>**
  ([Stanford University's list](https://topresearcherslist.com/), 2024)!
 
-[09/2024] Welcome Zixian to join my group as a PhD student! Before joined my group, Zixian obtained his MSc degree (with distinction) from Imperial College London.
+[09/2024] Welcome Zixian to join my group as a PhD student! Before joining my group, Zixian obtained his MSc degree (with distinction) from Imperial College London.
 
 [09/2024] I started to serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
 
@@ -87,15 +85,15 @@ News
 
 [08/2024] Started serving as an Associate Editor for the [Chinese Journal of Information Fusion](https://www.iece.org/journal/cjif).
 
-[07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by **Transportmetrica B: Transport Dynamics**. This is a collaborative paper with the Transport Systems & Logistics Lab and Personal Robotics Lab at Imperial College London. We proposed an end-to-end approach for short-term traffic flow prediction using surveillance cameras (Transport for London).
+[07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by **Transportmetrica B: Transport Dynamics**. This is a collaborative paper with the Transport Systems & Logistics Lab and Personal Robotics Lab at Imperial College London. 
 
 [07/2024] Two of my IEEE T-PAMI papers were selected as **<span style="color: red;">ESI Highly Cited Papers</span>**.
 
-[06/2024] Our paper “[3PFS: Protecting pedestrian privacy through face swapping](https://ieeexplore.ieee.org/abstract/document/10682960/)” has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian!  The paper is based on Zixian's MSc project at Imperial College London, where I was his primary supervisor and Prof. Yiannis Demiris was his co-supervisor. The demo can be found in my '[Research](https://xingchenzhang.github.io/research/)' section.
+[06/2024] Our paper “[3PFS: Protecting pedestrian privacy through face swapping](https://ieeexplore.ieee.org/abstract/document/10682960/)” has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian!  The paper is based on Zixian's MSc project at Imperial College London, where I was his primary supervisor and Prof. Yiannis Demiris was his co-supervisor. The video demo can be found in my '[Research](https://xingchenzhang.github.io/research/)' section.
 
-[06/2024] Invited to give a talk on 6th June at "Future of AI Awards 2024: Collaborate, Debate, Invent". I introduced my research and shared my fellowship experience.
+[06/2024] I gave a talk on 6th June at "Future of AI Awards 2024: Collaborate, Debate, Invent". I introduced my research and shared my fellowship experience.
 
-[04/2024] I gave a talk at the [BMVA One Day Meeting - Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) on 24 April 2024.
+[04/2024] I gave a talk at the [BMVA One Day Meeting - Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html).
 
 [04/2024] I established the **Fusion Intelligence Laboratory** at the Department of Computer Science, University of Exeter. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
