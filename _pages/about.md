@@ -70,7 +70,7 @@ News
 
 [11/2024] Invited to attend the AI roundtable discussion at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting in London. 
 
-[11/2024] I organized a [BMVC2024](https://bmvc2024.org/) workshop titled “**DIFA: Deep Learning-based Image Fusion and Its Applications**” as the lead organizer in Glasgow, UK, on 27th November 2024. More details can be found on our [workshop website](https://difa2024.github.io/).
+[11/2024] I organized a [BMVC2024](https://bmvc2024.org/) workshop titled “DIFA: Deep Learning-based Image Fusion and Its Applications” as the lead organizer in Glasgow, UK, on 27th November 2024. More details can be found on our [workshop website](https://difa2024.github.io/).
 
 [11/2024] I gave a talk titled "An introduction to Prompt Engineering" at Wuhan Union Hospital of China (online).
 
@@ -99,7 +99,7 @@ News
 
 [04/2024] I established the **Fusion Intelligence Laboratory** at the Department of Computer Science, University of Exeter. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
-[04/2024] I joined the University of Exeter as a **Senior Lecturer** (~Associate Professor in the UK system).
+[04/2024] I joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> (~Associate Professor in the UK system).
 
 [03/2024] I was featured as **<span style="color: red;">"Imperial People"</span>**
 [[Details]](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/).
