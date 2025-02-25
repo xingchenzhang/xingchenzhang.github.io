@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Senior Lecturer (~Associate Professor)** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/), where I lead the **Fusion Intelligence Laboratory**. I am a core member of the **Exeter Computer Vision Group** and the Deputy Director of Business Engagement & Innovation at the Department of Computing Science. I am also a Visiting Researcher at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/). 
+I am a **Senior Lecturer (~Associate Professor)** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/), where I lead the **Fusion Intelligence Laboratory** and serve as the Deputy Director of Business Engagement & Innovation. I am also a core member of the **Exeter Computer Vision Group**. In addition, I am a Visiting Researcher at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/). 
 
-Previously, I was a **Marie Skłodowska-Curie Individual Fellow** (Horizon 2020) at the Personal Robotics Laboratory, Imperial College London, working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). Before that, I was a Teaching Fellow (working with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk)) and Research Associate (working with Prof. Yiannis Demiris)  in the same department at Imperial College London. Additionally, I have previously held several roles at Imperial College London, including main supervisor of MSc students, [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) and Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/).
+Previously, I was a **Marie Skłodowska-Curie Individual Fellow** (Horizon 2020) at the Personal Robotics Laboratory, Imperial College London, working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris). Before that, I was a Teaching Fellow (where I taught the Deep Learning module together with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk)) and a Research Associate (where I worked with Prof. Yiannis Demiris)  in the same department at Imperial College London. Additionally, I have held several roles at Imperial College London, including servomg as the main supervisor for MSc students, an [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/), and a mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/).
 
-I am a Fellow of the [Higher Education Academy (HEA)](https://www.advance-he.ac.uk/) since July 2023. I have been listed among the **World’s Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2023, 2024)! 
+I have been a Fellow of the [Higher Education Academy (HEA)](https://www.advance-he.ac.uk/) since July 2023. I have been listed among the **World’s Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/), 2023 and 2024)! 
 
-In March 2024, I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)" by Imperial College London. In December 2023, I received the [Imperial's EEE Department Award for Citizenship and Community](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/). In November 2023, I was selected as the "[Fellow of the Month](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1d91qfpwhn6m5ti3wepqzp?email=true&lang=en&a=6&p=11850824&t=3895058)" by the Postdocs and Fellows Development Centre (PFDC) of Imperial College London. In 2021, I was awarded the prestigious Marie Skłodowska-Curie Individual Fellowship by the European Commission. Additionally, I co-authored a book entitled [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors), which won the **National Science and Technology Academic Publications Fund of China (2019)**. I received the Best Paper Honorable Mention Award of the 9th Chinese Conference on Information Fusion (2019). 
+In March 2024, I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)" by Imperial College London. In December 2023, I received the [Imperial's EEE Department Award for Citizenship and Community](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/). In November 2023, I was selected as the "[Fellow of the Month](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1d91qfpwhn6m5ti3wepqzp?email=true&lang=en&a=6&p=11850824&t=3895058)" by the Postdocs and Fellows Development Centre (PFDC) of Imperial College London. In 2021, I was awarded the prestigious Marie Skłodowska-Curie Individual Fellowship by the European Commission. Additionally, I have co-authored a book entitled [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors), which won the **National Science and Technology Academic Publications Fund of China (2019)**. I also received the Best Paper Honorable Mention Award of the 9th Chinese Conference on Information Fusion (2019). 
 
-I am a member of the UKRI Talent Peer Review College, where I review the prestigious UKRI Future Leaders Fellowships, EPSRC Open Fellowship, EPSRC New Investigator Award, and EPSRC Standard Research Grant. I am also a reviewer for more than 20 well-known journals (e.g., IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TIM, IEEE RAL, Information Fusion) and more than 10 conferences (e.g., CVPR, ECCV, ICCV, AAAI, BMVC, ACCV, ICRA, IROS). 
+I am a member of the UKRI Talent Peer Review College, where I review prestigious funding schemes, including the UKRI Future Leaders Fellowships, EPSRC Open Fellowship, EPSRC New Investigator Award, and EPSRC Standard Research Grant. Additionally, I serve as a reviewer for more than 20 well-known journals (e.g., IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TIM, IEEE RAL, Information Fusion) and more than 10 top-tier conferences (e.g., CVPR, ECCV, ICCV, AAAI, ICRA, IROS). 
 
 Research interests
 --
@@ -52,7 +52,7 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
-[02/2025] I was awarded a Research Grant from the Royal Society as the <span style="color: red;">**Principal Investigator (PI)**</span>. 
+[02/2025] I was awarded a Research Grant from [the Royal Society](https://royalsociety.org/) as the <span style="color: red;">**Principal Investigator (PI)**</span>. 
 
 [02/2025] I gave a talk at the Personal Robotics Laboratory, Imperial College London.
 
@@ -79,13 +79,13 @@ News
 [09/2024] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>**
  ([Stanford University's list](https://topresearcherslist.com/), 2024)!
 
-[09/2024] Welcome Zixian to join my group as a PhD student! Before joining my group, Zixian obtained his MSc degree (with distinction) from Imperial College London.
+[09/2024] Welcome Zixian to join my group as a PhD student! Before joining my group, Zixian obtained his MSc degree in Applied Machine Learning (with distinction) from Imperial College London.
 
 [09/2024] I started to serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
 
-[08/2024] Invited by the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) to give a talk about faculty positions and fellowship applications.
+[08/2024] I gave a talk at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) about faculty positions and fellowship applications.
 
-[08/2024] Started serving as an Associate Editor for the [Chinese Journal of Information Fusion](https://www.iece.org/journal/cjif).
+[08/2024] I started serving as an Associate Editor for the [Chinese Journal of Information Fusion](https://www.iece.org/journal/cjif).
 
 [07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by **Transportmetrica B: Transport Dynamics**. This is a collaborative paper with the Transport Systems & Logistics Lab and Personal Robotics Lab at Imperial College London. 
 
@@ -95,7 +95,7 @@ News
 
 [06/2024] I gave a talk on 6th June at "Future of AI Awards 2024: Collaborate, Debate, Invent". I introduced my research and shared my fellowship experience.
 
-[04/2024] I gave a talk at the [BMVA One Day Meeting - Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html).
+[04/2024] I gave a talk at the [BMVA One Day Meeting - Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) in the British Computer Society (BCS), London.
 
 [04/2024] I established the **Fusion Intelligence Laboratory** at the Department of Computer Science, University of Exeter. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
@@ -125,7 +125,8 @@ More news about me can be found [**here**](https://xingchenzhang.github.io/previ
 Selected funders
 --
 
-My research has received funding from several funders, including the Royal Society, and the European European Commission (Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant}.
+My research has received funding from several funders, including the Royal Society, and the European 
+Commission (Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant)s.
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="/images/funders/royalsociety.jpg" alt="image2" style="height:150px; width:auto;">
