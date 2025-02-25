@@ -127,10 +127,10 @@ Selected funders
 
 My research has received funding from several funders, including the Royal Society, and the European European Commission (Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant}.
 
-<div style="display:inline-block">
-  <img src="/images/funders/royalsociety.jpg" alt="image2" width="250">
-  <img src="/images/funders/eu.jpg" alt="image2" width="250">
-  <img src="/images/funders/marie-curie.jpg" alt="image1" width="250">
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="/images/funders/royalsociety.jpg" alt="image2" style="height:150px; width:auto;">
+  <img src="/images/funders/eu.jpg" alt="image2" style="height:150px; width:auto;">
+  <img src="/images/funders/marie-curie.jpg" alt="image1" style="height:150px; width:auto;">
 </div>
 
 Selected collaborators
