@@ -52,6 +52,8 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
+[02/2025] I was awarded a Research Grant from the Royal Society as the <span style="color: red;">**Principal Investigator (PI)**</span>. 
+
 [02/2025] I gave a talk at the Personal Robotics Laboratory, Imperial College London.
 
 [02/2025] I gave a talk at the Intelligent Systems and Network Group, Imperial College London.
@@ -89,7 +91,7 @@ News
 
 [07/2024] Two of my IEEE T-PAMI papers were selected as **<span style="color: red;">ESI Highly Cited Papers</span>**.
 
-[06/2024] Our paper “[3PFS: Protecting pedestrian privacy through face swapping](https://ieeexplore.ieee.org/abstract/document/10682960/)” has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian!  The paper is based on Zixian's MSc project at Imperial College London, where I was his primary supervisor and Prof. Yiannis Demiris was his co-supervisor. The video demo can be found in my '[Research](https://xingchenzhang.github.io/research/)' section.
+[06/2024] Our paper “[3PFS: Protecting pedestrian privacy through face swapping](https://ieeexplore.ieee.org/abstract/document/10682960/)” has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian!  The paper is based on Zixian's MSc project at Imperial College London, where I was his primary supervisor and Prof. Yiannis Demiris was his co-supervisor. The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
 
 [06/2024] I gave a talk on 6th June at "Future of AI Awards 2024: Collaborate, Debate, Invent". I introduced my research and shared my fellowship experience.
 
@@ -114,7 +116,7 @@ News
 
 [07/2023] I am now a **<span style="color: red;">Fellow of the Higher Education Academy (HEA)</span>**! [[EEE Staff Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/qyw8xg2ljae?lang=en&a=6&p=11740175&t=4233382) [[EEE Staff Newsletter 2]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/rmlhmbxw3e5?lang=en&a=2&p=11740143&t=5376334)
 
-[04/2023] Our paper ['Dual-branch spatio-temporal graph neural networks for pedestrian trajectory prediction'](https://www.sciencedirect.com/science/article/pii/S0031320323003345) has been accepted by **Pattern Recognition**. The video demo can be found in my '[Research](https://xingchenzhang.github.io/research/)' section.
+[04/2023] Our paper ['Dual-branch spatio-temporal graph neural networks for pedestrian trajectory prediction'](https://www.sciencedirect.com/science/article/pii/S0031320323003345) has been accepted by **Pattern Recognition**. The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
 
 [03/2023] Our paper ['Visible and Infrared Image Fusion Using Deep Learning'](https://ieeexplore.ieee.org/abstract/document/10088423/) has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
 
@@ -123,12 +125,12 @@ More news about me can be found [**here**](https://xingchenzhang.github.io/previ
 Selected funders
 --
 
-My research has received funding from several funders, including the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant.
+My research has received funding from several funders, including the Royal Society, and the European European Commission (Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant}.
 
 <div style="display:inline-block">
-  <img src="/images/funders/marie-curie.jpg" alt="image1" width="250">
+  <img src="/images/funders/royalsociety.jpg" alt="image2" width="250">
   <img src="/images/funders/eu.jpg" alt="image2" width="250">
-  <img src="/images/funders/innovateuk.jpg" alt="image2" width="250">
+  <img src="/images/funders/marie-curie.jpg" alt="image1" width="250">
 </div>
 
 Selected collaborators
