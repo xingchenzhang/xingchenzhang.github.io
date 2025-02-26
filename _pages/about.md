@@ -137,18 +137,8 @@ Commission (Horizon 2020 research and innovation programme under the Marie Skło
 Selected collaborators
 --
 
-<div style="display:inline-block">
-  <img src="/images/collaborators/ICL.jpg" alt="image1" height="50">
-  <img src="/images/collaborators/PRL.png" alt="image1" height="50">
-  <img src="/images/collaborators/warwick.png" alt="image1" height="50">
-  <img src="/images/collaborators/tsl.png" alt="image1" height="50">
-  <img src="/images/collaborators/paris-saclay.jpg" alt="image1" style="height:100px; width:auto;">
- <img src="/images/collaborators/Sheffield.png" alt="image2" style="height:100px; width:auto;">
-  <img src="/images/collaborators/QUB.png" alt="image2" style="height:100px; width:auto;">
- <img src="/images/collaborators/sjtu.png" alt="image2" style="height:80px; width:auto;">
-  <img src="/images/collaborators/hust.png" alt="image2" style="height:80px; width:auto;">
-  <img src="/images/collaborators/ecnu.png" alt="image1" style="height:80px; width:auto;">
-    <img src="/images/collaborators/yanshan.jpeg" alt="image1" style="height:100px; width:auto;">
+<div style="display: flex; justify-content: center;">
+  <img src="/images/collaborator.png" alt="image1" width="600">
 </div>
 
 Contact
