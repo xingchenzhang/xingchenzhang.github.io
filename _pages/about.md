@@ -79,7 +79,7 @@ News
 [09/2024] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>**
  ([Stanford University's list](https://topresearcherslist.com/), 2024)!
 
-[09/2024] Welcome Zixian to join my group as a PhD student! Before joining my group, Zixian obtained his MSc degree in Applied Machine Learning (with distinction) from Imperial College London.
+[09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian obtained his MSc degree in Applied Machine Learning (with distinction) from Imperial College London.
 
 [09/2024] I started to serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
 
