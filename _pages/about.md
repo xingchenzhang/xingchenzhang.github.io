@@ -144,7 +144,7 @@ Selected collaborators
   <img src="/images/collaborators/tsl.png" alt="image1" height="50">
   <img src="/images/collaborators/Sheffield.png" alt="image1" height="40">
   <img src="/images/collaborators/QUB.png" alt="image1" height="40">  
-  <img src="/images/collaborators/paris-saclay.jpg" alt="image1" height="30">
+  <img src="/images/collaborators/paris-saclay.jpg" alt="image1" height="20">
   <img src="/images/collaborators/sjtu-2.png" alt="image1" height="40">
   <img src="/images/collaborators/hust-2.png" alt="image1" height="40">
   <img src="/images/collaborators/ecnu.png" alt="image1" height="40">
