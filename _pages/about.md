@@ -148,7 +148,7 @@ Selected collaborators
  <img src="/images/collaborators/sjtu.png" alt="image2" style="height:80px; width:auto;">
   <img src="/images/collaborators/hust.png" alt="image2" style="height:80px; width:auto;">
   <img src="/images/collaborators/ecnu.png" alt="image1" style="height:80px; width:auto;">
-    <img src="/images/collaborators/yanshan.png" alt="image1" style="height:100px; width:auto;">
+    <img src="/images/collaborators/yanshan.jpeg" alt="image1" style="height:100px; width:auto;">
 </div>
 
 Contact
