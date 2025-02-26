@@ -145,11 +145,10 @@ Selected collaborators
   <img src="/images/collaborators/paris-saclay.jpg" alt="image1" style="height:100px; width:auto;">
  <img src="/images/collaborators/Sheffield.png" alt="image2" style="height:100px; width:auto;">
   <img src="/images/collaborators/QUB.png" alt="image2" style="height:100px; width:auto;">
- <img src="/images/collaborators/sjtu.png" alt="image2" style="height:100px; width:auto;">
-  <img src="/images/collaborators/hust.png" alt="image2" style="height:100px; width:auto;">
-  <img src="/images/collaborators/ecnu.png" alt="image1" style="height:100px; width:auto;">
-  <img src="/images/collaborators/yanshan-2.png" alt="image1" height="40">
-
+ <img src="/images/collaborators/sjtu.png" alt="image2" style="height:80px; width:auto;">
+  <img src="/images/collaborators/hust.png" alt="image2" style="height:80px; width:auto;">
+  <img src="/images/collaborators/ecnu.png" alt="image1" style="height:80px; width:auto;">
+    <img src="/images/collaborators/yanshan.png" alt="image1" style="height:100px; width:auto;">
 </div>
 
 Contact
