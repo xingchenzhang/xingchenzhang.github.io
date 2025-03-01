@@ -38,7 +38,7 @@ International Conference on Information Fusion, 2019.
 7. **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community)
 
 
-<h2>2. Human-centered visual computing</h2>
+<h2>2. Human-centered computer vision</h2>
 <h3>(1) Pedestrian trajectory prediction based on graph neural network</h3>
 <p align="center"> 
   <img width="500" src="/images/research/Demo Social TAG.gif" />
@@ -60,8 +60,8 @@ International Conference on Information Fusion, 2019.
 Related publications:    
 1. **X. Zhang***, P. Angeloudis, Y. Demiris. Dual-branch Spatio-Temporal Graph Neural Networks for Pedestrian Trajectory Prediction, Pattern Recognition, vol. 142, 2023.    
 2. **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportations, vol. 23, no. 11, pp. 20773-20782, 2022.  
-3. **X. Zhang***, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023).  
- 
+3. **X. Zhang***, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023). 
+
 
 <h2>3. Responsible and ethical AI: Pedestrian privacy protection</h2>
 Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles while maintaining the utility of the anonymized videos.
@@ -80,9 +80,9 @@ Many videos are captured to train AI models. We aim to protect pedestrian privac
 </div>
 
 Related publications:  
-1. Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportations, 2024.
+1. Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.
 
-<h2>4. RGB-based Computer vision</h2>
+<h2>4. Computer vision</h2>
 <p align="center"> 
   <img width="800" src="/images/research/tracking.png" />
 </p>
@@ -91,7 +91,8 @@ Related publications:
 object recovery. IET Image Processing, vol. 15, no. 4, pp. 918-935, 2021.
 2. J. Liu, G. Xiao, **X. Zhang***, P. Ye, X. Xiong, S. Peng. Anti-occlusion object tracking based on
 correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-761, 2020.
-3. J. Zhao, G. Xiao, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019.
+3. J. Zhao, G. Xiao, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019. 
+ 
 
 <h2>5. Robotics and AI, especially robot perception</h2>
 I am collaborating with the Personal Robotics Lab at Imperial College London. We are aiming at improving the perception capability of mobile robots.
