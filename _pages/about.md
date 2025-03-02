@@ -109,17 +109,7 @@ News
   <img src="/images/imperial-people.jpg" alt="image1" width="400">
 </div>
 
-[12/2023] I was awarded the **Department Award for Citizenship and Communit**y by the Department of EEE, Imperial College London. [[Imperial News]](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/).
 
-[11/2023] I was selected as "**Fellow of the Month**" by the Postdoc and Fellows Development Centre (PFDC), Imperial College London. [[PFDC Newsletter]](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1fftgrnkwzim5ti3wepqzp?lang=en&a=2&p=11850824&t=4496005).
-
-[09/2023] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>** ([Stanford University's list](https://topresearcherslist.com/), 2023)!
-
-[07/2023] I am now a **<span style="color: red;">Fellow of the Higher Education Academy (HEA)</span>**! [[EEE Staff Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/qyw8xg2ljae?lang=en&a=6&p=11740175&t=4233382) [[EEE Staff Newsletter 2]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/rmlhmbxw3e5?lang=en&a=2&p=11740143&t=5376334)
-
-[04/2023] Our paper ['Dual-branch spatio-temporal graph neural networks for pedestrian trajectory prediction'](https://www.sciencedirect.com/science/article/pii/S0031320323003345) has been accepted by **Pattern Recognition**. The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
-
-[03/2023] Our paper ['Visible and Infrared Image Fusion Using Deep Learning'](https://ieeexplore.ieee.org/abstract/document/10088423/) has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**.
 
 More news about me can be found [**here**](https://xingchenzhang.github.io/previous_news/).
 
