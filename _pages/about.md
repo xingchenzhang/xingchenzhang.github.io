@@ -110,7 +110,6 @@ News
 </div>
 
 
-
 More news about me can be found [**here**](https://xingchenzhang.github.io/previous_news/).
 
 Selected funders
@@ -132,7 +131,7 @@ Selected collaborators
 --
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/collaborators/collaborator.jpg" alt="image2" width="600">
+  <img src="/images/collaborators/collaborators.png" alt="image2" width="700">
 </div>
 
 Contact
