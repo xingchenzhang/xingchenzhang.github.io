@@ -63,6 +63,8 @@ News
 
 [01/2025] Welcome Ning to join my lab as a PhD student! 
 
+[12/2025] Invited to join the Executive Committee of the UK Huazhong University of Science and Technology Alumni Association.
+
 [12/2024] I organised the first Exeter Computer Vision Workshop at the University of Exeter. This is the first formal activity of the Exeter Computer Vision Group. [Exeter CS News (internal only)](https://universityofexeteruk.sharepoint.com/:u:/r/sites/ComputerScienceESE/SitePages/1st-Exeter-Computer-Vision-Workshop!.aspx?csf=1&web=1&e=bZ8QI6)
 
 [12/2024] I gave a talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the 1st Exeter Computer Vision Workshop, Exeter, UK.
