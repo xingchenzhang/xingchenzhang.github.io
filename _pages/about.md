@@ -50,8 +50,6 @@ Welcome to submit your manuscript to the following journals and special issues f
 
 News
 ----
-
-[03/2025] Invited to attend the "EURAXESS in the UK – Shaping the Future" at the British Council Office in London.
  
 [02/2025] The abstract of my MSc student, Qinqing Li, was accepted to the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/), which will be held in the University of Glasgow in April. Qinqing will present her work on multimodal medical image processing.
 
