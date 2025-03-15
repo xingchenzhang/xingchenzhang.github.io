@@ -12,11 +12,13 @@ I have supervised and co-supervised students at various universities and continu
 
 ## **Current team**
 
+### University of Exeter:
+
 At the University of Exeter, I lead the **Fusion Intelligence Laboratory**, where I supervise PhD, MSc, and undergraduate students.
 
 PhD students (as primary supervisor):
 
-- Zixian Zhao (Sep 2024 - ). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science)
+- [Zixian Zhao](https://scholar.google.com/citations?hl=en&user=0mkQvWYAAAAJ&view_op=list_works&sortby=pubdate) (Sep 2024 - ). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science)
 
 - Ning Wang (Jan 2025 - ). Co-supervisor: Prof. Xujiong Ye
 
@@ -30,23 +32,21 @@ MSc students:
 
 - Heegon Kim (Jan 2025 - )
 
+- Yuanhang Zhang (Mar 2025 - )
+
+- Xuan Zhang (Mar 2025 - )
+
 Undergraduate students:
 
 - Toby Shelford (Sep 2024 -)
 
 - Zihan Wang (Sep 2024 - )
 
-I am also co-supervising some students with my external collaborators. 
+### Others:
+
+I am co-supervising some students with my external collaborators.
 
 ## **Alumni**
-
-### University of Exeter:
-
-- Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators
-
-- Ahmer Jalil Najar (2024, MSc): Advanced Sentiment Analysis in Sub-Reddit Discussions
-
-- Yifeng Wang (2024, MSc): NLP Techniques for Anonymising Sensitive Data
 
 ### Imperial College London:
 
@@ -98,3 +98,11 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
     
     - Topic: Computer vision, object tracking
     - Now a PhD student in Computer Science at **Georgia Institute of Technology**
+    
+### University of Exeter:
+
+- Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators
+
+- Ahmer Jalil Najar (2024, MSc): Advanced Sentiment Analysis in Sub-Reddit Discussions
+
+- Yifeng Wang (2024, MSc): NLP Techniques for Anonymising Sensitive Data
