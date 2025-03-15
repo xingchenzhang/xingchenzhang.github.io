@@ -8,9 +8,16 @@ author_profile: true
 
 **At University of Exeter**
 
-- 13th December, **How AI is changing my job** at the "Around The World Webinar" of the MCAA AI GIG (Marie Curie Alumni Association Artificial Intelligence General Interest Group)
+- 15th March 2025, Robot dog demos, Offer Holders Visit Day
 
-- 30th November, **AI roundtable discussion** at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting, London
+<div style="display: flex; justify-content: center;">
+  <img src="/images/outreach/ohvd1.JPG" alt="image1" width="400" style="margin-right: 10px;">
+  <img src="/images/outreach/ohvd2.JPG" alt="image1" width="400">
+</div>
+
+- 13th December 2024, **How AI is changing my job** at the "Around The World Webinar" of the MCAA AI GIG (Marie Curie Alumni Association Artificial Intelligence General Interest Group)
+
+- 30th November 2024, **AI roundtable discussion** at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting, London
 	- It was a great experience to talk about AI with Dr. Zhu Li from Imperial College, Dr. Yu Guan from Warwick University, and Dr. Yunpeng Li from KCL.
 
 <div style="display: flex; justify-content: center;">
