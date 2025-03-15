@@ -48,6 +48,8 @@ I am co-supervising some students with my external collaborators.
 
 ## **Alumni**
 
+My students have pursued diverse career paths: some have become faculty members at Chinese universities, others have joined leading companies like Google and Bosch, while others have continued their academic journey by pursuing PhDs at prestigious universities.
+
 ### Imperial College London:
 
 I was the primary supervisor of one MSc student in Applied Machine Learning at the Department of EEE from 2022 to 2023 and has been an [Assistant Supervisor](https://www.imperial.ac.uk/students/academic-support/graduate-school/cornerstone/supervisors-guidebook/cpd/assistant-supervisors/) appointed by Imperial College since December 2020. **All the MSc students I supervised or co-supervised at Imperial College got their degrees with distinction**. Additionally, I am a mentor of [Imperial’s Activate Student Mentoring Programm](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/), where I supported one PhD student to enhance her academic and professional development.  
