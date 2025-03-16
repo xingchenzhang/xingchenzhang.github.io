@@ -15,9 +15,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-
-  - title: "Vacancies"
-    url: /vacancies/
   
   - title: "Honors"
     url: /honors/
@@ -28,4 +25,5 @@ main:
   - title: "Outreach"
     url: /outreach/
 
-
+  - title: "Vacancies"
+    url: /vacancies/
