@@ -64,6 +64,7 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
 - As a mentor of Imperial’s Activate Student Mentoring Programme
   
   - [Sneha Jha](https://profiles.imperial.ac.uk/sneha.jha20) (PhD student)
+  - Now R&D Lead, AI Collaboration Centre (AICC),  Queen's University Belfast & Ulster University
 
 - As the assistant supervisor (co-supervise with Prof.  Yiannis Demiris)
   
