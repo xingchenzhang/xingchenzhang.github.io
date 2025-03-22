@@ -8,6 +8,8 @@ author_profile: true
 
 **At University of Exeter**
 
+- 22nd March 2025, Robot dog demos, Offer Holders Visit Day
+
 - 15th March 2025, Robot dog demos, Offer Holders Visit Day
 
 <div style="display: flex; justify-content: center;">
