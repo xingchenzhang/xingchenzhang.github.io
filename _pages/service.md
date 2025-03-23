@@ -6,8 +6,15 @@ author_profile: true
 ---
 {% include base_path %}
 
+**University service**
 
-**Reviewer for grants**
+- Deputy Director of Business Engagement and Innovation, Department of Computer Science, University of Exeter
+
+**Other organization service**
+
+- Executive Committee Member, the UK Huazhong University of Science and Technology Alumni Association
+
+**Reviewer for grants (as a member of the UKRI Talent Peer Review College)**
 
 - UKRI Future Leaders Fellowship
 
