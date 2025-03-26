@@ -21,6 +21,10 @@ PhD students (as primary supervisor):
 - [Zixian Zhao](https://scholar.google.com/citations?hl=en&user=0mkQvWYAAAAJ&view_op=list_works&sortby=pubdate) (Sep 2024 - ). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science)
 
 - Ning Wang (Jan 2025 - ). Co-supervisor: Prof. Xujiong Ye
+  
+PhD students (as co-supervisor):
+
+- Hao Tang (Dec 2024 - ). Co-supervising with Prof. Nick Stone and Prof. Lu Liu
 
 MSc students:
 
