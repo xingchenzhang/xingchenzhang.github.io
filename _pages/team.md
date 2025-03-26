@@ -48,7 +48,7 @@ Undergraduate students:
 
 ### Others:
 
-I am co-supervising some students with my external collaborators.
+I am co-supervising some PhD and MSc students with my external collaborators.
 
 ## **Alumni**
 
