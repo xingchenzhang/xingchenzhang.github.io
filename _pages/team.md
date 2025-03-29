@@ -24,7 +24,7 @@ PhD students (as primary supervisor):
   
 PhD students (as co-supervisor):
 
-- Hao Tang (Dec 2024 - ). Co-supervising with Prof. Nick Stone and Prof. Lu Liu
+- Hao Tang (Dec 2024 - ). Co-supervising with Prof. Lu Liu and Prof. Nick Stone. 
 
 MSc students:
 
