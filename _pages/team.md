@@ -16,6 +16,11 @@ I have supervised and co-supervised students at various universities and continu
 
 At the University of Exeter, I lead the **Fusion Intelligence Laboratory**, where I supervise PhD, MSc, and undergraduate students.
 
+
+<div style="display: flex; justify-content: center;">
+  <img src="/images/FIL/FIL-20250402.jpg" alt="image1" width="400">
+</div>
+
 PhD students (as primary supervisor):
 
 - [Zixian Zhao](https://scholar.google.com/citations?hl=en&user=0mkQvWYAAAAJ&view_op=list_works&sortby=pubdate) (Sep 2024 - ). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science)
