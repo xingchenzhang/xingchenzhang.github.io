@@ -14,6 +14,8 @@ PhD Opportunities
 
 **Current opportunities**
 
+- [**QUEX joint PhD studentship**]. The project title is **Development and evaluation of a digital human exercise coach**. I am one of the co-supervisors at the University of Exeter. Further information will come shortly.
+
 **Other opportunities**
 
 - [University of Exeter - Paris-Saclay studentships (Double PhD Degrees)](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). The project is **Efficient Multimodal Robot Perception for Pedestrian-Centric Applications with Human Decision-Making Models**. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. More details can be found [here](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=61449). The application for 2025 September entry **is now closed**.
