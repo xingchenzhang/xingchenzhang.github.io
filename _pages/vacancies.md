@@ -14,7 +14,7 @@ PhD Opportunities
 
 **Current opportunities**
 
-- [**QUEX joint PhD studentship**]. The project title is **Development and evaluation of a digital human exercise coach**. I am one of the co-supervisors at the University of Exeter. Further information will come shortly.
+- [**QUEX joint PhD studentship**]. The project title is **Development and evaluation of a digital human exercise coach**. The primary supervisor is [Dr Shelley Keating](https://about.uq.edu.au/experts/12259) from the University of QueensLand. I am the co-supervisor at the University of Exeter. More details about this studentship can be found [here](https://scholarships.uq.edu.au/scholarship/quex-phd-scholarship). 
 
 **Other opportunities**
 
