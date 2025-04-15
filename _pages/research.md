@@ -6,6 +6,9 @@ author_profile: true
 ---
 {% include base_path %}
 
+
+Research areas
+----
 My research areas include
    
 - Computer vision (e.g., object tracking, human pose estimation, human behavior prediction)   
@@ -15,7 +18,14 @@ My research areas include
 - Robotics and AI (e.g., Robot perception)
 - Ethical AI (pedestrian privacy protection)   
 
-Some of my projects are as follows:
+Some projects
+----
+
+- The Royal Society Research Grant  
+- Marie-Curie Individual Fellowship
+
+Research topics
+----
 
 <h2>1. Deep Learning-based image fusion: methods, benchmarks, and multi-modal applications</h2>
 
