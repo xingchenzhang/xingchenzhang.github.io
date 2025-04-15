@@ -135,7 +135,7 @@ Selected collaborators
 --
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/collaborators/collaborators.png" alt="image2" width="700">
+  <img src="/images/collaborators/collaborators.jpg" alt="image2" width="700">
 </div>
 
 Contact
