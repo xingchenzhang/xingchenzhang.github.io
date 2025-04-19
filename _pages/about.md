@@ -38,7 +38,7 @@ To know more about my research, please go to the  '[Research](https://xingchenzh
 I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Laboratory as a PhD student or a visiting student, or if you wish to join by applying for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, Newton International Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Vacancies](https://xingchenzhang.github.io/vacancies/)' section.
 
 
-- [**QUEX joint PhD studentship**]. The project title is **Development and evaluation of a digital human exercise coach**. The primary supervisor is [Dr Shelley Keating](https://about.uq.edu.au/experts/12259) from the University of QueensLand. I am the co-supervisor at the University of Exeter. More details about this studentship can be found [here](https://scholarships.uq.edu.au/scholarship/quex-phd-scholarship). **Application deadline: 15 May 2025**.
+- [**QUEX joint PhD studentship**]. The project title is **Development and evaluation of a digital human exercise coach**. The primary supervisor is [Dr Shelley Keating](https://about.uq.edu.au/experts/12259) from the University of QueensLand. I am the co-supervisor at the University of Exeter. More details about this studentship can be found [here](https://scholarships.uq.edu.au/scholarship/quex-phd-scholarship). **<span style="color: red;">Application deadline: 15 May 2025</span>**. 
 
 
 **Call for papers**
@@ -133,6 +133,8 @@ Commission (Horizon 2020 research and innovation programme under the Marie Skło
 
 Selected collaborators
 --
+
+I have been fortunate to collaborate with a range of internal and external partners. Some of my external collaborators are shown in the figure below.
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/collaborators/collaborators.jpg" alt="image2" width="700">
