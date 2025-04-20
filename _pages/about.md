@@ -16,7 +16,7 @@ I have been a Fellow of the [Higher Education Academy (HEA)](https://www.advance
 
 In March 2024, I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)" by Imperial College London. In December 2023, I received the [Imperial's EEE Department Award for Citizenship and Community](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/). In November 2023, I was selected as the "[Fellow of the Month](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1d91qfpwhn6m5ti3wepqzp?email=true&lang=en&a=6&p=11850824&t=3895058)" by the Postdocs and Fellows Development Centre (PFDC) of Imperial College London. In 2021, I was awarded the prestigious Marie Skłodowska-Curie Individual Fellowship by the European Commission. Additionally, I have co-authored a book entitled [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors), which won the **National Science and Technology Academic Publications Fund of China (2019)**. I also received the Best Paper Honorable Mention Award of the 9th Chinese Conference on Information Fusion (2019). 
 
-I am a member of the UKRI Talent Peer Review College, where I review prestigious funding schemes, including the UKRI Future Leaders Fellowships, EPSRC Open Fellowship, EPSRC New Investigator Award, and EPSRC Standard Research Grant. Additionally, I serve as a reviewer for more than 20 well-known journals (e.g., IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TIM, IEEE RAL, Information Fusion) and more than 10 top-tier conferences (e.g., CVPR, ECCV, ICCV, AAAI, ICRA, IROS). 
+I am a **member of the UKRI Talent Peer Review College**, where I review prestigious funding schemes, including the UKRI Future Leaders Fellowships, EPSRC Open Fellowship, EPSRC New Investigator Award, and EPSRC Standard Research Grant. Additionally, I serve as a reviewer for more than 20 well-known journals (e.g., IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TIM, IEEE RAL, Information Fusion) and more than 10 top-tier conferences (e.g., CVPR, ECCV, ICCV, AAAI, ICRA, IROS). 
 
 Research interests
 --
@@ -53,7 +53,7 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
  
-[02/2025] The abstract of my MSc student, Qinqing Li, was accepted to the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/), which will be held in the University of Glasgow in April. Qinqing will present her work on multimodal medical image processing.
+[04/2025] My MSc student, Qinqing Li, attended the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) in the University of Glasgow to present her work on multimodal medical image processing.
 
 [02/2025] I was awarded a Research Grant from [the Royal Society](https://royalsociety.org/) as the **<span style="color: red;">PI</span>**. 
 
@@ -61,7 +61,7 @@ News
 
 [02/2025] I gave a talk at the Intelligent Systems and Network Group, Imperial College London.
 
-[01/2025] Welcome Ning to join my lab as a PhD student! 
+[01/2025] Welcome Ning to join my lab as a PhD student! Ning will be co-supervised by Prof. Xujiong Ye.
 
 [12/2025] Invited to join the Executive Committee of the UK Huazhong University of Science and Technology Alumni Association.
 
