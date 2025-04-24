@@ -112,5 +112,9 @@ correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-
   <img src="/images/research/dog_video2.gif" alt="Second Image" style="height: 350px; width: auto;">
 </div>
 
-<h2>6. AI for Science</h2>
+
+<h2>6. AI, e.g., AI security and AI safety</h2>
+Ongoing collaborative projects.
+
+<h2>7. AI for Science</h2>
 Ongoing collaborative projects.
