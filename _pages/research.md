@@ -47,8 +47,6 @@ Infrared Images Using Fully Convolutional Siamese Networks. In Proceedings of th
 International Conference on Information Fusion, 2019.  
 7. **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community)
 
-\* Corresponding authors
-
 <h2>2. Human-centered computer vision</h2>
 <h3>(1) Pedestrian trajectory prediction based on graph neural network</h3>
 <p align="center"> 
@@ -66,11 +64,15 @@ International Conference on Information Fusion, 2019.
 </p>
 
 <h3>(4) Crowd counting</h3>
-
+<p align="center"> 
+  <img width="500" src="/images/research/crowd-counting.jpg" />
+</p>
 
 Related publications:    
 1. **X. Zhang***, P. Angeloudis, Y. Demiris. Dual-branch Spatio-Temporal Graph Neural Networks for Pedestrian Trajectory Prediction, Pattern Recognition, vol. 142, 2023.    
 2. **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportations, vol. 23, no. 11, pp. 20773-20782, 2022.  
+
+\* Corresponding authors
 
 <h2>3. Responsible and ethical AI: Pedestrian privacy protection</h2>
 Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles while maintaining the utility of the anonymized videos.
