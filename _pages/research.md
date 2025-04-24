@@ -23,6 +23,7 @@ Some funded projects
 
 - The Royal Society Research Grant  
 - Marie-Curie Individual Fellowship
+- Shanghai Science and Technology Committee Research Project
 
 Research topics
 ----

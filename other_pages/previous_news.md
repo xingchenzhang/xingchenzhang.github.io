@@ -7,15 +7,10 @@ permalink: /previous_news/
 
 [12/2023] I was awarded the **Department Award for Citizenship and Communit**y by the Department of EEE, Imperial College London. [[Imperial News]](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/).
 
-[11/2023] I was selected as "**Fellow of the Month**" by the Postdoc and Fellows Development Centre (PFDC), Imperial College London. [[PFDC Newsletter]](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1fftgrnkwzim5ti3wepqzp?lang=en&a=2&p=11850824&t=4496005).
 
 [11/2023] I gave an invited talk at the Redwood Academy entitled "Beauty of fusion: Deep learning-based image fusion and its applications" on 8th November 2023.
 
 [11/2023] My MSc student obtained his degree with distinction! Congratulations to Zixian! So far, **all the MSc students I supervised or co-supervised at Imperial College London have got distinction**!
-
-[09/2023] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>** ([Stanford University's list](https://topresearcherslist.com/), 2023)!
-
-[07/2023] I am now a **<span style="color: red;">Fellow of the Higher Education Academy (HEA)</span>**! [[EEE Staff Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/qyw8xg2ljae?lang=en&a=6&p=11740175&t=4233382) [[EEE Staff Newsletter 2]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/rmlhmbxw3e5?lang=en&a=2&p=11740143&t=5376334)
 
 [07/2023] It was a very nice experience to show EEE kids what we are doing at the Personal Robotics Lab at the Faculty of Engineering's "Bring Your Child to Work Day"! In particular, I showcased the Unusual Cameras (thermal camera, event camera) of our lab. [[Imperial News]](https://www.imperial.ac.uk/news/246594/cool-exciting-place-work-families-agree/).
 
@@ -43,8 +38,3 @@ permalink: /previous_news/
 
 [02/2021] One paper has been accepted by **Information Fusion**.
 
-[08/2020] The book [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3) that I co-authored has been published by Shanghai Jiao Tong University Press & Springer Nature Singapore. This book has won the National Science and Technology Academic Publications Fund of China (2019).
-
-<div style="display: flex; justify-content: center;">
-  <img src="/images/image-fusion.jpg" alt="image1" width="150">
-</div>

@@ -113,6 +113,23 @@ News
   <img src="/images/imperial-people.jpg" alt="image1" width="400">
 </div>
 
+[09/2023] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>** ([Stanford University's list](https://topresearcherslist.com/), 2023)!
+
+[07/2023] I am now a **<span style="color: red;">Fellow of the Higher Education Academy (HEA)</span>**! [[EEE Staff Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/qyw8xg2ljae?lang=en&a=6&p=11740175&t=4233382) [[EEE Staff Newsletter 2]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/rmlhmbxw3e5?lang=en&a=2&p=11740143&t=5376334)
+
+
+[11/2023] I was selected as "**Fellow of the Month**" by the Postdoc and Fellows Development Centre (PFDC), Imperial College London. [[PFDC Newsletter]](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1fftgrnkwzim5ti3wepqzp?lang=en&a=2&p=11850824&t=4496005).
+
+<div style="display: flex; justify-content: center;">
+  <img src="/images/fellow-of-the-month.jpg" alt="image1" width="400">
+</div>
+
+
+[08/2020] The book [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3) that I co-authored has been published by Shanghai Jiao Tong University Press & Springer Nature Singapore. This book has won the National Science and Technology Academic Publications Fund of China (2019).
+
+<div style="display: flex; justify-content: center;">
+  <img src="/images/image-fusion.jpg" alt="image1" width="150">
+</div>
 
 More news about me can be found [**here**](https://xingchenzhang.github.io/previous_news/).
 
