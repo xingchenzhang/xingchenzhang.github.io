@@ -47,6 +47,7 @@ Infrared Images Using Fully Convolutional Siamese Networks. In Proceedings of th
 International Conference on Information Fusion, 2019.  
 7. **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community)
 
+\* Corresponding authors
 
 <h2>2. Human-centered computer vision</h2>
 <h3>(1) Pedestrian trajectory prediction based on graph neural network</h3>
@@ -99,7 +100,7 @@ Related publications:
 object recovery. IET Image Processing, vol. 15, no. 4, pp. 918-935, 2021.
 2. J. Liu, G. Xiao, **X. Zhang***, P. Ye, X. Xiong, S. Peng. Anti-occlusion object tracking based on
 correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-761, 2020.
-3. J. Zhao, G. Xiao, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019. 
+3. J. Zhao, G. Xiao\*, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019. 
 4. **X. Zhang***, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023). 
  
 
