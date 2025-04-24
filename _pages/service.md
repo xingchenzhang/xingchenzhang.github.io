@@ -6,23 +6,14 @@ author_profile: true
 ---
 {% include base_path %}
 
-**University service**
+**Service at the University of Exeter**
 
 - Deputy Director of Business Engagement and Innovation, Department of Computer Science, University of Exeter
 
-**Other organization service**
+**Service at other organizations**
 
 - Executive Committee Member, the UK Huazhong University of Science and Technology Alumni Association
-
-**Reviewer for grants (as a member of the UKRI Talent Peer Review College)**
-
-- UKRI Future Leaders Fellowship
-
-- EPSRC New Investigator Award
-
-- EPSRC Open Fellowship
-
-- EPSRC Standard Research Grant 
+- Committee Member, Youth Working Committee of the Information Fusion Division, Chinese Society of Aeronautics and Astronautics
 
 **Organizer for Workshops**
 
@@ -42,6 +33,17 @@ author_profile: true
 - Guest Associate Editor, Frontiers in Neurorobotics [[Details]](https://www.frontiersin.org/research-topics/64494/multi-source-and-multi-domain-data-fusion-and-enhancement-methods-evaluation-and-applications)
 
 - Reviewer editor, Brain Imaging Methods, Frontiers in Neuroscience
+
+
+**Reviewer for grants (as a member of the UKRI Talent Peer Review College)**
+
+- UKRI Future Leaders Fellowship
+
+- EPSRC New Investigator Award
+
+- EPSRC Open Fellowship
+
+- EPSRC Standard Research Grant 
 
 
 **Reviewer for journals (Selected)**
@@ -128,4 +130,4 @@ author_profile: true
 
 - Member, Information Fusion Division, Chinese Society of Aeronautics and Astronautics
 
-- Committee Member, Youth Working Committee of the Information Fusion Division, Chinese Society of Aeronautics and Astronautics
+

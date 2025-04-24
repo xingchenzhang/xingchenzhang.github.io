@@ -18,7 +18,7 @@ My research areas include
 - Robotics and AI (e.g., Robot perception)
 - Ethical AI (pedestrian privacy protection)   
 
-Some projects
+Some funded projects
 ----
 
 - The Royal Society Research Grant  
@@ -70,8 +70,6 @@ International Conference on Information Fusion, 2019.
 Related publications:    
 1. **X. Zhang***, P. Angeloudis, Y. Demiris. Dual-branch Spatio-Temporal Graph Neural Networks for Pedestrian Trajectory Prediction, Pattern Recognition, vol. 142, 2023.    
 2. **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportations, vol. 23, no. 11, pp. 20773-20782, 2022.  
-3. **X. Zhang***, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023). 
-
 
 <h2>3. Responsible and ethical AI: Pedestrian privacy protection</h2>
 Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles while maintaining the utility of the anonymized videos.
@@ -102,10 +100,10 @@ object recovery. IET Image Processing, vol. 15, no. 4, pp. 918-935, 2021.
 2. J. Liu, G. Xiao, **X. Zhang***, P. Ye, X. Xiong, S. Peng. Anti-occlusion object tracking based on
 correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-761, 2020.
 3. J. Zhao, G. Xiao, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019. 
+4. **X. Zhang***, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023). 
  
 
 <h2>5. Robotics and AI, especially robot perception</h2>
-I am collaborating with the Personal Robotics Lab at Imperial College London. We are aiming at improving the perception capability of mobile robots.
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="/images/research/dog_video1.gif" alt="First Image" style="height: 350px; width: auto; margin-right: 20px;">
   <img src="/images/research/dog_video2.gif" alt="Second Image" style="height: 350px; width: auto;">
