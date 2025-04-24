@@ -9,12 +9,25 @@ full-width: true
 ---
 
 <style>
+/* 强制内容容器全宽 */
 .page {
   max-width: 100% !important;
-  padding: 0 40px;
+  width: 100% !important;
+  padding-left: 40px;
+  padding-right: 40px;
+  box-sizing: border-box;
 }
+
+/* 解除中间内容区宽度限制 */
+.page__inner-wrap,
 .page__content {
   max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* 可选：让标题靠左 */
+.page__title {
+  text-align: left !important;
 }
 </style>
 
