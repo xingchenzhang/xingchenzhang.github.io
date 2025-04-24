@@ -109,7 +109,7 @@ News
 [03/2024] I was featured as **<span style="color: red;">"Imperial People"</span>**
 [[Details]](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/).
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <img src="/images/imperial-people.jpg" alt="image1" width="400">
 </div>
 
@@ -122,7 +122,7 @@ News
 
 [08/2020] The book [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3) that I co-authored has been published by Shanghai Jiao Tong University Press & Springer Nature Singapore. This book has won the National Science and Technology Academic Publications Fund of China (2019).
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <img src="/images/image-fusion.jpg" alt="image1" width="150">
 </div>
 
