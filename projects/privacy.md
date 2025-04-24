@@ -1,9 +1,11 @@
 ---
+layout: single
 title: "Privacy"
 excerpt: "Privacy"
 author_profile: false
 sidebar: false
 permalink: /privacy/
+full-width: true
 ---
 
 <style>
