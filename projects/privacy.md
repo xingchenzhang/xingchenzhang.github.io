@@ -5,6 +5,15 @@ author_profile: false
 permalink: /privacy/
 ---
 
+<style>
+.page {
+  max-width: 100% !important;
+  padding: 0 40px;
+}
+.page__content {
+  max-width: 100% !important;
+}
+</style>
 
 <h2>Responsible and ethical AI: Pedestrian privacy protection</h2>
 
