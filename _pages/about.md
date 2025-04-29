@@ -52,6 +52,8 @@ Welcome to submit your manuscript to the following journals and special issues f
 
 News
 ----
+
+[04/2025] Our paper "BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling" has been accepted by IJCAI2025.
  
 [04/2025] My MSc student, Qinqing Li, attended the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) in the University of Glasgow to present her work on multimodal medical image processing.
 
