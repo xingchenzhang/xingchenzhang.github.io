@@ -6,6 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
+Vision
+----
+
+My Fusion Intelligence Laboratory aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
+
 
 Research areas
 ----
@@ -13,10 +18,11 @@ My research areas include
    
 - Computer vision (e.g., object tracking, human pose estimation, human behavior prediction)   
 - Deep learning (e.g., multi-modal learning, self-supervised learning, graph-based learning)  
-- Image fusion (visible-infrared, multi-focus, multi-exposure)  
+- Image fusion (visible-infrared, multi-focus, multi-exposure, multimodal medical images)  
 - Multimodal applications (e.g., RGB-T tracking, RGB-T segmentation, RGB-T crowd counting)  
 - Robotics and AI (e.g., Robot perception)
-- Ethical AI (pedestrian privacy protection)   
+- Ethical AI (pedestrian privacy protection)
+- AI for Science   
 
 Some funded projects
 ----
