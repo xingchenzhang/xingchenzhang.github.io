@@ -118,6 +118,10 @@ correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-
 <h2>6. AI, e.g., AI security, AI safety, AI for Social Good</h2>
 Ongoing collaborative projects.
 
+<p align="center"> 
+  <img width="500" src="/images/research/BGM-IJCAI2025.png" />
+</p>
+
 Related publications:  
 1. Y. Zhao, H. Wen, **X. Zhang**, M. Luo. BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling， IJCAI2025.
 
