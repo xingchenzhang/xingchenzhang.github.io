@@ -99,6 +99,7 @@ Related publications:
   <img width="800" src="/images/research/tracking.png" />
 </p>
 
+Related publications:  
 1. J. Liu, P. Ye. **X. Zhang***, G. Xiao. Real-time long-term tracking with reliability assessment and
 object recovery. IET Image Processing, vol. 15, no. 4, pp. 918-935, 2021.
 2. J. Liu, G. Xiao, **X. Zhang***, P. Ye, X. Xiong, S. Peng. Anti-occlusion object tracking based on
@@ -114,8 +115,12 @@ correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-
 </div>
 
 
-<h2>6. AI, e.g., AI security and AI safety</h2>
+<h2>6. AI, e.g., AI security, AI safety, AI for Social Good</h2>
 Ongoing collaborative projects.
+
+Related publications:  
+1. Y. Zhao, H. Wen, **X. Zhang**, M. Luo. BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling， IJCAI2025.
+
 
 <h2>7. AI for Science</h2>
 Ongoing collaborative projects.
