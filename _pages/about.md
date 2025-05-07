@@ -53,6 +53,8 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
+[05/2025] I am organizing the Exeter Computer Vision Workshop for Students.
+
 [04/2025] Our paper "BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling" has been accepted by IJCAI2025. This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
  
 [04/2025] My MSc student, Qinqing Li, attended the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) in the University of Glasgow to present her work on multimodal medical image processing.

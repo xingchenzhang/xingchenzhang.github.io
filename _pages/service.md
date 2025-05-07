@@ -17,6 +17,8 @@ author_profile: true
 
 **Organizer for Workshops**
 
+- Lead organizer, Exeter Computer Vision Workshop for Students
+
 - Organizer, The 1st Exeter Computer Vision Workshop
 
 - Lead organizer, BMVC2024 Workshop: "DIFA: Deep Learning-based Image Fusion and Its Applications" [[Workshop website]](https://difa2024.github.io/)
