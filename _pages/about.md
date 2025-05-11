@@ -55,15 +55,15 @@ News
 
 [05/2025] I am organizing the Exeter Computer Vision Workshop for Students.
 
-[04/2025] Our paper "BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling" has been accepted by IJCAI2025. This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
+[04/2025] Our paper "**BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling**" has been accepted by **IJCAI2025**. This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
  
 [04/2025] My MSc student, Qinqing Li, attended the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) in the University of Glasgow to present her work on multimodal medical image processing.
 
 [02/2025] I was awarded a Research Grant from [the Royal Society](https://royalsociety.org/) as the **<span style="color: red;">PI</span>**. 
 
-[02/2025] I gave a talk at the Personal Robotics Laboratory, Imperial College London.
+[02/2025] I gave a talk at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), Imperial College London.
 
-[02/2025] I gave a talk at the Intelligent Systems and Network Group, Imperial College London.
+[02/2025] I gave a talk at the [Intelligent Systems and Network Group](https://www.imperial.ac.uk/electrical-engineering/research/intelligent-systems-and-networks/), Imperial College London.
 
 [01/2025] Welcome Ning to join my lab as a PhD student! Ning will be co-supervised by Prof. Xujiong Ye.
 
@@ -108,6 +108,8 @@ News
 
 [04/2024] I established the **Fusion Intelligence Laboratory** at the Department of Computer Science, University of Exeter. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
+[04/2024] I started my position as a Visiting Researcher at Imperial College London.
+
 [04/2024] I joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> (~Associate Professor in the UK system).
 
 [03/2024] I was featured as **<span style="color: red;">"Imperial People"</span>**
@@ -119,7 +121,7 @@ News
 
 [09/2023] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>** ([Stanford University's list](https://topresearcherslist.com/), 2023)!
 
-[07/2023] I am now a **<span style="color: red;">Fellow of the Higher Education Academy (HEA)</span>**! [[EEE Staff Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/qyw8xg2ljae?lang=en&a=6&p=11740175&t=4233382) [[EEE Staff Newsletter 2]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/rmlhmbxw3e5?lang=en&a=2&p=11740143&t=5376334)
+[07/2023] I am now a **<span style="color: red;">Fellow of the Higher Education Academy (HEA)</span>**! [[ICL EEE Staff Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/qyw8xg2ljae?lang=en&a=6&p=11740175&t=4233382) [[ICL EEE Staff Newsletter 2]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/rmlhmbxw3e5?lang=en&a=2&p=11740143&t=5376334)
 
 [08/2020] The book [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3) that I co-authored has been published by Shanghai Jiao Tong University Press & Springer Nature Singapore. This book has won the National Science and Technology Academic Publications Fund of China (2019).
 
