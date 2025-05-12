@@ -53,6 +53,8 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
+[05/2025] Our paper **SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection** has been accepted by IEEE Sensors Journal. This is a collaborative paper with Yanshan University. Congratulations to all co-authors!
+
 [05/2025] I am organizing the Exeter Computer Vision Workshop for Students.
 
 [04/2025] Our paper "**BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling**" has been accepted by **IJCAI2025**. This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
