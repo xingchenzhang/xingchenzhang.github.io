@@ -52,7 +52,8 @@ Communication, vol. 84, 2020.
 6. **X. Zhang**, P. Ye, D. Qiao, J. Zhao, S. Peng, G. Xiao. Object Fusion Tracking Based on Visible and
 Infrared Images Using Fully Convolutional Siamese Networks. In Proceedings of the 22nd
 International Conference on Information Fusion, 2019.  
-7. **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community)
+7. **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community)  
+8. Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning. arXiv preprint arXiv:2505.06665. [[Link]](https://arxiv.org/pdf/2505.06665)
 
 <h2>2. Human-centered computer vision</h2>
 <h3>(1) Pedestrian trajectory prediction based on graph neural network</h3>
