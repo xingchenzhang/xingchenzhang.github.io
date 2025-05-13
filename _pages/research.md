@@ -27,6 +27,7 @@ My research areas include
 Some funded projects
 ----
 
+- Exeter-Fudan Fellowship
 - The Royal Society Research Grant  
 - Marie-Curie Individual Fellowship
 - Shanghai Science and Technology Committee Research Project
