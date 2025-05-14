@@ -53,7 +53,7 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
-[05/2025] I was awarded an Exeter-Fudan Fellowship to strengthen the collaboration between my Fusion Intelligence Laboratory and Zhongshan Hospital, Fudan University.
+[05/2025] I was awarded an **Exeter-Fudan Fellowship** to strengthen the collaboration between my Fusion Intelligence Laboratory and Zhongshan Hospital, Fudan University.
 
 [05/2025] Our paper **SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection** has been accepted by IEEE Sensors Journal. This is a collaborative paper with Yanshan University. Congratulations to all co-authors!
 

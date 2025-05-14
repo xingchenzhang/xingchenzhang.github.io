@@ -131,7 +131,7 @@ Ongoing collaborative projects.
 </p>
 
 Related publications:  
-1. Y. Zhao, H. Wen, **X. Zhang**, M. Luo. BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling， IJCAI2025.
+1. Y. Zhao, H. Wen, **X. Zhang**, M. Luo. BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling, IJCAI2025.
 
 
 <h2>7. AI for Science</h2>
