@@ -17,7 +17,7 @@ author_profile: true
 
 **Organizer for Workshops**
 
-- Lead organizer, Exeter Computer Vision Workshop for Students
+- Lead organizer, Exeter Computer Vision Workshop: PhD Research Talks
 
 - Organizer, The 1st Exeter Computer Vision Workshop
 
