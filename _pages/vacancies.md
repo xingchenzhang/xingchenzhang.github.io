@@ -35,12 +35,22 @@ Self-funded PhD students are always welcome and can apply at any time. Please se
 
 You should have obtained, or be about to obtain, a First or Upper Second Class UK Honours degree, or the equivalent qualifications gained outside the UK, in an appropriate area of science, engineering or technology.  Applicants with a Lower Second Class degree will be considered if they also have Masters degree or have significant relevant non-academic experience.
 
-If English is not your first language you will need to meet the English language requirements and provide proof of proficiency prior to starting your programme of study. Click [here](https://www.exeter.ac.uk/study/englishlanguagerequirements/) for more information and a list of acceptable alternative tests。
+If English is not your first language you will need to meet the English language requirements and provide proof of proficiency prior to starting your programme of study. Click [here](https://www.exeter.ac.uk/study/englishlanguagerequirements/) for more information and a list of acceptable alternative tests.
+
+Postdoc Opportunities
+-------------
+
+- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025). Deadline: 10 September 2025.
+- [Newton Fellowship](https://royalsociety.org/grants/newton-international/). Deadline: 18 March 2025.
+- [EPSRC Postdoctoral Fellowships](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
+
 
 Visiting PhD students
 -------------
 
-I am also looking for visiting PhD students. Please send an email (with your CV) to me if you are interested. 
+**<span style="color: red;">NOTE: I am not accepting visiting PhD students now.</span>**
+
+Please send an email (with your CV) to me if you are interested. 
 More details about how to apply, visa and tuition fees, can be found [here](https://www.exeter.ac.uk/v8media/specificsites/tqa/pgr/PGR_Handbook_Chapter_16.pdf). In general, the tuition fee for Visiting PhD students is as follows:
 
 - For visits of no more than (including) 3 calendar months), there is no tuition fee
@@ -48,9 +58,3 @@ More details about how to apply, visa and tuition fees, can be found [here](http
 - For visits of between 6 and (including) 12 calendar months, the tuition fee is £1000
 - For visits of between 12 and (including) 24 calendar months, the tuition fee is £1000 per annum
 
-Postdoc Opportunities
--------------
-
-- [Newton Fellowship](https://royalsociety.org/grants/newton-international/). Deadline: 18 March 2025.
-- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024). Deadline: September 2025.
-- [EPSRC Postdoctoral Fellowships](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
