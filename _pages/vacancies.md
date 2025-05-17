@@ -14,6 +14,7 @@ PhD Opportunities
 
 **Current opportunities**
 
+**<span style="color: red;">NOTE: I DO NOT accept visiting/exchange PhD students.</span>**
 
 **Other opportunities**
 
@@ -41,21 +42,8 @@ If English is not your first language you will need to meet the English language
 Postdoc Opportunities
 -------------
 
-- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025). Deadline: 10 September 2025.
+- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025). <span style="color: red;">Application deadline: 10 September 2025</span>.
 - [Newton Fellowship](https://royalsociety.org/grants/newton-international/). Deadline: 18 March 2025.
 - [EPSRC Postdoctoral Fellowships](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
 
-
-Visiting PhD students
--------------
-
-**<span style="color: red;">NOTE: I am not accepting visiting PhD students now.</span>**
-
-Please send an email (with your CV) to me if you are interested. 
-More details about how to apply, visa and tuition fees, can be found [here](https://www.exeter.ac.uk/v8media/specificsites/tqa/pgr/PGR_Handbook_Chapter_16.pdf). In general, the tuition fee for Visiting PhD students is as follows:
-
-- For visits of no more than (including) 3 calendar months), there is no tuition fee
-- For visits of between 3 and (including) 6 calendar months, the tuition fee is £500
-- For visits of between 6 and (including) 12 calendar months, the tuition fee is £1000
-- For visits of between 12 and (including) 24 calendar months, the tuition fee is £1000 per annum
 
