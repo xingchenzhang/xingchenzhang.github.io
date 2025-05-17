@@ -62,6 +62,57 @@ full-width: true
   border-radius: 8px;
   border: 1px solid #ccc;
 }
+
+
+<style>
+.publication-block {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 30px;
+  background-color: #fafafa;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
+}
+
+.publication-title {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.publication-image {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 8px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.conference-name {
+  font-size: 16px;
+  color: #555;
+  margin: 10px 0;
+}
+
+.author-name {
+  font-size: 14px;
+  color: #333;
+}
+
+.links {
+  margin-top: 10px;
+}
+
+.links a {
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #1a73e8;
+}
+</style>
+
+
 </style>
 
 <div class="lab-section">
@@ -118,8 +169,7 @@ full-width: true
 Selected Publications
 ---------------------
 
-****
-## 2025
+## 2025  
 
 <div class="publication-block">
     <div class="publication-info">
@@ -165,3 +215,26 @@ Selected Publications
         </div>
     </div>
 </div>
+
+
+
+
+<!-- Separate image box for expanded view -->
+<div id="imageBox" class="image-box" style="display: none;">
+    <span class="close" onclick="closeImageBox()">&times;</span>
+    <img class="full-image" id="expandedImage" src="" alt="Expanded Image">
+</div>
+
+<script>
+    function expandImage(fullsizeSrc) {
+        var imageBox = document.getElementById("imageBox");
+        var expandedImg = document.getElementById("expandedImage");
+        expandedImg.src = fullsizeSrc;  // Set the source of the full-size image
+        imageBox.style.display = "block";  // Show the image box
+    }
+
+    function closeImageBox() {
+        var imageBox = document.getElementById("imageBox");
+        imageBox.style.display = "none";  // Hide the image box
+    }
+</script>
