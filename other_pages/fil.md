@@ -102,7 +102,7 @@ full-width: true
 }
 
 .links {
-  margin-top: 10px;
+  margin-top: 6px;
 }
 
 .links a {
@@ -178,10 +178,6 @@ Selected Publications
         <img src="/images/research/BGM-IJCAI2025.png" alt="BGM" class="publication-image" onclick="expandImage(this, '/images/research/BGM-IJCAI2025.png')"><br />
         <h3 class="conference-name">IJCAI, 2025</h3>        
         <p class="author-name">Y. Zhao, H. Wen, <strong>X. Zhang</strong>, M. Luo.</p>
-        <div class="links">
-            <a href="https://arxiv.org/abs/2403.10581" class="pdf">PDF</a>
-            <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/" class="code">CODE</a>
-        </div>
     </div>
 </div>
 
@@ -193,10 +189,6 @@ Selected Publications
         <img src="/images/research/SelectMOT.jpg" alt="SelectMOT" class="publication-image" onclick="expandImage(this, '/images/research/SelectMOT.jpg')"><br />
         <h3 class="conference-name">IEEE Sensors Jounral, 2025</h3>        
         <p class="author-name">H. Li, Z. Wang, W. Kong, <strong>X. Zhang*</strong>.</p>
-        <div class="links">
-            <a href="https://arxiv.org/abs/2403.10581" class="pdf">PDF</a>
-            <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/" class="code">CODE</a>
-        </div>
     </div>
 </div>
 
@@ -210,7 +202,7 @@ Selected Publications
         <p class="author-name">Z. Zhao, A. Howes, <strong>X. Zhang*</strong>.</p>
         <div class="links">
             <a href="https://arxiv.org/pdf/2505.06665" class="pdf">PDF</a>
-            <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/" class="code">CODE</a>
+            <a href="https://arxiv.org/pdf/2505.06665" class="code">CODE</a>
         </div>
     </div>
 </div>
