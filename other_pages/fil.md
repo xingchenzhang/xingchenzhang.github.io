@@ -66,12 +66,12 @@ full-width: true
 
 <style>
 .publication-block {
-  border: 1px solid #ddd;
+  border: 1px solid #e0e0e0;
   border-radius: 10px;
-  padding: 15px;
-  margin-bottom: 30px;
-  background-color: #fafafa;
-  box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
+  padding: 20px;
+  margin: 30px 0;
+  background-color: #ffffff;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 
 .publication-title {
@@ -82,33 +82,44 @@ full-width: true
 
 .publication-image {
   width: 100%;
-  max-width: 400px;
+  max-width: 600px;
   border-radius: 8px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin: 15px 0;
   cursor: pointer;
 }
 
 .conference-name {
-  font-size: 16px;
-  color: #555;
-  margin: 10px 0;
+  display: inline-block;
+  background-color: #6a1b9a;
+  color: white;
+  padding: 5px 10px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 15px;
 }
 
 .author-name {
   font-size: 14px;
   color: #333;
+  margin-bottom: 10px;
 }
 
 .links {
-  margin-top: 10px;
+  margin-top: 15px;
 }
 
 .links a {
-  margin-right: 15px;
+  display: inline-block;
+  margin-right: 10px;
+  padding: 5px 10px;
   text-decoration: none;
   font-weight: bold;
-  color: #1a73e8;
+  color: white;
+  background-color: #3f51b5;
+  border-radius: 4px;
+  font-size: 13px;
 }
 </style>
 
@@ -219,22 +230,24 @@ Selected Publications
 
 
 
-<!-- Separate image box for expanded view -->
-<div id="imageBox" class="image-box" style="display: none;">
-    <span class="close" onclick="closeImageBox()">&times;</span>
-    <img class="full-image" id="expandedImage" src="" alt="Expanded Image">
+<!-- Fullscreen image box -->
+<div id="imageBox" style="display: none; position: fixed; top: 0; left: 0; 
+     width: 100%; height: 100%; background-color: rgba(0,0,0,0.8); 
+     display: flex; align-items: center; justify-content: center; z-index: 9999;">
+  <span onclick="closeImageBox()" style="position: absolute; top: 20px; right: 30px; 
+        font-size: 40px; color: white; cursor: pointer;">&times;</span>
+  <img id="expandedImage" src="" style="max-width: 90%; max-height: 90%;">
 </div>
 
 <script>
-    function expandImage(fullsizeSrc) {
-        var imageBox = document.getElementById("imageBox");
-        var expandedImg = document.getElementById("expandedImage");
-        expandedImg.src = fullsizeSrc;  // Set the source of the full-size image
-        imageBox.style.display = "block";  // Show the image box
-    }
-
-    function closeImageBox() {
-        var imageBox = document.getElementById("imageBox");
-        imageBox.style.display = "none";  // Hide the image box
-    }
+function expandImage(img, fullSrc) {
+  var imageBox = document.getElementById("imageBox");
+  var expandedImg = document.getElementById("expandedImage");
+  expandedImg.src = fullSrc;
+  imageBox.style.display = "flex";
+}
+function closeImageBox() {
+  document.getElementById("imageBox").style.display = "none";
+}
 </script>
+
