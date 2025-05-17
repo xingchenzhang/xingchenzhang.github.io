@@ -95,7 +95,7 @@ full-width: true
       </div>
       <div class="lab-person">
         <a href="https://example.com/phd2">
-          <img src="/images/people/student2.jpg" alt="Ning Wang">
+          <img src="/images/people/Ning.png" alt="Ning Wang">
           <div><strong>Ning Wang</strong></div>
         </a>
       </div>
@@ -119,4 +119,52 @@ full-width: true
     <li>Z. Zhao, <strong>X. Zhang*</strong>, Y. Demiris. <em>3PFS: Protecting pedestrian privacy through face swapping</em>, IEEE T-ITS, 2024.</li>
     <!-- 添加更多 -->
   </ul>
+</div>
+
+****
+## 2025
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+            BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling
+        </div>
+        <img src="/images/research/BGM-IJCAI2025.png" alt="BGM" class="publication-image" onclick="expandImage(this, '/images/research/BGM-IJCAI2025.png')"><br />
+        <h3 class="conference-name">IJCAI, 2025</h3>        
+        <p class="author-name">Y. Zhao, H. Wen, <strong>X. Zhang</strong>, M. Luo.</p>
+        <div class="links">
+            <a href="https://arxiv.org/abs/2403.10581" class="pdf">PDF</a>
+            <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/" class="code">CODE</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+            SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection
+        </div>
+        <img src="/images/research/SelectMOT.jpg" alt="BGM" class="publication-image" onclick="expandImage(this, '/images/research/SelectMOT.jpg')"><br />
+        <h3 class="conference-name">IEEE Sensors Jounral, 2025</h3>        
+        <p class="author-name">H. Li, Z. Wang, W. Kong, <strong>X. Zhang*</strong>.</p>
+        <div class="links">
+            <a href="https://arxiv.org/abs/2403.10581" class="pdf">PDF</a>
+            <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/" class="code">CODE</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+            MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning
+        </div>
+        <img src="/images/research/MultiTaskVIF.jpg" alt="BGM" class="publication-image" onclick="expandImage(this, '/images/research/MultiTaskVIF.jpg')"><br />
+        <h3 class="conference-name">arXiv, 2025</h3>        
+        <p class="author-name">Z. Zhao, A. Howes, <strong>X. Zhang*</strong>.</p>
+        <div class="links">
+            <a href="https://arxiv.org/pdf/2505.06665" class="pdf">PDF</a>
+            <a href="https://github.com/cherise215/LLM-ECG-Dual-Attention/" class="code">CODE</a>
+        </div>
+    </div>
 </div>
