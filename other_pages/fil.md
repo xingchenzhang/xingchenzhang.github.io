@@ -9,7 +9,7 @@ full-width: true
 ---
 
 <style>
-/* 强制内容容器全宽 */
+/* 全宽设置 */
 .page {
   max-width: 100% !important;
   width: 100% !important;
@@ -17,31 +17,23 @@ full-width: true
   padding-right: 40px;
   box-sizing: border-box;
 }
-
-/* 解除中间内容区宽度限制 */
 .page__inner-wrap,
 .page__content {
   max-width: 100% !important;
   width: 100% !important;
 }
-
-/* 可选：让标题靠左 */
 .page__title {
   text-align: left !important;
 }
-</style>
 
-
-<style>
+/* Lab人员布局 */
 .lab-section {
   margin-bottom: 40px;
 }
-
 .lab-subsection {
   margin-top: 20px;
   margin-bottom: 20px;
 }
-
 .lab-people {
   display: flex;
   gap: 40px;
@@ -49,12 +41,10 @@ full-width: true
   justify-content: flex-start;
   align-items: center;
 }
-
 .lab-person {
   text-align: center;
   width: 200px;
 }
-
 .lab-person img {
   width: 160px;
   height: 220px;
@@ -63,8 +53,7 @@ full-width: true
   border: 1px solid #ccc;
 }
 
-
-<style>
+/* Publication卡片样式 */
 .publication-block {
   border: 1px solid #e0e0e0;
   border-radius: 10px;
@@ -73,13 +62,11 @@ full-width: true
   background-color: #ffffff;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
-
 .publication-title {
   font-weight: bold;
   font-size: 18px;
   margin-bottom: 10px;
 }
-
 .publication-image {
   width: 100%;
   max-width: 600px;
@@ -87,7 +74,6 @@ full-width: true
   margin: 15px 0;
   cursor: pointer;
 }
-
 .conference-name {
   display: inline-block;
   background-color: #6a1b9a;
@@ -99,17 +85,14 @@ full-width: true
   margin-top: 10px;
   margin-bottom: 15px;
 }
-
 .author-name {
   font-size: 14px;
   color: #333;
   margin-bottom: 10px;
 }
-
 .links {
   margin-top: 15px;
 }
-
 .links a {
   display: inline-block;
   margin-right: 10px;
@@ -123,8 +106,6 @@ full-width: true
 }
 </style>
 
-
-</style>
 
 <div class="lab-section">
   <h2>About the Fusion Intelligence Laboratory</h2>
@@ -203,7 +184,7 @@ Selected Publications
             SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection
         </div>
         <img src="/images/research/SelectMOT.jpg" alt="SelectMOT" class="publication-image" onclick="expandImage(this, '/images/research/SelectMOT.jpg')"><br />
-        <h3 class="conference-name">IEEE Sensors Jounral, 2025</h3>        
+        <h3 class="conference-name">IEEE Sensors Journal, 2025</h3>        
         <p class="author-name">H. Li, Z. Wang, W. Kong, <strong>X. Zhang*</strong>.</p>
         <div class="links">
             <a href="https://arxiv.org/abs/2403.10581" class="pdf">PDF</a>
