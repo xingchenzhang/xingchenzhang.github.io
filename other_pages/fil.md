@@ -56,8 +56,8 @@ full-width: true
 }
 
 .lab-person img {
-  width: 180px;
-  height: 180px;
+  width: 160px;
+  height: 220px;
   object-fit: cover;
   border-radius: 8px;
   border: 1px solid #ccc;
@@ -113,13 +113,10 @@ full-width: true
   </ul>
 </div>
 
-<div class="lab-section">
-  <h2>Publications</h2>
-  <ul>
-    <li>Z. Zhao, <strong>X. Zhang*</strong>, Y. Demiris. <em>3PFS: Protecting pedestrian privacy through face swapping</em>, IEEE T-ITS, 2024.</li>
-    <!-- 添加更多 -->
-  </ul>
-</div>
+
+
+Selected Publications
+---------------------
 
 ****
 ## 2025
@@ -144,7 +141,7 @@ full-width: true
         <div class="publication-title">
             SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection
         </div>
-        <img src="/images/research/SelectMOT.jpg" alt="BGM" class="publication-image" onclick="expandImage(this, '/images/research/SelectMOT.jpg')"><br />
+        <img src="/images/research/SelectMOT.jpg" alt="SelectMOT" class="publication-image" onclick="expandImage(this, '/images/research/SelectMOT.jpg')"><br />
         <h3 class="conference-name">IEEE Sensors Jounral, 2025</h3>        
         <p class="author-name">H. Li, Z. Wang, W. Kong, <strong>X. Zhang*</strong>.</p>
         <div class="links">
@@ -159,7 +156,7 @@ full-width: true
         <div class="publication-title">
             MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning
         </div>
-        <img src="/images/research/MultiTaskVIF.jpg" alt="BGM" class="publication-image" onclick="expandImage(this, '/images/research/MultiTaskVIF.jpg')"><br />
+        <img src="/images/research/MultiTaskVIF.jpg" alt="MultiTaskVIF" class="publication-image" onclick="expandImage(this, '/images/research/MultiTaskVIF.jpg')"><br />
         <h3 class="conference-name">arXiv, 2025</h3>        
         <p class="author-name">Z. Zhao, A. Howes, <strong>X. Zhang*</strong>.</p>
         <div class="links">
