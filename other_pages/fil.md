@@ -8,8 +8,9 @@ permalink: /fil/
 full-width: true
 ---
 
+
 <style>
-/* 全宽设置 */
+/* 强制内容容器全宽 */
 .page {
   max-width: 100% !important;
   width: 100% !important;
@@ -17,23 +18,31 @@ full-width: true
   padding-right: 40px;
   box-sizing: border-box;
 }
+
+/* 解除中间内容区宽度限制 */
 .page__inner-wrap,
 .page__content {
   max-width: 100% !important;
   width: 100% !important;
 }
+
+/* 可选：让标题靠左 */
 .page__title {
   text-align: left !important;
 }
+</style>
 
-/* Lab人员布局 */
+
+<style>
 .lab-section {
   margin-bottom: 40px;
 }
+
 .lab-subsection {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
 .lab-people {
   display: flex;
   gap: 40px;
@@ -41,10 +50,12 @@ full-width: true
   justify-content: flex-start;
   align-items: center;
 }
+
 .lab-person {
   text-align: center;
   width: 200px;
 }
+
 .lab-person img {
   width: 160px;
   height: 220px;
@@ -52,57 +63,53 @@ full-width: true
   border-radius: 8px;
   border: 1px solid #ccc;
 }
+</style>
 
-/* Publication卡片样式 */
+<style>
 .publication-block {
-  border: 1px solid #e0e0e0;
+  border: 1px solid #ddd;
   border-radius: 10px;
-  padding: 20px;
-  margin: 30px 0;
-  background-color: #ffffff;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  padding: 15px;
+  margin-bottom: 30px;
+  background-color: #fafafa;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
 }
+
 .publication-title {
   font-weight: bold;
   font-size: 18px;
   margin-bottom: 10px;
 }
+
 .publication-image {
   width: 100%;
-  max-width: 600px;
+  max-width: 400px;
   border-radius: 8px;
-  margin: 15px 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
   cursor: pointer;
 }
+
 .conference-name {
-  display: inline-block;
-  background-color: #6a1b9a;
-  color: white;
-  padding: 5px 10px;
-  font-size: 14px;
-  font-weight: bold;
-  border-radius: 5px;
-  margin-top: 10px;
-  margin-bottom: 15px;
+  font-size: 16px;
+  color: #555;
+  margin: 10px 0;
 }
+
 .author-name {
   font-size: 14px;
   color: #333;
-  margin-bottom: 10px;
 }
+
 .links {
-  margin-top: 15px;
+  margin-top: 10px;
 }
+
 .links a {
-  display: inline-block;
-  margin-right: 10px;
-  padding: 5px 10px;
+  margin-right: 15px;
   text-decoration: none;
   font-weight: bold;
-  color: white;
-  background-color: #3f51b5;
-  border-radius: 4px;
-  font-size: 13px;
+  color: #1a73e8;
 }
 </style>
 
@@ -184,7 +191,7 @@ Selected Publications
             SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection
         </div>
         <img src="/images/research/SelectMOT.jpg" alt="SelectMOT" class="publication-image" onclick="expandImage(this, '/images/research/SelectMOT.jpg')"><br />
-        <h3 class="conference-name">IEEE Sensors Journal, 2025</h3>        
+        <h3 class="conference-name">IEEE Sensors Jounral, 2025</h3>        
         <p class="author-name">H. Li, Z. Wang, W. Kong, <strong>X. Zhang*</strong>.</p>
         <div class="links">
             <a href="https://arxiv.org/abs/2403.10581" class="pdf">PDF</a>
