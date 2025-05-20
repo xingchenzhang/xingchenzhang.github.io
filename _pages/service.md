@@ -17,7 +17,7 @@ author_profile: true
 
 **Organizer for Workshops**
 
-- Lead organizer, Exeter Computer Vision Workshop: PhD Research Talks
+- Organizer, Exeter Computer Vision Workshop: PhD Research Talks
 
 - Organizer, The 1st Exeter Computer Vision Workshop
 
@@ -95,6 +95,8 @@ author_profile: true
 - International Conference on Computer Vision (ICCV) 
 
 - European Conference on Computer Vision (ECCV) 
+
+- Conference on Neural Information Processing Systems (NeurIPS) 
 
 - AAAI Conference on Artificial Intelligence (AAAI)
 

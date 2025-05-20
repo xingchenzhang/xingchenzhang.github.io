@@ -16,7 +16,7 @@ I have been a Fellow of the [Higher Education Academy (HEA)](https://www.advance
 
 In March 2024, I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)" by Imperial College London. In December 2023, I received the [Imperial's EEE Department Award for Citizenship and Community](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/). In November 2023, I was selected as the "[Fellow of the Month](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1d91qfpwhn6m5ti3wepqzp?email=true&lang=en&a=6&p=11850824&t=3895058)" by the Postdocs and Fellows Development Centre (PFDC) of Imperial College London. In 2021, I was awarded the prestigious Marie Skłodowska-Curie Individual Fellowship by the European Commission. Additionally, I have co-authored a book entitled [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors), which won the **National Science and Technology Academic Publications Fund of China (2019)**. I also received the Best Paper Honorable Mention Award of the 9th Chinese Conference on Information Fusion (2019). 
 
-I am a **member of the UKRI Talent Peer Review College**, where I review prestigious funding schemes, including the UKRI Future Leaders Fellowships, EPSRC Open Fellowship, EPSRC New Investigator Award, and EPSRC Standard Research Grant. Additionally, I serve as a reviewer for more than 20 well-known journals (e.g., IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TIM, IEEE RAL, Information Fusion) and more than 10 top-tier conferences (e.g., CVPR, ECCV, ICCV, AAAI, ICRA, IROS). 
+I am a **member of the UKRI Talent Peer Review College**, where I review prestigious funding schemes, including the UKRI Future Leaders Fellowships, EPSRC Open Fellowship, EPSRC New Investigator Award, and EPSRC Standard Research Grant. Additionally, I serve as a reviewer for more than 20 well-known journals (e.g., IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TIM, IEEE RAL, Information Fusion) and more than 10 top-tier conferences (e.g., CVPR, ECCV, ICCV, NeurIPS, AAAI, ICRA, IROS). 
 
 Research interests
 --
@@ -52,11 +52,13 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
+[05/2025] Invited to give a talk at Exeter CS Seminar.
+
+[05/2025] I organized the Exeter Computer Vision Workshop: PhD Research Talks.
+
 [05/2025] I was awarded an **Exeter-Fudan Fellowship** to strengthen the collaboration between my Fusion Intelligence Laboratory and Zhongshan Hospital, Fudan University.
 
 [05/2025] Our paper **SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection** has been accepted by IEEE Sensors Journal. This is a collaborative paper with Yanshan University. Congratulations to all co-authors!
-
-[05/2025] I am organizing the Exeter Computer Vision Workshop for Students.
 
 [04/2025] Our paper "**BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling**" has been accepted by **IJCAI2025**. This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
  
