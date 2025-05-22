@@ -7,9 +7,11 @@ author_profile: true
 
 **Coming talks**
 
-- Human-Centered Computer Vision: From Unimodality to Multimodality, Exeter Computer Science Seminar, UK, May 2025.
+
 
 **Past talks**
+
+- Human-Centered Computer Vision: From Unimodality to Multimodality, Exeter Computer Science Seminar, UK, May 2025.
 
 - A brief introduction to Prompt Engineering, Personal Robotics Laboratory, Imperial College London, UK, Feb 2025.
 
