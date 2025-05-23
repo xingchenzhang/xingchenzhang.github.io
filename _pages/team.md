@@ -45,11 +45,6 @@ MSc students:
 
 - Xuan Zhang (Mar 2025 - )
 
-Undergraduate students:
-
-- Toby Shelford (Sep 2024 -)
-
-- Zihan Wang (Sep 2024 - )
 
 ### Others:
 
@@ -118,3 +113,7 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
 - Ahmer Jalil Najar (2024, MSc): Advanced Sentiment Analysis in Sub-Reddit Discussions
 
 - Yifeng Wang (2024, MSc): NLP Techniques for Anonymising Sensitive Data
+
+- Toby Shelford (2024 - 2025, BSc)
+
+- Zihan Wang (2024 - 2025, BSc)
