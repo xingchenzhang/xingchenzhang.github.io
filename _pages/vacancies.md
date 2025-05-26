@@ -10,28 +10,29 @@ If you are interested in joining my group at the University of Exeter as a PhD s
 
 PhD Opportunities
 ----------
----
 
 **Current opportunities**
 
 **<span style="color: red;">NOTE: I DO NOT accept visiting/exchange PhD students.</span>**
 
-**Other opportunities**
-
-
-- [**QUEX joint PhD studentship**]. The project title is **Development and evaluation of a digital human exercise coach**. The primary supervisor is [Dr Shelley Keating](https://about.uq.edu.au/experts/12259) from the University of QueensLand. I am the co-supervisor at the University of Exeter. More details about this studentship can be found [here](https://scholarships.uq.edu.au/scholarship/quex-phd-scholarship). The application for **is now closed**.
-
-- [University of Exeter - Paris-Saclay studentships (Double PhD Degrees)](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). The project is **Efficient Multimodal Robot Perception for Pedestrian-Centric Applications with Human Decision-Making Models**. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. More details can be found [here](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=61449). The application for 2025 September entry **is now closed**.
-
-- [EPSRC DLA PhD studentships](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/fundedcentres/epsrcdla/): The application for 2025 September entry **is now closed**.
-- [Exeter-CSC PhD studentship (Chinese students only)](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2025 September entry) **is now closed**. 
-- [Commonwealth PhD Scholarships](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2025/26 academic year **is now closed**. 
-- [University of Exeter PhD Scholarships for Black British Researchers](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/black-british/): This programme offers 4-year fully-funded PhD studentships to support Black British researchers. The application for the 2025/26 academic year **is now closed**. 
-
 
 **Self-funded PhD students**
 
-Self-funded PhD students are always welcome and can apply at any time. Please send an email (with your CV) to me to discuss more details if you are interested.  
+Self-funded PhD students are <span style="color: red;">always welcome and can apply at any time</span>. Please send an email (with your CV) to me to discuss more details if you are interested in doing a PhD with me.
+
+**Other opportunities**
+
+
+- [[QUEX joint PhD studentship]](https://scholarships.uq.edu.au/scholarship/quex-phd-scholarship). The project title is Development and evaluation of a digital human exercise coach. The primary supervisor is [Dr Shelley Keating](https://about.uq.edu.au/experts/12259) from the University of QueensLand. I am the co-supervisor at the University of Exeter. More details about this studentship can be found [here](https://scholarships.uq.edu.au/scholarship/quex-phd-scholarship). The application for **is now closed**.
+
+- [[University of Exeter - Paris-Saclay studentships (Double PhD Degrees)]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. More details can be found [here](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=61449). The application for 2025 September entry **is now closed**.
+
+- [[EPSRC DLA PhD studentships]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/fundedcentres/epsrcdla/): The application for 2025 September entry **is now closed**.
+- [[Exeter-CSC PhD studentship (Chinese students only)]](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2025 September entry) **is now closed**. 
+- [[Commonwealth PhD Scholarships]](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2025/26 academic year **is now closed**. 
+- [[University of Exeter PhD Scholarships for Black British Researchers]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/black-british/): This programme offers 4-year fully-funded PhD studentships to support Black British researchers. The application for the 2025/26 academic year **is now closed**. 
+
+
 
 **Entry requirements**
 
@@ -42,8 +43,8 @@ If English is not your first language you will need to meet the English language
 Postdoc Opportunities
 -------------
 
-- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025). <span style="color: red;">Application deadline: 10 September 2025</span>.
-- [Newton Fellowship](https://royalsociety.org/grants/newton-international/). Deadline: 18 March 2025.
+- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025). **<span style="color: red;">Application deadline: 10 September 2025</span>**.
+- [Newton Fellowship](https://royalsociety.org/grants/newton-international/). 
 - [EPSRC Postdoctoral Fellowships](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
 
 
