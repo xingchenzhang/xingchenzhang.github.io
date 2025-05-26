@@ -112,7 +112,6 @@ author_profile: true
 
 - NeurIPS 2022 Workshop: AI for Science: Progress and Promises
 
-- SIGGRAPH Asia
 
 **Professional membership**
 
