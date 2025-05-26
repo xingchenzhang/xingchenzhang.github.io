@@ -58,25 +58,25 @@ News
 
 [05/2025] I was awarded an **Exeter-Fudan Fellowship** to strengthen the collaboration between my Fusion Intelligence Laboratory and Zhongshan Hospital, Fudan University.
 
-[05/2025] Our paper **SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection** has been accepted by IEEE Sensors Journal. This is a collaborative paper with Yanshan University. Congratulations to all co-authors!
+[05/2025] Our paper ''**SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection**'' has been accepted by IEEE Sensors Journal. This is a collaborative paper with Yanshan University. Congratulations to all co-authors!
 
 [04/2025] Our paper "**BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling**" has been accepted by **IJCAI2025**. This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
  
 [04/2025] My MSc student, Qinqing Li, attended the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) in the University of Glasgow to present her work on multimodal medical image processing.
 
-[02/2025] I was awarded a Research Grant from [the Royal Society](https://royalsociety.org/) as the **<span style="color: red;">PI</span>**. 
+[02/2025] I was awarded a [Royal Society](https://royalsociety.org/) Research Grant from  as the **<span style="color: red;">PI</span>**. 
 
 [02/2025] I gave a talk at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), Imperial College London.
 
 [02/2025] I gave a talk at the [Intelligent Systems and Network Group](https://www.imperial.ac.uk/electrical-engineering/research/intelligent-systems-and-networks/), Imperial College London.
 
-[01/2025] Welcome Ning to join my lab as a PhD student! Ning will be co-supervised by Prof. Xujiong Ye.
+[01/2025] Welcome Ning to join my lab as a PhD student! 
 
 [12/2025] Invited to join the Executive Committee of the UK Huazhong University of Science and Technology Alumni Association.
 
 [12/2024] I organised the first Exeter Computer Vision Workshop at the University of Exeter. This is the first formal activity of the Exeter Computer Vision Group. [Exeter CS News (internal only)](https://universityofexeteruk.sharepoint.com/:u:/r/sites/ComputerScienceESE/SitePages/1st-Exeter-Computer-Vision-Workshop!.aspx?csf=1&web=1&e=bZ8QI6)
 
-[12/2024] I gave a talk titled "Human-Centered Computer Vision: From Unimodality to Multimodality" at the 1st Exeter Computer Vision Workshop, Exeter, UK.
+[12/2024] I gave a talk at the 1st Exeter Computer Vision Workshop, Exeter, UK.
 
 [12/2024] I gave a talk titled "How AI is changing my job" at the Around The World Webinar of the MCAA AI GIG (Marie Curie Alumni Association Artificial Intelligence General Interest Group).
 
@@ -91,7 +91,7 @@ News
 [11/2024] I gave a talk titled "A brief introduction to AI" at Wuhan Union Hospital of China (online).
 
 [09/2024] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>**
- ([Stanford University's list](https://topresearcherslist.com/), 2024)!
+ ([Stanford University's list](https://topresearcherslist.com/), 2024)! 
 
 [09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian obtained his MSc degree in Applied Machine Learning (with distinction) from Imperial College London.
 
@@ -140,7 +140,7 @@ Selected funders
 --
 
 My research has received funding from several funders, including the Royal Society, and the European 
-Commission (Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grants).
+Commission (Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grants), and the Exeter-Fudan Fellowship.
 
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
