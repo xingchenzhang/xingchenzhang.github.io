@@ -18,7 +18,7 @@ PhD Opportunities
 
 **Self-funded PhD students**
 
-Self-funded PhD students are <span style="color: red;">always welcome and can apply at any time</span>. Please send an email (with your CV) to me to discuss more details if you are interested in doing a PhD with me.
+Self-funded PhD students are **<span style="color: red;">always welcome and can apply at any time</span>**. Please send an email (with your CV) to me to discuss more details if you are interested in doing a PhD with me.
 
 **Other opportunities**
 
