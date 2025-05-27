@@ -189,6 +189,9 @@ Selected Publications
         <img src="/images/research/SelectMOT.jpg" alt="SelectMOT" class="publication-image" onclick="expandImage(this, '/images/research/SelectMOT.jpg')"><br />
         <h3 class="conference-name">IEEE Sensors Jounral, 2025</h3>        
         <p class="author-name">H. Li, Z. Wang, W. Kong, <strong>X. Zhang*</strong>.</p>
+        <div class="links">
+            <a href="https://ieeexplore.ieee.org/document/11015693" class="pdf">PDF</a>
+        </div>
     </div>
 </div>
 

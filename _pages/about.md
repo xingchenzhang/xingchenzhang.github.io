@@ -58,7 +58,7 @@ News
 
 [05/2025] I was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** to strengthen the collaboration between my Fusion Intelligence Laboratory and Zhongshan Hospital, Fudan University.
 
-[05/2025] Our paper ''SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection'' has been accepted by IEEE Sensors Journal. This is a collaborative paper with Yanshan University. Congratulations to all co-authors!
+[05/2025] Our paper ''[SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection](https://ieeexplore.ieee.org/document/11015693)'' has been accepted by IEEE Sensors Journal. This is a collaborative paper with Yanshan University. Congratulations to all co-authors!
 
 [04/2025] Our paper "**BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling**" has been accepted by **IJCAI2025**. This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
  
