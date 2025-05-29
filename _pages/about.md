@@ -52,6 +52,8 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
+[05/2025] 
+
 [05/2025] Invited to give a talk at Exeter CS Seminar.
 
 [05/2025] I organized the Exeter Computer Vision Workshop: PhD Research Talks.
