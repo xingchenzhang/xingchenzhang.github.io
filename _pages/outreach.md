@@ -8,13 +8,19 @@ author_profile: true
 
 **At University of Exeter**
 
-- 28 May 2025, ESE Research Showcase
+- 28 May 2025, Robot dog demo and pedestrian privacy protection demo, ESE Research Showcase
 
-- 29th March 2025, Robot dog demos, Offer Holders Visit Day
+<div style="display: flex; justify-content: center;">
+  <img src="/images/outreach/ESE-showcase-1.JPG" alt="image1" height="300" style="margin-right: 10px;">
+  <img src="/images/outreach/ESE-showcase-2.JPG" alt="image1" height="300">
+</div>
 
-- 22nd March 2025, Robot dog demos, Offer Holders Visit Day
 
-- 15th March 2025, Robot dog demos, Offer Holders Visit Day
+- 29th March 2025, Robot dog demo, Offer Holders Visit Day
+
+- 22nd March 2025, Robot dog demo, Offer Holders Visit Day
+
+- 15th March 2025, Robot dog demo, Offer Holders Visit Day
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/outreach/ohvd1.JPG" alt="image1" width="400" style="margin-right: 10px;">
