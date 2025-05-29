@@ -11,7 +11,7 @@ author_profile: true
 - 28 May 2025, Robot dog demo and pedestrian privacy protection demo, ESE Research Showcase
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/outreach/ESE-showcase.jpg" alt="image1" width="600" style="margin-right: 10px;">
+  <img src="/images/outreach/ESE-showcase.jpg" alt="image1" width="800" style="margin-right: 10px;">
 </div>
 
 
