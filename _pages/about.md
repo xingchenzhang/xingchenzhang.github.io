@@ -52,7 +52,7 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
-[05/2025] My team attended the ESE Research Showcase to present our robot dog (Code-E) and research. It was a great pleasure to introduce my work to the President of the University of Exeter, Prof. Lisa Roberts, as well as other members of the University Council.
+[05/2025] My team attended the ESE Research Showcase to present our robot dog (Code-E) and research. It was a great pleasure to **introduce my work to the President of the University of Exeter, Prof. Lisa Roberts**, as well as other members of the University Council.
 
 [05/2025] Invited to give a talk at Exeter CS Seminar.
 
