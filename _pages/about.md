@@ -46,12 +46,16 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 
 Welcome to submit your manuscript to the following journals and special issues for which I am an editorial board member. Please feel free to contact me before submission if you have any questions.
 
+- **BMVC2025 Workshop**. Our workshop title is **DIFA:Deep Learning-based Information Fusion and Its Applications**.
+
 - **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif). We always welcome submissions.
 
 - **Remote Sensing** and **Electronics** Special Issue: "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum". **Deadline: 31 August 2025**. [[Remote Sensing Submission]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)  [[Electronics Submission]](https://www.mdpi.com/journal/electronics/special_issues/48P302N872) 
 
 News
 ----
+
+[06/2025] Our workshop proposal "**DIFA: Deep Learning-based Information Fusion and Its Applications**" has been accepted to BMVC2025, which will be held between 24th and 27th November 2025 in Sheffield, UK. If you are interested in giving a keynote talk or submitting a paper, please contact me.  
 
 [05/2025] My team attended the ESE Research Showcase to present our robot dog (Code-E) and research. It was a great pleasure to **introduce my work to the President of the University of Exeter, Prof. Lisa Roberts**, as well as other members of the University Council.
 

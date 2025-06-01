@@ -17,6 +17,8 @@ author_profile: true
 
 **Organizer for Workshops**
 
+- Lead organizer, BMVC2025 Workshop: "DIFA: Deep Learning-based Information Fusion and Its Applications" 
+- 
 - Organizer, Exeter Computer Vision Workshop: PhD Research Talks
 
 - Organizer, The 1st Exeter Computer Vision Workshop
