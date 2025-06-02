@@ -40,6 +40,8 @@ G. Xiao, D.P. Bavirisetti , G. Liu , **X. Zhang**, [Image Fusion](https://link.s
 Preprints
 ------------
 
+[P3] Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning. arXiv preprint arXiv:2505.06665. [[Link]](https://arxiv.org/pdf/2505.06665)
+
 [P2] **X. Zhang***, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023).
 
 [P1] **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community)
