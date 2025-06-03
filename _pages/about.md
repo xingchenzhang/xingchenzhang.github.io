@@ -154,6 +154,7 @@ Commission (Horizon 2020 research and innovation programme under the Marie Skło
     <img src="/images/funders/royalsociety.jpg" alt="image2" style="height:150px; width:auto;">
     <img src="/images/funders/eu.jpg" alt="image2" style="height:150px; width:auto;">
     <img src="/images/funders/marie-curie.jpg" alt="image1" style="height:150px; width:auto;">
+    <img src="/images/funders/Exeter-Fudan.jpg" alt="image1" style="height:150px; width:auto;">
   </div>
 </div>
 
