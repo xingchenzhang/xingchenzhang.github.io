@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Senior Lecturer (~Associate Professor)** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/), where I lead the **Fusion Intelligence Laboratory** and serve as the Deputy Director of Business Engagement & Innovation. I am also a core member of the **Exeter Computer Vision Group**. 
+I am a **Senior Lecturer (~Associate Professor)** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/), where I lead the **Fusion Intelligence Laboratory** and serve as the Deputy Director of Business Engagement & Innovation. 
 
 Previously, I was a Visiting Researcher and a **Marie Skłodowska-Curie Individual Fellow** (Horizon 2020) at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/), working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris) (Royal Academy of Engineering Chair in Emerging Technologies). Before that, I was a Teaching Fellow (where I taught the Deep Learning module together with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk)) and a Research Associate (where I worked with Prof. Yiannis Demiris)  in the same department at Imperial College London. 
 
