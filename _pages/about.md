@@ -149,14 +149,17 @@ Selected funders
 My research has received funding from several funders, including the Royal Society, and the European 
 Commission (Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grants), and the Exeter-Fudan Fellowship.
 
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+  <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
     <img src="/images/funders/royalsociety.jpg" alt="image2" style="height:150px; width:auto;">
     <img src="/images/funders/eu.jpg" alt="image2" style="height:150px; width:auto;">
     <img src="/images/funders/marie-curie.jpg" alt="image1" style="height:150px; width:auto;">
-    <img src="/images/funders/Exeter-Fudan.jpg" alt="image1" style="height:150px; width:auto;">
+  </div>
+  <div style="display: flex; justify-content: center; margin-top: 10px;">
+    <img src="/images/funders/Exeter-Fudan.jpg" alt="image1" style="height:120px; width:auto;">
   </div>
 </div>
+
 
 
 Selected collaborators
