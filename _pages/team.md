@@ -17,10 +17,11 @@ I have supervised and co-supervised students at various universities and continu
 At the University of Exeter, I lead the **Fusion Intelligence Laboratory**, where I supervise PhD, MSc, and undergraduate students.
 
 
-<div style="display: flex; justify-content: center;">
-  <img src="/images/FIL/FIL-20250402.jpg" alt="image1" width="400">
-  <img src="/images/FIL/LOGO.png" alt="image1" width="400">
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="/images/FIL/FIL-20250402.jpg" alt="Lab Photo" style="max-width: 400px; height: auto;">
+  <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="max-width: 400px; height: auto;">
 </div>
+
 
 PhD students (as primary supervisor):
 
@@ -36,11 +37,11 @@ MSc students:
 
 - Qinqing Li (November 2024 - )
 
+- Heegon Kim (Jan 2025 - )
+
 - Mujeeb Adewuyi Sonibare (Jan 2025 -)
 
 - Raghavendra Margasahayam Venkatesh (Jan 2025 - )
-
-- Heegon Kim (Jan 2025 - )
 
 - Yuanhang Zhang (Mar 2025 - )
 
