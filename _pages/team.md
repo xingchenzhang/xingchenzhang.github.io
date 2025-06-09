@@ -19,7 +19,7 @@ At the University of Exeter, I lead the **Fusion Intelligence Laboratory**, wher
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <img src="/images/FIL/FIL-20250402.jpg" alt="Lab Photo" style="height: 300px; width: auto;">
-  <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 300px; width: auto;">
+  <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 150px; width: auto;">
 </div>
 
 
