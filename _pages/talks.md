@@ -7,7 +7,7 @@ author_profile: true
 
 **Coming talks**
 
-
+- [06/2025] I will give a talk at the BMVC One Day Meeting: BMVA Symposium on AI Security in London on 16 July 2025.
 
 **Past talks**
 
