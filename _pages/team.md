@@ -95,28 +95,29 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
 - As the co-supervisor
   
   - [Ping Ye](https://www.researchgate.net/profile/Ping-Ye-6) (PhD student)
-    
-    - Topic: Object tracking, information fusion
-    - Now a lecturer at Ningxia University, China
+	  - Topic: Object tracking, information fusion
+	  - Now a lecturer at Ningxia University, China
   
   - [Jun Liu](https://zxxy.suse.edu.cn/p/74/?StId=st_app_news_i_x637974583413820740) (graduate student)
-    
-    - Topic: Object tracking
-    - Now a lecturer at Sichuan University of Science and Engineering, China
+	  - Topic: Object tracking
+	  - Now a lecturer at Sichuan University of Science and Engineering, China
   
   - [Shengyun Peng](https://shengyun-peng.github.io/) (undergraduate student)
-    
-    - Topic: Computer vision, object tracking
-    - Now a PhD student in Computer Science at **Georgia Institute of Technology**
+	  - Topic: Computer vision, object tracking
+	  - Now a PhD student in Computer Science at **Georgia Institute of Technology**
     
 ### University of Exeter:
 
-- Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators
+- MSc students
 
-- Ahmer Jalil Najar (2024, MSc): Advanced Sentiment Analysis in Sub-Reddit Discussions
+	- Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators
 
-- Yifeng Wang (2024, MSc): NLP Techniques for Anonymising Sensitive Data
+	- Ahmer Jalil Najar (2024, MSc): Advanced Sentiment Analysis in Sub-Reddit Discussions
 
-- Toby Shelford (2024 - 2025, BSc)
+	- Yifeng Wang (2024, MSc): NLP Techniques for Anonymising Sensitive Data
 
-- Zihan Wang (2024 - 2025, BSc)
+- BSc students
+
+	- Toby Shelford (2024 - 2025, BSc)
+
+	- Zihan Wang (2024 - 2025, BSc)
