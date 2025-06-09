@@ -36,7 +36,13 @@ full-width: true
 <h3>Introduction</h3>
 Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles while maintaining the utility of the anonymized videos.
 
-<h3>Demo</h3>
+<h3>Traditional anonymization methods</h3>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="/images/research/Privacy-mosaic-1.gif" alt="First Image" style="height: 300px; width: auto; margin-right: 20px;">
+  <img src="/images/research/Privacy-mosaic-2-new.gif" alt="Second Image" style="height: 300px; width: auto;">
+</div>
+
+<h3>Pedestrian anonymization via face swapping</h3>
 
 <!-- <img align="center" width="600" src="/images/word cloud.png" />  -->
 
@@ -51,7 +57,10 @@ Many videos are captured to train AI models. We aim to protect pedestrian privac
   <img src="/images/research/3PFS.gif" alt="Second Image" style="height: 300px; width: auto;">
 </div>
 
+<h3>Pedestrian anonymization via full-body anonymization</h3>
+
 <h3>Equipment</h3>
+
 
 <h3>Related publications</h3>
 
