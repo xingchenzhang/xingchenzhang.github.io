@@ -44,7 +44,7 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 **Call for papers**
 -------
 
-Welcome to submit your manuscript to the following journals and special issues for which I am an editorial board member. Please feel free to contact me before submission if you have any questions.
+Welcome to submit your manuscript to the following journals and special issues for which I am an editorial board member, or to the workshop that I am organizing. Please feel free to contact me before submission if you have any questions.
 
 - **BMVC2025 Workshop**. Our workshop title is **DIFA:Deep Learning-based Information Fusion and Its Applications**. More details can be found on our [workshop website](https://xingchenzhang.github.io/difa2025/).  
 
