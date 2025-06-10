@@ -55,6 +55,8 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
+[06/2025] A candidate has been awarded an Exeter-CSC PhD scholarship and will be joining my lab in September.
+
 [06/2025] I will give a talk at the BMVC One Day Meeting: BMVA Symposium on AI Security in London on 16 July 2025.
 
 [06/2025] Our workshop proposal "**DIFA: Deep Learning-based Information Fusion and Its Applications**" has been accepted to BMVC2025, which will be held between 24th and 27th November 2025 in Sheffield, UK. If you are interested in giving a keynote talk or submitting a paper, please contact me. More details can be found on our [workshop website](https://xingchenzhang.github.io/difa2025/).  
