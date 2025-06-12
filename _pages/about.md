@@ -55,6 +55,8 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
+[06/2025] I’m very pleased to have received the Dean of PGR’s Commendation for Excellence in Supervision.
+
 [06/2025] A candidate has been awarded an Exeter-CSC PhD scholarship and will be joining my lab in September.
 
 [06/2025] I will give a talk at the BMVC One Day Meeting: BMVA Symposium on AI Security in London on 16 July 2025.
