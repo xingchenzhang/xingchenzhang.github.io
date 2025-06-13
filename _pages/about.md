@@ -61,7 +61,7 @@ News
 
 [06/2025] I will give a talk at the BMVC One Day Meeting: BMVA Symposium on AI Security in London on 16 July 2025.
 
-[06/2025] Our workshop proposal "**DIFA: Deep Learning-based Information Fusion and Its Applications**" has been accepted to BMVC2025, which will be held between 24th and 27th November 2025 in Sheffield, UK. If you are interested in giving a keynote talk or submitting a paper, please contact me. More details can be found on our [workshop website](https://xingchenzhang.github.io/difa2025/).  
+[06/2025] Our workshop proposal "**DIFA: Deep Learning-based Information Fusion and Its Applications**" has been accepted to BMVC2025, which will be held on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK. If you are interested in giving a keynote talk or submitting a paper, please contact me. More details can be found on our [workshop website](https://xingchenzhang.github.io/difa2025/).  
 
 [05/2025] My team attended the ESE Research Showcase to present our robot dog (Code-E) and our research. It was a great pleasure to introduce my work to the **President of the University of Exeter, Prof. Lisa Roberts**, and other members of the University Council. [Exeter News 1 (internal only)](https://universityofexeteruk.sharepoint.com/sites/FacultyofEnvironmentScienceandEconomyESEnew/SitePages/Faculty-Hosts-University-Council-and-Celebrates-Research-Excellence(2).aspx). [Exeter News 2 (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/94nqv79qsln4d208rfh9qq?email=true&lang=en&a=2&p=5014214&t=2297131).
 
