@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-- 2025 **Dean of PGR’s Commendation for Excellence in Supervision**, University of Exeter
+- 2025: **Dean of PGR’s Commendation for Excellence in Supervision**, University of Exeter
 - 2023 & 2024: **World's Top 2% Scientists** ([Stanford University's list](https://topresearcherslist.com/))
 - 2024:  **Imperial People**, Imperial College London [[Imperial website]](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)
 - 2023: **Department Award for Citizenship and Community**, Department of EEE, Imperial College London [[Imperial College News]](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/)  
