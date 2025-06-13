@@ -44,9 +44,9 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 **Call for papers**
 -------
 
-Welcome to submit your manuscript to the following journals and special issues for which I am an editorial board member, or to the workshop that I am organizing. Please feel free to contact me before submission if you have any questions.
+You're welcome to submit your manuscript to the following journals and special issues where I serve on the editorial board, or to the workshop I am organizing. Please feel free to contact me before submission if you have any questions.
 
-- **BMVC2025 Workshop**. Our workshop title is **DIFA:Deep Learning-based Information Fusion and Its Applications**. More details can be found on our [workshop website](https://xingchenzhang.github.io/difa2025/).  
+- **BMVC2025 Workshop**. Our workshop **DIFA:Deep Learning-based Information Fusion and Its Applications** will be held on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK. Please submit papers if you are interested. More details can be found on our [workshop website](https://xingchenzhang.github.io/difa2025/).  
 
 - **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif). We always welcome submissions.
 
@@ -55,9 +55,9 @@ Welcome to submit your manuscript to the following journals and special issues f
 News
 ----
 
-[06/2025] I’m very pleased to have received the Dean of PGR’s Commendation for Excellence in Supervision.
+[06/2025] I’m very pleased to have received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>**.
 
-[06/2025] A candidate has been awarded an Exeter-CSC PhD scholarship and will be joining my lab in September.
+[06/2025] A candidate has been awarded an **Exeter-CSC PhD scholarship** and will be joining my lab in September.
 
 [06/2025] I will give a talk at the BMVC One Day Meeting: BMVA Symposium on AI Security in London on 16 July 2025.
 
