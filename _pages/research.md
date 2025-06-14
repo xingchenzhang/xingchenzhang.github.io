@@ -106,7 +106,7 @@ Related publications:
 
 <h2>4. Computer vision</h2>
 <p align="center"> 
-  <img width="800" src="/images/research/tracking.png" />
+  <img width="500" src="/images/research/MOT17-03-SelectMOT.gif" />
 </p>
 
 Related publications:  
