@@ -20,6 +20,8 @@ permalink: /previous_news/
 
 [07/2023] It was a very nice experience to show EEE kids what we are doing at the Personal Robotics Lab at the Faculty of Engineering's "Bring Your Child to Work Day"! In particular, I showcased the Unusual Cameras (thermal camera, event camera) of our lab. [[Imperial News]](https://www.imperial.ac.uk/news/246594/cool-exciting-place-work-families-agree/).
 
+[07/2023] I am now a **<span style="color: red;">Fellow of the Higher Education Academy (HEA)</span>**! [[ICL EEE Staff Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/qyw8xg2ljae?lang=en&a=6&p=11740175&t=4233382) [[ICL EEE Staff Newsletter 2]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/rmlhmbxw3e5?lang=en&a=2&p=11740143&t=5376334)
+
 [06/2023] As an outreach activity of my MSCA fellowship, my demo "The Smart Wheelchair" at the Great Exhibition Road Festival 2023 was very successful! We attracted more than 2000 visitors during the weekend. We successfully introduced our smart wheelchair and our ongoing research to our visitors, including many children. [[Imperial News]](https://www.imperial.ac.uk/news/245713/eee-great-exhibition-road-festival-2023/).
 
 [06/2023] I was selected as a Mentor for [Imperial’s Activate Student Mentoring Programme](https://www.imperial.ac.uk/students/academic-support/graduate-school/wellbeing-and-support/activate-student-mentoring-programme/).
