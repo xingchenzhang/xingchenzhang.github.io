@@ -34,7 +34,7 @@ sidebar: false
   <h2>Image Fusion Book</h2>
   <p>This book introduces core concepts, methods, and applications in image fusion, including multimodal fusion, evaluation, and downstream tasks.</p>
 
-  <a id="downloadBtn" class="download-button" href="/files/ImageFusionBook.pdf" download>
+  <a id="downloadBtn" class="download-button" href="#">
     📥 Click here to download PDF
   </a>
 
@@ -47,7 +47,6 @@ sidebar: false
 
 <script>
   // Firebase 配置
-  console.log("✅ Firebase initialized, binding download click...");
   const firebaseConfig = {
     apiKey: "AIzaSyB19A68eFKpNSgID_ZqkIxXOxtj0uIqHv8",
     authDomain: "imagefusion-book-download.firebaseapp.com",
@@ -70,13 +69,25 @@ sidebar: false
     document.getElementById('downloadCounter').innerText = snapshot.val() || 0;
   });
 
-  // 动态绑定下载事件（页面加载完成后）
+  // 动态绑定下载事件
   window.addEventListener('DOMContentLoaded', function () {
     const downloadBtn = document.getElementById("downloadBtn");
+
     if (downloadBtn) {
-      downloadBtn.addEventListener("click", function () {
+      downloadBtn.addEventListener("click", function (e) {
+        e.preventDefault();  // 阻止默认跳转
+
         countRef.transaction(function(current) {
           return (current || 0) + 1;
+        }, function(error, committed) {
+          if (error) {
+            console.error("❌ Failed to update download count", error);
+            // 出错也允许下载
+            window.location.href = "/files/ImageFusionBook.pdf";
+          } else if (committed) {
+            console.log("✅ Count updated, starting download");
+            window.location.href = "/files/ImageFusionBook.pdf";
+          }
         });
       });
     }
