@@ -47,6 +47,7 @@ sidebar: false
 
 <script>
   // Firebase 配置
+  console.log("✅ Firebase initialized, binding download click...");
   const firebaseConfig = {
     apiKey: "AIzaSyB19A68eFKpNSgID_ZqkIxXOxtj0uIqHv8",
     authDomain: "imagefusion-book-download.firebaseapp.com",
