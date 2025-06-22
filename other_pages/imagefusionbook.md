@@ -46,15 +46,16 @@ sidebar: false
 
 <script>
   // TODO: Replace with your actual Firebase config
-  var firebaseConfig = {
-	  apiKey: "AIza....",
+	  const firebaseConfig = {
+	  apiKey: "AIzaSyB19A68eFKpNSgID_ZqkIxXOxtj0uIqHv8",
 	  authDomain: "imagefusion-book-download.firebaseapp.com",
 	  databaseURL: "https://imagefusion-book-download-default-rtdb.firebaseio.com",
 	  projectId: "imagefusion-book-download",
-	  storageBucket: "imagefusion-book-download.appspot.com",
+	  storageBucket: "imagefusion-book-download.firebasestorage.app",
 	  messagingSenderId: "671210950650",
-	  appId: "1:671210950650:web:xxxxxxxxxx"
-  };
+	  appId: "1:671210950650:web:29a7c67c612427c07dde43",
+	  measurementId: "G-B5BGW0945J"
+	};
 
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
