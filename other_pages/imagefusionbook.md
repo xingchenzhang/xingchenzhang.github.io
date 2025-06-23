@@ -42,25 +42,33 @@ sidebar: false
 </div>
 
 <script>
-  const namespace = "xingchenzhang";  // 可换成你主页地址中的唯一前缀
-  const key = "imagefusionbook_download";  // 可换成其他唯一键
+  const counterUrl = "https://counterapi.com/api/v1/";
+  const counterNamespace = "xingchenzhang";  // 可改为你的用户名或站点标识
+  const counterKey = "imagefusionbook";      // 可自定义唯一key
 
-  function updateCounter() {
-    fetch(`https://api.countapi.xyz/get/${namespace}/${key}`)
-      .then(res => res.json())
+  function updateDownloadCount() {
+    fetch(`${counterUrl}get/${counterNamespace}/${counterKey}`)
+      .then(response => response.json())
       .then(data => {
-        document.getElementById("downloadCounter").innerText = data.value;
+        document.getElementById("downloadCounter").innerText = data.count ?? 0;
+      })
+      .catch(() => {
+        document.getElementById("downloadCounter").innerText = "N/A";
       });
   }
 
   document.addEventListener("DOMContentLoaded", function () {
     const downloadBtn = document.getElementById("downloadBtn");
+
+    // 初始化显示下载次数
+    updateDownloadCount();
+
+    // 每次点击下载按钮就 +1
     if (downloadBtn) {
-      downloadBtn.addEventListener("click", () => {
-        fetch(`https://api.countapi.xyz/hit/${namespace}/${key}`)
-          .then(() => updateCounter());
+      downloadBtn.addEventListener("click", function () {
+        fetch(`${counterUrl}hit/${counterNamespace}/${counterKey}`)
+          .then(() => updateDownloadCount());
       });
     }
-    updateCounter(); // 初始化加载次数
   });
 </script>
