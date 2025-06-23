@@ -28,7 +28,7 @@ sidebar: false
   <!-- 实时下载次数徽章 -->
   <p style="margin-top:20px;">
     <img
-      src="https://img.shields.io/github/downloads/xingchenzhang/xingchenzhang.github.io/ImageFusionBook.pdf?label=downloads&color=4caf50"
+      src="https://img.shields.io/github/downloads/xingchenzhang/xingchenzhang.github.io/ImageFusionBook/ImageFusionBook.pdf?label=downloads&color=4caf50&cacheSeconds=120"
       alt="Download count badge">
   </p>
 </div>
