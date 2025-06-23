@@ -57,8 +57,8 @@ full-width: true
 
   <!-- GitHub Release 实时下载次数徽章 -->
   <p style="margin-top:20px;">
-    <img src="https://img.shields.io/github/downloads/xingchenzhang/xingchenzhang.github.io/total?label=downloads&color=4caf50"
-      alt="下载次数">
+    <img src="https://img.shields.io/github/downloads/xingchenzhang/xingchenzhang.github.io/total.svg?label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0&color=4caf50"
+     alt="下载次数">
   </p>
 </div>
 
