@@ -7,7 +7,13 @@ sidebar: false
 ---
 
 <style>
-.book-section{margin-top:20px;padding:20px;background:#f4f4f4;border-radius:10px;}
+.book-section{
+  margin:20px auto;      /* auto 让左右外边距相等，居中 */
+  width:90%;             /* 占父元素 90% 宽，你也可以写 1000px */
+  padding:20px;
+  background:#f4f4f4;
+  border-radius:10px;
+}
 .download-button{display:inline-block;background:#007acc;color:#fff;padding:10px 20px;
   border-radius:6px;text-decoration:none;font-size:16px;margin-top:15px;}
 .download-button:hover{background:#005fa3;}
