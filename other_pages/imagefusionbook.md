@@ -34,62 +34,33 @@ sidebar: false
   <h2>Image Fusion Book</h2>
   <p>This book introduces core concepts, methods, and applications in image fusion, including multimodal fusion, evaluation, and downstream tasks.</p>
 
-  <a id="downloadBtn" class="download-button" href="#">
+  <a id="downloadBtn" class="download-button" href="/files/ImageFusionBook.pdf">
     📥 Click here to download PDF
   </a>
 
   <p style="margin-top: 20px;">This PDF has been downloaded <strong><span id="downloadCounter">...</span></strong> times.</p>
 </div>
 
-<!-- Firebase SDK -->
-<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
-<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
-
 <script>
-  // Firebase 配置
-  const firebaseConfig = {
-    apiKey: "AIzaSyB19A68eFKpNSgID_ZqkIxXOxtj0uIqHv8",
-    authDomain: "imagefusion-book-download.firebaseapp.com",
-    databaseURL: "https://imagefusion-book-download-default-rtdb.firebaseio.com",
-    projectId: "imagefusion-book-download",
-    storageBucket: "imagefusion-book-download.appspot.com",
-    messagingSenderId: "671210950650",
-    appId: "1:671210950650:web:29a7c67c612427c07dde43",
-    measurementId: "G-B5BGW0945J"
-  };
+  const namespace = "xingchenzhang";  // 可换成你主页地址中的唯一前缀
+  const key = "imagefusionbook_download";  // 可换成其他唯一键
 
-  // 初始化 Firebase
-  firebase.initializeApp(firebaseConfig);
+  function updateCounter() {
+    fetch(`https://api.countapi.xyz/get/${namespace}/${key}`)
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById("downloadCounter").innerText = data.value;
+      });
+  }
 
-  // 引用数据库中的 downloadCount
-  const countRef = firebase.database().ref("downloadCount");
-
-  // 实时更新页面上显示的下载次数
-  countRef.on('value', function(snapshot) {
-    document.getElementById('downloadCounter').innerText = snapshot.val() || 0;
-  });
-
-  // 动态绑定下载事件
-  window.addEventListener('DOMContentLoaded', function () {
+  document.addEventListener("DOMContentLoaded", function () {
     const downloadBtn = document.getElementById("downloadBtn");
-
     if (downloadBtn) {
-      downloadBtn.addEventListener("click", function (e) {
-        e.preventDefault();  // 阻止默认跳转
-
-        countRef.transaction(function(current) {
-          return (current || 0) + 1;
-        }, function(error, committed) {
-          if (error) {
-            console.error("❌ Failed to update download count", error);
-            // 出错也允许下载
-            window.location.href = "/files/ImageFusionBook.pdf";
-          } else if (committed) {
-            console.log("✅ Count updated, starting download");
-            window.location.href = "/files/ImageFusionBook.pdf";
-          }
-        });
+      downloadBtn.addEventListener("click", () => {
+        fetch(`https://api.countapi.xyz/hit/${namespace}/${key}`)
+          .then(() => updateCounter());
       });
     }
+    updateCounter(); // 初始化加载次数
   });
 </script>
