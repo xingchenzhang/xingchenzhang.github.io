@@ -45,13 +45,13 @@ full-width: true
 
 <div class="book-section">
   <h2>《融合之美：基于深度学习的图像融合》</h2>
-  <p><strong>版本号：</strong>v20250428 &nbsp;|&nbsp; <strong>更新时间：</strong>2025-06-22</p>
+  <p><strong>版本号：</strong>v20250623 &nbsp;|&nbsp; <strong>更新时间：</strong>2025-06-23</p>
 
   <p>这是我最新完成的专著初稿，欢迎下载阅读并提供宝贵意见。</p>
 
   <!-- 下载按钮：指向 Release 的 PDF 直链 -->
   <a class="download-button"
-     href="https://github.com/xingchenzhang/xingchenzhang.github.io/releases/download/ImageFusionBook/ImageFusionBook.pdf">
+     href="https://github.com/xingchenzhang/xingchenzhang.github.io/releases/latest/download/ImageFusionBook.pdf">
      📥 点击此处下载 PDF
   </a>
 
@@ -66,4 +66,5 @@ full-width: true
 ---
 
 ### 更新记录
+* **2025-06-23** 改变PDF文件里的书名
 * **2025-06-22** 将 PDF 上传至仓库 Release 并开放下载
