@@ -58,7 +58,7 @@ full-width: true
   <!-- GitHub Release 实时下载次数徽章 -->
   <p style="margin-top:20px;">
     <img src="https://img.shields.io/github/downloads/xingchenzhang/xingchenzhang.github.io/total?label=downloads&color=4caf50"
-      alt="Download count badge">
+      alt="下载次数">
   </p>
 </div>
 
