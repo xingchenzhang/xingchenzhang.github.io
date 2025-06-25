@@ -20,8 +20,7 @@ I am a **member of the UKRI Talent Peer Review College**, where I review prestig
 
 Research interests
 --
-
-My research areas include
+My Fusion Intelligence Laboratory aims to use machine intelligence and multi-source information fusion to benefit humanity. I am very interested in applying fusion intelligence in medical data processing, robot perception, and computer vision. Specifically, my research areas include
 
 - Computer vision (e.g., object tracking, human pose estimation, human behavior prediction)   
 - Deep learning (e.g., multi-modal learning, self-supervised learning, graph-based learning)  
