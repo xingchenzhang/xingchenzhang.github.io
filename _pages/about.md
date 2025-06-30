@@ -60,7 +60,7 @@ News
 
 [06/2025] Our workshop proposal "**DIFA: Deep Learning-based Information Fusion and Its Applications**" has been accepted to BMVC2025, which will be held on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK. If you are interested in giving a keynote talk or submitting a paper, please contact me. More details can be found on our [workshop website](https://xingchenzhang.github.io/difa2025/).  
 
-[05/2025] My team attended the ESE Research Showcase to present our robot dog (Code-E) and our research. It was a great pleasure to introduce my work to the **President of the University of Exeter, Prof. Lisa Roberts**, and other members of the University Council. [Exeter News 1 (internal only)](https://universityofexeteruk.sharepoint.com/sites/FacultyofEnvironmentScienceandEconomyESEnew/SitePages/Faculty-Hosts-University-Council-and-Celebrates-Research-Excellence(2).aspx). [Exeter News 2 (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/94nqv79qsln4d208rfh9qq?email=true&lang=en&a=2&p=5014214&t=2297131).
+[05/2025] My team attended the ESE Research Showcase to present our robot dog (Code-E) and our research. It was a great pleasure to introduce my work to the **President and Vice-Chancellor of the University of Exeter, Prof. Lisa Roberts**, and other members of the University Council. [Exeter News 1 (internal only)](https://universityofexeteruk.sharepoint.com/sites/FacultyofEnvironmentScienceandEconomyESEnew/SitePages/Faculty-Hosts-University-Council-and-Celebrates-Research-Excellence(2).aspx). [Exeter News 2 (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/94nqv79qsln4d208rfh9qq?email=true&lang=en&a=2&p=5014214&t=2297131).
 
 [05/2025] Invited to give a talk at Exeter CS Seminar.
 
@@ -74,7 +74,7 @@ News
  
 [04/2025] My MSc student, Qinqing Li, attended the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) in the University of Glasgow to present her work on multimodal medical image processing.
 
-[02/2025] I was awarded a [Royal Society](https://royalsociety.org/) Research Grant from  as the **<span style="color: red;">PI</span>**. 
+[02/2025] I was awarded a **[Royal Society](https://royalsociety.org/) Research Grant** from  as the **<span style="color: red;">PI</span>**. 
 
 [02/2025] I gave a talk at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), Imperial College London.
 
@@ -111,7 +111,7 @@ News
 
 [08/2024] I started serving as an Associate Editor for the [Chinese Journal of Information Fusion](https://www.iece.org/journal/cjif).
 
-[07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by **Transportmetrica B: Transport Dynamics**. This is a collaborative paper with the Transport Systems & Logistics Lab and Personal Robotics Lab at Imperial College London. 
+[07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab and Personal Robotics Lab at Imperial College London. 
 
 [07/2024] Two of my IEEE T-PAMI papers were selected as **<span style="color: red;">ESI Highly Cited Papers</span>**.
 
