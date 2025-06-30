@@ -54,7 +54,7 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[06/2025] I’m very pleased to have received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>**.
+[06/2025] I’m very pleased to have received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>**. [Exeter News (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/21vkxfbi5y24d208rfh9qq?email=true&lang=en&a=2&p=5082036&t=2322721)
 
 [06/2025] A candidate has been awarded an **Exeter-CSC PhD scholarship** and will be joining my lab in September.
 
