@@ -52,7 +52,7 @@ full-width: true
   <!-- 下载按钮：指向 Release 的 PDF 直链 -->
   <a class="download-button"
      href="https://github.com/xingchenzhang/xingchenzhang.github.io/releases/latest/download/ImageFusionBook.pdf">
-     📥 点击此处下载 PDF
+     📥 点击此处下载 PDF（版本：20250623）
   </a>
 
   <!-- GitHub Release 实时下载次数徽章 -->
@@ -67,3 +67,6 @@ full-width: true
 ### 更新记录
 * **2025-06-23** 改变PDF文件里的书名
 * **2025-06-22** 将 PDF 上传至仓库 Release 并开放下载
+
+### 联系我
+如果你发现了书中的错误，或者有其他建议，欢迎给我发送邮件（x.zhang12@exeter.ac.uk），谢谢！
