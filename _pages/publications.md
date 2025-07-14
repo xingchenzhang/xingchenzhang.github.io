@@ -41,11 +41,18 @@ Communication, vol. 84, 2020.
 Book
 ---------------------
 
-G. Xiao, D.P. Bavirisetti , G. Liu , **X. Zhang**, [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3), Springer Nature Singapore and Shanghai Jiao Tong University Press, 2020. This book has won the **National Science and Technology Academic Publications Fund of China** (2019).    
+1. G. Xiao, D.P. Bavirisetti , G. Liu , **X. Zhang**, [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3), Springer Nature Singapore and Shanghai Jiao Tong University Press, 2020. This book has won the **National Science and Technology Academic Publications Fund of China** (2019).    
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/image-fusion.jpg" alt="image1" width="150">
 </div>
+
+2. **X. Zhang**. Intelligence of Fusion: Deep Learning-based Image Fusion. 2025. Will be released soon.
+3. 
+<div style="display: flex; justify-content: center;">
+  <img src="/images/Intelligence-of-fusion.png" alt="image1" width="150">
+</div>
+
 
 Preprints
 ------------
