@@ -54,7 +54,7 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[07/2025] My new book, **Intelligence of Fusion: Deep Learning-based Image Fusion** (in Chinese), will be available for download shortly.
+[07/2025] My new book, **Intelligence of Fusion: Deep Learning-based Image Fusion** (written in Chinese), will be available for download shortly.
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/Intelligence-of-fusion.png" alt="image1" width="400">
