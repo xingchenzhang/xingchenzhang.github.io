@@ -38,7 +38,7 @@ Communication, vol. 84, 2020.
 
 *indicates corresponding author
 
-Book
+Books
 ---------------------
 
 1. G. Xiao, D.P. Bavirisetti , G. Liu , **X. Zhang**, [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3), Springer Nature Singapore and Shanghai Jiao Tong University Press, 2020. This book has won the **National Science and Technology Academic Publications Fund of China** (2019).   
