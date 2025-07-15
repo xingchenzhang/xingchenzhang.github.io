@@ -45,7 +45,7 @@ Book
 2. **X. Zhang**. Intelligence of Fusion: Deep Learning-based Image Fusion (in Chinese). 2025. Will be released soon.   
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/fusion-books.png" alt="image1" width="400">
+  <img src="/images/fusion-books.png" alt="image1" width="500">
 </div>
 
 
