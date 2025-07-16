@@ -7,9 +7,10 @@ author_profile: true
 
 **Coming talks**
 
-- [06/2025] I will give a talk at the [BMVC One Day Meeting: BMVA Symposium on AI Security](https://www.bmva.org/meetings/25-07-16-AISecurity.html) in London on 16 July 2025.
 
 **Past talks**
+
+- Protecting pedestrian privacy through face swapping, BMVC One Day Meeting: BMVA Symposium on AI Security, London, UK, July, 2025.
 
 - Human-Centered Computer Vision: From Unimodality to Multimodality, Exeter Computer Science Seminar, UK, May 2025.
 
