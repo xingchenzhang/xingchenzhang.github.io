@@ -10,7 +10,7 @@ author_profile: true
 
 **Past talks**
 
-- Protecting pedestrian privacy through face swapping, BMVC One Day Meeting: BMVA Symposium on AI Security, London, UK, July, 2025. [[Video link]](https://www.youtube.com/watch?v=yoYM1pnDGXM&list=PLW8VWHVjepIszQtfq1N0UPfwVYwSxAgYL&index=4)
+- Protecting pedestrian privacy through face swapping, BMVC One Day Meeting: BMVA Symposium on AI Security, London, UK, July, 2025. [Video link](https://www.youtube.com/watch?v=yoYM1pnDGXM&list=PLW8VWHVjepIszQtfq1N0UPfwVYwSxAgYL&index=4)
 
 - Human-Centered Computer Vision: From Unimodality to Multimodality, Exeter Computer Science Seminar, UK, May 2025.
 
@@ -40,7 +40,7 @@ author_profile: true
 
 - Fusion Intelligence and Fellowship Experience, Future of AI Awards 2024: Collaborate, Debate, Invent, University of Exeter, UK, June 2024
 
-- Self-supervised RGBT tracking with Cross-input consistency, BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications, British Computer Society, London, April 2024. [[Video link]](https://www.youtube.com/watch?v=PnUwBPaMKIo)
+- Self-supervised RGBT tracking with Cross-input consistency, BMVA One Day Meeting: Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications, British Computer Society, London, April 2024. [Video link](https://www.youtube.com/watch?v=PnUwBPaMKIo)
 
 - The beauty of fusion: Deep learning-based image fusion and its applications, Redwood Academy (online), November 2023
 
