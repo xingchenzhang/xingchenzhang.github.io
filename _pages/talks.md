@@ -10,7 +10,7 @@ author_profile: true
 
 **Past talks**
 
-- Protecting pedestrian privacy through face swapping, BMVC One Day Meeting: BMVA Symposium on AI Security, London, UK, July, 2025.
+- Protecting pedestrian privacy through face swapping, BMVC One Day Meeting: BMVA Symposium on AI Security, London, UK, July, 2025. [[Video link]](https://www.youtube.com/watch?v=yoYM1pnDGXM&list=PLW8VWHVjepIszQtfq1N0UPfwVYwSxAgYL&index=4)
 
 - Human-Centered Computer Vision: From Unimodality to Multimodality, Exeter Computer Science Seminar, UK, May 2025.
 
