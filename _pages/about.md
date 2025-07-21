@@ -54,7 +54,7 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[07/2025] I gave a talk titled "Protecting pedestrian privacy through face swapping" at the BMVC One Day Meeting: BMVA Symposium on AI Security in London. [[Video link]](https://www.youtube.com/watch?v=yoYM1pnDGXM&list=PLW8VWHVjepIszQtfq1N0UPfwVYwSxAgYL&index=4)
+[07/2025] I gave a talk titled "Protecting pedestrian privacy through face swapping" at the BMVC One Day Meeting: BMVA Symposium on AI Security in London.  [[Video link]](https://www.youtube.com/watch?v=yoYM1pnDGXM&list=PLW8VWHVjepIszQtfq1N0UPfwVYwSxAgYL&index=4)
 
 [07/2025] My new book, **Intelligence of Fusion: Deep Learning-based Image Fusion** (written in Chinese), will be available for download shortly.
 
