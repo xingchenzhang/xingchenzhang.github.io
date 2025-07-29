@@ -8,6 +8,8 @@ author_profile: true
 
 **At University of Exeter**
 
+- 29 July 2025, Pedestrian privacy protection and robot dog demo, International Study Centre, University of Exeter
+
 - 28 May 2025, Robot dog demo and pedestrian privacy protection demo, ESE Research Showcase. [Exeter News (internal only)](https://universityofexeteruk.sharepoint.com/sites/FacultyofEnvironmentScienceandEconomyESEnew/SitePages/Faculty-Hosts-University-Council-and-Celebrates-Research-Excellence(2).aspx).
 
 <div style="display: flex; justify-content: center;">
