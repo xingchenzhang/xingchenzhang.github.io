@@ -110,17 +110,17 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
 
 - MSc students
 
- - Qinqing Li (November 2024 - )
+ 	- Qinqing Li (November 2024 - Aug 2025)
  
- - Heegon Kim (Jan 2025 - )
+ 	- Heegon Kim (Jan 2025 - Aug 2025)
  
- - Mujeeb Adewuyi Sonibare (Jan 2025 -)
+ 	- Mujeeb Adewuyi Sonibare (Jan 2025 - Aug 2025)
  
- - Raghavendra Margasahayam Venkatesh (Jan 2025 - )
+ 	- Raghavendra Margasahayam Venkatesh (Jan 2025 - Aug 2025)
 
- - Yuanhang Zhang (Mar 2025 - )
+ 	- Yuanhang Zhang (Mar 2025 - Aug 2025)
 
- - Xuan Zhang (Mar 2025 - )
+ 	- Xuan Zhang (Mar 2025 - Aug 2025)
 
 	- Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators
 
