@@ -45,14 +45,14 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 
 You're welcome to submit your manuscript to the following journals and special issues where I serve on the editorial board, or to the workshop I am organizing. Please feel free to contact me before submission if you have any questions.
 
-- **BMVC2025 Workshop**. Our workshop **DIFA:Deep Learning-based Information Fusion and Its Applications** will be held on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK. Please submit papers if you are interested. More details can be found on our [workshop website](https://xingchenzhang.github.io/difa2025/).  
-
 - **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif). We always welcome submissions.
 
-- **Remote Sensing** and **Electronics** Special Issue: "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum". **Deadline: 31 August 2025**. [[Remote Sensing Submission]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)  [[Electronics Submission]](https://www.mdpi.com/journal/electronics/special_issues/48P302N872) 
+- **Remote Sensing** and **Electronics** Special Issue: "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum". **Deadline: 28 February 2026**. [[Remote Sensing Submission]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)  [[Electronics Submission]](https://www.mdpi.com/journal/electronics/special_issues/48P302N872) 
 
 News
 ----
+
+[08/2025] A candidate has been awarded an QUEX joint PhD studentship will be joining my lab.
 
 [07/2025] I gave a talk titled "Protecting pedestrian privacy through face swapping" at the BMVC One Day Meeting: BMVA Symposium on AI Security in London.  [Video link](https://www.youtube.com/watch?v=yoYM1pnDGXM&list=PLW8VWHVjepIszQtfq1N0UPfwVYwSxAgYL&index=4)
 
