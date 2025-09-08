@@ -108,7 +108,7 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
     
 ### University of Exeter:
 
-- MSc students
+- MSc students  
 
  	- Qinqing Li (November 2024 - Aug 2025)  
  
