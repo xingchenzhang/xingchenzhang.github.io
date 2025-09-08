@@ -12,7 +12,7 @@ I have supervised and co-supervised students at various universities and continu
 
 - I received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>** in 2025 in the University of Exeter.
 
-- I am a Fellow of the Higher Education Academy.
+- I am a **<span style="color: red;">Fellow of the Higher Education Academy</span>**.
 
 
 ## **Current team**
@@ -34,24 +34,19 @@ PhD students (as primary supervisor):
 - [Zixian Zhao](https://scholar.google.com/citations?hl=en&user=0mkQvWYAAAAJ&view_op=list_works&sortby=pubdate) (Sep 2024 - ). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science)
 
 - Ning Wang (Jan 2025 - ). Co-supervisor: Prof. Xujiong Ye
+
+- Quangao Liu (Sep 2025 - ). Co-supervisor: Prof. Lu Liu
+
+- Feier Shi (Sep 2025 -). Co-supervisor: Dr. Hang Dong
   
 PhD students (as co-supervisor):
 
 - Hao Tang (Dec 2024 - ). Co-supervising with Prof. Lu Liu and Prof. Nick Stone. 
 
-MSc students:
 
-- Qinqing Li (November 2024 - )
+BSc students:
 
-- Heegon Kim (Jan 2025 - )
-
-- Mujeeb Adewuyi Sonibare (Jan 2025 -)
-
-- Raghavendra Margasahayam Venkatesh (Jan 2025 - )
-
-- Yuanhang Zhang (Mar 2025 - )
-
-- Xuan Zhang (Mar 2025 - )
+- Aditya Bhardwaj (Sep 2025 - )
 
 
 ### Others:
@@ -114,6 +109,18 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
 ### University of Exeter:
 
 - MSc students
+
+ - Qinqing Li (November 2024 - )
+ 
+ - Heegon Kim (Jan 2025 - )
+ 
+ - Mujeeb Adewuyi Sonibare (Jan 2025 -)
+ 
+ - Raghavendra Margasahayam Venkatesh (Jan 2025 - )
+
+ - Yuanhang Zhang (Mar 2025 - )
+
+ - Xuan Zhang (Mar 2025 - )
 
 	- Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators
 
