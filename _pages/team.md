@@ -122,11 +122,12 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
 
  	- Xuan Zhang (Mar 2025 - Aug 2025)  
 
-	- Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators  
+	- Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators    
+	
+	- Ahmer Jalil Najar (2024, MSc): Advanced Sentiment Analysis in Sub-Reddit Discussions    
 
-	- Ahmer Jalil Najar (2024, MSc): Advanced Sentiment Analysis in Sub-Reddit Discussions  
-
-	- Yifeng Wang (2024, MSc): NLP Techniques for Anonymising Sensitive Data  
+	- Yifeng Wang (2024, MSc): NLP Techniques for Anonymising Sensitive Data   
+	 
 
 - BSc students
 
