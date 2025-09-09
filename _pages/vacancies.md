@@ -15,7 +15,7 @@ PhD Opportunities
 
 **<span style="color: red;">NOTE: I DO NOT accept visiting/exchange PhD students.</span>**
 
-- [[Commonwealth PhD Scholarships]](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2026/27 academic year **will close at 16:00 on 14 October 2025**. 
+- [[Commonwealth PhD Scholarships]](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2026/27 academic year **<span style="color: red;">will close at 16:00 on 14 October 2025</span>**. 
 
 **Self-funded PhD students**
 
