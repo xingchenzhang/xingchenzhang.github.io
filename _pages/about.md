@@ -77,7 +77,7 @@ News
 
 [05/2025] Our paper ''[SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection](https://ieeexplore.ieee.org/document/11015693)'' has been accepted by IEEE Sensors Journal. This is a collaborative paper with Yanshan University. Congratulations to all co-authors! The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
 
-[04/2025] Our paper "**BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling**" has been accepted by **IJCAI2025**. This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
+[04/2025] Our paper "[BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling" has been accepted by **IJCAI2025**](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8690.pdf). This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
  
 [04/2025] My MSc student, Qinqing Li, attended the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) in the University of Glasgow to present her work on multimodal medical image processing.
 
