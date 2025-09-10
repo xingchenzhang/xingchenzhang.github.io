@@ -29,7 +29,7 @@ Selected Publications
 dynamic Siamese networks using multi-layer feature fusion. Signal Processing: Image
 Communication, vol. 84, 2020.  
 
-- H. Li, Z. Wang, W. Kong, **X. Zhang***. SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection. IEEE Sensors Journal, 2025.
+- H. Li, Z. Wang, W. Kong, **X. Zhang***. SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection. IEEE Sensors Journal, vol. 25, no. 11, pp. 28607-28617, 2025.
 
 - **X. Zhang**, P. Ye, G. Xiao. VIFB: A Visible and Infrared Image Fusion Benchmark, In the Proceedings of IEEE/CVF Conference on Computer Vision Workshops, 2020. (**The first image fusion benchmark, which has been utilized by researchers from more than 10 countries.**) [[Benchmark link]](https://github.com/xingchenzhang/VIFB)
 
@@ -52,8 +52,10 @@ Books
 Preprints
 ------------
 
+[P4] H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2508.20817) 
+
 [P3] Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning. arXiv preprint arXiv:2505.06665. [[Link]](https://arxiv.org/pdf/2505.06665)
 
-[P2] **X. Zhang***, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023).
+[P2] **X. Zhang***, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023). [[link]](https://arxiv.org/abs/2301.11274)
 
-[P1] **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community)
+[P1] **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community) [[link]](https://arxiv.org/abs/2005.01116)
