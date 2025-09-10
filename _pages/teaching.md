@@ -13,7 +13,7 @@ I enjoy seeing students improve through my teaching. As Mencius the philosopher 
 
 **At University of Exeter**
 
-- **Module leader and Lecturer**, COM2013, Data Science Group Project 2 (2024-2025), Department of Computer Science. This is a module for undergraduate (second year) students.
+- **Module leader and Lecturer**, COM2013, Data Science Group Project 2 (2024-2025; 2025-2026), Department of Computer Science. This is a module for undergraduate (second year) and graduate students.
 
 - **Lecturer**, COM2017, Introduction to Prompt Engineering (2024-2025), Department of Computer Science. I teach this module together with Dr. Avon Huxor. This is a module for MSc students.
 
