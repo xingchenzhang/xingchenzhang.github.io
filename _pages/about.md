@@ -52,9 +52,11 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[08/2025] One paper **Visible and Infrared Image Fusion Using Deep Learning** was selected as **<span style="color: red;">ESI Hot Paper</span>**.
+[09/2025] Welcome Quangao to join my lab as a PhD student!
 
-[08/2025] A candidate has been awarded an QUEX joint PhD studentship and will be joining my lab in Jan 2026.
+[09/2025] One paper **Visible and Infrared Image Fusion Using Deep Learning** was selected as **<span style="color: red;">ESI Hot Paper</span>**.
+
+[08/2025] A candidate has been awarded an QUEX joint PhD studentship and will be joining my lab in Jan 2026. I will co-supervise this student with Dr. Shelley Keating from the University of Queensland.
 
 [07/2025] I gave a talk titled "Protecting pedestrian privacy through face swapping" at the BMVC One Day Meeting: BMVA Symposium on AI Security in London.  [Video link](https://www.youtube.com/watch?v=yoYM1pnDGXM&list=PLW8VWHVjepIszQtfq1N0UPfwVYwSxAgYL&index=4)
 
