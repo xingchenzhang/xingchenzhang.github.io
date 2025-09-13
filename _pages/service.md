@@ -15,6 +15,10 @@ author_profile: true
 - Executive Committee Member, the UK Huazhong University of Science and Technology Alumni Association
 - Committee Member, Youth Working Committee of the Information Fusion Division, Chinese Society of Aeronautics and Astronautics
 
+**Organizer for Conferences**
+
+- Program Committee Member, Chinese Conference on Information Fusion, 2025
+
 **Organizer for Workshops**
 
 - Lead organizer, BMVC2025 Workshop: "DIFA: Deep Learning-based Information Fusion and Its Applications" 
