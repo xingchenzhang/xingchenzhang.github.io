@@ -54,7 +54,7 @@ News
 
 [09/2025] Welcome Quangao to join my lab as a PhD student!
 
-[09/2025] One paper **Visible and Infrared Image Fusion Using Deep Learning** was selected as **<span style="color: red;">ESI Hot Paper</span>**.
+[09/2025] Our TPAMI paper [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/document/10088423/) was selected as **<span style="color: red;">ESI Hot Paper</span>**.
 
 [08/2025] A candidate has been awarded an QUEX joint PhD studentship and will be joining my lab in Jan 2026. I will co-supervise this student with Dr. Shelley Keating from the University of Queensland.
 
