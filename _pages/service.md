@@ -74,6 +74,8 @@ author_profile: true
 
 - IEEE Transactions on Multimedia
 
+- IEEE Transactions on Industrial Informatics
+
 - IEEE Robotics and Automation Letters
 
 - IEEE/CAA Journal of Automatica Sinica
