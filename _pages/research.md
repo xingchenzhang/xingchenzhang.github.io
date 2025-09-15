@@ -57,6 +57,7 @@ International Conference on Information Fusion, 2019.
 7. **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community)  
 8. Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning. arXiv preprint arXiv:2505.06665. [[Link]](https://arxiv.org/pdf/2505.06665)  
 9. H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2508.20817)  
+10. Q. Li, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. DIFA 2025 Workshop, BMVC2025.
 
 <h2>2. Human-centered computer vision</h2>
 <h3>(1) Pedestrian trajectory prediction based on graph neural network</h3>
