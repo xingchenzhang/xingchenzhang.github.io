@@ -7,6 +7,7 @@ author_profile: true
 
 **Coming talks**
 
+- I will be giving an invited talk on AI to new HUSTers in the UK on 18 October 2025, organized by the UK Huazhong University of Science and Technology Alumni Association.
 
 **Past talks**
 
