@@ -144,10 +144,8 @@ full-width: true
         </a>
       </div>
       <div class="lab-person">
-        <a href="https://example.com/phd2">
           <img src="/images/people/Ning.png" alt="Ning Wang">
           <div><strong>Ning Wang</strong></div>
-        </a>
       </div>
       <div class="lab-person">
         <a href="https://scholar.google.com/citations?user=amE9NlYAAAAJ&hl=zh-CN">
