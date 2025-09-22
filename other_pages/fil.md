@@ -149,6 +149,12 @@ full-width: true
           <div><strong>Ning Wang</strong></div>
         </a>
       </div>
+      <div class="lab-person">
+        <a href="https://scholar.google.com/citations?user=amE9NlYAAAAJ&hl=zh-CN">
+          <img src="/images/people/Quangao.jpg" alt="Quangao Liu">
+          <div><strong>Quangao Liu</strong></div>
+        </a>
+      </div>
     </div>
   </div>
 </div>
@@ -210,7 +216,29 @@ Selected Publications
     </div>
 </div>
 
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+            FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning
+        </div>
+        <img src="/images/research/FusionCounting.png" alt="FusionCounting" class="publication-image" onclick="expandImage(this, '/images/research/FusionCounting.png')"><br />
+        <h3 class="conference-name">arXiv, 2025</h3>        
+        <p class="author-name">H. Li, X. Liu, W. Kong, <strong>X. Zhang*</strong>.</p>
+        <div class="links">
+            <a href="https://arxiv.org/abs/2508.20817" class="pdf">PDF</a>
+        </div>
+    </div>
+</div>
 
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+           Brain tumor segmentation using multimodal MRI
+        </div>
+        <h3 class="conference-name">DIFA 2025 Workshop, BMVC2025</h3>        
+        <p class="author-name">Q. Li, <strong>X. Zhang*</strong>.</p>
+    </div>
+</div>
 
 
 <!-- Fullscreen image box -->
