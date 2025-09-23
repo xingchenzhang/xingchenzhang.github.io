@@ -52,7 +52,7 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[09/2025] Honored to be listed once again among the World’s Top 2% Scientists (Stanford University’s list, 2025) — my third time receiving this recognition!
+[09/2025] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>**  (Stanford University’s list, 2025) — my third time receiving this recognition!
  
 [09/2025] I will be giving an invited talk on AI to new HUSTers in the UK on 18 October 2025, organized by the UK Huazhong University of Science and Technology Alumni Association.
 
