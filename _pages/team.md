@@ -48,6 +48,14 @@ BSc students:
 
 - Aditya Bhardwaj (Sep 2025 - )
 
+- Hivda Nasiroglu (Sep 2025 - )
+
+- Jason Chung (Sep 2025 - )
+
+- Oliver Johnson (Sep 2025 - )
+
+- Rahul Somani (Sep 2025 - )
+
 
 ### Others:
 
