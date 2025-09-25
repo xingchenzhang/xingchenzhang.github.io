@@ -29,7 +29,7 @@ Some funded projects
 
 - Exeter-Fudan Fellowship
 - The Royal Society Research Grant
-- QUEX Joint PhD Scholarship (Co-Supervisor)
+- QUEX Joint PhD Scholarship (Primary supervisor at Exeter）
 - Marie Sklodowska-Curie  Individual Fellowship
 - Shanghai Science and Technology Committee Research Project
 
