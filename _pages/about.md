@@ -58,7 +58,7 @@ News
 
 [09/2025] Our paper "Brain tumor segmentation using multimodal MRI" has been accepted by the DIFA 2025 workshop, which will be held at BMVC2025. This paper is resulted from my MSc student Qinqing Li's final project.
 
-[09/2025] Welcome Quangao to join my lab as a PhD student!
+[09/2025] Welcome Quangao and Feier to join my lab as PhD students!
 
 [09/2025] Our TPAMI paper [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/document/10088423/) was selected as **<span style="color: red;">ESI Hot Paper</span>**.
 
