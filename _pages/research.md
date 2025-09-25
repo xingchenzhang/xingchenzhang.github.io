@@ -28,8 +28,9 @@ Some funded projects
 ----
 
 - Exeter-Fudan Fellowship
-- The Royal Society Research Grant  
-- Marie-Curie Individual Fellowship
+- The Royal Society Research Grant
+- QUEX Joint PhD Scholarship (Co-Supervisor)
+- Marie Sklodowska-Curie  Individual Fellowship
 - Shanghai Science and Technology Committee Research Project
 
 Research topics
