@@ -11,6 +11,7 @@ For a full list of my publications, please refer to my [Google Scholar profile](
 Selected Publications
 ------------------
 
+- **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS, 2025.
 
 - **X. Zhang***, Y. Demiris. Visible and Infrared Image Fusion using Deep Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 10535-10554, 2023. (**ESI Highly Cited Paper**, **ESI Hot Paper**)
 
