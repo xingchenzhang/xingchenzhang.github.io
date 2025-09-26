@@ -105,7 +105,8 @@ Many videos are captured to train AI models. We aim to protect pedestrian privac
 </div>
 
 Related publications:  
-1. Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.
+1. Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.  
+2. **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS, 2025.
 
 <h2>4. Computer vision</h2>
 <p align="center"> 
