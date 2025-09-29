@@ -179,7 +179,7 @@ Selected Publications
         <div class="publication-title">
             More effort is needed to protect pedestrian privacy in the era of AI
         </div>
-        <img src="/images/research/Privacy.jpg alt="Privacy" class="publication-image" onclick="expandImage(this, '/images/research/Privacy.jpg')"><br />
+        <img src="/images/research/Privacy.jpg" alt="Privacy" class="publication-image" onclick="expandImage(this, '/images/research/Privacy.jpg')"><br />
         <h3 class="conference-name">NeurIPS (Position Paper Track), 2025</h3>        
         <p class="author-name"><strong>X. Zhang</strong>, Z. Zhao.</p>
     </div>
