@@ -177,6 +177,17 @@ Selected Publications
 <div class="publication-block">
     <div class="publication-info">
         <div class="publication-title">
+            More effort is needed to protect pedestrian privacy in the era of AI
+        </div>
+        <img src="/images/research/Privacy.jpg alt="Privacy" class="publication-image" onclick="expandImage(this, '/images/research/Privacy.jpg')"><br />
+        <h3 class="conference-name">NeurIPS (Position Paper Track), 2025</h3>        
+        <p class="author-name"><strong>X. Zhang</strong>, Z. Zhao.</p>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
             BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling
         </div>
         <img src="/images/research/BGM-IJCAI2025.png" alt="BGM" class="publication-image" onclick="expandImage(this, '/images/research/BGM-IJCAI2025.png')"><br />
@@ -202,6 +213,16 @@ Selected Publications
 <div class="publication-block">
     <div class="publication-info">
         <div class="publication-title">
+           Brain tumor segmentation using multimodal MRI
+        </div>
+        <h3 class="conference-name">DIFA 2025 Workshop, BMVC2025</h3>        
+        <p class="author-name">Q. Li, Z. Zhao, <strong>X. Zhang*</strong>.</p>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
             MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning
         </div>
         <img src="/images/research/MultiTaskVIF.jpg" alt="MultiTaskVIF" class="publication-image" onclick="expandImage(this, '/images/research/MultiTaskVIF.jpg')"><br />
@@ -217,6 +238,20 @@ Selected Publications
 <div class="publication-block">
     <div class="publication-info">
         <div class="publication-title">
+            SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion
+        </div>
+        <img src="/images/research/SSVIF.jpg" alt="SSVIF" class="publication-image" onclick="expandImage(this, '/images/research/SSVIF.jpg')"><br />
+        <h3 class="conference-name">arXiv, 2025</h3>        
+        <p class="author-name">Z. Zhao, <strong>X. Zhang*</strong>.</p>
+        <div class="links">
+            <a href="https://arxiv.org/pdf/2509.22450" class="pdf">PDF</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
             FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning
         </div>
         <img src="/images/research/FusionCounting.png" alt="FusionCounting" class="publication-image" onclick="expandImage(this, '/images/research/FusionCounting.png')"><br />
@@ -225,16 +260,6 @@ Selected Publications
         <div class="links">
             <a href="https://arxiv.org/abs/2508.20817" class="pdf">PDF</a>
         </div>
-    </div>
-</div>
-
-<div class="publication-block">
-    <div class="publication-info">
-        <div class="publication-title">
-           Brain tumor segmentation using multimodal MRI
-        </div>
-        <h3 class="conference-name">DIFA 2025 Workshop, BMVC2025</h3>        
-        <p class="author-name">Q. Li, <strong>X. Zhang*</strong>.</p>
     </div>
 </div>
 
