@@ -153,6 +153,10 @@ full-width: true
           <div><strong>Quangao Liu</strong></div>
         </a>
       </div>
+      <div class="lab-person">
+          <img src="/images/people/Feier.jpg" alt="Feier Shi">
+          <div><strong>Feier Shi</strong></div>
+      </div>
     </div>
   </div>
 </div>
