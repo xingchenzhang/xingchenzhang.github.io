@@ -52,14 +52,14 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[10/2025] Invited to give an invited talk on the "AI for everyone" event organized by the UK Huazhong University of Science and Technology Alumni Association.
+
 [10/2025] Dr. Yixiu Liang from Zhongshan Hospital, Fudan University visited our lab and gave a talk at the Computer Science Seminar. Dr. Liang's visit is a part our Exeter-Fudan Fellowship and will strength the collaboration between Zhongshan Hospital and my lab.
 
 [09/2025] Our paper "More effort is needed to protect pedestrian privacy in the era of AI" has been accepted to **NeurIPS2025** (Position Paper Track, acceptance rate: 6%).
 
 [09/2025] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>**  (Stanford University’s list, 2025) — my third time receiving this recognition!
  
-[09/2025] I will be giving an invited talk on AI to new HUSTers in the UK on 18 October 2025, organized by the UK Huazhong University of Science and Technology Alumni Association.
-
 [09/2025] Our paper "Brain tumor segmentation using multimodal MRI" has been accepted by the DIFA 2025 workshop, which will be held at BMVC2025. This paper is resulted from my MSc student Qinqing Li's final project.
 
 [09/2025] Welcome Quangao and Feier to join my lab as PhD students!
