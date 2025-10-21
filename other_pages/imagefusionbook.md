@@ -70,4 +70,4 @@ full-width: true
 * **2025-06-22** 将 PDF 上传至仓库 Release 并开放下载
 
 ### 联系我
-如果你发现了书中的错误，或者有其他建议，欢迎给我发送邮件（x.zhang12@exeter.ac.uk）或者到https://github.com/xingchenzhang/ImageFusion-Book提issues，谢谢！
+如果你发现了书中的错误，或者有其他建议，欢迎给我发送邮件（x.zhang12@exeter.ac.uk）或者到[https://github.com/xingchenzhang/ImageFusion-Book](https://github.com/xingchenzhang/ImageFusion-Book)提issues，谢谢！
