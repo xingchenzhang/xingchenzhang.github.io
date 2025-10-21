@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "《融合之美：基于深度学习的图像融合》"
+title: "《融合之智：基于深度学习的图像融合》"
 permalink: /imagefusionbook/
 author_profile: false
 sidebar: false
@@ -44,10 +44,10 @@ full-width: true
 </style>
 
 <div class="book-section">
-  <h2>《融合之美：基于深度学习的图像融合》</h2>
+  <h2>《融合之智：基于深度学习的图像融合》</h2>
   <p><strong>版本号：</strong>v20251021 &nbsp;|&nbsp; <strong>更新时间：</strong>2025-10-21</p>
 
-  <p>这是我最新完成的专著初稿，欢迎下载阅读并提供宝贵意见。</p>
+  <p>这是我最新完成的《融合之智：基于深度学习的图像融合》初稿，欢迎下载阅读并提供宝贵意见。</p>
 
   <!-- 下载按钮：指向 Release 的 PDF 直链 -->
   <a class="download-button"
