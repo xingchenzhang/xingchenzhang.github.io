@@ -17,7 +17,7 @@ full-width: true
   padding:0 40px;
   box-sizing:border-box;
 }
-.page__title{ text-align:left !important; }
+.page__title{ text-align:center !important; }
 </style>
 
 <!-- 灰色信息框自身样式 -->
