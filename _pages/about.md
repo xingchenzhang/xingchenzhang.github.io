@@ -37,8 +37,6 @@ To know more about my research, please go to the  '[Research](https://xingchenzh
 
 I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Laboratory as a PhD student, or if you wish to join by applying for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, Newton International Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Vacancies](https://xingchenzhang.github.io/vacancies/)' section.
 
-- [[Commonwealth PhD Scholarships]](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2026/27 academic year **<span style="color: red;">will close at 16:00 on 21 October 2025</span>**. 
-
 
 **Call for papers**
 -------
@@ -52,7 +50,7 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/) (written in Chinese), is now available for download.
+[10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), has just been released! Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. The full version is now freely available for download.
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/Intelligence-of-fusion.png" alt="image1" width="400">
