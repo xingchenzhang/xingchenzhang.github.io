@@ -15,8 +15,6 @@ PhD Opportunities
 
 **<span style="color: red;">NOTE: I DO NOT accept visiting/exchange PhD students.</span>**
 
-- [[Commonwealth PhD Scholarships]](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2026/27 academic year **<span style="color: red;">will close at 16:00 on 14 October 2025</span>**. 
-
 **Self-funded PhD students**
 
 Self-funded PhD students are **<span style="color: red;">always welcome and can apply at any time</span>**. Please send an email (with your CV) to me to discuss more details if you are interested in doing a PhD with me.
@@ -33,7 +31,7 @@ Self-funded PhD students are **<span style="color: red;">always welcome and can 
 
 - [[University of Exeter PhD Scholarships for Black British Researchers]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/black-british/): This programme offers 4-year fully-funded PhD studentships to support Black British researchers. The application for the 2025/26 academic year **is now closed**. 
 
-
+- [[Commonwealth PhD Scholarships]](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2026/27 academic year **is now closed**. 
 
 **Entry requirements**
 
