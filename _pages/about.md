@@ -12,7 +12,7 @@ I am a **Senior Lecturer (~Associate Professor)** in Computer Vision and Artific
 
 Previously, I was a Visiting Researcher and **Marie Skłodowska-Curie Individual Fellow** (Horizon 2020) at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/), working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris) (Royal Academy of Engineering Chair in Emerging Technologies). Before that, I was a Teaching Fellow (where I taught the Deep Learning module together with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk)) and a Research Associate (where I worked with Prof. Yiannis Demiris and collaborated with [Prof. Panagiotis Angeloudis](https://transport-systems.imperial.ac.uk/) in an Innovate UK-funded project)  in the same department at Imperial College London. 
 
-I have published over 30 peer-reviewed papers in leading journals and conferences, such as IEEE TPAMI, IEEE TITS, Information Fusion, Pattern Recognition, NeurIPS and IJCAI. I have co-authored a book entitled [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors), which won the **National Science and Technology Academic Publications Fund of China (2019)**. I also wrote a new book titled "Intelligence of Fusion: Deep Learning-Based Image Fusion". Additionally, I received the Best Paper Honorable Mention Award of the 9th Chinese Conference on Information Fusion (2019). 
+I have published over 30 peer-reviewed papers in leading journals and conferences, such as IEEE TPAMI, IEEE TITS, Information Fusion, Pattern Recognition, NeurIPS and IJCAI. I have co-authored a book entitled [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors), which won the **National Science and Technology Academic Publications Fund of China (2019)**. I also wrote a new book titled [**Intelligence of Fusion: Deep Learning-Based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/). Additionally, I received the Best Paper Honorable Mention Award of the 9th Chinese Conference on Information Fusion (2019). 
 
 I have been a **Fellow of the [Higher Education Academy (HEA)](https://www.advance-he.ac.uk/)** since July 2023. I have been listed among the **World’s Top 2% Scientists** ([Stanford University's list](https://topscinet.com/), 2023, 2024, 2025). In June 2025, I received the **Dean of PGR’s Commendation for Excellence in Supervision** at the University of Exeter. In March 2024, I was featured as "[Imperial People](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)" by Imperial College London. In December 2023, I received the [Imperial EEE Department Award for Citizenship and Community](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/). In November 2023, I was selected as the "[Fellow of the Month](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1d91qfpwhn6m5ti3wepqzp?email=true&lang=en&a=6&p=11850824&t=3895058)" by the Postdocs and Fellows Development Centre (PFDC) of Imperial College London. In 2021, I was awarded the prestigious **Marie Skłodowska-Curie Individual Fellowship** (Horizon 2020) by the European Commission. 
 
@@ -52,6 +52,12 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[07/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/) (written in Chinese), is now available for download.
+
+<div style="display: flex; justify-content: center;">
+  <img src="/images/Intelligence-of-fusion.png" alt="image1" width="400">
+</div>
+
 [10/2025] Invited to give an invited talk on the "AI for everyone" event organized by the UK Huazhong University of Science and Technology Alumni Association.
 
 [10/2025] Dr. Yixiu Liang from Zhongshan Hospital, Fudan University visited our lab and gave a talk at the Computer Science Seminar. Dr. Liang's visit is a part our Exeter-Fudan Fellowship and will strength the collaboration between Zhongshan Hospital and my lab.
@@ -69,13 +75,6 @@ News
 [08/2025] A candidate has been awarded an QUEX joint PhD studentship and will be joining my lab in Jan 2026. I will co-supervise this student with Dr. Shelley Keating from the University of Queensland.
 
 [07/2025] I gave a talk titled "Protecting pedestrian privacy through face swapping" at the BMVC One Day Meeting: BMVA Symposium on AI Security in London.  [Video link](https://www.youtube.com/watch?v=yoYM1pnDGXM&list=PLW8VWHVjepIszQtfq1N0UPfwVYwSxAgYL&index=4)
-
-[07/2025] My new book, **Intelligence of Fusion: Deep Learning-based Image Fusion** (written in Chinese), will be available for download shortly.
-
-<div style="display: flex; justify-content: center;">
-  <img src="/images/Intelligence-of-fusion.png" alt="image1" width="400">
-</div>
-
 
 [06/2025] I’m very pleased to have received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>**. [Exeter News (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/21vkxfbi5y24d208rfh9qq?email=true&lang=en&a=2&p=5082036&t=2322721)
 

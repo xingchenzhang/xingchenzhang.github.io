@@ -43,7 +43,7 @@ Books
 ---------------------
 
 1. G. Xiao, D.P. Bavirisetti , G. Liu , **X. Zhang**, [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3), Springer Nature Singapore and Shanghai Jiao Tong University Press, 2020. This book has won the **National Science and Technology Academic Publications Fund of China** (2019).   
-2. **X. Zhang**. Intelligence of Fusion: Deep Learning-based Image Fusion (written in Chinese). 2025. Will be released soon.   
+2. **X. Zhang**. Intelligence of Fusion: Deep Learning-based Image Fusion (written in Chinese). 2025. This book is available [here](https://xingchenzhang.github.io/imagefusionbook/).   
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/fusion-books.png" alt="image1" width="500">
