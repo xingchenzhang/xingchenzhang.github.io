@@ -72,3 +72,12 @@ full-width: true
 
 ### 联系我
 如果你发现了书中的错误，或者有其他建议，欢迎给我发送邮件（x.zhang12@exeter.ac.uk）或者到[https://github.com/xingchenzhang/ImageFusion-Book](https://github.com/xingchenzhang/ImageFusion-Book)提issues，谢谢！
+
+### 引用
+@misc{zhang2025intelligence,
+  title={Intelligence of Fusion: Deep Learning-Based Image Fusion (Chinese Monograph)},
+  author={Zhang, Xingchen},
+  year={2025},
+  publisher={OpenReview},
+  url={https://openreview.net/forum?id=YKorIXQPRd}
+}
