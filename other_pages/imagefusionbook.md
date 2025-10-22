@@ -45,14 +45,14 @@ full-width: true
 
 <div class="book-section">
   <h2>《融合之智：基于深度学习的图像融合》</h2>
-  <p><strong>版本号：</strong>v20251022 &nbsp;|&nbsp; <strong>更新时间：</strong>2025-10-22</p>
+  <p><strong>版本号：</strong>v20251023 &nbsp;|&nbsp; <strong>更新时间：</strong>2025-10-23</p>
 
   <p>这是我的《融合之智：基于深度学习的图像融合》初稿，欢迎下载阅读并提供宝贵意见。</p>
 
   <!-- 下载按钮：指向 Release 的 PDF 直链 -->
   <a class="download-button"
      href="https://github.com/xingchenzhang/xingchenzhang.github.io/releases/latest/download/ImageFusionBook.pdf">
-     📥 点击此处下载 PDF（版本：20251022）
+     📥 点击此处下载 PDF（版本：20251023）
   </a>
 
   <!-- GitHub Release 实时下载次数徽章 -->
@@ -64,17 +64,19 @@ full-width: true
 
 ---
 
-### 更新记录
+## 更新记录
+* **2025-10-23** 改正了前言中对本书第三部分的描述；修改了英文摘要；改正了一些错别字（14.5; 15.3; 附录C）
 * **2025-10-22** 修改了文字、增加了一些参考文献和图片
 * **2025-10-21** 修改了一些参考文献、删除了部分图片
 * **2025-10-18** 内容更新。修改了一些文字和少数图片
 * **2025-06-22** 将 PDF上传并开放下载
 
-### 联系我
+## 联系我
 如果你发现了书中的错误，或者有其他建议，欢迎给我发送邮件（x.zhang12@exeter.ac.uk）或者到[https://github.com/xingchenzhang/ImageFusion-Book](https://github.com/xingchenzhang/ImageFusion-Book)提issues，谢谢！
 
-### 引用
-  
+## 引用
+ 如果您觉得本书有用，请考虑在您的论文里引用这本书。Bibtex引用方式如下：
+
   @misc{zhang2025intelligence,  
     title={Intelligence of Fusion: Deep Learning-Based Image Fusion (Chinese Monograph)},  
     author={Zhang, Xingchen},  
