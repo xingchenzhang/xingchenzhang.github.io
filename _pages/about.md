@@ -50,7 +50,7 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), has just been released! Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. The full version is now freely available for download.
+[10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), has just been released! Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. The full version is now **freely available** for download.
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/Intelligence-of-fusion.png" alt="image1" width="400">
