@@ -135,7 +135,7 @@ author_profile: true
 
 - Member, Marie Curie Alumni Association
 
-- Member, Marie Curie Alumni Association General Interest Group in Artificial Intelligence
+- Founding Member, Marie Curie Alumni Association Artificial Intelligence Working Group
 
 - Member, China Society of Image and Graphics
 
