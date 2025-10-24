@@ -10,10 +10,6 @@ redirect_from:
 
 I am a **Senior Lecturer (~Associate Professor)** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/), where I lead the **Fusion Intelligence Laboratory** and serve as the Deputy Director of Business Engagement & Innovation. 
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
-</div>
-
 Previously, I was a Visiting Researcher and **Marie Skłodowska-Curie Individual Fellow** (Horizon 2020) at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/), working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris) (Royal Academy of Engineering Chair in Emerging Technologies). Before that, I was a Teaching Fellow (where I taught the Deep Learning module together with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk)) and a Research Associate (where I worked with Prof. Yiannis Demiris and collaborated with [Prof. Panagiotis Angeloudis](https://transport-systems.imperial.ac.uk/) in an Innovate UK-funded project)  in the same department at Imperial College London. 
 
 I have published over 30 peer-reviewed papers in leading journals and conferences, such as IEEE TPAMI, IEEE TITS, Information Fusion, Pattern Recognition, NeurIPS and IJCAI. I have co-authored a book entitled [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors), which won the **National Science and Technology Academic Publications Fund of China (2019)**. I also wrote a new book titled [**Intelligence of Fusion: Deep Learning-Based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/). Additionally, I received the Best Paper Honorable Mention Award of the 9th Chinese Conference on Information Fusion (2019). 
