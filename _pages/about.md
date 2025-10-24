@@ -53,7 +53,7 @@ News
 [10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), has just been released! Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. The full version is now **freely available** for download.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/Intelligence-of-fusion.png" alt="image1" width="400">
+  <img src="/images/Intelligence-of-fusion-English.png" alt="image1" width="200">
 </div>
 
 [10/2025] Invited to give an invited talk on the "AI for everyone" event organized by the UK Huazhong University of Science and Technology Alumni Association.
@@ -170,7 +170,7 @@ Selected funders
 My research has received funding from several funders, including the Royal Society, and the European 
 Commission (Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grants), and the Exeter-Fudan Fellowship.
 
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+<!-- <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
   <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
     <img src="/images/funders/royalsociety.jpg" alt="image2" style="height:150px; width:auto;">
     <img src="/images/funders/eu.jpg" alt="image2" style="height:150px; width:auto;">
@@ -178,10 +178,13 @@ Commission (Horizon 2020 research and innovation programme under the Marie Skło
   </div>
   <div style="display: flex; justify-content: center; margin-top: 10px;">
     <img src="/images/funders/Exeter-Fudan.jpg" alt="image1" style="height:90px; width:auto;">
+    <img src="/images/funders/quex.png" alt="image1" style="height:90px; width:auto;">
   </div>
+</div> -->
+
+<div style="display: flex; justify-content: center;">
+  <img src="/images/funders/funders.png" alt="image2" width="700">
 </div>
-
-
 
 Selected collaborators
 --

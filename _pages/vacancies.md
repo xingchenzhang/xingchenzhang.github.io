@@ -42,7 +42,7 @@ If English is not your first language you will need to meet the English language
 Postdoc Opportunities
 -------------
 
-- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025). **<span style="color: red;">Application deadline: 10 September 2025</span>**.
+- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025). 
 - [Newton Fellowship](https://royalsociety.org/grants/newton-international/). 
 - [EPSRC Postdoctoral Fellowships](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
 
