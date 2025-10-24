@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Opportunities"
-permalink: /oppportunities/
+permalink: /opportunities/
 author_profile: true
 ---
 {% include base_path %}
