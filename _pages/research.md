@@ -44,7 +44,7 @@ Research topics
 </div>
 
 Related publications:  
-1. **X. Zhang**, Y. Demiris. Visible and Infrared Image Fusion using Deep Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 10535-10554, 2023. (**ESI Highly Cited Paper)**  
+1. **X. Zhang**, Y. Demiris. Visible and Infrared Image Fusion using Deep Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 10535-10554, 2023. (**ESI Highly Cited Paper, ESI hot paper)**  
 2. **X. Zhang**. Deep Learning-based Multi-focus Image Fusion: A Survey and A Comparative Study, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, No. 9, pp. 4819 – 4838, 2022. [[Link]](https://github.com/xingchenzhang/MFIFB) (**ESI Highly Cited Paper**)  
 3. **X. Zhang**. Benchmarking and Comparing Multi-exposure Image Fusion Algorithms. Information Fusion, vol. 74, pp. 111-131, 2021. (The first multi-exposure image fusion benchmark) [[Benchmark link]](https://github.com/xingchenzhang/MEFB)  
 4. **X. Zhang**, P. Ye, H. Leung, K. Gong, G. Xiao. Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review. Information Fusion, vol. 63, pp. 166-187, 2020. 
@@ -58,7 +58,8 @@ International Conference on Information Fusion, 2019.
 7. **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community)  
 8. Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning. arXiv preprint arXiv:2505.06665. [[Link]](https://arxiv.org/pdf/2505.06665)  
 9. H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2508.20817)  
-10. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. DIFA 2025 Workshop, BMVC2025.
+10. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. DIFA 2025 Workshop, BMVC2025.  
+11. Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2509.22450)
 
 <h2>2. Human-centered computer vision</h2>
 <h3>(1) Pedestrian trajectory prediction based on graph neural network</h3>
@@ -106,7 +107,7 @@ Many videos are captured to train AI models. We aim to protect pedestrian privac
 
 Related publications:  
 1. Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.  
-2. **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS, 2025.
+2. **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS, 2025. **Oral paper**.
 
 <h2>4. Computer vision</h2>
 <p align="center"> 
@@ -114,7 +115,7 @@ Related publications:
 </p>
 
 Related publications:  
-1. H. Li, Z. Wang, W. Kong, **X. Zhang**\*. SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection. IEEE Sensors Journal, 2025.  
+1. H. Li, Z. Wang, W. Kong, **X. Zhang**\*. SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection. IEEE Sensors Journal, vol. 25, no. 11, pp. 28607-28617, 2025.  
 2. **X. Zhang**\*, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023).   
 3. J. Liu, P. Ye. **X. Zhang***, G. Xiao. Real-time long-term tracking with reliability assessment and
 object recovery. IET Image Processing, vol. 15, no. 4, pp. 918-935, 2021.  
