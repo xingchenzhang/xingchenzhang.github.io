@@ -53,7 +53,7 @@ News
 [10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), has just been released! Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. The full version is now **freely available** for download.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/Intelligence-of-fusion-English.png" alt="image1" width="200">
+  <img src="/images/Intelligence-of-fusion-Chinese.png" alt="image1" width="200">
 </div>
 
 [10/2025] Invited to give an invited talk on the "AI for everyone" event organized by the UK Huazhong University of Science and Technology Alumni Association.
