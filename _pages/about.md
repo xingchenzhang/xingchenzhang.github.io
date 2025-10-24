@@ -60,7 +60,7 @@ News
 
 [10/2025] Dr. Yixiu Liang from Zhongshan Hospital, Fudan University visited our lab and gave a talk at the Computer Science Seminar. Dr. Liang's visit is a part our Exeter-Fudan Fellowship and will strength the collaboration between Zhongshan Hospital and my lab.
 
-[09/2025] Our paper "More effort is needed to protect pedestrian privacy in the era of AI" has been accepted to **NeurIPS2025** as an Oral paper (Position Paper Track, acceptance rate: 6%).
+[09/2025] Our paper "More effort is needed to protect pedestrian privacy in the era of AI" has been accepted to **NeurIPS2025** as an Oral paper (Position Paper Track, acceptance rate is less than 6%).
 
 [09/2025] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>**  (Stanford University’s list, 2025) — my third time receiving this recognition!
  
