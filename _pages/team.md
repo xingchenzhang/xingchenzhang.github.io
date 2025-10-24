@@ -31,13 +31,15 @@ At the University of Exeter, I lead the **Fusion Intelligence Laboratory**, wher
 
 PhD students (as primary supervisor):
 
-- [Zixian Zhao](https://scholar.google.com/citations?hl=en&user=0mkQvWYAAAAJ&view_op=list_works&sortby=pubdate) (Sep 2024 - ). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science)
+- [Zixian Zhao](https://scholar.google.com/citations?hl=en&user=0mkQvWYAAAAJ&view_op=list_works&sortby=pubdate). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science)
 
-- Ning Wang (Jan 2025 - ). Co-supervisor: Prof. Xujiong Ye
+- Ning Wang. Co-supervisor: Prof. Xujiong Ye
 
-- Quangao Liu (Sep 2025 - ). Co-supervisor: Prof. Lu Liu
+- Quangao Liu. Co-supervisor: Prof. Lu Liu
 
-- Feier Shi (Sep 2025 -). Co-supervisor: Dr. Hang Dong
+- Feier Shi. Co-supervisor: Dr. Hang Dong
+
+- Yanlong Meng. Co-supervisor: Dr. Shelley Keating (University of Queensland), Prof. Nicholas Gilson (University of Queensland), Dr. Samantha Van Beurden (Exeter) 
   
 PhD students (as co-supervisor):
 
