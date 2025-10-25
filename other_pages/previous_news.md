@@ -5,18 +5,11 @@ author_profile: true
 permalink: /previous_news/
 ---
 
-[12/2023] I was awarded the **Department Award for Citizenship and Communit**y by the Department of EEE, Imperial College London. [[Imperial News]](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/).
-
-
-[11/2023] I was selected as "**Fellow of the Month**" by the Postdoc and Fellows Development Centre (PFDC), Imperial College London. [[PFDC Newsletter]](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1fftgrnkwzim5ti3wepqzp?lang=en&a=2&p=11850824&t=4496005).
-
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="/images/fellow-of-the-month.jpg" alt="image1" width="400">
-</div>
-
 [11/2023] I gave an invited talk at the Redwood Academy entitled "Beauty of fusion: Deep learning-based image fusion and its applications" on 8th November 2023.
 
 [11/2023] My MSc student obtained his degree with distinction! Congratulations to Zixian! So far, **all the MSc students I supervised or co-supervised at Imperial College London have got distinction**!
+
+[09/2023] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>** ([Stanford University's list](https://topresearcherslist.com/), 2023)!
 
 [07/2023] It was a very nice experience to show EEE kids what we are doing at the Personal Robotics Lab at the Faculty of Engineering's "Bring Your Child to Work Day"! In particular, I showcased the Unusual Cameras (thermal camera, event camera) of our lab. [[Imperial News]](https://www.imperial.ac.uk/news/246594/cool-exciting-place-work-families-agree/).
 
