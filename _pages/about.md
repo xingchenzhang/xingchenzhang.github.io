@@ -168,7 +168,7 @@ Selected funders
 --
 
 My research has received funding from several funders, including the Royal Society, and the European 
-Commission (Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grants), and the Exeter-Fudan Fellowship.
+Commission (Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grants), the Exeter-Fudan Fellowship, and the QUEX Institute.
 
 <!-- <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
   <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
