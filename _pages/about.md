@@ -56,11 +56,11 @@ News
   <img src="/images/Intelligence-of-fusion-Chinese.png" alt="image1" width="200">
 </div>
 
-[10/2025] Invited to give an invited talk on the "AI for everyone" event organized by the UK Huazhong University of Science and Technology Alumni Association.
+[10/2025] Invited to give a talk at the "AI for everyone" event organized by the UK Huazhong University of Science and Technology Alumni Association.
 
 [10/2025] Dr. Yixiu Liang from Zhongshan Hospital, Fudan University visited our lab and gave a talk at the Computer Science Seminar. Dr. Liang's visit is a part our Exeter-Fudan Fellowship and will strength the collaboration between Zhongshan Hospital and my lab.
 
-[09/2025] Our paper "More effort is needed to protect pedestrian privacy in the era of AI" has been accepted to **NeurIPS2025** as an **Oral paper** (Position Paper Track, acceptance rate is less than 6%).
+[09/2025] Our paper "More effort is needed to protect pedestrian privacy in the era of AI" has been accepted to **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, acceptance rate is less than 6%).
 
 [09/2025] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>**  (Stanford University’s list, 2025) — my third time receiving this recognition!
  
@@ -70,7 +70,7 @@ News
 
 [09/2025] Our TPAMI paper [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/document/10088423/) was selected as **<span style="color: red;">ESI Hot Paper</span>**.
 
-[08/2025] A candidate has been awarded an QUEX joint PhD studentship and will be joining my lab in Jan 2026. I will co-supervise this student with Dr. Shelley Keating from the University of Queensland.
+[08/2025] A candidate has been awarded an **QUEX joint PhD studentship** and will be joining my lab in Jan 2026. I will co-supervise this student with Dr. Shelley Keating from the University of Queensland.
 
 [07/2025] I gave a talk titled "Protecting pedestrian privacy through face swapping" at the BMVC One Day Meeting: BMVA Symposium on AI Security in London.  [Video link](https://www.youtube.com/watch?v=yoYM1pnDGXM&list=PLW8VWHVjepIszQtfq1N0UPfwVYwSxAgYL&index=4)
 
@@ -90,7 +90,7 @@ News
 
 [04/2025] Our paper "[BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling" has been accepted by **IJCAI2025**](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8690.pdf). This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
  
-[02/2025] I was awarded a **[Royal Society](https://royalsociety.org/) Research Grant** from  as the **<span style="color: red;">PI</span>**. 
+[02/2025] I was awarded a **<span style="color: red;">Royal Society Research Grant</span>** from  as the **<span style="color: red;">PI</span>**. 
 
 [02/2025] I gave a talk at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), Imperial College London.
 
