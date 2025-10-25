@@ -5,6 +5,30 @@ author_profile: true
 permalink: /previous_news/
 ---
 
+[05/2025] Invited to give a talk at Exeter CS Seminar.
+
+[04/2025] My MSc student, Qinqing Li, attended the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) in the University of Glasgow to present her work on multimodal medical image processing.
+
+[12/2024] I gave a talk at the 1st Exeter Computer Vision Workshop, Exeter, UK.
+
+[12/2024] I gave a talk titled "How AI is changing my job" at the Around The World Webinar of the MCAA AI GIG (Marie Curie Alumni Association Artificial Intelligence General Interest Group).
+
+[12/2024] I gave a talk titled “Rethinking performance evaluation in image fusion” at the [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html) in the British Computer Society (BCS), London.
+
+[11/2024] Invited to attend the AI roundtable discussion at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting in London. 
+
+[11/2024] I gave a talk titled "An introduction to Prompt Engineering" at Wuhan Union Hospital of China (online).
+
+[11/2024] I gave a talk titled "A brief introduction to AI" at Wuhan Union Hospital of China (online).
+
+[08/2024] I gave a talk at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) about faculty positions and fellowship applications.
+
+[08/2024] I started serving as an Associate Editor for the [Chinese Journal of Information Fusion](https://www.iece.org/journal/cjif).
+
+[06/2024] I gave a talk on 6th June at "Future of AI Awards 2024: Collaborate, Debate, Invent". I introduced my research and shared my fellowship experience.
+
+[04/2024] I gave a talk at the [BMVA One Day Meeting - Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) in the British Computer Society (BCS), London.
+
 [11/2023] I gave an invited talk at the Redwood Academy entitled "Beauty of fusion: Deep learning-based image fusion and its applications" on 8th November 2023.
 
 [11/2023] My MSc student obtained his degree with distinction! Congratulations to Zixian! So far, **all the MSc students I supervised or co-supervised at Imperial College London have got distinction**!
