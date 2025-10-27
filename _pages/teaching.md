@@ -22,6 +22,8 @@ I enjoy seeing students improve through my teaching. As Mencius the philosopher 
   <img src="/images/teaching/teaching-prompt-engineering-2.jpg" alt="image2" width="400">
 </div>
 
+- **Lecturer**, COMM109Z (Online MSc course), 2025 - 2026, Department of Computer Science. I teach this module together with several colleauges.
+
 **At Imperial College London**
 
 - **Lecturer**, ELEC60009/96033/96039, Deep Learning (Spring 2021-2022), Department of Electrical and Electronic Engineering. I taught representation learning, generative models, reinforcement learning, hyperparameters and meta-learning to **more than 100 MEng and MSc students**. I taught this module with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk)
