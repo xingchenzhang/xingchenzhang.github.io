@@ -58,6 +58,8 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[10/2025] My MSc student got her degree with distinction! She was also awared the Computer Science Prizes for MSc students (Faculty Commendations - A, which is awared to students who have made a significant contribution to the faculty). 
+
 [10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), has just been released! Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. The full version is now **freely available** for download.
 
 <div style="display: flex; justify-content: center;">
