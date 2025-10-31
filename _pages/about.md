@@ -58,8 +58,6 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[10/2025] My MSc student got her degree with distinction! She was also awared the Computer Science Prizes for MSc students (Faculty Commendations - A, which is awared to students who have made a significant contribution to the faculty). 
-
 [10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), has just been released! Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. The full version is now **freely available** for download.
 
 <div style="display: flex; justify-content: center;">
@@ -67,8 +65,6 @@ News
 </div>
 
 [10/2025] Invited to give a talk at the "AI for everyone" event organized by the UK Huazhong University of Science and Technology Alumni Association.
-
-[10/2025] Dr. Yixiu Liang from Zhongshan Hospital, Fudan University visited our lab and gave a talk at the Computer Science Seminar. Dr. Liang's visit is a part our Exeter-Fudan Fellowship and will strength the collaboration between Zhongshan Hospital and my lab.
 
 [09/2025] Our paper "More effort is needed to protect pedestrian privacy in the era of AI" has been accepted to **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, acceptance rate is less than 6%).
 
@@ -92,7 +88,7 @@ News
 
 [05/2025] I organized the Exeter Computer Vision Workshop: PhD Research Talks.
 
-[05/2025] I was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** to strengthen the collaboration between my Fusion Intelligence Laboratory and Zhongshan Hospital, Fudan University.
+[05/2025] I was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** to strengthen the collaboration between my Fusion Intelligence Laboratory and Zhongshan Hospital, Fudan University. Only three academics at the University of Exeter recieved this fellowship this year.
 
 [05/2025] Our paper ''[SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection](https://ieeexplore.ieee.org/document/11015693)'' has been accepted by IEEE Sensors Journal. This is a collaborative paper with Yanshan University. Congratulations to all co-authors! The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
 
