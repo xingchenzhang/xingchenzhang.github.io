@@ -74,11 +74,11 @@ News
 
 [09/2025] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>**  (Stanford University’s list, 2025) — my third time receiving this recognition!
  
-[09/2025] Our paper "Brain tumor segmentation using multimodal MRI" has been accepted by the DIFA 2025 workshop, which will be held at BMVC2025. This paper is resulted from my MSc student Qinqing Li's final project.
+[09/2025] Our paper "Brain tumor segmentation using multimodal MRI" has been accepted by the DIFA 2025 workshop (BMVC2025). This paper is resulted from my MSc student Qinqing Li's final project.
 
 [09/2025] Welcome Quangao and Feier to join my lab as PhD students!
 
-[09/2025] Our TPAMI paper [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/document/10088423/) was selected as **<span style="color: red;">ESI Hot Paper</span>**.
+[09/2025] My TPAMI paper [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/document/10088423/) was selected as **<span style="color: red;">ESI Hot Paper</span>**.
 
 [08/2025] A candidate has been awarded an **QUEX joint PhD studentship** and will be joining my lab in Jan 2026. I will co-supervise this student with Dr. Shelley Keating from the University of Queensland.
 
@@ -88,9 +88,7 @@ News
 
 [06/2025] A candidate has been awarded an **Exeter-CSC PhD scholarship** and will be joining my lab in September.
 
-[06/2025] Our workshop proposal "**DIFA: Deep Learning-based Information Fusion and Its Applications**" has been accepted to BMVC2025, which will be held on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK. If you are interested in giving a keynote talk or submitting a paper, please contact me. More details can be found on our [workshop website](https://xingchenzhang.github.io/difa2025/).  
-
-[05/2025] My team attended the ESE Research Showcase to present our robot dog (Code-E) and our research. It was a great pleasure to introduce my work to the **President and Vice-Chancellor of the University of Exeter, Prof. Lisa Roberts**, and other members of the University Council. [Exeter News 1 (internal only)](https://universityofexeteruk.sharepoint.com/sites/FacultyofEnvironmentScienceandEconomyESEnew/SitePages/Faculty-Hosts-University-Council-and-Celebrates-Research-Excellence(2).aspx). [Exeter News 2 (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/94nqv79qsln4d208rfh9qq?email=true&lang=en&a=2&p=5014214&t=2297131).
+[06/2025] Our workshop proposal "**DIFA: Deep Learning-based Information Fusion and Its Applications**" has been accepted to BMVC2025, which will be held on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK.  More details can be found on our [workshop website](https://xingchenzhang.github.io/difa2025/).  
 
 [05/2025] I organized the Exeter Computer Vision Workshop: PhD Research Talks.
 
@@ -117,7 +115,7 @@ News
 [09/2024] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>**
  ([Stanford University's list](https://topresearcherslist.com/), 2024)! 
 
-[09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian obtained his MSc degree in Applied Machine Learning (with distinction) from Imperial College London.
+[09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian obtained his MSc degree in Applied Machine Learning (with distinction) from Imperial College London. Zixian is fully funded by an Exeter PhD studentship.
 
 [09/2024] I started to serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
 
