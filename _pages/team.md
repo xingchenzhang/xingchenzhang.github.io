@@ -35,7 +35,7 @@ PhD students (as primary supervisor):
 
 - Ning Wang. Co-supervisor: Prof. Xujiong Ye
 
-- Quangao Liu. Co-supervisor: Prof. Lu Liu
+- [Quangao Liu](https://scholar.google.com/citations?user=amE9NlYAAAAJ&hl=zh-CN). Co-supervisor: Prof. Lu Liu
 
 - Feier Shi. Co-supervisor: Dr. Hang Dong
 
