@@ -7,6 +7,8 @@ permalink: /previous_news/
 
 [05/2025] Invited to give a talk at Exeter CS Seminar.
 
+[05/2025] I organized the Exeter Computer Vision Workshop: PhD Research Talks.
+
 [04/2025] My MSc student, Qinqing Li, attended the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) in the University of Glasgow to present her work on multimodal medical image processing.
 
 [12/2024] I gave a talk at the 1st Exeter Computer Vision Workshop, Exeter, UK.
@@ -14,6 +16,8 @@ permalink: /previous_news/
 [12/2024] I gave a talk titled "How AI is changing my job" at the Around The World Webinar of the MCAA AI GIG (Marie Curie Alumni Association Artificial Intelligence General Interest Group).
 
 [12/2024] I gave a talk titled “Rethinking performance evaluation in image fusion” at the [BMVA Symposium on Image & Video Quality](https://www.bmva.org/meetings/24-12-11-ImageandVideoQualityAssessment.html) in the British Computer Society (BCS), London.
+
+[12/2024] Invited to join the Executive Committee of the UK Huazhong University of Science and Technology Alumni Association.
 
 [11/2024] Invited to attend the AI roundtable discussion at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting in London. 
 
