@@ -86,8 +86,6 @@ News
 
 [06/2025] Our workshop proposal "**DIFA: Deep Learning-based Information Fusion and Its Applications**" has been accepted to BMVC2025, which will be held on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK.  More details can be found on our [workshop website](https://xingchenzhang.github.io/difa2025/).  
 
-[05/2025] I organized the Exeter Computer Vision Workshop: PhD Research Talks.
-
 [05/2025] I was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** to strengthen the collaboration between my Fusion Intelligence Laboratory and Zhongshan Hospital, Fudan University. Only three academics at the University of Exeter recieved this fellowship this year.
 
 [05/2025] Our paper ''[SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection](https://ieeexplore.ieee.org/document/11015693)'' has been accepted by IEEE Sensors Journal. This is a collaborative paper with Yanshan University. Congratulations to all co-authors! The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
@@ -101,8 +99,6 @@ News
 [02/2025] I gave a talk at the [Intelligent Systems and Network Group](https://www.imperial.ac.uk/electrical-engineering/research/intelligent-systems-and-networks/), Imperial College London.
 
 [01/2025] Welcome Ning to join my lab as a PhD student! 
-
-[12/2025] Invited to join the Executive Committee of the UK Huazhong University of Science and Technology Alumni Association.
 
 [12/2024] I organised the first Exeter Computer Vision Workshop at the University of Exeter. This is the first formal activity of the Exeter Computer Vision Group. [Exeter CS News (internal only)](https://universityofexeteruk.sharepoint.com/:u:/r/sites/ComputerScienceESE/SitePages/1st-Exeter-Computer-Vision-Workshop!.aspx?csf=1&web=1&e=bZ8QI6)
 
