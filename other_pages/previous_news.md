@@ -5,6 +5,10 @@ author_profile: true
 permalink: /previous_news/
 ---
 
+[10/2025] Invited to give a talk at the "AI for everyone" event organized by the UK Huazhong University of Science and Technology Alumni Association.
+
+[09/2025] Our paper "Brain tumor segmentation using multimodal MRI" has been accepted by the DIFA 2025 workshop (BMVC2025). This paper is resulted from my MSc student Qinqing Li's final project.
+
 [05/2025] Invited to give a talk at Exeter CS Seminar.
 
 [05/2025] I organized the Exeter Computer Vision Workshop: PhD Research Talks.

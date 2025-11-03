@@ -178,6 +178,8 @@ Group news
 
 [10/2025] Dr. Yixiu Liang from Zhongshan Hospital, Fudan University visited our lab and gave a talk at the Computer Science Seminar. Dr. Liang's visit is a part our Exeter-Fudan Fellowship and will strength the collaboration between Zhongshan Hospital and my lab.
 
+[09/2025] Our paper "Brain tumor segmentation using multimodal MRI" has been accepted by the DIFA 2025 workshop (BMVC2025). This paper is resulted from my MSc student Qinqing Li's final project.
+
 [05/2025] FIL attended the ESE Research Showcase to present our robot dog (Code-E) and our research. It was a great pleasure to introduce my work to the **President and Vice-Chancellor of the University of Exeter, Prof. Lisa Roberts**, and other members of the University Council. [Exeter News 1 (internal only)](https://universityofexeteruk.sharepoint.com/sites/FacultyofEnvironmentScienceandEconomyESEnew/SitePages/Faculty-Hosts-University-Council-and-Celebrates-Research-Excellence(2).aspx). [Exeter News 2 (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/94nqv79qsln4d208rfh9qq?email=true&lang=en&a=2&p=5014214&t=2297131).
 
 [09/2024] Welcome Zixian to join FIL as a PhD student! Before joining my lab, Zixian obtained his MSc degree in Applied Machine Learning (with distinction) from Imperial College London. Zixian is fully funded by an Exeter PhD studentship.
