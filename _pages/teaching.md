@@ -22,7 +22,7 @@ I enjoy seeing students improve through my teaching. As Mencius the philosopher 
   <img src="/images/teaching/teaching-prompt-engineering-2.jpg" alt="image2" width="400">
 </div>
 
-- **Lecturer**, COMM109Z (Online MSc course), 2025 - 2026, Department of Computer Science. I teach this module together with several colleauges.
+- **Lecturer**, COMM109Z, Programming with Python (Online MSc course), 2025 - 2026, Department of Computer Science. I teach this module together with several colleauges.
 
 **At Imperial College London**
 
