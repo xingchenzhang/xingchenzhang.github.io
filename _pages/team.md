@@ -122,7 +122,7 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
 
 	- Qinqing Li (November 2024 - Aug 2025): **Distinction, Computer Science Prizes for MSc students (Faculty Commendations - A, which is awared to students who have made a significant contribution to the faculty)**
 
-	- Heegon Kim (Jan 2025 - Aug 2025)
+	- Heegon Kim (Jan 2025 - Aug 2025): **Distinction**
 
 	- Mujeeb Adewuyi Sonibare (Jan 2025 - Aug 2025)
 
