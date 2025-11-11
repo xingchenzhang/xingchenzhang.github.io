@@ -4,7 +4,7 @@ title: "Privacy"
 excerpt: "Privacy"
 author_profile: false
 sidebar: false
-permalink: /privacy/
+permalink: research/privacy/
 full-width: true
 ---
 

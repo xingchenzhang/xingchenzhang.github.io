@@ -14,29 +14,35 @@ My Fusion Intelligence Laboratory aims to **use machine intelligence and multi-s
 
 Research areas
 ----
-My research areas include
-   
-- Computer vision (e.g., object tracking, human pose estimation, human behavior prediction)   
-- Deep learning (e.g., multi-modal learning, self-supervised learning, graph-based learning)  
-- Image fusion (visible-infrared, multi-focus, multi-exposure, multimodal medical images)  
-- Multimodal applications (e.g., RGB-T tracking, RGB-T segmentation, RGB-T crowd counting)  
-- Robotics and AI (e.g., Robot perception)
-- Ethical AI (pedestrian privacy protection)
-- AI for Science   
+My research aims to use machine intelligence and multi-source information fusion to benefit humanity by developing multimodal and embodied AI systems that can understand complex environments, assist humans in daily life, and improve decision-making in healthcare, with a strong emphasis on trustworthiness, robustness, and privacy protection. Specifically, my research areas include
+
+- Multimodal Learning and Image Fusion  
+Visible–infrared fusion, multi-focus and multi-exposure fusion, multimodal medical imaging, and cross-modal representation learning.
+
+- Human-Centered Computer Vision  
+Pedestrian tracking, human pose estimation, and behavior prediction with a focus on safety, robustness, and privacy protection.
+
+- Embodied Intelligence  
+
+- AI for Healthcare  
+Multimodal medical data fusion for diagnostic assistance.
+
+- Trustworthy and Ethical AI  
+Generative-AI-based pedestrian privacy protection, adversarial robustness, and AI alignment in embodied systems.
 
 Some funded projects
 ----
 
-- Exeter-Fudan Fellowship
-- The Royal Society Research Grant
-- QUEX Joint PhD Scholarship (Primary supervisor at Exeter）
-- Marie Sklodowska-Curie  Individual Fellowship
-- Shanghai Science and Technology Committee Research Project
+- The Royal Society Research Grant, **PI**
+- Exeter-Fudan Fellowship, **PI**
+- QUEX Joint PhD Scholarship, **Primary Supervisor** at University of Exeter
+- Marie Sklodowska-Curie Individual Fellowship, **PI**
+- Shanghai Science and Technology Committee Research Project, **PI**
 
 Research topics
 ----
 
-<h2>1. Deep Learning-based image fusion: methods, benchmarks, and multi-modal applications</h2>
+<h2>1. Multimodal Learning and Image Fusion </h2>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="/images/research/vif.png" alt="First Image" style="height: 300px; width: auto; margin-right: 20px;">
@@ -59,25 +65,34 @@ International Conference on Information Fusion, 2019.
 8. Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning. arXiv preprint arXiv:2505.06665. [[Link]](https://arxiv.org/pdf/2505.06665)  
 9. H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2508.20817)  
 10. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. DIFA 2025 Workshop, BMVC2025.  
-11. Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2509.22450)
+11. Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2509.22450)  
+1. G. Xiao, D.P. Bavirisetti , G. Liu , **X. Zhang**, [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3), Springer Nature Singapore and Shanghai Jiao Tong University Press, 2020. This book has won the **National Science and Technology Academic Publications Fund of China** (2019).   
+2. **X. Zhang**. Intelligence of Fusion: Deep Learning-based Image Fusion (written in Chinese). 2025. This book is available [here](https://xingchenzhang.github.io/imagefusionbook/). 
 
-<h2>2. Human-centered computer vision</h2>
-<h3>(1) Pedestrian trajectory prediction based on graph neural network</h3>
+\* Corresponding authors
+
+
+<h2>2. Human-Centered Computer Vision</h2>
+<h3>(1) Pedestrian Trajectory Prediction</h3>
 <p align="center"> 
   <img width="500" src="/images/research/Demo Social TAG.gif" />
 </p>
 
-<h3>(2) Pedestrian crossing intention prediction based on graph neural network</h3>
+<h3>(2) Pedestrian Crossing Intention Prediction</h3>
 <p align="center"> 
   <img width="700" src="/images/research/crossingpose.png" />
 </p>
 
-<h3>(3) Pedestrian tracking</h3>
+<h3>(3) Pedestrian Tracking</h3>
 <p align="center"> 
   <img width="700" src="/images/research/Pedestrian-tracking.gif" />
 </p>
 
-<h3>(4) Crowd counting</h3>
+<p align="center"> 
+  <img width="500" src="/images/research/MOT17-03-SelectMOT.gif" />
+</p>
+
+<h3>(4) Crowd Counting</h3>
 <p align="center"> 
   <img width="500" src="/images/research/crowd-counting.jpg" />
 </p>
@@ -85,11 +100,32 @@ International Conference on Information Fusion, 2019.
 Related publications:    
 
 1. **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 11, pp. 20773-20782, 2022.  
-2. **X. Zhang***, P. Angeloudis, Y. Demiris. Dual-branch Spatio-Temporal Graph Neural Networks for Pedestrian Trajectory Prediction, Pattern Recognition, vol. 142, 2023.    
+2. **X. Zhang***, P. Angeloudis, Y. Demiris. Dual-branch Spatio-Temporal Graph Neural Networks for Pedestrian Trajectory Prediction, Pattern Recognition, vol. 142, 2023.  
+1. H. Li, Z. Wang, W. Kong, **X. Zhang**\*. SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection. IEEE Sensors Journal, vol. 25, no. 11, pp. 28607-28617, 2025.  
+2. **X. Zhang**\*, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023).   
+3. J. Liu, P. Ye. **X. Zhang***, G. Xiao. Real-time long-term tracking with reliability assessment and
+object recovery. IET Image Processing, vol. 15, no. 4, pp. 918-935, 2021.  
+4. J. Liu, G. Xiao, **X. Zhang***, P. Ye, X. Xiong, S. Peng. Anti-occlusion object tracking based on
+correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-761, 2020.  
+5. J. Zhao, G. Xiao\*, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019.   
+3. H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2508.20817)      
 
-\* Corresponding authors
 
-<h2>3. Responsible and ethical AI: Pedestrian privacy protection</h2>
+
+<h3>3. Embodied Intelligence, especially robot perception</h2>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="/images/research/dog_video1.gif" alt="First Image" style="height: 350px; width: auto; margin-right: 20px;">
+  <img src="/images/research/dog_video2.gif" alt="Second Image" style="height: 350px; width: auto;">
+</div>
+
+<h2>4. AI for Healthcare</h2>
+Ongoing collaborative projects. More info to come in the future. 
+
+Related publications:  
+1. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. DIFA 2025 Workshop, BMVC2025. 
+
+<h2>5. Trustworthy and Ethical AI </h2>
+<h3>(1). Responsible and Ethical AI: Pedestrian Privacy Protection</h2>
 Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles while maintaining the utility of the anonymized videos.
 
 <!-- <img align="center" width="600" src="/images/word cloud.png" />  -->
@@ -109,31 +145,13 @@ Related publications:
 1. Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.  
 2. **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS, 2025. **Oral paper**.
 
-<h2>4. Computer vision</h2>
-<p align="center"> 
-  <img width="500" src="/images/research/MOT17-03-SelectMOT.gif" />
-</p>
-
+<h3>(2) AI security</h3>
 Related publications:  
-1. H. Li, Z. Wang, W. Kong, **X. Zhang**\*. SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection. IEEE Sensors Journal, vol. 25, no. 11, pp. 28607-28617, 2025.  
-2. **X. Zhang**\*, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023).   
-3. J. Liu, P. Ye. **X. Zhang***, G. Xiao. Real-time long-term tracking with reliability assessment and
-object recovery. IET Image Processing, vol. 15, no. 4, pp. 918-935, 2021.  
-4. J. Liu, G. Xiao, **X. Zhang***, P. Ye, X. Xiong, S. Peng. Anti-occlusion object tracking based on
-correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-761, 2020.  
-5. J. Zhao, G. Xiao\*, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019.   
 
+1. H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2508.20817)  
 
-
-<h2>5. Robotics and AI, especially robot perception</h2>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="/images/research/dog_video1.gif" alt="First Image" style="height: 350px; width: auto; margin-right: 20px;">
-  <img src="/images/research/dog_video2.gif" alt="Second Image" style="height: 350px; width: auto;">
-</div>
-
-
-<h2>6. AI, e.g., AI security, AI safety, AI for Social Good</h2>
-Ongoing collaborative projects.
+<h2>6. Others</h2>
+<h3>(1) AI for Social Good</h3>
 
 <p align="center"> 
   <img width="500" src="/images/research/BGM-IJCAI2025.png" />
@@ -143,5 +161,3 @@ Related publications:
 1. Y. Zhao, H. Wen, **X. Zhang**, M. Luo. BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling, IJCAI2025.
 
 
-<h2>7. AI for Science</h2>
-Ongoing collaborative projects.
