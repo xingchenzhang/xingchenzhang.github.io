@@ -22,19 +22,11 @@ Research interests
 --
 **My Fusion Intelligence Laboratory aims to use machine intelligence and multi-source information fusion to benefit humanity**. I am very interested in applying fusion intelligence in robot perception, medical data processing, and computer vision. Specifically, my research areas include
 
-- Multimodal Learning and Image Fusion  
-Visible–infrared fusion, multi-focus and multi-exposure fusion, multimodal medical imaging, and cross-modal representation learning.
-
+- Multimodal Learning and Image Fusion     
 - Human-Centered Computer Vision  
-Pedestrian tracking, human pose estimation, and behavior prediction with a focus on safety, robustness, and privacy protection.
-
 - Embodied Intelligence  
-
 - AI for Healthcare  
-Multimodal medical data fusion for diagnostic assistance.
-
 - Trustworthy and Ethical AI  
-Generative-AI-based pedestrian privacy protection, adversarial robustness, and AI alignment in embodied systems.
 
 To know more about my research, please go to the  '[Research](https://xingchenzhang.github.io/research/)' section.
 
