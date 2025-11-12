@@ -16,28 +16,20 @@ Research areas
 ----
 My research aims to use machine intelligence and multi-source information fusion to benefit humanity by developing multimodal and embodied AI systems that can understand complex environments, assist humans in daily life, and improve decision-making in healthcare, with a strong emphasis on trustworthiness, robustness, and privacy protection. Specifically, my research areas include
 
-- Multimodal Learning and Image Fusion  
-Visible–infrared fusion, multi-focus and multi-exposure fusion, multimodal medical imaging, and cross-modal representation learning.
-
-- Human-Centered Computer Vision  
-Pedestrian tracking, human pose estimation, and behavior prediction with a focus on safety, robustness, and privacy protection.
-
-- Embodied Intelligence  
-
-- AI for Healthcare  
-Multimodal medical data fusion for diagnostic assistance.
-
-- Trustworthy and Ethical AI  
-Generative-AI-based pedestrian privacy protection, adversarial robustness, and AI alignment in embodied systems.
+- **Multimodal Learning and Image Fusion**. Visible–infrared fusion, multi-focus and multi-exposure fusion, multimodal medical imaging, and cross-modal representation learning.  
+- **Human-Centered Computer Vision**. Pedestrian tracking, human pose estimation, and behavior prediction with a focus on safety, robustness, and privacy protection.  
+- **Embodied Intelligence**.    
+- **AI for Healthcare**. Multimodal medical data fusion for diagnostic assistance.  
+- **Trustworthy and Ethical AI**. Generative-AI-based pedestrian privacy protection, adversarial robustness, and AI alignment in embodied systems.
 
 Some funded projects
 ----
 
 - The Royal Society Research Grant, **PI**
 - Exeter-Fudan Fellowship, **PI**
-- QUEX Joint PhD Scholarship, **Primary Supervisor** at University of Exeter
 - Marie Sklodowska-Curie Individual Fellowship, **PI**
 - Shanghai Science and Technology Committee Research Project, **PI**
+- QUEX Joint PhD Scholarship, **Primary Supervisor** at University of Exeter
 
 Research topics
 ----
@@ -112,11 +104,13 @@ correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-
 
 
 
-<h3>3. Embodied Intelligence, especially robot perception</h2>
+<h2>3. Embodied Intelligence, especially robot perception</h2>
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="/images/research/dog_video1.gif" alt="First Image" style="height: 350px; width: auto; margin-right: 20px;">
   <img src="/images/research/dog_video2.gif" alt="Second Image" style="height: 350px; width: auto;">
 </div>
+
+More info to come.
 
 <h2>4. AI for Healthcare</h2>
 Ongoing collaborative projects. More info to come in the future. 
@@ -125,7 +119,7 @@ Related publications:
 1. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. DIFA 2025 Workshop, BMVC2025. 
 
 <h2>5. Trustworthy and Ethical AI </h2>
-<h3>(1). Responsible and Ethical AI: Pedestrian Privacy Protection</h2>
+<h3>(1). Responsible and Ethical AI: Pedestrian Privacy Protection</h3>
 Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles while maintaining the utility of the anonymized videos.
 
 <!-- <img align="center" width="600" src="/images/word cloud.png" />  -->
