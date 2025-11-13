@@ -56,19 +56,21 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[11/2025] Our BMVC2025 workshop "**DIFA: Deep Learning-based Information Fusion and Its Applications**"  will be held on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK.  More details can be found on our [workshop website](https://xingchenzhang.github.io/difa2025/).  
+
 [10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), is now freely available for download. Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. 
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/Intelligence-of-fusion-Chinese.png" alt="image1" width="200">
 </div>
 
-[09/2025] Our paper "More effort is needed to protect pedestrian privacy in the era of AI" has been accepted to **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, acceptance rate is less than 6%).
+[09/2025] Our paper "More effort is needed to protect pedestrian privacy in the era of AI" has been accepted to **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, acceptance rate is less than 6%). [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
 
 [09/2025] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>**  (Stanford University’s list, 2025) — my third time receiving this recognition!
  
-[09/2025] Welcome Quangao to join my lab as a PhD student! Quangao got his Master degree from Chinese Academy of Science.
+[09/2025] Welcome Quangao to join my lab as a PhD student! Quangao received his Master degree from Chinese Academy of Science before joining my lab.
 
-[09/2025] My TPAMI paper [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/document/10088423/) was selected as **<span style="color: red;">ESI Hot Paper</span>**. This is also an **ESI Highly Cited** paper.
+[09/2025] My TPAMI paper [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/document/10088423/) was selected as **<span style="color: red;">ESI Hot Paper</span>**. This is also an **ESI Highly Cited** paper. This paper is also an **ESI Hot Paper**.
 
 [08/2025] A candidate has been awarded an **QUEX joint PhD studentship** and will be joining my lab shortly. I will co-supervise this student with Dr. Shelley Keating from the University of Queensland.
 
@@ -77,8 +79,6 @@ News
 [06/2025] I’m very pleased to have received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>**. [Exeter News (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/21vkxfbi5y24d208rfh9qq?email=true&lang=en&a=2&p=5082036&t=2322721)
 
 [06/2025] A candidate has been awarded an **Exeter-CSC PhD scholarship** and will be joining my lab in September.
-
-[06/2025] Our workshop proposal "**DIFA: Deep Learning-based Information Fusion and Its Applications**" has been accepted to BMVC2025, which will be held on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK.  More details can be found on our [workshop website](https://xingchenzhang.github.io/difa2025/).  
 
 [05/2025] I was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** to strengthen the collaboration between my Fusion Intelligence Laboratory and Zhongshan Hospital, Fudan University. Only three academics at the University of Exeter recieved this fellowship this year.
 
@@ -101,7 +101,7 @@ News
 [09/2024] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>**
  ([Stanford University's list](https://topresearcherslist.com/), 2024)! 
 
-[09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian obtained his MSc degree in Applied Machine Learning (with distinction) from Imperial College London. Zixian is fully funded by an Exeter PhD studentship.
+[09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian received his MSc degree in Applied Machine Learning (with distinction) from Imperial College London. Zixian is fully funded by an Exeter PhD studentship.
 
 [09/2024] I started to serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
 
