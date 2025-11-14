@@ -18,16 +18,17 @@ My research aims to use machine intelligence and multi-source information fusion
 
 - **Multimodal Learning and Image Fusion**. Visible–infrared fusion, multi-focus and multi-exposure fusion, multimodal medical imaging, and cross-modal representation learning.  
 - **Human-Centered Computer Vision**. Pedestrian tracking, human pose estimation, and behavior prediction with a focus on safety, robustness, and privacy protection.  
-- **Embodied Intelligence**.    
+- **Embodied Intelligence**. My lab has robots and various sensors to work on Embodied Intelligence.    
+- **Trustworthy and Ethical AI**. Generative-AI-based pedestrian privacy protection, adversarial robustness, and AI alignment in embodied systems.  
 - **AI for Healthcare**. Multimodal medical data fusion for diagnostic assistance.  
-- **Trustworthy and Ethical AI**. Generative-AI-based pedestrian privacy protection, adversarial robustness, and AI alignment in embodied systems.
+
 
 Some funded projects
 ----
 
 - The Royal Society Research Grant, **PI**
-- Exeter-Fudan Fellowship, **PI**
 - Marie Sklodowska-Curie Individual Fellowship, **PI**
+- Exeter-Fudan Fellowship, **PI**
 - Shanghai Science and Technology Committee Research Project, **PI**
 - QUEX Joint PhD Scholarship, **Primary Supervisor** at University of Exeter
 
@@ -112,14 +113,8 @@ correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-
 
 More info to come.
 
-<h2>4. AI for Healthcare</h2>
-Ongoing collaborative projects. More info to come in the future. 
-
-Related publications:  
-1. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. DIFA 2025 Workshop, BMVC2025. 
-
-<h2>5. Trustworthy and Ethical AI </h2>
-<h3>(1). Responsible and Ethical AI: Pedestrian Privacy Protection</h3>
+<h2>4. Trustworthy and Ethical AI </h2>
+<h3>(1). Pedestrian Privacy Protection</h3>
 Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles while maintaining the utility of the anonymized videos.
 
 <!-- <img align="center" width="600" src="/images/word cloud.png" />  -->
@@ -144,6 +139,12 @@ Related publications:
 
 1. H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2508.20817)  
 
+<h2>5. AI for Healthcare</h2>
+Ongoing collaborative projects supported by an Exeter-Fudan Fellowship. More info to come in the future. 
+
+Related publications:  
+1. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. DIFA 2025 Workshop, BMVC2025. 
+
 <h2>6. Others</h2>
 <h3>(1) AI for Social Good</h3>
 
@@ -153,5 +154,8 @@ Related publications:
 
 Related publications:  
 1. Y. Zhao, H. Wen, **X. Zhang**, M. Luo. BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling, IJCAI2025.
+
+<h3>(2) AI for Science</h3>
+Ongoing collaborative projects. More info to come in the future.
 
 

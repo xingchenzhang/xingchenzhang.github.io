@@ -25,8 +25,8 @@ Research interests
 - Multimodal Learning and Image Fusion     
 - Human-Centered Computer Vision  
 - Embodied Intelligence  
-- AI for Healthcare  
 - Trustworthy and Ethical AI  
+- AI for Healthcare  
 
 To know more about my research, please go to the  '[Research](https://xingchenzhang.github.io/research/)' section.
 
