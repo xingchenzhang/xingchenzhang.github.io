@@ -56,7 +56,7 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[11/2025] Our BMVC2025 workshop "**DIFA: Deep Learning-based Information Fusion and Its Applications**"  will be held on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK.  More details can be found on our [workshop website](https://xingchenzhang.github.io/difa2025/).  
+[11/2025] Our BMVC2025 workshop "**DIFA: Deep Learning-based Information Fusion and Its Applications**"  will be held on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK.  More details can be found on our [workshop website](https://difa2025-bmvc.github.io/).  
 
 [10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), is now freely available for download. Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. 
 
