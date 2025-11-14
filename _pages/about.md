@@ -70,7 +70,7 @@ News
  
 [09/2025] Welcome Quangao to join my lab as a PhD student! Quangao received his Master degree from Chinese Academy of Science before joining my lab.
 
-[09/2025] My TPAMI paper [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/document/10088423/) was selected as **<span style="color: red;">ESI Hot Paper</span>**. This is also an **ESI Highly Cited** paper. This paper is also an **ESI Hot Paper**.
+[09/2025] My TPAMI paper [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/document/10088423/) was selected as **<span style="color: red;">ESI Hot Paper</span>**. This is also an **ESI Highly Cited** paper. 
 
 [08/2025] A candidate has been awarded an **QUEX joint PhD studentship** and will be joining my lab shortly. I will co-supervise this student with Dr. Shelley Keating from the University of Queensland.
 
