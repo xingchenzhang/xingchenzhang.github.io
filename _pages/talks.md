@@ -10,6 +10,8 @@ author_profile: true
 
 **Past talks**
 
+- About my academic experience, UK Shanghai Jiao Tong University Alumni Association, London, November, 2025.
+
 - How to make ourselves more competitive in the era of AI, UK Huazhong University of Science and Technology Alumni Association, Oct, 2025
 
 - Protecting pedestrian privacy through face swapping, BMVC One Day Meeting: BMVA Symposium on AI Security, London, UK, July, 2025. [Video link](https://www.youtube.com/watch?v=yoYM1pnDGXM&list=PLW8VWHVjepIszQtfq1N0UPfwVYwSxAgYL&index=4)

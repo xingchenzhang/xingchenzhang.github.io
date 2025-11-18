@@ -154,8 +154,8 @@ full-width: true
         </a>
       </div>
       <div class="lab-person">
-          <img src="/images/people/Feier.jpg" alt="Feier Shi">
-          <div><strong>Feier Shi</strong></div>
+          <img src="/images/people/Yanlong.jpg" alt="Yanlong Meng">
+          <div><strong>Yanlong Meng</strong></div>
       </div>
     </div>
   </div>
@@ -164,12 +164,14 @@ full-width: true
 <div class="lab-section">
   <h2>Research Topics</h2>
   <ul>
-    <li>Multimodal robot perception</li>
-    <li>RGB-Thermal image fusion and tracking</li>
-    <li>Ethical AI and pedestrian privacy</li>
-    <li>Human-centered computer vision</li>
+    <li>Multimodal Learning and Image Fusion </li>
+    <li>Human-Centered Computer Vision</li>
+    <li>Embodied Intelligence  </li>
+    <li>Trustworthy and Ethical AI  </li>
+    <li>AI for Healthcare </li>
   </ul>
 </div>
+
 
 Group news
 -----------------
