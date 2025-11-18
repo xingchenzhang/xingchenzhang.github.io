@@ -116,8 +116,23 @@ full-width: true
 
 <div class="lab-section">
   <h2>About the Fusion Intelligence Laboratory</h2>
-  <p>The Fusion Intelligence Laboratory is led by Dr. Xingchen Zhang at the University of Exeter. The lab aims to use machine intelligence and multi-source information fusion to benefit humanity.</p>
+  <p>The Fusion Intelligence Laboratory is led by Dr. Xingchen Zhang at the University of Exeter. The lab aims to use machine intelligence and multi-source information fusion to benefit humanity. </p>
+
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
 </div>
+
+<h3>Research Topics</h3>
+  <ul>
+    <li>Multimodal Learning and Image Fusion </li>
+    <li>Human-Centered Computer Vision</li>
+    <li>Embodied Intelligence  </li>
+    <li>Trustworthy and Ethical AI  </li>
+    <li>AI for Healthcare </li>
+  </ul>
+</div>
+
+
 
 <div class="lab-section">
   <h2>People</h2>
@@ -161,28 +176,33 @@ full-width: true
   </div>
 </div>
 
-<div class="lab-section">
-  <h2>Research Topics</h2>
-  <ul>
-    <li>Multimodal Learning and Image Fusion </li>
-    <li>Human-Centered Computer Vision</li>
-    <li>Embodied Intelligence  </li>
-    <li>Trustworthy and Ethical AI  </li>
-    <li>AI for Healthcare </li>
-  </ul>
-</div>
 
-
-Group news
+Lab news
 -----------------
 
-[10/2025] FIL graduate Qinqing Li got her degree with distinction! She was also awared the Computer Science Prizes for MSc students (Faculty Commendations - A, which is awared to students who have made a significant contribution to the faculty). 
+[11/2025] Prof. Jiande Sun from Shandong Normal University visited our lab.
+
+[10/2025] FIL graudate Heegon Kim got his MSc degree with distinction!
+ 
+[10/2025] FIL graduate Qinqing Li got her MSc degree with distinction! She was also awared the Computer Science Prizes for MSc students (Faculty Commendations - A, which is awared to students who have made a significant contribution to the faculty). 
 
 [10/2025] Dr. Yixiu Liang from Zhongshan Hospital, Fudan University visited our lab and gave a talk at the Computer Science Seminar. Dr. Liang's visit is a part our Exeter-Fudan Fellowship and will strength the collaboration between Zhongshan Hospital and my lab.
+
+[09/2025] Our paper "More effort is needed to protect pedestrian privacy in the era of AI" has been accepted to **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, acceptance rate is less than 6%). [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
+
+[09/2025] Welcome Quangao to join FIL as a PhD student! Quangao received his Master degree from Chinese Academy of Science before joining my lab.
 
 [09/2025] Our paper "Brain tumor segmentation using multimodal MRI" has been accepted by the DIFA 2025 workshop (BMVC2025). This paper is resulted from my MSc student Qinqing Li's final project.
 
 [05/2025] FIL attended the ESE Research Showcase to present our robot dog (Code-E) and our research. It was a great pleasure to introduce my work to the **President and Vice-Chancellor of the University of Exeter, Prof. Lisa Roberts**, and other members of the University Council. [Exeter News 1 (internal only)](https://universityofexeteruk.sharepoint.com/sites/FacultyofEnvironmentScienceandEconomyESEnew/SitePages/Faculty-Hosts-University-Council-and-Celebrates-Research-Excellence(2).aspx). [Exeter News 2 (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/94nqv79qsln4d208rfh9qq?email=true&lang=en&a=2&p=5014214&t=2297131).
+
+[05/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** to strengthen the collaboration between my Fusion Intelligence Laboratory and Zhongshan Hospital, Fudan University. Only three academics at the University of Exeter recieved this fellowship this year.
+
+[05/2025] Our paper ''[SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection](https://ieeexplore.ieee.org/document/11015693)'' has been accepted by IEEE Sensors Journal. This is a collaborative paper with Yanshan University. Congratulations to all co-authors! The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
+
+[04/2025] Our paper "[BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling" has been accepted by **IJCAI2025**](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8690.pdf). This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
+
+[01/2025] Welcome Ning to join FIL as a PhD student! 
 
 [09/2024] Welcome Zixian to join FIL as a PhD student! Before joining my lab, Zixian obtained his MSc degree in Applied Machine Learning (with distinction) from Imperial College London. Zixian is fully funded by an Exeter PhD studentship.
 
@@ -197,7 +217,7 @@ Selected Publications
             More effort is needed to protect pedestrian privacy in the era of AI
         </div>
         <img src="/images/research/Privacy.jpg" alt="Privacy" class="publication-image" onclick="expandImage(this, '/images/research/Privacy.jpg')"><br />
-        <h3 class="conference-name">NeurIPS (Position Paper Track), 2025</h3>        
+        <h3 class="conference-name">NeurIPS (Position Paper Track, Oral paper), 2025</h3>        
         <p class="author-name"><strong>X. Zhang</strong>, Z. Zhao.</p>
     </div>
 </div>
