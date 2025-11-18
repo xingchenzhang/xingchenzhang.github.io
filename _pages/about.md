@@ -33,15 +33,7 @@ To know more about my research, please go to the  '[Research](https://xingchenzh
 **Joining my Fusion Intelligence Laboratory**
 -------
 
-I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Laboratory as a PhD student, or if you wish to join by applying for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, Newton International Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Opportunities](https://xingchenzhang.github.io/opportunities/)' section.
-
-- [[Exeter-CSC PhD studentship (Chinese students only)]](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2026 September entry) is open. The application deadline is **<span style="color: red;">midday Monday 1 December 2025</span>**. More details can be found [here](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in one of the following topics, please contact me and send your CV.
-
-    - Ethical AI in Computer Vision: Balancing Pedestrian Privacy and Data Utility
-    - Efficient Multimodal Robot Perception for Pedestrian-Centric Applications
-    - Robust and adaptive multimodal fusion for autonomous systems
-    - Multi-modal information fusion for human-centered computer vision
-    - Application-Driven Multi-Modal Medical Information Fusion Using Deep Learning    
+I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Laboratory as a PhD student, or if you wish to join by applying for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, Newton International Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Opportunities](https://xingchenzhang.github.io/opportunities/)' section.  
 
 
 **Call for papers**
