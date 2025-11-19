@@ -80,7 +80,7 @@ full-width: true
  如果您觉得本书有用，请考虑在您的论文里引用这本书。Bibtex引用方式如下：
 
   @misc{zhang2025intelligence,  
-    title={Intelligence of Fusion: Deep Learning-Based Image Fusion (Chinese Monograph)},  
+    title={Intelligence of Fusion: Deep Learning-Based Image Fusion},  
     author={Zhang, Xingchen},  
     year={2025},  
     publisher={OpenReview},  
