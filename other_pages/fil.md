@@ -130,9 +130,7 @@ full-width: true
     <li>Trustworthy and Ethical AI  </li>
     <li>AI for Healthcare </li>
   </ul>
-</div>
-
-
+</div>s
 
 <div class="lab-section">
   <h2>People</h2>
