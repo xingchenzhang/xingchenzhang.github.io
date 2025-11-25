@@ -114,21 +114,24 @@ full-width: true
 </style>
 
 
-<div class="lab-section">
-  <p>The Fusion Intelligence Laboratory is led by Dr. Xingchen Zhang at the University of Exeter. The lab aims to use machine intelligence and multi-source information fusion to benefit humanity. </p>
+The Fusion Intelligence Laboratory (FIL) is led by [Dr. Xingchen Zhang](https://xingchenzhang.github.io/) at the Department of Computer Science, University of Exeter. 
+The lab aims to use machine intelligence and multi-source information fusion to benefit humanity.
 
-  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+<div class="lab-section">
+
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
 </div>
 
 <h2>Research Topics</h2>
-  <ul>
-    <li>Multimodal Learning and Image Fusion </li>
-    <li>Human-Centered Computer Vision</li>
-    <li>Embodied Intelligence  </li>
-    <li>Trustworthy and Ethical AI  </li>
-    <li>AI for Healthcare </li>
-  </ul>
+<ul>
+  <li>Multimodal Learning and Image Fusion</li>
+  <li>Human-Centered Computer Vision</li>
+  <li>Embodied Intelligence</li>
+  <li>Trustworthy and Ethical AI</li>
+  <li>AI for Healthcare</li>
+</ul>
+
 </div>
 
 <div class="lab-section">
