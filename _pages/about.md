@@ -64,8 +64,6 @@ News
 
 [09/2025] My TPAMI paper [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/document/10088423/) was selected as **<span style="color: red;">ESI Hot Paper</span>**. This is also an **ESI Highly Cited** paper. 
 
-[09/2025] Our paper "Brain tumor segmentation using multimodal MRI" has been accepted by the DIFA 2025 workshop (BMVC2025). This paper is resulted from FIL MSc student Qinqing Li's final project.
-
 [08/2025] A candidate has been awarded an **QUEX joint PhD studentship** and will be joining my lab shortly. I will co-supervise this student with Dr. Shelley Keating from the University of Queensland.
 
 [07/2025] I gave a talk titled "Protecting pedestrian privacy through face swapping" at the BMVC One Day Meeting: BMVA Symposium on AI Security in London.  [Video link](https://www.youtube.com/watch?v=yoYM1pnDGXM&list=PLW8VWHVjepIszQtfq1N0UPfwVYwSxAgYL&index=4)
