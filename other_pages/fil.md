@@ -124,6 +124,8 @@ The lab aims to use machine intelligence and multi-source information fusion to 
 </div>
 
 <h2>Research Topics</h2>
+The research in FIL covers following topics:
+
 <ul>
   <li>Multimodal Learning and Image Fusion</li>
   <li>Human-Centered Computer Vision</li>
@@ -218,7 +220,10 @@ Selected Publications
         </div>
         <img src="/images/research/Privacy.jpg" alt="Privacy" class="publication-image" onclick="expandImage(this, '/images/research/Privacy.jpg')"><br />
         <h3 class="conference-name">NeurIPS (Position Paper Track, Oral paper), 2025</h3>        
-        <p class="author-name"><strong>X. Zhang</strong>, Z. Zhao.</p>
+        <p class="author-name"><strong>X. Zhang*</strong>, Z. Zhao.</p>
+        <div class="links">
+            <a href="https://openreview.net/pdf?id=rdeCalg68L" class="pdf">PDF</a>
+        </div>
     </div>
 </div>
 
@@ -230,6 +235,9 @@ Selected Publications
         <img src="/images/research/BGM-IJCAI2025.png" alt="BGM" class="publication-image" onclick="expandImage(this, '/images/research/BGM-IJCAI2025.png')"><br />
         <h3 class="conference-name">IJCAI, 2025</h3>        
         <p class="author-name">Y. Zhao, H. Wen, <strong>X. Zhang</strong>, M. Luo.</p>
+        <div class="links">
+            <a href="https://www.ijcai.org/proceedings/2025/1112.pdf" class="pdf">PDF</a>
+        </div>
     </div>
 </div>
 
@@ -254,6 +262,9 @@ Selected Publications
         </div>
         <h3 class="conference-name">DIFA 2025 Workshop, BMVC2025</h3>        
         <p class="author-name">Q. Li, Z. Zhao, <strong>X. Zhang*</strong>.</p>
+                <div class="links">
+            <a href="https://bmva-archive.org.uk/bmvc/2025/assets/workshops/DIFA/Paper_14/paper.pdf" class="pdf">PDF</a>
+        </div>
     </div>
 </div>
 
@@ -267,7 +278,6 @@ Selected Publications
         <p class="author-name">Z. Zhao, A. Howes, <strong>X. Zhang*</strong>.</p>
         <div class="links">
             <a href="https://arxiv.org/pdf/2505.06665" class="pdf">PDF</a>
-            <a href="https://arxiv.org/pdf/2505.06665" class="code">CODE</a>
         </div>
     </div>
 </div>
