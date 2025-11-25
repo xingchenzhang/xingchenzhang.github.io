@@ -221,6 +221,19 @@ The research in FIL covers following topics:
 <div class="publication-block">
     <div class="publication-info">
         <div class="publication-title">
+            Intelligence of Fusion: Deep Learning-based Image Fusion
+        </div>
+        <img src="/images/Intelligence-of-fusion-Chinese.png" alt="Book" class="publication-image" onclick="expandImage(this, '/images/research/Privacy.jpg')"><br />
+        <p class="author-name"><strong>X. Zhang</strong></p>
+        <div class="links">
+            <a href="https://xingchenzhang.github.io/imagefusionbook/" class="pdf">PDF</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
             More effort is needed to protect pedestrian privacy in the era of AI
         </div>
         <img src="/images/research/Privacy.jpg" alt="Privacy" class="publication-image" onclick="expandImage(this, '/images/research/Privacy.jpg')"><br />
@@ -340,5 +353,5 @@ function closeImageBox() {
 
 <h2>Contact</h2>
 Address: Kathleen Booth Building, Streatham Campus, EX4 4RN, Exeter, UK 
- 
+
 Email: x.zhang12@exeter.ac.uk
