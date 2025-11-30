@@ -13,23 +13,12 @@ PhD Opportunities
 
 **Current opportunities**
 
-**<span style="color: red;">NOTE: I DO NOT accept visiting/exchange PhD students.</span>**
+**<span style="color: red;">NOTE: I DO NOT accept visiting/exchange/self-funded PhD students.</span>**
 
-- [[Exeter-CSC PhD studentship (Chinese students only)]](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2026 September entry) is open. The application deadline is **<span style="color: red;">midday Monday 1 December 2025</span>**. More details can be found [here](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/). If you are interested in one of the following topics, please contact me and send your CV.
-
-    - Ethical AI in Computer Vision: Balancing Pedestrian Privacy and Data Utility
-    - Efficient Multimodal Robot Perception for Pedestrian-Centric Applications
-    - Robust and adaptive multimodal fusion for autonomous systems
-    - Multi-modal information fusion for human-centered computer vision
-    - Application-Driven Multi-Modal Medical Information Fusion Using Deep Learning    
-
-
-**Self-funded PhD students**
-
-Self-funded PhD students are **<span style="color: red;">always welcome and can apply at any time</span>**. Please send an email (with your CV) to me to discuss more details if you are interested in doing a PhD with me.
 
 **Other opportunities**
 
+- [[Exeter-CSC PhD studentship (Chinese students only)]](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2026 September entry) **<span style="color: red;">has closed</span>**. 
 
 - [[QUEX joint PhD studentship]](https://scholarships.uq.edu.au/scholarship/quex-phd-scholarship). The project title is Development and evaluation of a digital human exercise coach. The primary supervisor is [Dr Shelley Keating](https://about.uq.edu.au/experts/12259) from the University of QueensLand. I am the co-supervisor at the University of Exeter. More details about this studentship can be found [here](https://scholarships.uq.edu.au/scholarship/quex-phd-scholarship). The application for **is now closed**.
 
