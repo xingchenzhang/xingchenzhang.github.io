@@ -128,7 +128,7 @@ News
 [08/2020] The book [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3) that I co-authored has been published by Shanghai Jiao Tong University Press & Springer Nature Singapore. This book has won the National Science and Technology Academic Publications Fund of China (2019).
 
 <div style="display: flex; justify-content: center; margin-bottom: 40px;">
-  <img src="/images/image-fusion.jpg" alt="image1" width="150">
+  <img src="/images/image_fusion.JPG" alt="image1" width="150">
 </div>
 
 More news about me can be found [**here**](https://xingchenzhang.github.io/previous_news/).
