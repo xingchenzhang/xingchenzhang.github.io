@@ -48,6 +48,8 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[12/2025] I was awared an Exeter–Université Paris-Saclay Seed Fund Grant as the **<span style="color: red;">PI</span>**.
+
 [11/2025] I organized a BMVC2025 workshop "**DIFA: Deep Learning-based Information Fusion and Its Applications**" on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK. Other organizers are Dr. Zhixiang Chen from University of Sheffield and Dr. Shuyan Li from Queen's University Belfast.  More details can be found on our [workshop website](https://difa2025-bmvc.github.io/).  
 
 [10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), is now freely available for download. Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. 

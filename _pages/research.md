@@ -26,6 +26,7 @@ My research aims to use machine intelligence and multi-source information fusion
 Some funded projects
 ----
 
+- Exeter–Université Paris-Saclay Seed Fund Grant , **PI**
 - The Royal Society Research Grant, **PI**
 - Marie Sklodowska-Curie Individual Fellowship, **PI**
 - Exeter-Fudan Fellowship, **PI**
