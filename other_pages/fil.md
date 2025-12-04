@@ -181,6 +181,8 @@ The research in FIL covers following topics:
 
 <h2>Lab News</h2>
 
+[12/2025] Dr. Xingchen Zhang was awared an Exeter–Université Paris-Saclay Seed Fund Grant as the **<span style="color: red;">PI</span>**. This Seed Fund Grant will be helpful for the collaboration between our FIL and Université Paris-Saclay.
+
 [11/2025] Prof. Jiande Sun from Shandong Normal University visited our lab.
 
 [10/2025] FIL graudate Heegon Kim got his MSc degree with distinction!
@@ -188,6 +190,8 @@ The research in FIL covers following topics:
 [10/2025] FIL graduate Qinqing Li got her MSc degree with distinction! She was also awared the Computer Science Prizes for MSc students (Faculty Commendations - A, which is awared to students who have made a significant contribution to the faculty). 
 
 [10/2025] Dr. Yixiu Liang from Zhongshan Hospital, Fudan University visited our lab and gave a talk at the Computer Science Seminar. Dr. Liang's visit is a part our Exeter-Fudan Fellowship and will strength the collaboration between Zhongshan Hospital and my lab.
+
+[10/2025] Dr. Xingchen Zhang's new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), is now freely available for download. Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. 
 
 [09/2025] Our paper "More effort is needed to protect pedestrian privacy in the era of AI" has been accepted to **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, acceptance rate is less than 6%). [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
 
