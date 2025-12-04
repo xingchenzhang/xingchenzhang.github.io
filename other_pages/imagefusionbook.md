@@ -79,10 +79,12 @@ full-width: true
 ## 引用
  如果您觉得本书有用，请考虑在您的论文里引用这本书。Bibtex引用方式如下：
 
-  @misc{zhang2025intelligence,  
-    title={Intelligence of Fusion: Deep Learning-Based Image Fusion},  
-    author={Zhang, Xingchen},  
-    year={2025},  
-    publisher={OpenReview},  
-    url={https://openreview.net/forum?id=YKorIXQPRd}  
-  }
+  @book{zhang_2025_17808948,  
+  author       = {Zhang, Xingchen},  
+  title        = {Intelligence of Fusion: Deep Learning-Based Image Fusion},  
+  publisher    = {Zenodo},  
+  year         = 2025,  
+  month        = jun,  
+  doi          = {10.5281/zenodo.17808948},  
+  url          = {https://doi.org/10.5281/zenodo.17808948},  
+}
