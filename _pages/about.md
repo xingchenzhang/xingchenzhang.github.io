@@ -48,7 +48,9 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[12/2025] I was awared an Exeter–Université Paris-Saclay Seed Fund Grant as the **<span style="color: red;">PI</span>**.
+[12/2025] I was awarded a **<span style="color: red;">Royal Society International Exchanges grant (with NSFC)</span>** as the **<span style="color: red;">PI</span>**. This grant will enable my lab to collaborate with East China Normal University.
+
+[12/2025] I was awared an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as the **<span style="color: red;">PI</span>**. This grant will enable my lab to collaborate with Université Paris-Saclay.
 
 [11/2025] I organized a BMVC2025 workshop "**DIFA: Deep Learning-based Information Fusion and Its Applications**" on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK. Other organizers are Dr. Zhixiang Chen from University of Sheffield and Dr. Shuyan Li from Queen's University Belfast.  More details can be found on our [workshop website](https://difa2025-bmvc.github.io/).  
 

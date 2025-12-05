@@ -181,7 +181,9 @@ The research in FIL covers following topics:
 
 <h2>Lab News</h2>
 
-[12/2025] Dr. Xingchen Zhang was awared an Exeter–Université Paris-Saclay Seed Fund Grant as the **<span style="color: red;">PI</span>**. This Seed Fund Grant will be helpful for the collaboration between our FIL and Université Paris-Saclay.
+[12/2025] Dr. Xingchen Zhang was awarded a **<span style="color: red;">Royal Society International Exchanges grant (with NSFC)</span>** as the **<span style="color: red;">PI</span>**. This grant will enable FIL to collaborate with East China Normal University.
+
+[12/2025] Dr. Xingchen Zhang was awared an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as the **<span style="color: red;">PI</span>**. This Seed Fund Grant will be helpful for the collaboration between our FIL and Université Paris-Saclay.
 
 [11/2025] Prof. Jiande Sun from Shandong Normal University visited our lab.
 
