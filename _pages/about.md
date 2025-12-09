@@ -156,7 +156,7 @@ Commission (Horizon 2020 research and innovation programme under the Marie Skło
 </div> -->
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/funders/funders.png" alt="image2" width="700">
+  <img src="/images/funders/funders.jpg" alt="image2" width="700">
 </div>
 
 Selected collaborators
