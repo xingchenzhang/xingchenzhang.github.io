@@ -140,7 +140,7 @@ The research in FIL covers following topics:
   <h2>People</h2>
 
   <div class="lab-subsection">
-    <h3>Director</h3>
+    <h3>PI and Director</h3>
     <div class="lab-people">
       <div class="lab-person">
         <a href="https://xingchenzhang.github.io/">
