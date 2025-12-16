@@ -185,6 +185,8 @@ The research in FIL covers following topics:
 
 <h2>Lab News</h2>
 
+[12/2025] A BSc student (Aditya Bhardwaj) from our FIL has secured a position as a Data Scientist and AI Engineer at Lloyds Banking Group in London!
+
 [12/2025] Dr. Xingchen Zhang was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will our lab access to one of the UK’s fastest artificial intelligence supercomputers (Dawn).
 
 [12/2025] Dr. Xingchen Zhang was awarded a **<span style="color: red;">Royal Society International Exchanges grant (with NSFC)</span>** as the **<span style="color: red;">PI</span>**. This grant will enable FIL to collaborate with East China Normal University.
