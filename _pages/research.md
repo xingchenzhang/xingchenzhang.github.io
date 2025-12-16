@@ -30,6 +30,7 @@ Some funded projects
 - The Royal Society Research Grant, **PI**  
 - Exeter-Fudan Fellowship, **PI**
 - Exeter-Université Paris-Saclay Seed Fund Grant , **PI**
+- UKRI AIRR Gateway project, **PI**
 - QUEX Joint PhD Scholarship, **Primary Supervisor** at University of Exeter
 - Marie Sklodowska-Curie Individual Fellowship, **PI**
 - Shanghai Science and Technology Committee Research Project, **PI**

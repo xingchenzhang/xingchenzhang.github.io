@@ -48,6 +48,8 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[12/2025] I was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will our lab access to one of the UK’s fastest artificial intelligence supercomputers (Dawn).
+
 [12/2025] I was awarded a **<span style="color: red;">Royal Society International Exchanges grant (with NSFC)</span>** as the **<span style="color: red;">PI</span>**. This grant will enable my lab to collaborate with East China Normal University.
 
 [12/2025] I was awared an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as the **<span style="color: red;">PI</span>**. This grant will enable my lab to collaborate with Université Paris-Saclay.
