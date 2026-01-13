@@ -48,6 +48,12 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted to ICRA2026, which will be held in Vienna, Austria, on June 1-5, 2026. 
+
+[01/2026] Our paper "MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module" has been accepted to **Information Fusion**. This is a collaborative work between Yanshan University and my lab.
+
+[01/2026] Welcome Yanlong to join my lab as a PhD student!
+
 [12/2025] I was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will our lab access to one of the UK’s fastest artificial intelligence supercomputers (Dawn).
 
 [12/2025] I was awarded a **<span style="color: red;">Royal Society International Exchanges grant (with NSFC)</span>** as the **<span style="color: red;">PI</span>**. This grant will enable my lab to collaborate with East China Normal University.
