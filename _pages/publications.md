@@ -30,6 +30,8 @@ Selected Publications
 dynamic Siamese networks using multi-layer feature fusion. Signal Processing: Image
 Communication, vol. 84, 2020.  
 
+- H. Li, T. Liao, W. Kong, **X. Zhang***. MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module. Information Fusion, 2026.
+
 - H. Li, Z. Wang, W. Kong, **X. Zhang***. SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection. IEEE Sensors Journal, vol. 25, no. 11, pp. 28607-28617, 2025.
 
 - **X. Zhang**, P. Ye, G. Xiao. VIFB: A Visible and Infrared Image Fusion Benchmark, In the Proceedings of IEEE/CVF Conference on Computer Vision Workshops, 2020. (**The first image fusion benchmark, which has been utilized by researchers from more than 10 countries.**) [[Benchmark link]](https://github.com/xingchenzhang/VIFB)

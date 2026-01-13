@@ -97,14 +97,15 @@ Related publications:
 
 1. **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 11, pp. 20773-20782, 2022.  
 2. **X. Zhang***, P. Angeloudis, Y. Demiris. Dual-branch Spatio-Temporal Graph Neural Networks for Pedestrian Trajectory Prediction, Pattern Recognition, vol. 142, 2023.  
-1. H. Li, Z. Wang, W. Kong, **X. Zhang**\*. SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection. IEEE Sensors Journal, vol. 25, no. 11, pp. 28607-28617, 2025.  
-2. **X. Zhang**\*, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023).   
-3. J. Liu, P. Ye. **X. Zhang***, G. Xiao. Real-time long-term tracking with reliability assessment and
+3. H. Li, Z. Wang, W. Kong, **X. Zhang**\*. SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection. IEEE Sensors Journal, vol. 25, no. 11, pp. 28607-28617, 2025.  
+4. **X. Zhang**\*, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023).   
+5. J. Liu, P. Ye. **X. Zhang***, G. Xiao. Real-time long-term tracking with reliability assessment and
 object recovery. IET Image Processing, vol. 15, no. 4, pp. 918-935, 2021.  
-4. J. Liu, G. Xiao, **X. Zhang***, P. Ye, X. Xiong, S. Peng. Anti-occlusion object tracking based on
+6. J. Liu, G. Xiao, **X. Zhang***, P. Ye, X. Xiong, S. Peng. Anti-occlusion object tracking based on
 correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-761, 2020.  
-5. J. Zhao, G. Xiao\*, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019.   
-3. H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2508.20817)      
+7. J. Zhao, G. Xiao\*, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019.  
+8. H. Li, T. Liao, W. Kong, **X. Zhang***. MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module. Information Fusion, 2026.
+9. H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2508.20817)      
 
 
 
