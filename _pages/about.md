@@ -50,7 +50,7 @@ News
 
 [01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted to ICRA2026, which will be held in Vienna, Austria, on June 1-5, 2026. 
 
-[01/2026] Our paper "MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module" has been accepted to **Information Fusion**. This is a collaborative work between Yanshan University and my lab.   
+[01/2026] Our paper "MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module" has been accepted to **Information Fusion**. This is a collaborative work between Yanshan University and my lab.     
 
 [01/2026] Welcome Yanlong to join my lab as a PhD student!
 
