@@ -52,7 +52,7 @@ News
 
 [01/2026] Our paper "MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module" has been accepted to **Information Fusion**. This is a collaborative work between Yanshan University and my lab.     
 
-[01/2026] Welcome Yanlong to join my lab as a PhD student!  
+[01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is funded by a QUEX joint PhD studentship.
 
 [12/2025] I was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will our lab access to one of the UK’s fastest artificial intelligence supercomputers (Dawn).
 
