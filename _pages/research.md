@@ -105,7 +105,7 @@ object recovery. IET Image Processing, vol. 15, no. 4, pp. 918-935, 2021.
 correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-761, 2020.  
 7. J. Zhao, G. Xiao\*, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019.  
 8. H. Li, T. Liao, W. Kong, **X. Zhang***. MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module. Information Fusion, 2026.  
-9. H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2508.20817)      
+9. H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2508.20817)        
 
 
 
