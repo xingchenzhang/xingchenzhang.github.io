@@ -33,7 +33,7 @@ full-width: true
 
 <h2>Responsible and ethical AI: Pedestrian privacy protection</h2>
 
-Team:
+<h3>Team</h3>
 - Dr. Xingchen Zhang, Senior Lecturer, University of Exeter. Former Marie-Curie Individual Fellow at Imperial College London  
 - Mr. Zixian Zhao, PhD student, University of Exeter
 - Prof. Yiannis Demiris, Professor, Imperial College London
