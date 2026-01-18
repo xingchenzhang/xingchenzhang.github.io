@@ -66,8 +66,6 @@ This work is under review.
   <img src="/images/research/PedPrivacy.gif" alt="First Image" style="height: 300px; width: auto; margin-right: 20px;">
 </div>
 
-<h3>Equipment</h3>
-
 
 <h3>Related publications</h3>
 
