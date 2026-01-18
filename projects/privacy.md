@@ -33,6 +33,11 @@ full-width: true
 
 <h2>Responsible and ethical AI: Pedestrian privacy protection</h2>
 
+Team:
+- Dr. Xingchen Zhang, Senior Lecturer, University of Exeter. Former Marie-Curie Individual Fellow at Imperial College London  
+- Mr. Zixian Zhao, PhD student, University of Exeter
+- Prof. Yiannis Demiris, Professor, Imperial College London
+
 <h3>Introduction</h3>
 Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles while maintaining the utility of the anonymized videos.
 
@@ -76,3 +81,8 @@ This work is under review.
 <h3>Funding</h3>
 - The Royal Society Research Grant, **PI**    
 - Marie Sklodowska-Curie Individual Fellowship, **PI**
+
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="/images/project/privacy/privacy-funder.jpg" alt="First Image" style="height: 300px; width: auto; margin-right: 20px;">
+</div>
