@@ -42,6 +42,8 @@ Many videos are captured to train AI models. We aim to protect pedestrian privac
   <img src="/images/research/Privacy-mosaic-2-new.gif" alt="Second Image" style="height: 300px; width: auto;">
 </div>
 
+However, traditional anonymization methods will affect the utility of the anonymized data for downstream tasks.
+
 <h3>Pedestrian anonymization via face swapping</h3>
 
 <!-- <img align="center" width="600" src="/images/word cloud.png" />  -->
@@ -58,11 +60,21 @@ Many videos are captured to train AI models. We aim to protect pedestrian privac
 </div>
 
 <h3>Pedestrian anonymization via full-body anonymization</h3>
+This work is under review.
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="/images/research/PedPrivacy.gif" alt="First Image" style="height: 300px; width: auto; margin-right: 20px;">
+</div>
 
 <h3>Equipment</h3>
 
 
 <h3>Related publications</h3>
 
-1. **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS, 2025. **Oral paper**. [[PDF]](https://openreview.net/pdf?id=rdeCalg68L)  
-1. Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.
+1. **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS Position Paper Track, 2025. **Oral paper**. [[PDF]](https://openreview.net/pdf?id=rdeCalg68L)  
+1. Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.  
+1. Z. Zhao, **X. Zhang***, Y. Demiris. PedPrivacy: Pedestrian Privacy Protection through Pose Transferring and Face Swapping. Under review.
+
+<h3>Funding</h3>
+- The Royal Society Research Grant, **PI**    
+- Marie Sklodowska-Curie Individual Fellowship, **PI**
