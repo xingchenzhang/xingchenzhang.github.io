@@ -48,11 +48,11 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[01/2026] Our paper "Towards a robust adversarial patch attack against RGB-T crowd counting" has been accepted to Pattern Recognition.
+[01/2026] Our paper "Towards a robust adversarial patch attack against RGB-T crowd counting" has been accepted to **Pattern Recognition**.
 
 [01/2026] Our paper "Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems" has been accepted to Future Generation Computer Systems.
 
-[01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted to ICRA2026, which will be held in Vienna, Austria, on June 1-5, 2026. 
+[01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted to **ICRA2026**, which will be held in Vienna, Austria, on June 1-5, 2026. 
 
 [01/2026] Our paper "[MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module](https://www.sciencedirect.com/science/article/pii/S1566253526000217)" has been accepted to **Information Fusion**. This is a collaborative work between Yanshan University and my lab.     
 

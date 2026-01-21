@@ -10,6 +10,10 @@ author_profile: true
 
 **Past talks**
 
+- How to make ourselves more competitive in the era of AI, Shanghai Jiao Tong University, Jan, 2026
+
+- How to make ourselves more competitive in the era of AI, Zhongshan Hospital, Fudan University, Jan, 2026
+
 - About my academic experience, UK Shanghai Jiao Tong University Alumni Association, London, November, 2025.
 
 - How to make ourselves more competitive in the era of AI, UK Huazhong University of Science and Technology Alumni Association, Oct, 2025
