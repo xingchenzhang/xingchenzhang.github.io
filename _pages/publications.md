@@ -35,6 +35,8 @@ Communication, vol. 84, 2020.
 
 - H. Li, T. Liao, W. Kong, **X. Zhang***. MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module. Information Fusion, 2026.  
 
+- W. Long, Y. Du, H, Li, **X. Zhang***. Towards a robust adversarial patch attack against RGB-T crowd counting. Pattern Recognition, 2026.  
+
 - H. Li, Z. Wang, W. Kong, **X. Zhang***. SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection. IEEE Sensors Journal, vol. 25, no. 11, pp. 28607-28617, 2025.
 
 
