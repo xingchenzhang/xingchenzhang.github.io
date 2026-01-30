@@ -20,7 +20,7 @@ I enjoy seeing students improve through my teaching. As Mencius the philosopher 
   <img src="/images/teaching/teaching-prompt-engineering-2.jpg" alt="image2" width="400">
 </div>
 
-- **Module leader and Lecturer**, COMM042, Introduction to Computer Vision, Department of Computer Science.
+- **Module leader and Lecturer**, COMM042 and COMM042J, Introduction to Computer Vision, Department of Computer Science.
 
 - **Module leader and Lecturer**, COM2013, Data Science Group Project 2 (2024-2025), Department of Computer Science. This is a module for undergraduate (second year) and graduate students.
 

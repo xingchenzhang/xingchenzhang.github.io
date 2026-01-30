@@ -48,6 +48,8 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[01/2026] Our paper "Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking" has been accepted to Knowledge-Based Systems.
+
 [01/2026] Our paper "Towards a robust adversarial patch attack against RGB-T crowd counting" has been accepted to **Pattern Recognition**.
 
 [01/2026] Our paper "Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems" has been accepted to Future Generation Computer Systems.
