@@ -46,14 +46,14 @@ full-width: true
 <div class="book-section">
   <h2>《融合之智：基于深度学习的图像融合》</h2>
    <h3>作者：张星辰（英国埃克塞特大学高级讲师、融合智能实验室负责人）</h3>
-  <p><strong>版本号：</strong>v20251119 &nbsp;|&nbsp; <strong>更新时间：</strong>2025-11-19</p>
+  <p><strong>版本号：</strong>v20260202 &nbsp;|&nbsp; <strong>更新时间：</strong>2026-02-02</p>
 
   <p>这是我的《融合之智：基于深度学习的图像融合》初稿，欢迎下载阅读并提供宝贵意见。</p>
 
   <!-- 下载按钮：指向 Release 的 PDF 直链 -->
   <a class="download-button"
      href="https://github.com/xingchenzhang/xingchenzhang.github.io/releases/latest/download/ImageFusionBook.pdf">
-     📥 点击此处下载 PDF（版本：20251119）
+     📥 点击此处下载 PDF（版本：20260202）
   </a>
 
   <!-- GitHub Release 实时下载次数徽章 -->
@@ -66,6 +66,7 @@ full-width: true
 ---
 
 ## 更新记录
+* **2026-02-02** 改正了第2、3、9、12章里的一些错别字；改正了3.6.4里对图片的引用；统一了第4章中对于某研究人员的单位描述。感谢Github用户“tzslg”的宝贵意见！
 * **2025-11-19** 删除了第十章关于编程框架统计数量的图片（因为与第五章的图片重复）；改正了5.8.12中对图片5.16的引用
 * **2025-10-23** 改正了前言中对本书第三部分的描述；修改了英文摘要；改正了一些错别字（14.5; 15.3; 附录C）
 * **2025-10-22** 修改了文字、增加了一些参考文献和图片
