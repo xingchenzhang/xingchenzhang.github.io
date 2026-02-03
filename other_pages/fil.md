@@ -162,7 +162,7 @@ The research in FIL covers following topics:
         <div>Funded by Exeter PhD studentship</div>
       </div>
       <div class="lab-person">
-          <img src="/images/people/Ning.png" alt="Ning Wang">
+          <img src="/images/people/Ning.jpg" alt="Ning Wang">
           <div><strong>Ning Wang</strong></div>
           <div>Funded by CSC PhD studentship</div>
       </div>
