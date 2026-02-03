@@ -242,6 +242,64 @@ The research in FIL covers following topics:
 
 <h2>Selected Publications</h2>
 
+## 2026 
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+            MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module
+        </div>
+        <img src="/images/research/MCIVA.png" alt="MCIVA" class="publication-image" onclick="expandImage(this, '/images/research/MCIVA.png')"><br />
+        <h3 class="conference-name">Information Fusion, 2026</h3>        
+        <p class="author-name">H. Li, T. Liao, W. Kong, <strong>X. Zhang*</strong></p>
+        <div class="links">
+            <a href="https://www.sciencedirect.com/science/article/pii/S1566253526000217" class="pdf">PDF</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+            Towards a robust adversarial patch attack against RGB-T crowd counting
+        </div>
+        <img src="/images/research/AttackCounting.png" alt="AttackCounting" class="publication-image" onclick="expandImage(this, '/images/research/AttackCounting.png')"><br />
+        <h3 class="conference-name">Pattern Recognition, 2026</h3>        
+        <p class="author-name">W. Kong, Y. Du, H. Li, <strong>X. Zhang*</strong></p>
+        <div class="links">
+            <a href="https://www.sciencedirect.com/science/article/pii/S0031320326001123" class="pdf">PDF</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+            Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking
+        </div>
+        <img src="/images/research/TPMRI.png" alt="TPMRI" class="publication-image" onclick="expandImage(this, '/images/research/TPMRI.png')"><br />
+        <h3 class="conference-name">Knowledge-based Systems, 2026</h3>        
+        <p class="author-name">H. Li, J. Liang, W. Kong, <strong>X. Zhang*</strong></p>
+        <div class="links">
+            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966" class="pdf">PDF</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+            Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems
+        </div>
+        <img src="/images/research/FGCS.png" alt="FGCS" class="publication-image" onclick="expandImage(this, '/images/research/FGCS.png')"><br />
+        <h3 class="conference-name">Future Generations Computer Systems, 2026</h3>        
+        <p class="author-name">H. Li, J. Cui, W. Kong, <strong>X. Zhang*</strong></p>
+        <div class="links">
+            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167739X2600018X" class="pdf">PDF</a>
+        </div>
+    </div>
+</div>
+
 ## 2025  
 
 <div class="publication-block">
