@@ -21,6 +21,8 @@ author_profile: true
 
 **Organizer for Workshops**
 
+- Organizer, ICRA2026 Workshop: Workshop on Pedestrian Behavior Prediction
+
 - Lead organizer, BMVC2025 Workshop: "DIFA: Deep Learning-based Information Fusion and Its Applications"  [[workshop website]](https://difa2025-bmvc.github.io/)
 
 - Organizer, Exeter Computer Vision Workshop: PhD Research Talks

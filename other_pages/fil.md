@@ -185,6 +185,18 @@ The research in FIL covers following topics:
 
 <h2>Lab News</h2>
 
+[01/2026] Our paper "[Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966)" has been accepted to Knowledge-Based Systems.
+
+[01/2026] Our paper "[Towards a robust adversarial patch attack against RGB-T crowd counting](https://www.sciencedirect.com/science/article/pii/S0031320326001123)" has been accepted to **Pattern Recognition**.
+
+[01/2026] Our paper "[Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2600018X)" has been accepted to Future Generation Computer Systems.
+
+[01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted to **ICRA2026**, which will be held in Vienna, Austria, on June 1-5, 2026. 
+
+[01/2026] Our paper "[MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module](https://www.sciencedirect.com/science/article/pii/S1566253526000217)" has been accepted to **Information Fusion**. This is a collaborative work between Yanshan University and FIL.     
+
+[01/2026] Welcome Yanlong to join FIL as a PhD student!  Yanlong is funded by a QUEX joint PhD studentship.
+
 [12/2025] A BSc student (Aditya Bhardwaj) from our FIL has secured a position as a Data Scientist and AI Engineer at Lloyds Banking Group in London!
 
 [12/2025] Dr. Xingchen Zhang was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will our lab access to one of the UK’s fastest artificial intelligence supercomputers (Dawn).
@@ -206,6 +218,8 @@ The research in FIL covers following topics:
 [09/2025] Welcome Quangao to join FIL as a PhD student! Quangao received his Master degree from Chinese Academy of Science before joining FIL.
 
 [09/2025] Our paper "[Brain tumor segmentation using multimodal MRI](https://ore.exeter.ac.uk/articles/conference_contribution/Brain_tumor_segmentation_using_multimodal_MRI/30790127?file=60108110)" has been accepted by the DIFA 2025 workshop (BMVC2025). This paper is resulted from my MSc student Qinqing Li's final project.
+
+[08/2025] A candidate has been awarded an **QUEX joint PhD studentship** and will be joining FIL shortly. This student will be co-supervised by Dr. Shelley Keating from the University of Queensland.
 
 [05/2025] FIL attended the ESE Research Showcase to present our robot dog (Code-E) and our research. It was a great pleasure to introduce my work to the **President and Vice-Chancellor of the University of Exeter, Prof. Lisa Roberts**, and other members of the University Council. [Exeter News 1 (internal only)](https://universityofexeteruk.sharepoint.com/sites/FacultyofEnvironmentScienceandEconomyESEnew/SitePages/Faculty-Hosts-University-Council-and-Celebrates-Research-Excellence(2).aspx). [Exeter News 2 (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/94nqv79qsln4d208rfh9qq?email=true&lang=en&a=2&p=5014214&t=2297131).
 
