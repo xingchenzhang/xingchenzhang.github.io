@@ -19,7 +19,7 @@ I have supervised and co-supervised students at various universities and continu
 
 ### University of Exeter:
 
-At the University of Exeter, I lead the **Fusion Intelligence Laboratory**, where I supervise PhD, MSc, and undergraduate students.
+At the University of Exeter, I lead the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)**, where I supervise PhD, MSc, and undergraduate students.
 
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
