@@ -26,6 +26,7 @@ My research aims to use machine intelligence and multi-source information fusion
 Some funded projects
 ----
 
+- MSCA Postdoctoral Fellowship, **Supervisor**
 - The Royal Society International Exchanges grant (with NSFC), **PI**  
 - The Royal Society Research Grant, **PI**  
 - Exeter-Fudan Fellowship, **PI**

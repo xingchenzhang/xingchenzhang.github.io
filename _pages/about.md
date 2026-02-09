@@ -50,6 +50,8 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[02/2026] An **MSCA Postdoctoral Fellowship** application that I supervised has been successfully awarded. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%.
+
 [01/2026] Our paper "[Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966)" has been accepted to Knowledge-Based Systems.
 
 [01/2026] Our paper "[Towards a robust adversarial patch attack against RGB-T crowd counting](https://www.sciencedirect.com/science/article/pii/S0031320326001123)" has been accepted to **Pattern Recognition**.
