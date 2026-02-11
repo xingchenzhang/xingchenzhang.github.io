@@ -27,6 +27,9 @@ At the University of Exeter, I lead the **[Fusion Intelligence Laboratory](https
   <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
 </div>
 
+Research Fellow:
+
+A Marie-Curie Postdoctoral Fellow will join my lab.
 
 
 PhD students (as primary supervisor):

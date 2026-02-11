@@ -35,6 +35,8 @@ To know more about my research, please go to the  '[Research](https://xingchenzh
 
 I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Laboratory as a PhD student, or if you wish to join by applying for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, Newton International Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Opportunities](https://xingchenzhang.github.io/opportunities/)' section.  
 
+- [[University of Exeter - Paris-Saclay studentships (Double PhD Degrees)]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). The project title is Multimodal Robot Perception withPersonality-Based Models of Human Decision Making for Efficient Anticipation inPedestrian-Centric Applications. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Dr. Céline Clavel](https://clavelcel.wixsite.com/monsite) and [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. The application deadline for 2026 September entry is **<span style="color: red;"> 22 March 2026</span>**.
+
 
 **Call for papers**
 -------
@@ -50,13 +52,13 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[02/2026] An **MSCA Postdoctoral Fellowship** application that I supervised has been successfully awarded. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. The fellow will be based in my lab.
+[02/2026] An **<span style="color: red;">MSCA Postdoctoral Fellowship</span>** application that I supervised has been successfully awarded. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. The fellow will be based in my lab.
 
-[01/2026] Our paper "[Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966)" has been accepted to Knowledge-Based Systems.
+[01/2026] Our paper "[Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966)" has been accepted to **Knowledge-Based Systems**.
 
 [01/2026] Our paper "[Towards a robust adversarial patch attack against RGB-T crowd counting](https://www.sciencedirect.com/science/article/pii/S0031320326001123)" has been accepted to **Pattern Recognition**.
 
-[01/2026] Our paper "[Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2600018X)" has been accepted to Future Generation Computer Systems.
+[01/2026] Our paper "[Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2600018X)" has been accepted to **Future Generation Computer Systems**.
 
 [01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted to **ICRA2026**, which will be held in Vienna, Austria, on June 1-5, 2026. 
 

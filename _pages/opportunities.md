@@ -15,14 +15,14 @@ PhD Opportunities
 
 **<span style="color: red;">NOTE: I DO NOT accept visiting/exchange/self-funded PhD students.</span>**
 
+- [[University of Exeter - Paris-Saclay studentships (Double PhD Degrees)]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). The project title is Multimodal Robot Perception withPersonality-Based Models of Human Decision Making for Efficient Anticipation inPedestrian-Centric Applications. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Dr. Céline Clavel](https://clavelcel.wixsite.com/monsite) and [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. The application deadline for 2026 September entry is **<span style="color: red;"> 22 March 2026</span>**.
+
 
 **Other opportunities**
 
 - [[Exeter-CSC PhD studentship (Chinese students only)]](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2026 September entry) **<span style="color: red;">has closed</span>**. 
 
 - [[QUEX joint PhD studentship]](https://scholarships.uq.edu.au/scholarship/quex-phd-scholarship). The project title is Development and evaluation of a digital human exercise coach. The primary supervisor is [Dr Shelley Keating](https://about.uq.edu.au/experts/12259) from the University of QueensLand. I am the co-supervisor at the University of Exeter. More details about this studentship can be found [here](https://scholarships.uq.edu.au/scholarship/quex-phd-scholarship). The application for **is now closed**.
-
-- [[University of Exeter - Paris-Saclay studentships (Double PhD Degrees)]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. More details can be found [here](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=61449). The application for 2025 September entry **is now closed**.
 
 - [[EPSRC DLA PhD studentships]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/fundedcentres/epsrcdla/): The application for 2025 September entry **is now closed**.
 - [[Exeter-CSC PhD studentship (Chinese students only)]](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2025 September entry) **is now closed**. 
