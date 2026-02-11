@@ -33,7 +33,8 @@ Some funded projects
 - Exeter-Université Paris-Saclay Seed Fund Grant , **PI**
 - UKRI AIRR Gateway project, **PI**
 - QUEX Joint PhD Scholarship, **Primary Supervisor** at University of Exeter
-- Marie Sklodowska-Curie Individual Fellowship, **PI**
+- Marie Sklodowska-Curie Individual Fellowship, **PI**  
+- Yanshan University International Science and Technology Cooperation and Exchange Programme, **CO-I**  
 - Shanghai Science and Technology Committee Research Project, **PI**
 
 Research topics
