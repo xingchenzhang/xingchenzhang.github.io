@@ -185,7 +185,9 @@ The research in FIL covers following topics:
 
 <h2>Lab News</h2>
 
-[01/2026] Our paper "[Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966)" has been accepted to Knowledge-Based Systems.
+[02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application from FIL has been successfully awarded. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. The fellow will join FIL shortly.
+
+[01/2026] Our paper "[Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966)" has been accepted to **Knowledge-Based Systems**.
 
 [01/2026] Our paper "[Towards a robust adversarial patch attack against RGB-T crowd counting](https://www.sciencedirect.com/science/article/pii/S0031320326001123)" has been accepted to **Pattern Recognition**.
 
@@ -220,6 +222,8 @@ The research in FIL covers following topics:
 [09/2025] Our paper "[Brain tumor segmentation using multimodal MRI](https://ore.exeter.ac.uk/articles/conference_contribution/Brain_tumor_segmentation_using_multimodal_MRI/30790127?file=60108110)" has been accepted by the DIFA 2025 workshop (BMVC2025). This paper is resulted from my MSc student Qinqing Li's final project.
 
 [08/2025] A candidate has been awarded an **QUEX joint PhD studentship** and will be joining FIL shortly. This student will be co-supervised by Dr. Shelley Keating from the University of Queensland.
+
+[06/2025] A candidate has been awarded an **Exeter-CSC PhD scholarship** and will be joining FIL in September.
 
 [05/2025] FIL attended the ESE Research Showcase to present our robot dog (Code-E) and our research. It was a great pleasure to introduce my work to the **President and Vice-Chancellor of the University of Exeter, Prof. Lisa Roberts**, and other members of the University Council. [Exeter News 1 (internal only)](https://universityofexeteruk.sharepoint.com/sites/FacultyofEnvironmentScienceandEconomyESEnew/SitePages/Faculty-Hosts-University-Council-and-Celebrates-Research-Excellence(2).aspx). [Exeter News 2 (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/94nqv79qsln4d208rfh9qq?email=true&lang=en&a=2&p=5014214&t=2297131).
 

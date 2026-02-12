@@ -29,7 +29,7 @@ At the University of Exeter, I lead the **[Fusion Intelligence Laboratory](https
 
 Research Fellow:
 
-A Marie-Curie Postdoctoral Fellow will join my lab.
+- A Marie-Curie Postdoctoral Fellow will join my lab.
 
 
 PhD students (as primary supervisor):
