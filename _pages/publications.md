@@ -11,7 +11,7 @@ For a full list of my publications, please refer to my [Google Scholar profile](
 Selected Publications
 ------------------
 
-- **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS, 2025. **Oral paper**. [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
+- **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS Position Paper Track, 2025. **Oral paper**. [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
 
 - **X. Zhang***, Y. Demiris. Visible and Infrared Image Fusion using Deep Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 10535-10554, 2023. (**ESI Highly Cited Paper**, **ESI Hot Paper**)
 
@@ -21,15 +21,7 @@ Selected Publications
 
 - **X. Zhang***, P. Angeloudis, Y. Demiris. Dual-branch Spatio-Temporal Graph Neural Networks for Pedestrian Trajectory Prediction, Pattern Recognition, vol. 142, 2023.
 
-
 - **X. Zhang**. Benchmarking and Comparing Multi-exposure Image Fusion Algorithms. Information Fusion, vol. 74, pp. 111-131, 2021. (**The first multi-exposure image fusion benchmark**) [[Benchmark link]](https://github.com/xingchenzhang/MEFB)
-
-- **X. Zhang**, P. Ye, S. Peng, J. Liu, G. Xiao. DSiamMFT: An RGB-T fusion tracking method via
-dynamic Siamese networks using multi-layer feature fusion. Signal Processing: Image
-Communication, vol. 84, 2020.  
-
-- **X. Zhang**, P. Ye, G. Xiao. VIFB: A Visible and Infrared Image Fusion Benchmark, In the Proceedings of IEEE/CVF Conference on Computer Vision Workshops, 2020. (**The first image fusion benchmark, which has been utilized by researchers from more than 10 countries.**) [[Benchmark link]](https://github.com/xingchenzhang/VIFB)  
-
 
 - Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.
 
@@ -37,7 +29,7 @@ Communication, vol. 84, 2020.
 
 - W. Long, Y. Du, H, Li, **X. Zhang***. Towards a robust adversarial patch attack against RGB-T crowd counting. Pattern Recognition, 2026.  
 
-- H. Li, Z. Wang, W. Kong, **X. Zhang***. SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection. IEEE Sensors Journal, vol. 25, no. 11, pp. 28607-28617, 2025.
+- H. Li, J. Liang, W. Kong, **X. Zhang***. Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking. Knowledge-based Systems, 2026.
 
 
 
