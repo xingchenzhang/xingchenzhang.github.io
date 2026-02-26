@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Senior Lecturer (UK Associate Professor)** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/). I lead the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)** and serve as the Deputy Director of Business Engagement & Innovation in the Department of Computer Science. 
+I am a **Senior Lecturer** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/). I lead the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)** and serve as the Deputy Director of Business Engagement & Innovation in the Department of Computer Science. 
 
 Previously, I was a Visiting Researcher and **Marie Skłodowska-Curie Individual Fellow** (Horizon 2020) at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), [Imperial College London](https://www.imperial.ac.uk/), working with [Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris) (Royal Academy of Engineering Chair in Emerging Technologies). Before that, I was a Teaching Fellow (where I taught the Deep Learning module together with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk)) and a Research Associate (where I worked with Prof. Yiannis Demiris and collaborated with [Prof. Panagiotis Angeloudis](https://transport-systems.imperial.ac.uk/) in an Innovate UK-funded project)  in the same department at Imperial College London. 
 
@@ -37,6 +37,8 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 
 - [[University of Exeter - Paris-Saclay studentships (Double PhD Degrees)]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). The project title is Multimodal Robot Perception withPersonality-Based Models of Human Decision Making for Efficient Anticipation inPedestrian-Centric Applications. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Dr. Céline Clavel](https://clavelcel.wixsite.com/monsite) and [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. The application deadline for 2026 September entry is **<span style="color: red;"> 22 March 2026</span>**. Applications must be submitted on the [Paris-Saclay ADUM portal](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=70347&langue=en). 
 
+- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). If you are interested in applying for a MSCA postdoctoral fellowship with me as the host, please contact me and send your CV to me. The application will open from 9 Aprial 2026, and the deadline is **<span style="color: red;"> 9 September 2026</span>**.
+
 
 **Call for papers**
 -------
@@ -52,7 +54,7 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application that I supervised has been successfully awarded. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. The fellow will join my lab shortly.
+[02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application (Horizon Europe) that I supervised has been successfully awarded. The fellow will join my lab shortly. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. 
 
 [01/2026] I was invited to give a talk at Zhongshan Hospital, Fudan University
 
@@ -64,11 +66,11 @@ News
 
 [01/2026] Our paper "[Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2600018X)" has been accepted to **Future Generation Computer Systems**.
 
-[01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted to **ICRA2026**, which will be held in Vienna, Austria, on June 1-5, 2026. 
+[01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted to **ICRA2026**, which will be held in Vienna, Austria, on June 1, 2026. 
 
-[01/2026] Our paper "[MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module](https://www.sciencedirect.com/science/article/pii/S1566253526000217)" has been accepted to **Information Fusion**. This is a collaborative work between Yanshan University and my lab.     
+[01/2026] Our paper "[MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module](https://www.sciencedirect.com/science/article/pii/S1566253526000217)" has been accepted to **Information Fusion**. 
 
-[01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is funded by a QUEX joint PhD studentship.
+[01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is fully funded by a QUEX joint PhD studentship
 
 [12/2025] I was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will our lab access to one of the UK’s fastest artificial intelligence supercomputers (Dawn).
 
@@ -117,11 +119,11 @@ News
 [09/2024] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>**
  ([Stanford University's list](https://topresearcherslist.com/), 2024)! 
 
-[09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian received his MSc degree in Applied Machine Learning (with distinction) from Imperial College London. Zixian is fully funded by an Exeter PhD studentship.
+[09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian received his MSc degree in Applied Machine Learning (with distinction) from **Imperial College London**. Zixian is fully funded by an Exeter PhD studentship.
 
-[09/2024] I started to serve as the Deputy Director of Business Engagement & Innovation at the Department of Computer Science.
+[09/2024] I started to serve as the **Deputy Director of Business Engagement & Innovation** at the Department of Computer Science.
 
-[07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab and Personal Robotics Lab at Imperial College London. 
+[07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by **Transportmetrica B: Transport Dynamics**. This is a collaborative paper with the Transport Systems & Logistics Lab and Personal Robotics Lab at Imperial College London. 
 
 [07/2024] Two of my IEEE T-PAMI papers were selected as **<span style="color: red;">ESI Highly Cited Papers</span>**.
 
