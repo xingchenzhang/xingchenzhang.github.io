@@ -27,14 +27,14 @@ Some funded projects
 ----
 
 - Marie Sklodowska-Curie Postdoctoral Fellowship, **Supervisor**
-- The Royal Society International Exchanges grant (with NSFC), **PI**  
+- Yanshan University International Science and Technology Cooperation and Exchange Programme, **CO-I**  
 - The Royal Society Research Grant, **PI**  
+- The Royal Society International Exchanges grant (with NSFC), **PI**  
+- UKRI AIRR Gateway project, **PI**
 - Exeter-Fudan Fellowship, **PI**
 - Exeter-Université Paris-Saclay Seed Fund Grant , **PI**
-- UKRI AIRR Gateway project, **PI**
 - QUEX Joint PhD Scholarship, **Primary Supervisor** at University of Exeter
 - Marie Sklodowska-Curie Individual Fellowship, **PI**  
-- Yanshan University International Science and Technology Cooperation and Exchange Programme, **CO-I**  
 - Shanghai Science and Technology Committee Research Project, **PI**
 
 Research topics
