@@ -28,7 +28,6 @@ NOTE: I am open to hosting visiting PhD students. If you are interested in joini
 
 - [[EPSRC DLA PhD studentships]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/fundedcentres/epsrcdla/): The application for 2025 September entry **is now closed**.
 
-
 - [[University of Exeter PhD Scholarships for Black British Researchers]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/black-british/): This programme offers 4-year fully-funded PhD studentships to support Black British researchers. The application for the 2025/26 academic year **is now closed**. 
 
 - [[Commonwealth PhD Scholarships]](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2026/27 academic year **is now closed**. 
