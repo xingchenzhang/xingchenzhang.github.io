@@ -39,8 +39,6 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 
 - [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). If you are interested in applying for a MSCA postdoctoral fellowship with me as the host, please contact me and send your CV to me. The application will open from 9 Aprial 2026, and the deadline is **<span style="color: red;"> 9 September 2026</span>**.
 
-- [Visiting PhD students]. I am open to hosting visiting PhD students. If you are interested in joining my group as a visiting PhD student, **please ask your current supervisor to send me a recommendation email directly. Applications without a recommendation from your supervisor will not be considered.**
-
 
 **Call for papers**
 -------
