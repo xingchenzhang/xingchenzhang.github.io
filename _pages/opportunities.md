@@ -26,7 +26,7 @@ PhD Opportunities
 - [[QUEX joint PhD studentship]](https://scholarships.uq.edu.au/scholarship/quex-phd-scholarship). The project title is Development and evaluation of a digital human exercise coach. The primary supervisor is [Dr Shelley Keating](https://about.uq.edu.au/experts/12259) from the University of QueensLand. I am the co-supervisor at the University of Exeter. More details about this studentship can be found [here](https://scholarships.uq.edu.au/scholarship/quex-phd-scholarship). The application for **is now closed**.
 
 - [[EPSRC DLA PhD studentships]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/fundedcentres/epsrcdla/): The application for 2025 September entry **is now closed**.
-- [[Exeter-CSC PhD studentship (Chinese students only)]](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2025 September entry) **is now closed**. 
+
 
 - [[University of Exeter PhD Scholarships for Black British Researchers]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/black-british/): This programme offers 4-year fully-funded PhD studentships to support Black British researchers. The application for the 2025/26 academic year **is now closed**. 
 
