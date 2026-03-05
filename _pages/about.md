@@ -39,17 +39,19 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 
 - [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). If you are interested in applying for a MSCA postdoctoral fellowship with me as the host, please contact me and send your CV to me. The application will open from 9 Aprial 2026, and the deadline is **<span style="color: red;"> 9 September 2026</span>**.
 
+- [Visiting PhD students]: I am open to hosting visiting PhD students. If you are interested in joining my group as a visiting PhD student, **please ask your current supervisor to send me a recommendation email directly. Applications without a recommendation from your supervisor will not be considered.**
+
 
 **Call for papers**
 -------
 
 You're welcome to submit your manuscript to the following journals and special issues where I serve on the editorial board, or to the workshop I am organizing. Please feel free to contact me before submission if you have any questions.
 
-- **ICRA2026 Workshop Pedestrian Behavior Prediction**. Details coming soon.
+- **ICRA2026 Workshop Pedestrian Behavior Prediction**. More details can be found [here](https://workshop-pbp2026.github.io/). Paper submission deadline: Mar 20, 2026
 
 - **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif). We always welcome submissions.
 
-- **Remote Sensing** Special Issue: "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum". **Deadline: 28 February 2026**. [[Remote Sensing Submission]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)  
+- **Remote Sensing** Special Issue: "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum". **Deadline: 30 Aug 2026**. [[Remote Sensing Submission]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)  
 
 News
 ----
@@ -66,7 +68,7 @@ News
 
 [01/2026] Our paper "[Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2600018X)" has been accepted to **Future Generation Computer Systems**.
 
-[01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted to **ICRA2026**, which will be held in Vienna, Austria, on June 1, 2026. 
+[01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted to **ICRA2026**, which will be held in Vienna, Austria, on June 1, 2026. More details can be found [here](https://workshop-pbp2026.github.io/).
 
 [01/2026] Our paper "[MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module](https://www.sciencedirect.com/science/article/pii/S1566253526000217)" has been accepted to **Information Fusion**. 
 

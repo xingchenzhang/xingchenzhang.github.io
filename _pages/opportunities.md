@@ -13,12 +13,13 @@ PhD Opportunities
 
 **Current opportunities**
 
-**<span style="color: red;">Note: I am open to hosting visiting PhD students. If you are interested in joining my group as a visiting PhD student, please ask your current supervisor to send me a recommendation email directly. Applications without a recommendation from your supervisor will not be considered. </span>**
 
 - [[University of Exeter - Paris-Saclay studentships (Double PhD Degrees)]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). The project title is Multimodal Robot Perception withPersonality-Based Models of Human Decision Making for Efficient Anticipation inPedestrian-Centric Applications. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Dr. Céline Clavel](https://clavelcel.wixsite.com/monsite) and [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. The application deadline for 2026 September entry is **<span style="color: red;"> 22 March 2026</span>**. Applications must be submitted on the [Paris-Saclay ADUM portal](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=70347&langue=en). 
 
+- [Visiting PhD students]: I am open to hosting visiting PhD students. If you are interested in joining my group as a visiting PhD student, **<span style="color: red;">please ask your current supervisor to send me a recommendation email directly. Applications without a recommendation from your supervisor will not be considered. </span>**
 
-**Other opportunities**
+
+**Other PhD opportunities**
 
 - [[Exeter-CSC PhD studentship (Chinese students only)]](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2026 September entry) **is now closed**. 
 
@@ -40,7 +41,7 @@ If English is not your first language you will need to meet the English language
 Postdoc Opportunities
 -------------
 
-- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025). 
+- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). If you are interested in applying for a MSCA postdoctoral fellowship with me as the host, please contact me and send your CV to me. The application will open from 9 Aprial 2026, and the deadline is **<span style="color: red;"> 9 September 2026</span>**.
 - [Newton Fellowship](https://royalsociety.org/grants/newton-international/). 
 - [EPSRC Postdoctoral Fellowships](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
 
