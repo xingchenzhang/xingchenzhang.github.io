@@ -8,6 +8,14 @@ author_profile: true
 
 If you are interested in joining my group at the University of Exeter as a PhD student, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**).
 
+Postdoc Opportunities
+-------------
+
+I am happy to support outstanding researchers to apply for fellowships. 
+
+- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). If you are interested in applying for a MSCA postdoctoral fellowship with me as the host, please contact me and send your CV to me. The application will open from 9 Aprial 2026, and the deadline is **<span style="color: red;"> 9 September 2026</span>**.
+- [Newton Fellowship](https://royalsociety.org/grants/newton-international/). The deadline is **<span style="color: red;">11 March 2026</span>**.
+
 PhD Opportunities
 ----------
 
@@ -16,8 +24,6 @@ PhD Opportunities
 NOTE: I am open to hosting visiting PhD students. If you are interested in joining my group as a visiting PhD student, **<span style="color: red;">please ask your current supervisor to send me a recommendation email directly. Applications without a recommendation from your supervisor will not be considered. </span>** 
 
 - [[University of Exeter - Paris-Saclay studentships (Double PhD Degrees)]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). The project title is Multimodal Robot Perception withPersonality-Based Models of Human Decision Making for Efficient Anticipation inPedestrian-Centric Applications. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Dr. Céline Clavel](https://clavelcel.wixsite.com/monsite) and [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. The application deadline for 2026 September entry is **<span style="color: red;"> 22 March 2026</span>**. Applications must be submitted on the [Paris-Saclay ADUM portal](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=70347&langue=en). 
-
-
 
 
 **Other PhD opportunities**
@@ -38,11 +44,20 @@ You should have obtained, or be about to obtain, a First or Upper Second Class U
 
 If English is not your first language you will need to meet the English language requirements and provide proof of proficiency prior to starting your programme of study. Click [here](https://www.exeter.ac.uk/study/englishlanguagerequirements/) for more information and a list of acceptable alternative tests.
 
-Postdoc Opportunities
--------------
 
-- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). If you are interested in applying for a MSCA postdoctoral fellowship with me as the host, please contact me and send your CV to me. The application will open from 9 Aprial 2026, and the deadline is **<span style="color: red;"> 9 September 2026</span>**.
-- [Newton Fellowship](https://royalsociety.org/grants/newton-international/). 
-- [EPSRC Postdoctoral Fellowships](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
+Visiting Opportunities
+----
+
+I am open to hosting visiting PhD students. If you are interested in joining my group as a visiting PhD student, **<span style="color: red;">please ask your current supervisor to send me a recommendation email directly. Applications without a recommendation from your supervisor will not be considered. </span>** 
+
+The fees for visiting students are as following:
+
+- 0-3 Months: £0
+- 3-6 Months: £550
+- 6-12 Months:  £1,150
+- 12-24 Months:   £2,300
+
+More details about the fees can be found [here](https://www.exeter.ac.uk/students/finance/studentfees/otherfees/).
+
 
 

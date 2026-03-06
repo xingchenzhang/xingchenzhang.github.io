@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Bio"
+title: "Xingchen Zhang (张星辰)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+### Bio
 
 I am a **Senior Lecturer** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/). I lead the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)** and serve as the Deputy Director of Business Engagement & Innovation in the Department of Computer Science. 
 
@@ -16,7 +18,7 @@ I have published over 40 peer-reviewed papers in leading journals and conference
 
 I have been a **Fellow of the [Higher Education Academy (HEA)](https://www.advance-he.ac.uk/)** since July 2023. I have been listed among the **World’s Top 2% Scientists** ([Stanford University's list](https://topscinet.com/), 2023, 2024, 2025). In June 2025, I received the **Dean of PGR’s Commendation for Excellence in Supervision** at the University of Exeter. In March 2024, I was featured as "[**Imperial People**](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)" by Imperial College London. In December 2023, I received the [**Imperial EEE Department Award for Citizenship and Community**](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/). In November 2023, I was selected as the "[**Fellow of the Month**](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1d91qfpwhn6m5ti3wepqzp?email=true&lang=en&a=6&p=11850824&t=3895058)" by the Postdocs and Fellows Development Centre (PFDC) of Imperial College London. In 2021, I was awarded a **Marie Skłodowska-Curie Individual Fellowship** (Horizon 2020) by the European Commission. Additionally, I received the Best Paper Honorable Mention Award of the 9th Chinese Conference on Information Fusion (2019). 
 
-I am a Global Talent endorsed by the Royal Society. I am a **member of the UKRI Talent Peer Review College**, where I review prestigious funding schemes, including the UKRI Future Leaders Fellowships, EPSRC Open Fellowship, EPSRC New Investigator Award, EPSRC Standard Research Grant, and EPSRC Working with Overseas Scientists. Additionally, I serve as a reviewer for more than 20 well-known journals (e.g., IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TIM, IEEE RAL, Information Fusion) and more than 10 top-tier conferences (e.g., CVPR, ECCV, ICCV, NeurIPS, ICLR, AAAI, ICRA, IROS). I have also provided consultancy to hospitals on the deployment of AI technologies.
+I am a **Global Talent endorsed by the Royal Society**. I am a **member of the UKRI Talent Peer Review College**, where I review prestigious funding schemes, including the UKRI Future Leaders Fellowships, EPSRC Open Fellowship, EPSRC New Investigator Award, EPSRC Standard Research Grant, and EPSRC Working with Overseas Scientists. Additionally, I serve as a reviewer for more than 20 well-known journals (e.g., IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TIM, IEEE RAL, Information Fusion) and more than 10 top-tier conferences (e.g., CVPR, ECCV, ICCV, NeurIPS, ICLR, AAAI, ICRA, IROS). I have also provided consultancy to hospitals on the deployment of AI technologies.
 
 Research interests
 --
@@ -78,7 +80,7 @@ News
 
 [12/2025] I was awared an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as the **<span style="color: red;">PI</span>**. This grant will enable my lab to collaborate with Université Paris-Saclay.
 
-[11/2025] I organized a BMVC2025 workshop "**DIFA: Deep Learning-based Information Fusion and Its Applications**" on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK. Other organizers are Dr. Zhixiang Chen from University of Sheffield and Dr. Shuyan Li from Queen's University Belfast.  More details can be found on our [workshop website](https://difa2025-bmvc.github.io/).  
+[11/2025] I organized a BMVC2025 workshop "DIFA: Deep Learning-based Information Fusion and Its Applications" on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK. Other organizers are Dr. Zhixiang Chen from University of Sheffield and Dr. Shuyan Li from Queen's University Belfast.  More details can be found on our [workshop website](https://difa2025-bmvc.github.io/).  
 
 [10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), is now freely available for download. Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. 
 
@@ -86,7 +88,7 @@ News
   <img src="/images/Intelligence-of-fusion-Chinese.png" alt="image1" width="200">
 </div>
 
-[09/2025] Our paper "[More effort is needed to protect pedestrian privacy in the era of AI](https://openreview.net/forum?id=rdeCalg68L)" has been accepted to **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, acceptance rate is less than 6%). [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
+[09/2025] Our paper "[**More effort is needed to protect pedestrian privacy in the era of AI**](https://openreview.net/forum?id=rdeCalg68L)" has been accepted to **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, acceptance rate is less than 6%). [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
 
 [09/2025] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>**  (Stanford University’s list, 2025) — my third time receiving this recognition!
  
@@ -100,7 +102,7 @@ News
 
 [05/2025] I was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** to strengthen the collaboration between my Fusion Intelligence Laboratory and Zhongshan Hospital, Fudan University. Only three academics at the University of Exeter recieved this fellowship this year.
 
-[05/2025] Our paper ''[SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection](https://ieeexplore.ieee.org/document/11015693)'' has been accepted by IEEE Sensors Journal. This is a collaborative paper with Yanshan University. Congratulations to all co-authors! The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
+[05/2025] Our paper ''[SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection](https://ieeexplore.ieee.org/document/11015693)'' has been accepted by **IEEE Sensors Journal**. This is a collaborative paper with Yanshan University. Congratulations to all co-authors! The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
 
 [04/2025] Our paper "[BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling" has been accepted by **IJCAI2025**](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8690.pdf). This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
  
@@ -131,7 +133,7 @@ News
 
 [04/2024] I established the **Fusion Intelligence Laboratory** at the Department of Computer Science, University of Exeter. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
-[04/2024] I started my position as a Visiting Researcher at Imperial College London.
+[04/2024] I started my position as a **Visiting Researcher** at Imperial College London.
 
 [04/2024] I joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> (~Associate Professor in the UK system).
 
@@ -162,8 +164,7 @@ More news about me can be found [**here**](https://xingchenzhang.github.io/previ
 Selected funders
 --
 
-My research has received funding and support from several funders, including the Royal Society, and the European 
-Commission, UKRI (UK Research and Innovation), the Exeter-Fudan Fellowship, and the QUEX Institute.
+My research has received funding and support from several funders, including the Royal Society, the European Commission, UKRI (UK Research and Innovation), the Exeter–Fudan Fellowship, and the QUEX Institute. 
 
 <!-- <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
   <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
