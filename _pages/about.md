@@ -74,7 +74,7 @@ News
 
 [01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is fully funded by a QUEX joint PhD studentship
 
-[12/2025] I was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will our lab access to one of the UK’s fastest artificial intelligence supercomputers (Dawn).
+[12/2025] I was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will give our lab access to one of the UK’s fastest artificial intelligence supercomputers Dawn, which is located in the University of Cambridge.
 
 [12/2025] I was awarded a **<span style="color: red;">Royal Society International Exchanges grant (with NSFC)</span>** as the **<span style="color: red;">PI</span>**. This grant will enable my lab to collaborate with East China Normal University.
 
