@@ -20,11 +20,11 @@ I enjoy seeing students improve through my teaching. As Mencius the philosopher 
   <img src="/images/teaching/teaching-prompt-engineering-2.jpg" alt="image2" width="400">
 </div>
 
-- **Module leader and Lecturer**, COMM042 and COMM042J, Introduction to Computer Vision, Department of Computer Science.
+- **Module lead and Lecturer**, COMM042 and COMM042J (2025-2026), Introduction to Computer Vision, Department of Computer Science. This is a project for MSc students.
 
-- **Module leader and Lecturer**, COM2013, Data Science Group Project 2 (2024-2025), Department of Computer Science. This is a module for undergraduate (second year) and graduate students.
+- **Module lead and Lecturer**, COM2013, Data Science Group Project 2 (2024-2025), Department of Computer Science. This is a module for undergraduate (second year) and graduate students.
 
-- **Lecturer**, COMM109Z, Programming with Python (Online MSc course), 2025 - 2026, Department of Computer Science. I teach this module together with several colleauges.
+- **Lecturer**, COMM109Z, Programming with Python (Online MSc course, 2025-2026), Department of Computer Science. I teach this module together with several colleauges.
 
 **At Imperial College London**
 
