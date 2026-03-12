@@ -30,11 +30,11 @@ Some funded projects
 - The Royal Society International Exchanges grant (with NSFC), **PI**  
 - The Royal Society Research Grant, **PI**  
 - UKRI AIRR Gateway project, **PI**
-- Kunshan International Science and Technology Cooperation Project， **Co-I**
-- Yanshan University International Science and Technology Cooperation and Exchange Programme, **CO-I**  
 - Exeter-Fudan Fellowship, **PI**
 - Exeter-Université Paris-Saclay Seed Fund Grant , **PI**
-- QUEX Joint PhD Scholarship, **Primary Supervisor** at University of Exeter
+- Kunshan International Science and Technology Cooperation Project， **Co-I**
+- Yanshan University International Science and Technology Cooperation and Exchange Programme, **CO-I**  
+- QUEX Joint PhD Scholarship, **Supervisor** at University of Exeter
 - Marie Sklodowska-Curie Individual Fellowship, **PI**  
 - Shanghai Science and Technology Committee Research Project, **PI**
 
