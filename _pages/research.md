@@ -30,6 +30,7 @@ Some funded projects
 - The Royal Society International Exchanges grant (with NSFC), **PI**  
 - The Royal Society Research Grant, **PI**  
 - UKRI AIRR Gateway project, **PI**
+- NVIDIA Academic Grant, **PI**
 - Exeter-Fudan Fellowship, **PI**
 - Exeter-Université Paris-Saclay Seed Fund Grant , **PI**
 - Kunshan International Science and Technology Cooperation Project， **Co-I**

@@ -56,7 +56,9 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[03/2026] I was awarded a **<span style="color: red;">Kunshan International Science and Technology Cooperation Project</span>** as the **<span style="color: red;">Co-I</span>**. 
+[03/2026] I was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
+
+[03/2026] I was awarded a **<span style="color: red;">Kunshan International Science and Technology Cooperation Project</span>** as **<span style="color: red;">Co-I</span>**. 
 
 [02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application (Horizon Europe) that I supervised has been successfully awarded. The fellow will join my lab shortly. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. 
 
@@ -76,11 +78,11 @@ News
 
 [01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is fully funded by a QUEX joint PhD studentship
 
-[12/2025] I was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will give our lab access to one of the UK’s fastest artificial intelligence supercomputers Dawn, which is located in the University of Cambridge.
+[12/2025] I was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as  **<span style="color: red;">PI</span>**. This will give our lab access to one of the UK’s fastest artificial intelligence supercomputers Dawn, which is located in the University of Cambridge.
 
-[12/2025] I was awarded a **<span style="color: red;">Royal Society International Exchanges grant (with NSFC)</span>** as the **<span style="color: red;">PI</span>**. This grant will enable my lab to collaborate with East China Normal University.
+[12/2025] I was awarded a **<span style="color: red;">Royal Society International Exchanges grant (with NSFC)</span>** as **<span style="color: red;">PI</span>**. This grant will enable my lab to collaborate with East China Normal University.
 
-[12/2025] I was awared an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as the **<span style="color: red;">PI</span>**. This grant will enable my lab to collaborate with Université Paris-Saclay.
+[12/2025] I was awared an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as **<span style="color: red;">PI</span>**. This grant will enable my lab to collaborate with Université Paris-Saclay.
 
 [11/2025] I organized a BMVC2025 workshop "DIFA: Deep Learning-based Information Fusion and Its Applications" on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK. Other organizers are Dr. Zhixiang Chen from University of Sheffield and Dr. Shuyan Li from Queen's University Belfast.  More details can be found on our [workshop website](https://difa2025-bmvc.github.io/).  
 
@@ -106,7 +108,7 @@ News
 
 [04/2025] Our paper "[BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling" has been accepted by **IJCAI2025**](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8690.pdf). This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
  
-[02/2025] I was awarded a **<span style="color: red;">Royal Society Research Grant</span>** from  as the **<span style="color: red;">PI</span>**. 
+[02/2025] I was awarded a **<span style="color: red;">Royal Society Research Grant</span>** from  as **<span style="color: red;">PI</span>**. 
 
 [02/2025] I gave a talk at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), Imperial College London.
 
