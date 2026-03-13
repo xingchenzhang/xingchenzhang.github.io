@@ -50,6 +50,8 @@ Books
 Preprints
 ------------
 
+[P6] H. Li, W. He, W. Kong, **X. Zhang**\*. Adversarial Patch Generation for Visual-Infrared Dense Prediction Tasks via Joint Position-Color Optimization. arXiv preprint arXiv:2603.00266. [[Link]](https://arxiv.org/abs/2603.00266).
+
 [P5] Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2509.22450)
 
 [P4] H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. arXiv preprint arXiv:2508.20817. [[Link]](https://arxiv.org/abs/2508.20817) 

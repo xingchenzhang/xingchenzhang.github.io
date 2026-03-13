@@ -56,6 +56,8 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[03/2026] I was awarded a **<span style="color: red;">Kunshan International Science and Technology Cooperation Project</span>** as the **<span style="color: red;">Co-I</span>**. 
+
 [02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application (Horizon Europe) that I supervised has been successfully awarded. The fellow will join my lab shortly. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. 
 
 [01/2026] I was invited to give a talk at Zhongshan Hospital, Fudan University
@@ -68,9 +70,9 @@ News
 
 [01/2026] Our paper "[Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2600018X)" has been accepted to **Future Generation Computer Systems**.
 
-[01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted to **ICRA2026**, which will be held in Vienna, Austria, on June 1, 2026. More details can be found [here](https://workshop-pbp2026.github.io/).
-
 [01/2026] Our paper "[MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module](https://www.sciencedirect.com/science/article/pii/S1566253526000217)" has been accepted to **Information Fusion**. 
+
+[01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted to **ICRA2026**, which will be held in Vienna, Austria, on June 1, 2026. More details can be found [here](https://workshop-pbp2026.github.io/).
 
 [01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is fully funded by a QUEX joint PhD studentship
 
