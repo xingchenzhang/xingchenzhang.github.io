@@ -185,6 +185,10 @@ The research in FIL covers following topics:
 
 <h2>Lab News</h2>
 
+[03/2026] Dr. Xingchen Zhang was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
+
+[03/2026] Dr. Xingchen Zhang was awarded a **<span style="color: red;">Kunshan International Science and Technology Cooperation Project</span>** as **<span style="color: red;">Co-I</span>**. 
+
 [02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application from FIL has been successfully awarded. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. The fellow will join FIL shortly.
 
 [01/2026] Our paper "[Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966)" has been accepted to **Knowledge-Based Systems**.
