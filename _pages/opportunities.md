@@ -23,10 +23,10 @@ NOTE: I **<span style="color: red;"> DO NOT</span>** accept visiting PhD student
 
 **Current opportunities**
 
-- [[University of Exeter - Paris-Saclay studentships (Double PhD Degrees)]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). The project title is Multimodal Robot Perception withPersonality-Based Models of Human Decision Making for Efficient Anticipation inPedestrian-Centric Applications. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Dr. Céline Clavel](https://clavelcel.wixsite.com/monsite) and [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. The application deadline for 2026 September entry is **<span style="color: red;"> 22 March 2026</span>**. Applications must be submitted on the [Paris-Saclay ADUM portal](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=70347&langue=en). 
-
 
 **Other PhD opportunities**
+
+- [[University of Exeter - Paris-Saclay studentships (Double PhD Degrees)]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). The project title is Multimodal Robot Perception withPersonality-Based Models of Human Decision Making for Efficient Anticipation inPedestrian-Centric Applications. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Dr. Céline Clavel](https://clavelcel.wixsite.com/monsite) and [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. Applications must be submitted on the [Paris-Saclay ADUM portal](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=70347&langue=en). The application deadline for 2026 September entry is **now closed**. 
 
 - [[Exeter-CSC PhD studentship (Chinese students only)]](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): The application for Exeter-CSC PhD studentship (2026 September entry) **is now closed**. 
 
