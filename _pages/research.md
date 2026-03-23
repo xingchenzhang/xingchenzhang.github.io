@@ -39,6 +39,9 @@ Some funded projects
 - Marie Sklodowska-Curie Individual Fellowship, **PI**  
 - Shanghai Science and Technology Committee Research Project, **PI**
 
+Alongside my academic research, I have provided **expert consultancy for clinical hospitals**.
+
+
 Research topics
 ----
 
