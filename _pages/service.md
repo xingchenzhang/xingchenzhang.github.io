@@ -34,6 +34,8 @@ author_profile: true
 
 **Editorial boards**
 
+- Guest Editor, Pattern Recognition (for the Special Issue **Multimodal Representation Learning Based on Vision Foundation Models**)
+
 - Associate Editor, Chinese Journal of Information Fusion [[Details]](https://www.iece.org/journal/cjif)
 
 - Youth Editorial Board Member, Chinese Journal of Aeronautics [[Details]](https://www.sciencedirect.com/journal/chinese-journal-of-aeronautics)

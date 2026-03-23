@@ -47,7 +47,9 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 
 You're welcome to submit your manuscript to the following journals and special issues where I serve on the editorial board, or to the workshop I am organizing. Please feel free to contact me before submission if you have any questions.
 
-- **ICRA2026 Workshop Pedestrian Behavior Prediction**. More details can be found [here](https://workshop-pbp2026.github.io/). Paper submission deadline: Mar 20, 2026
+- **Pattern Recognition** Special Issue: **Multimodal Representation Learning Based on Vision Foundation Models**. More details will come shortly.
+
+- **ICRA2026 Workshop Pedestrian Behavior Prediction**. More details can be found [here](https://workshop-pbp2026.github.io/). Paper submission deadline: Mar 31, 2026
 
 - **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif). We always welcome submissions.
 
@@ -55,6 +57,8 @@ You're welcome to submit your manuscript to the following journals and special i
 
 News
 ----
+
+[03/2026] Our special issue proposal **Multimodal Representation Learning Based on Vision Foundation Models** has been accepted by **Pattern Recognition**. We will release the CFP shortly.
 
 [03/2026] Our paper "[FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning](https://arxiv.org/abs/2508.20817)" has been accepted by **IEEE Transactions on Multimedia**. 
 
