@@ -49,6 +49,8 @@ You're welcome to submit your manuscript to the following journals and special i
 
 - **Pattern Recognition** Special Issue: **Multimodal Representation Learning Based on Vision Foundation Models**. More details will come shortly.
 
+- **Virtual Reality & Intelligent Hardware** Special Issue on **Embodied Intelligence: Bringing Disciplines Through System Integration**. Submission deadline: 31 December 2026
+
 - **ICRA2026 Workshop Pedestrian Behavior Prediction**. More details can be found [here](https://workshop-pbp2026.github.io/). Paper submission deadline: Mar 31, 2026
 
 - **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif). We always welcome submissions.
@@ -63,8 +65,6 @@ News
 [03/2026] Our paper "[FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning](https://arxiv.org/abs/2508.20817)" has been accepted by **IEEE Transactions on Multimedia**. 
 
 [03/2026] I was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
-
-[03/2026] I was awarded a **<span style="color: red;">Kunshan International Science and Technology Cooperation Project</span>** as **<span style="color: red;">Co-I</span>**. 
 
 [02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application (Horizon Europe) that I supervised has been successfully awarded. The fellow will join my lab shortly. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. 
 
