@@ -33,8 +33,6 @@ Some funded projects
 - NVIDIA Academic Grant, **PI**
 - Exeter-Fudan Fellowship, **PI**
 - Exeter-Université Paris-Saclay Seed Fund Grant , **PI**
-- Kunshan International Science and Technology Cooperation Project， **Co-I**
-- Yanshan University International Science and Technology Cooperation and Exchange Programme, **CO-I**  
 - QUEX Joint PhD Scholarship, **Supervisor** at University of Exeter
 - Marie Sklodowska-Curie Individual Fellowship, **PI**  
 - Shanghai Science and Technology Committee Research Project, **PI**
