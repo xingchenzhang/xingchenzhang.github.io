@@ -185,21 +185,23 @@ The research in FIL covers following topics:
 
 <h2>Lab News</h2>
 
+[03/2026] Our paper "[FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning](https://arxiv.org/abs/2508.20817)" has been accepted by **IEEE Transactions on Multimedia**. 
+
 [03/2026] Dr. Xingchen Zhang was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
 
 [03/2026] Dr. Xingchen Zhang was awarded a **<span style="color: red;">Kunshan International Science and Technology Cooperation Project</span>** as **<span style="color: red;">Co-I</span>**. 
 
-[02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application from FIL has been successfully awarded. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. The fellow will join FIL shortly.
+[02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application from FIL has been successfully awarded. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. The fellow will join FIL shortly (supervisor: Dr. Xingchen Zhang).
 
-[01/2026] Our paper "[Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966)" has been accepted to **Knowledge-Based Systems**.
+[01/2026] Our paper "[Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966)" has been accepted by **Knowledge-Based Systems**.
 
-[01/2026] Our paper "[Towards a robust adversarial patch attack against RGB-T crowd counting](https://www.sciencedirect.com/science/article/pii/S0031320326001123)" has been accepted to **Pattern Recognition**.
+[01/2026] Our paper "[Towards a robust adversarial patch attack against RGB-T crowd counting](https://www.sciencedirect.com/science/article/pii/S0031320326001123)" has been accepted by **Pattern Recognition**.
 
-[01/2026] Our paper "[Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2600018X)" has been accepted to Future Generation Computer Systems.
+[01/2026] Our paper "[Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2600018X)" has been accepted by Future Generation Computer Systems.
 
-[01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted to **ICRA2026**, which will be held in Vienna, Austria, on June 1-5, 2026. 
+[01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted by **ICRA2026**, which will be held in Vienna, Austria, on June 1-5, 2026. 
 
-[01/2026] Our paper "[MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module](https://www.sciencedirect.com/science/article/pii/S1566253526000217)" has been accepted to **Information Fusion**. This is a collaborative work between Yanshan University and FIL.     
+[01/2026] Our paper "[MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module](https://www.sciencedirect.com/science/article/pii/S1566253526000217)" has been accepted by **Information Fusion**. This is a collaborative work between Yanshan University and FIL.     
 
 [01/2026] Welcome Yanlong to join FIL as a PhD student!  Yanlong is funded by a QUEX joint PhD studentship.
 
@@ -219,7 +221,7 @@ The research in FIL covers following topics:
 
 [10/2025] Dr. Xingchen Zhang's new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), is now freely available for download. Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. 
 
-[09/2025] Our paper "[More effort is needed to protect pedestrian privacy in the era of AI](https://openreview.net/pdf?id=rdeCalg68L)" has been accepted to **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, top 1.3%). [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
+[09/2025] Our paper "[More effort is needed to protect pedestrian privacy in the era of AI](https://openreview.net/pdf?id=rdeCalg68L)" has been accepted by **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, top 1.3%). [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
 
 [09/2025] Welcome Quangao to join FIL as a PhD student! Quangao received his Master degree from Chinese Academy of Science before joining FIL.
 
