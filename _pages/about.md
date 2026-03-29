@@ -68,7 +68,7 @@ News
 
 [03/2026] I was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
 
-[02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application (Horizon Europe) that I supervised has been successfully awarded. The fellow will join my lab shortly. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. 
+[02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application (Horizon Europe) hosted by me has been successfully awarded. The fellow will join my lab shortly. 
 
 [01/2026] I was invited to give a talk at Zhongshan Hospital, Fudan University
 
@@ -86,9 +86,9 @@ News
 
 [01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is fully funded by a QUEX joint PhD studentship
 
-[12/2025] I was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as  **<span style="color: red;">PI</span>**. This will give our lab access to one of the UK’s fastest artificial intelligence supercomputers Dawn, which is located in the University of Cambridge.
+[12/2025] I was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as  **<span style="color: red;">PI</span>**. 
 
-[12/2025] I was awared an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as **<span style="color: red;">PI</span>**. This grant will enable my lab to collaborate with Université Paris-Saclay.
+[12/2025] I was awared an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as **<span style="color: red;">PI</span>**. 
 
 [11/2025] I organized a BMVC2025 workshop "DIFA: Deep Learning-based Information Fusion and Its Applications" on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK. Other organizers are Dr. Zhixiang Chen from University of Sheffield and Dr. Shuyan Li from Queen's University Belfast.  More details can be found on our [workshop website](https://difa2025-bmvc.github.io/).  
 
@@ -110,9 +110,9 @@ News
 
 [05/2025] I was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** to strengthen the collaboration between my Fusion Intelligence Laboratory and Zhongshan Hospital, Fudan University. Only three academics at the University of Exeter recieved this fellowship this year.
 
-[05/2025] Our paper ''[SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection](https://ieeexplore.ieee.org/document/11015693)'' has been accepted by **IEEE Sensors Journal**. This is a collaborative paper with Yanshan University. Congratulations to all co-authors! The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
+[05/2025] Our paper ''[SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection](https://ieeexplore.ieee.org/document/11015693)'' has been accepted by **IEEE Sensors Journal**. 
 
-[04/2025] Our paper "[BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling" has been accepted by **IJCAI2025**](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8690.pdf). This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
+[04/2025] Our paper "[BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8690.pdf)" has been accepted by **IJCAI2025**. 
  
 [02/2025] I was awarded a **<span style="color: red;">Royal Society Research Grant</span>** from  as **<span style="color: red;">PI</span>**. 
 
@@ -129,7 +129,7 @@ News
 [09/2024] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>**
  ([Stanford University's list](https://topresearcherslist.com/), 2024)! 
 
-[09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian received his MSc degree in Applied Machine Learning (with distinction) from **Imperial College London**. Zixian is fully funded by an Exeter PhD studentship.
+[09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian received his MSc degree in Applied Machine Learning (with distinction) from **Imperial College London**. 
 
 [09/2024] I started to serve as the **Deputy Director of Business Engagement & Innovation** at the Department of Computer Science.
 
