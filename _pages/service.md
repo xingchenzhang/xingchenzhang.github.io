@@ -31,10 +31,23 @@ author_profile: true
 
 - Lead organizer, BMVC2024 Workshop: "DIFA: Deep Learning-based Image Fusion and Its Applications" [[Workshop website]](https://difa2024.github.io/)
 
+**Reviewer for grants (as a member of the UKRI Talent Peer Review College)**
+
+- UKRI Future Leaders Fellowship
+
+- EPSRC New Investigator Award
+
+- EPSRC Open Fellowship
+
+- EPSRC Standard Research Grant 
+
+- EPSRC working with Overseas Scientists
 
 **Editorial boards**
 
 - Guest Editor, Pattern Recognition (for the Special Issue **Multimodal Representation Learning Based on Vision Foundation Models**)
+
+- Guest Editor, Virtual Reality & Intelligent Hardware (for the Special Issue **Embodied Intelligence: Bringing Disciplines Through System Integration**)
 
 - Associate Editor, Chinese Journal of Information Fusion [[Details]](https://www.iece.org/journal/cjif)
 
@@ -49,17 +62,7 @@ author_profile: true
 - Reviewer editor, Brain Imaging Methods, Frontiers in Neuroscience
 
 
-**Reviewer for grants (as a member of the UKRI Talent Peer Review College)**
 
-- UKRI Future Leaders Fellowship
-
-- EPSRC New Investigator Award
-
-- EPSRC Open Fellowship
-
-- EPSRC Standard Research Grant 
-
-- EPSRC working with overseas scientists
 
 
 **Reviewer for journals (Selected)**
@@ -114,7 +117,7 @@ author_profile: true
 
 - Conference on Neural Information Processing Systems (NeurIPS) 
 
-- ICLR
+- International Conference on Learning Representations (ICLR)
 
 - AAAI Conference on Artificial Intelligence (AAAI)
 

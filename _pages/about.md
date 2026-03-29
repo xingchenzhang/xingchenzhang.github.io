@@ -62,6 +62,8 @@ News
 
 [03/2026] Our special issue proposal **Multimodal Representation Learning Based on Vision Foundation Models** has been accepted by **Pattern Recognition**. We will release the CFP shortly.
 
+[03/2026] Our special issue proposal **Embodied Intelligence: Bringing Disciplines Through System Integration** has been accepted by **Virtual Reality & Intelligent Hardware**. The submission deadline is 31 December 2026. 
+
 [03/2026] Our paper "[FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning](https://arxiv.org/abs/2508.20817)" has been accepted by **IEEE Transactions on Multimedia**. 
 
 [03/2026] I was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
@@ -85,8 +87,6 @@ News
 [01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is fully funded by a QUEX joint PhD studentship
 
 [12/2025] I was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as  **<span style="color: red;">PI</span>**. This will give our lab access to one of the UK’s fastest artificial intelligence supercomputers Dawn, which is located in the University of Cambridge.
-
-[12/2025] I was awarded a **<span style="color: red;">Royal Society International Exchanges grant (with NSFC)</span>** as **<span style="color: red;">PI</span>**. This grant will enable my lab to collaborate with East China Normal University.
 
 [12/2025] I was awared an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as **<span style="color: red;">PI</span>**. This grant will enable my lab to collaborate with Université Paris-Saclay.
 
