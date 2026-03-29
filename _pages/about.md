@@ -141,6 +141,11 @@ News
 
 [04/2024] I established the **Fusion Intelligence Laboratory** at the Department of Computer Science, University of Exeter. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <img src="/images/FIL/FIL-20250402.jpg" alt="Lab Photo" style="height: 300px; width: auto;">
+  <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
+</div>
+
 [04/2024] I started my position as a **Visiting Researcher** at Imperial College London.
 
 [04/2024] I joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> (~Associate Professor in the UK system).
