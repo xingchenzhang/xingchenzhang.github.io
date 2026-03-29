@@ -141,8 +141,7 @@ News
 
 [04/2024] I established the **Fusion Intelligence Laboratory** at the Department of Computer Science, University of Exeter. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="/images/FIL/FIL-20250402.jpg" alt="Lab Photo" style="height: 300px; width: auto;">
+<div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
 </div>
 
