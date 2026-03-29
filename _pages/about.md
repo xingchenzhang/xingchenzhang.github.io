@@ -139,15 +139,13 @@ News
 
 [06/2024] Our paper “[3PFS: Protecting pedestrian privacy through face swapping](https://ieeexplore.ieee.org/abstract/document/10682960/)” has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian!  The paper is based on Zixian's MSc project at Imperial College London, where I was his primary supervisor and Prof. Yiannis Demiris was his co-supervisor. The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
 
-[04/2024] I established the **Fusion Intelligence Laboratory** at the Department of Computer Science, University of Exeter. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
+[04/2024] I started my position as a **Visiting Researcher** at Imperial College London.
+
+[04/2024] I joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> and established the **Fusion Intelligence Laboratory**. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
 <div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
 </div>
-
-[04/2024] I started my position as a **Visiting Researcher** at Imperial College London.
-
-[04/2024] I joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> (~Associate Professor in the UK system).
 
 [03/2024] I was featured as **<span style="color: red;">"Imperial People"</span>**
 [[Details]](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/).
