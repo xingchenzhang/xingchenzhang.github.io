@@ -177,7 +177,7 @@ More news about me can be found [**here**](https://xingchenzhang.github.io/previ
 Selected funders
 --
 
-My research has received funding and support from several funders, including the Royal Society, the European Commission, UKRI (UK Research and Innovation), the Exeter–Fudan Fellowship, and the QUEX Institute. 
+My research has received funding and support from several funders, including the Royal Society, the European Commission, UKRI (UK Research and Innovation), NVIDIA, and the QUEX Institute. 
 
 <!-- <div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
   <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
