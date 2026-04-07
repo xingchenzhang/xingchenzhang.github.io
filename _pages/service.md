@@ -47,6 +47,8 @@ author_profile: true
 
 - Guest Editor, Pattern Recognition (for the Special Issue **Multimodal Representation Learning Based on Vision Foundation Models**)
 
+- Guest Editor, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (for the Special Issue **Advances in Multimodal Image Fusion for Remote Sensing Applications**)
+
 - Guest Editor, Virtual Reality & Intelligent Hardware (for the Special Issue **Embodied Intelligence: Bringing Disciplines Through System Integration**)
 
 - Associate Editor, Chinese Journal of Information Fusion [[Details]](https://www.iece.org/journal/cjif)
