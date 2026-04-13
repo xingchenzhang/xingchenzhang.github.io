@@ -27,7 +27,6 @@ Some funded projects
 ----
 
 - Marie Sklodowska-Curie Postdoctoral Fellowship, **Supervisor**
-- The Royal Society International Exchanges grant (with NSFC), **PI**  
 - The Royal Society Research Grant, **PI**  
 - UKRI AIRR Gateway project, **PI**
 - NVIDIA Academic Grant, **PI**
