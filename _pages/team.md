@@ -46,6 +46,17 @@ PhD students (as co-supervisor):
 
 - Hao Tang (Dec 2024 - ). Co-supervising with Prof. Lu Liu and Prof. Nick Stone. 
 
+MSc students:
+- Taylor Xu
+
+- Ali Sajjad
+
+- Nikhil Anil Deshmukh
+
+- Shuai Wei
+
+- Xiaotong Gao
+
 
 BSc students:
 

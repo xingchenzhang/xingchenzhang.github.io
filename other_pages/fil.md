@@ -255,6 +255,21 @@ The research in FIL covers following topics:
 <div class="publication-block">
     <div class="publication-info">
         <div class="publication-title">
+            FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning
+        </div>
+        <img src="/images/research/FusionCounting.png" alt="FusionCounting" class="publication-image" onclick="expandImage(this, '/images/research/FusionCounting.png')"><br />
+        <h3 class="conference-name">IEEE Transactions on Multimedia, 2026</h3>        
+        <p class="author-name">H. Li, X. Liu, W. Kong, <strong>X. Zhang*</strong></p>
+        <div class="links">
+            <a href="https://arxiv.org/abs/2508.20817" class="pdf">PDF</a>
+            <a href="https://github.com/lllxxx-ys/FusionCounting" class="Code">Code</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
             MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module
         </div>
         <img src="/images/research/MCIVA.png" alt="MCIVA" class="publication-image" onclick="expandImage(this, '/images/research/MCIVA.png')"><br />
