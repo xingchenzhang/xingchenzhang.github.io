@@ -47,7 +47,7 @@ I am always looking for self-motivated PhD students. If you're interested in joi
 
 You're welcome to submit your manuscript to the following journals and special issues where I serve on the editorial board, or to the workshop I am organizing. Please feel free to contact me before submission if you have any questions.
 
-- **Pattern Recognition** Special Issue: **Multimodal Representation Learning Based on Vision Foundation Models**. More details will come shortly.
+- **Pattern Recognition** Special Issue: **Multimodal Representation Learning Based on Vision Foundation Models**. Open for Submission: from 15-Apr-2026 to 31-Mar-2027. More details can be found [here](https://www.sciencedirect.com/special-issue/332578/multimodal-representation-learning-based-on-vision-foundation-models).
 
 - **Virtual Reality & Intelligent Hardware** Special Issue on **Embodied Intelligence: Bringing Disciplines Through System Integration**. Submission deadline: 31 December 2026
 
@@ -60,7 +60,7 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[03/2026] Our special issue proposal **Multimodal Representation Learning Based on Vision Foundation Models** has been accepted by **Pattern Recognition**. We will release the CFP shortly.
+[03/2026] Our special issue proposal **Multimodal Representation Learning Based on Vision Foundation Models** has been accepted by **Pattern Recognition**. Open for Submission: from 15-Apr-2026 to 31-Mar-2027. More details can be found [here](https://www.sciencedirect.com/special-issue/332578/multimodal-representation-learning-based-on-vision-foundation-models).
 
 [03/2026] Our special issue proposal **Embodied Intelligence: Bringing Disciplines Through System Integration** has been accepted by **Virtual Reality & Intelligent Hardware**. The submission deadline is 31 December 2026. 
 

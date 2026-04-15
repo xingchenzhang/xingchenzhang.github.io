@@ -45,7 +45,7 @@ author_profile: true
 
 **Editorial boards**
 
-- Guest Editor, Pattern Recognition (for the Special Issue **Multimodal Representation Learning Based on Vision Foundation Models**)
+- Guest Editor, Pattern Recognition (for the Special Issue **[Multimodal Representation Learning Based on Vision Foundation Models](https://www.sciencedirect.com/special-issue/332578/multimodal-representation-learning-based-on-vision-foundation-models)**)
 
 - Guest Editor, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (for the Special Issue **Advances in Multimodal Image Fusion for Remote Sensing Applications**)
 
