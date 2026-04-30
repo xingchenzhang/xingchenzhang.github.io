@@ -12,7 +12,9 @@ author_profile: true
 
 **Service at other organizations**
 
+- Core member, UKRI AIRR User Advisory Group 
 - Executive Committee Member, the UK Huazhong University of Science and Technology Alumni Association
+- Executive Committee Member, the UK Shanghai Jiao Tong University Alumni Association
 - Committee Member, Youth Working Committee of the Information Fusion Division, Chinese Society of Aeronautics and Astronautics
 
 **Organizer for Conferences**

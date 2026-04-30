@@ -10,6 +10,8 @@ author_profile: true
 
 **Past talks**
 
+- Human-Centered Computer Vision: From Unimodality to Multimodality, Yanshan University, Hebei, China, April 2026.
+
 - How to make ourselves more competitive in the era of AI, Shanghai Jiao Tong University, Jan, 2026
 
 - How to make ourselves more competitive in the era of AI, Zhongshan Hospital, Fudan University, Jan, 2026

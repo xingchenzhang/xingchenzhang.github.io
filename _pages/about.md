@@ -58,6 +58,10 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[04/2026] I will join the UKRI AIRR User Advisory Group (UAG) as a core member.
+
+[04/2026] Invited to give a talk at Yanshan University.
+
 [04/2026] Our paper **DualTTrack: Improving Information Flow Consistency in Multi-Object Tracking via Dual-Track Matching and Recovery** has been accepted by Information Processing and Management.
 
 [03/2026] Our special issue proposal **Multimodal Representation Learning Based on Vision Foundation Models** has been accepted by **Pattern Recognition**. Open for Submission: from 15-Apr-2026 to 31-Mar-2027. More details can be found [here](https://www.sciencedirect.com/special-issue/332578/multimodal-representation-learning-based-on-vision-foundation-models).
