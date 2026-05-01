@@ -185,6 +185,11 @@ The research in FIL covers following topics:
 
 <h2>Lab News</h2>
 
+
+[04/2026] Dr. Xingchen Zhang will join the UKRI AIRR User Advisory Group (UAG) as a core member.
+
+[04/2026] Our paper **DualTTrack: Improving Information Flow Consistency in Multi-Object Tracking via Dual-Track Matching and Recovery** has been accepted by Information Processing and Management.
+
 [03/2026] Our paper "[FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning](https://arxiv.org/abs/2508.20817)" has been accepted by **IEEE Transactions on Multimedia**. 
 
 [03/2026] Dr. Xingchen Zhang was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
