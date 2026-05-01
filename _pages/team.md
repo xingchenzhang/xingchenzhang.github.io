@@ -47,28 +47,28 @@ PhD students (as co-supervisor):
 - Hao Tang (Dec 2024 - ). Co-supervising with Prof. Lu Liu and Prof. Nick Stone. 
 
 MSc students:
-- Taylor Xu
+- Taylor Xu (2026)
 
-- Ali Sajjad
+- Ali Sajjad (2026)
 
-- Nikhil Anil Deshmukh
+- Nikhil Anil Deshmukh (2026)
 
-- Shuai Wei
+- Shuai Wei (2026)
 
-- Xiaotong Gao
+- Xiaotong Gao (2026)
 
 
 BSc students:
 
-- Aditya Bhardwaj (Sep 2025 - )
+- Aditya Bhardwaj (Sep 2025 - June 2026)
 
-- Hivda Nasiroglu (Sep 2025 - )
+- Oliver Johnson (Sep 2025 - June 2026)
 
-- Jason Chung (Sep 2025 - )
+- Hivda Nasiroglu (Sep 2025 - June 2026)
 
-- Oliver Johnson (Sep 2025 - )
+- Jason Chung (Sep 2025 - June 2026)
 
-- Rahul Somani (Sep 2025 - )
+- Rahul Somani (Sep 2025 - June 2026)
 
 
 ### Others:
