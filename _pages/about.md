@@ -10,9 +10,9 @@ redirect_from:
 
 ### Bio
 
-I am a **Senior Lecturer** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/). I lead the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)** and serve as the Deputy Director of Business Engagement & Innovation in the Department of Computer Science. 
+I am a **Senior Lecturer** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/). I lead the **[<span style="color: red;">Fusion Intelligence Laboratory</span>](https://xingchenzhang.github.io/fil/)** and serve as the Deputy Director of Business Engagement & Innovation in the Department of Computer Science. 
 
-Previously, I was a Visiting Researcher and **Marie Skłodowska-Curie Individual Fellow** (Horizon 2020) at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), **[Imperial College London](https://www.imperial.ac.uk/)**, working with **[Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris)** (Royal Academy of Engineering Chair in Emerging Technologies). Before that, I was a Teaching Fellow (where I taught the Deep Learning module together with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk)) and a Research Associate (where I worked with Prof. Yiannis Demiris and collaborated with [Prof. Panagiotis Angeloudis](https://transport-systems.imperial.ac.uk/) in an Innovate UK-funded project)  in the same department at Imperial College London. 
+Previously, I was a Visiting Researcher and **Marie Skłodowska-Curie Individual Fellow** (Horizon 2020) at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), **[Imperial College London](https://www.imperial.ac.uk/)**, working with **[Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris)** (Royal Academy of Engineering Chair in Emerging Technologies). Before that, I was a **Teaching Fellow** (where I taught the Deep Learning module together with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk)) and a **Research Associate** (where I worked with Prof. Yiannis Demiris and collaborated with [Prof. Panagiotis Angeloudis](https://transport-systems.imperial.ac.uk/) in an Innovate UK-funded project)  in the same department at Imperial College London. 
 
 I have published over 40 peer-reviewed papers in leading journals and conferences, including IEEE TPAMI, IEEE TMM, IEEE TITS, Information Fusion, Pattern Recognition, NeurIPS, and IJCAI. I co-authored the book [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors), which received the **National Science and Technology Academic Publications Fund of China** in 2019, and authored the recent book [**Intelligence of Fusion: Deep Learning-Based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/). I hold three invention patents and two software copyrights.
 
@@ -20,7 +20,7 @@ Alongside my academic research, I have provided **expert consultancy for clinica
 
 I have been a **Fellow of the [Higher Education Academy (HEA)](https://www.advance-he.ac.uk/)** since July 2023. I have been listed among the **World’s Top 2% Scientists** ([Stanford University's list](https://topscinet.com/), 2023, 2024, 2025). In June 2025, I received the **Dean of PGR’s Commendation for Excellence in Supervision** at the University of Exeter. In March 2024, I was featured as "[**Imperial People**](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)" by Imperial College London. In December 2023, I received the [**Imperial EEE Department Award for Citizenship and Community**](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/). In November 2023, I was selected as the "[**Fellow of the Month**](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1d91qfpwhn6m5ti3wepqzp?email=true&lang=en&a=6&p=11850824&t=3895058)" by the Postdocs and Fellows Development Centre (PFDC) of Imperial College London. In 2021, I was awarded a **Marie Skłodowska-Curie Individual Fellowship** (Horizon 2020) by the European Commission. Additionally, I received the Best Paper Honorable Mention Award of the 9th Chinese Conference on Information Fusion (2019). 
 
-I am a **Global Talent endorsed by the Royal Society**. I am a **member of the UKRI Talent Peer Review College**, where I review prestigious funding schemes, including the UKRI Future Leaders Fellowships, EPSRC Open Fellowship, EPSRC New Investigator Award, EPSRC Standard Research Grant, and EPSRC Working with Overseas Scientists. Additionally, I serve as a reviewer for more than 20 well-known journals (e.g., IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TIM, IEEE RAL, Information Fusion) and more than 10 top-tier conferences (e.g., CVPR, ECCV, ICCV, NeurIPS, ICLR, AAAI, ICRA, IROS). I have also provided consultancy to hospitals on the deployment of AI technologies.
+I am a **Global Talent endorsed by the Royal Society**. I am a **member of the UKRI Talent Peer Review College**, where I review prestigious funding schemes, including the UKRI Future Leaders Fellowships, EPSRC Open Fellowship, EPSRC New Investigator Award, EPSRC Standard Research Grant, and EPSRC Working with Overseas Scientists. I am a **core member of the UKRI AIRR User Advisory Group**. Additionally, I serve as a reviewer for more than 20 well-known journals (e.g., IEEE TPAMI, IJCV, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TIM, IEEE RAL, Information Fusion) and more than 10 top-tier conferences (e.g., CVPR, ECCV, ICCV, NeurIPS, ICLR, AAAI, ICRA, IROS). I have also provided consultancy to hospitals on the deployment of AI technologies.
 
 Research interests
 --
@@ -58,7 +58,7 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[04/2026] I will join the UKRI AIRR User Advisory Group (UAG) as a core member.
+[04/2026] I have joined the UKRI AIRR User Advisory Group (UAG) as a core member.
 
 [04/2026] Invited to give a talk at Yanshan University.
 
@@ -74,9 +74,9 @@ News
 
 [02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application (Horizon Europe) hosted by me has been successfully awarded. The fellow will join my lab shortly. 
 
-[01/2026] I was invited to give a talk at Zhongshan Hospital, Fudan University
+[01/2026] Invited to give a talk at Zhongshan Hospital, Fudan University
 
-[01/2026] I was invited to give a talk at Shanghai Jiao Tong University
+[01/2026] Invited to give a talk at Shanghai Jiao Tong University
 
 [01/2026] Our paper "[Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966)" has been accepted by **Knowledge-Based Systems**.
 
