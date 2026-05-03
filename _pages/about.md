@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Bio
+## Bio
 
 I am a **Senior Lecturer** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/). I lead the **[<span style="color: red;">Fusion Intelligence Laboratory</span>](https://xingchenzhang.github.io/fil/)** and serve as the Deputy Director of Business Engagement & Innovation in the Department of Computer Science. 
 
