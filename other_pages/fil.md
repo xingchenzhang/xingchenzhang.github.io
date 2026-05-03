@@ -186,15 +186,13 @@ The research in FIL covers following topics:
 <h2>Lab News</h2>
 
 
-[04/2026] Dr. Xingchen Zhang will join the UKRI AIRR User Advisory Group (UAG) as a core member.
+[04/2026] Dr. Xingchen Zhang has joined the UKRI AIRR User Advisory Group (UAG) as a core member.
 
 [04/2026] Our paper **DualTTrack: Improving Information Flow Consistency in Multi-Object Tracking via Dual-Track Matching and Recovery** has been accepted by Information Processing and Management.
 
 [03/2026] Our paper "[FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning](https://arxiv.org/abs/2508.20817)" has been accepted by **IEEE Transactions on Multimedia**. 
 
 [03/2026] Dr. Xingchen Zhang was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
-
-[03/2026] Dr. Xingchen Zhang was awarded a **<span style="color: red;">Kunshan International Science and Technology Cooperation Project</span>** as **<span style="color: red;">Co-I</span>**. 
 
 [02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application from FIL has been successfully awarded. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. The fellow will join FIL shortly (supervisor: Dr. Xingchen Zhang).
 
@@ -206,7 +204,7 @@ The research in FIL covers following topics:
 
 [01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted by **ICRA2026**, which will be held in Vienna, Austria, on June 1-5, 2026. 
 
-[01/2026] Our paper "[MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module](https://www.sciencedirect.com/science/article/pii/S1566253526000217)" has been accepted by **Information Fusion**. This is a collaborative work between Yanshan University and FIL.     
+[01/2026] Our paper "[MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module](https://www.sciencedirect.com/science/article/pii/S1566253526000217)" has been accepted by **Information Fusion**. 
 
 [01/2026] Welcome Yanlong to join FIL as a PhD student!  Yanlong is funded by a QUEX joint PhD studentship.
 
@@ -238,7 +236,7 @@ The research in FIL covers following topics:
 
 [05/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** to strengthen the collaboration between FIL and Zhongshan Hospital, Fudan University. Only three academics at the University of Exeter recieved this fellowship this year.
 
-[05/2025] Our paper ''[SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection](https://ieeexplore.ieee.org/document/11015693)'' has been accepted by IEEE Sensors Journal. This is a collaborative paper with Yanshan University. Congratulations to all co-authors! The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
+[05/2025] Our paper ''[SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection](https://ieeexplore.ieee.org/document/11015693)'' has been accepted by IEEE Sensors Journal. Congratulations to all co-authors! The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
 
 [04/2025] Our paper "[BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling" has been accepted by **IJCAI2025**](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8690.pdf). This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
 
@@ -251,6 +249,8 @@ The research in FIL covers following topics:
 [07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by Transportmetrica B: Transport Dynamics. This is a collaborative paper with the Transport Systems & Logistics Lab and Personal Robotics Lab at Imperial College London. 
 
 [06/2024] Our paper “[3PFS: Protecting pedestrian privacy through face swapping](https://ieeexplore.ieee.org/abstract/document/10682960/)” has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
+
+[04/2024] Dr. Xingchen Zhang joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> and established the **Fusion Intelligence Laboratory (FIL)**. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
 
 <h2>Selected Publications</h2>
