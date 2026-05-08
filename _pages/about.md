@@ -196,14 +196,14 @@ My research has received funding and support from several funders, including the
   <img src="/images/funders/funders.jpg" alt="image2" width="700">
 </div>
 
-Selected collaborators
+<!-- Selected collaborators
 --
 
 I have been fortunate to collaborate with a range of internal and external partners. Some of my external collaborators are shown in the figure below.
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/collaborators/collaborators.jpg" alt="image2" width="700">
-</div>
+</div> -->
 
 Contact
 -------

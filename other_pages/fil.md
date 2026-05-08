@@ -467,11 +467,11 @@ function closeImageBox() {
   <img src="/images/funders/funders.jpg" alt="image2" width="700">
 </div>
 
-<h2>Selected collaborators</h2>
+<!-- <h2>Selected collaborators</h2>
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/collaborators/collaborators.jpg" alt="image2" width="700">
-</div>
+</div> -->
 
 <h2>Contact</h2>
 Address: Kathleen Booth Building, Streatham Campus, EX4 4RN, Exeter, UK 
