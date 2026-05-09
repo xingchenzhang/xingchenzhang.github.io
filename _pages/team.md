@@ -71,9 +71,6 @@ BSc students:
 - Rahul Somani (Sep 2025 - June 2026)
 
 
-### Others:
-
-I am co-supervising some PhD and MSc students with my external collaborators.
 
 ## **Alumni**
 
