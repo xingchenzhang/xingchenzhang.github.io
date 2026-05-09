@@ -26,15 +26,19 @@ My research aims to use machine intelligence and multi-source information fusion
 Some funded projects
 ----
 
-- Marie Sklodowska-Curie Postdoctoral Fellowship, **Supervisor**
+**University of Exeter**
+
+- Marie Sklodowska-Curie Postdoctoral Fellowship, **Host and Supervisor**
 - The Royal Society Research Grant, **PI**  
-- UKRI AIRR Gateway project, **PI**
 - NVIDIA Academic Grant, **PI**
+- UKRI AIRR Gateway project, **PI**
 - Exeter-Fudan Fellowship, **PI**
 - Exeter-Université Paris-Saclay Seed Fund Grant , **PI**
 - QUEX Joint PhD Scholarship, **Supervisor** at University of Exeter
+
+**Imperial College London**
+
 - Marie Sklodowska-Curie Individual Fellowship, **PI**  
-- Shanghai Science and Technology Committee Research Project, **PI**
 
 Alongside my academic research, I have provided **expert consultancy for clinical hospitals**.
 
@@ -141,7 +145,7 @@ Many videos are captured to train AI models. We aim to protect pedestrian privac
 
 Related publications:  
 1. Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.  
-2. **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS, 2025. **Oral paper**.
+2. **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS Position Paper Track, 2025. **Oral paper**.
 
 <h3>(2) AI security</h3>
 Related publications:  
