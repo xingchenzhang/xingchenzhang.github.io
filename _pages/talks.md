@@ -7,9 +7,9 @@ author_profile: true
 
 **Coming talks**
 
-- Invited talk at University Paris-Saclay, 12 May, 2026.
-
 **Past talks**
+
+- Human-Centered Computer Vision: From Unimodality to Multimodality, University Paris-Saclay, France, May, 2026.
 
 - Human-Centered Computer Vision: From Unimodality to Multimodality, Yanshan University, Hebei, China, April 2026.
 
