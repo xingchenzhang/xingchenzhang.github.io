@@ -429,20 +429,6 @@ The research in FIL covers following topics:
     </div>
 </div>
 
-<div class="publication-block">
-    <div class="publication-info">
-        <div class="publication-title">
-            FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning
-        </div>
-        <img src="/images/research/FusionCounting.png" alt="FusionCounting" class="publication-image" onclick="expandImage(this, '/images/research/FusionCounting.png')"><br />
-        <h3 class="conference-name">arXiv, 2025</h3>        
-        <p class="author-name">H. Li, X. Liu, W. Kong, <strong>X. Zhang*</strong>.</p>
-        <div class="links">
-            <a href="https://arxiv.org/abs/2508.20817" class="pdf">PDF</a>
-        </div>
-    </div>
-</div>
-
 
 <!-- Fullscreen image box -->
 <div id="imageBox" style="display: none; position: fixed; top: 0; left: 0; 
