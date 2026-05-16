@@ -6,7 +6,6 @@ author_profile: true
 ---
 {% include base_path %}
 
-- 2025: **Exeter-Fudan Fellowship** (the only awardee in the Faculty of ESE), University of Exeter
 - 2025: **Dean of PGR’s Commendation for Excellence in Supervision**, University of Exeter [[Exeter News (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/21vkxfbi5y24d208rfh9qq?email=true&lang=en&a=2&p=5082036&t=2322721)]
 - 2023 & 2024 & 2025: **World's Top 2% Scientists** ([Stanford University's list](https://topscinet.com/))
 - 2024:  **Imperial People**, Imperial College London [[Imperial website]](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/)

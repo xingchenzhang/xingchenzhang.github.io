@@ -114,8 +114,11 @@ full-width: true
 </style>
 
 
-The Fusion Intelligence Laboratory (FIL) is led by [Dr. Xingchen Zhang](https://xingchenzhang.github.io/) at the Department of Computer Science, University of Exeter. 
-The lab aims to use machine intelligence and multi-source information fusion to benefit humanity.
+The **Fusion Intelligence Laboratory (FIL)** is led by [Dr. Xingchen Zhang](https://xingchenzhang.github.io/) at the Department of Computer Science, University of Exeter. FIL develops machine intelligence and multi-source information fusion technologies for human benefit, with a focus on **human-centered multimodal AI**.
+
+Our research spans computer vision, embodied intelligence, trustworthy AI, AI for healthcare, and real-world industrial applications. Since its establishment in 2024, FIL has grown into an active research group with PhD students, research collaborators, and a portfolio of externally and internally funded projects. Our work has been supported by the **Royal Society**, the **Marie Skłodowska-Curie Actions** programme, **NVIDIA**, **UKRI AIRR**, the **Exeter-Fudan Fellowship**, and the **Exeter-Université Paris-Saclay Seed Fund Grant**.
+
+Building on Dr Zhang’s experience at **Imperial College London**, FIL aims to develop robust and useful AI systems that integrate information from multiple sources and can support real-world decision-making in vision, robotics, healthcare, and industry. We welcome motivated students and collaborators who share this vision.
 
 <div class="lab-section">
 
@@ -186,7 +189,7 @@ The research in FIL covers following topics:
 <h2>Lab News</h2>
 
 
-[04/2026] Dr. Xingchen Zhang has joined the UKRI AIRR User Advisory Group (UAG) as a core member.
+[04/2026] Dr. Xingchen Zhang has joined the DSIT/UKRI AIRR User Advisory Group (UAG) as a core member.
 
 [04/2026] Our paper **DualTTrack: Improving Information Flow Consistency in Multi-Object Tracking via Dual-Track Matching and Recovery** has been accepted by Information Processing and Management.
 
