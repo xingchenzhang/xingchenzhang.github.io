@@ -5,6 +5,8 @@ author_profile: true
 permalink: /previous_news/
 ---
 
+[11/2025] I organized a BMVC2025 workshop "DIFA: Deep Learning-based Information Fusion and Its Applications" on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK. Other organizers are Dr. Zhixiang Chen from University of Sheffield and Dr. Shuyan Li from Queen's University Belfast.  More details can be found on our [workshop website](https://difa2025-bmvc.github.io/).  
+
 [10/2025] Invited to give a talk at the "AI for everyone" event organized by the UK Huazhong University of Science and Technology Alumni Association.
 
 [09/2025] Our paper "Brain tumor segmentation using multimodal MRI" has been accepted by the DIFA 2025 workshop (BMVC2025). This paper is resulted from my MSc student Qinqing Li's final project.
@@ -14,6 +16,10 @@ permalink: /previous_news/
 [05/2025] I organized the Exeter Computer Vision Workshop: PhD Research Talks.
 
 [04/2025] My MSc student, Qinqing Li, attended the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) in the University of Glasgow to present her work on multimodal medical image processing.
+
+[12/2024] I organised the first Exeter Computer Vision Workshop at the University of Exeter. This is the first formal activity of the Exeter Computer Vision Group. [Exeter CS News (internal only)](https://universityofexeteruk.sharepoint.com/:u:/r/sites/ComputerScienceESE/SitePages/1st-Exeter-Computer-Vision-Workshop!.aspx?csf=1&web=1&e=bZ8QI6)
+
+[11/2024] I organized a [BMVC2024](https://bmvc2024.org/) workshop titled “DIFA: Deep Learning-based Image Fusion and Its Applications” as the lead organizer in Glasgow, UK, on 27th November 2024. More details can be found on our [workshop website](https://difa2024.github.io/).
 
 [12/2024] I gave a talk at the 1st Exeter Computer Vision Workshop, Exeter, UK.
 

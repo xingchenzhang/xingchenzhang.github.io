@@ -9,7 +9,7 @@ author_profile: true
 
 **Past talks**
 
-- Human-Centered Computer Vision: From Unimodality to Multimodality, University Paris-Saclay, France, May, 2026.
+- Human-Centered Computer Vision: From Unimodality to Multimodality, Université Paris-Saclay, France, May, 2026.
 
 - Human-Centered Computer Vision: From Unimodality to Multimodality, Yanshan University, Hebei, China, April 2026.
 

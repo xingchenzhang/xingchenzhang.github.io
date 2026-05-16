@@ -189,7 +189,7 @@ The research in FIL covers following topics:
 <h2>Lab News</h2>
 
 
-[04/2026] Dr. Xingchen Zhang has joined the DSIT/UKRI AIRR User Advisory Group (UAG) as a core member.
+[05/2026] Dr. Xingchen Zhang has joined the **DSIT/UKRI AIRR User Advisory Group (UAG)** as a core member.
 
 [04/2026] Our paper **DualTTrack: Improving Information Flow Consistency in Multi-Object Tracking via Dual-Track Matching and Recovery** has been accepted by Information Processing and Management.
 
@@ -213,7 +213,7 @@ The research in FIL covers following topics:
 
 [12/2025] A BSc student (Aditya Bhardwaj) from our FIL has secured a position as a Data Scientist and AI Engineer at Lloyds Banking Group in London!
 
-[12/2025] Dr. Xingchen Zhang was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will our lab access to one of the UK’s fastest artificial intelligence supercomputers (Dawn).
+[12/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will our lab access to one of the UK’s fastest artificial intelligence supercomputers (Dawn).
 
 [12/2025] Dr. Xingchen Zhang was awared an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as the **<span style="color: red;">PI</span>**. This Seed Fund Grant will be helpful for the collaboration between our FIL and Université Paris-Saclay.
 

@@ -58,9 +58,9 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[05/2026] Invited to give a talk at University Paris-Saclay.
+[05/2026] Invited to give a talk at Université Paris-Saclay.
 
-[04/2026] I have joined the DSIT/UKRI AIRR User Advisory Group (UAG) as a core member.
+[05/2026] I have joined the **DSIT/UKRI AIRR User Advisory Group (UAG)** as a core member.
 
 [04/2026] Invited to give a talk at Yanshan University.
 
@@ -90,13 +90,11 @@ News
 
 [01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted by **ICRA2026**, which will be held in Vienna, Austria, on June 1, 2026. More details can be found [here](https://workshop-pbp2026.github.io/).
 
-[01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is fully funded by a QUEX joint PhD studentship
+[01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is fully funded by a QUEX (UQ-Exeter) joint PhD studentship.
 
-[12/2025] I was awarded a **<span style="color: red;">UKRI AIRR Gateway project</span>** as  **<span style="color: red;">PI</span>**. 
+[12/2025] I was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as  **<span style="color: red;">PI</span>**. 
 
 [12/2025] I was awared an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as **<span style="color: red;">PI</span>**. 
-
-[11/2025] I organized a BMVC2025 workshop "DIFA: Deep Learning-based Information Fusion and Its Applications" on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK. Other organizers are Dr. Zhixiang Chen from University of Sheffield and Dr. Shuyan Li from Queen's University Belfast.  More details can be found on our [workshop website](https://difa2025-bmvc.github.io/).  
 
 [10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), is now freely available for download. Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. 
 
@@ -114,7 +112,7 @@ News
 
 [06/2025] I’m very pleased to have received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>**. [Exeter News (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/21vkxfbi5y24d208rfh9qq?email=true&lang=en&a=2&p=5082036&t=2322721)
 
-[05/2025] I was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** to strengthen the collaboration between my Fusion Intelligence Laboratory and Zhongshan Hospital, Fudan University. Only three academics at the University of Exeter recieved this fellowship this year.
+[05/2025] I was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** as **<span style="color: red;">PI</span>**. 
 
 [05/2025] Our paper ''[SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection](https://ieeexplore.ieee.org/document/11015693)'' has been accepted by **IEEE Sensors Journal**. 
 
@@ -128,14 +126,10 @@ News
 
 [01/2025] Welcome Ning to join my lab as a PhD student! 
 
-[12/2024] I organised the first Exeter Computer Vision Workshop at the University of Exeter. This is the first formal activity of the Exeter Computer Vision Group. [Exeter CS News (internal only)](https://universityofexeteruk.sharepoint.com/:u:/r/sites/ComputerScienceESE/SitePages/1st-Exeter-Computer-Vision-Workshop!.aspx?csf=1&web=1&e=bZ8QI6)
-
-[11/2024] I organized a [BMVC2024](https://bmvc2024.org/) workshop titled “DIFA: Deep Learning-based Image Fusion and Its Applications” as the lead organizer in Glasgow, UK, on 27th November 2024. More details can be found on our [workshop website](https://difa2024.github.io/).
-
 [09/2024] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>**
  ([Stanford University's list](https://topresearcherslist.com/), 2024)! 
 
-[09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian received his MSc degree in Applied Machine Learning (with distinction) from **Imperial College London**. 
+[09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian received his MSc degree in Applied Machine Learning (with distinction) from **Imperial College London**.
 
 [09/2024] I started to serve as the **Deputy Director of Business Engagement & Innovation** at the Department of Computer Science.
 
@@ -147,7 +141,7 @@ News
 
 [04/2024] I started my position as a **Visiting Researcher** at Imperial College London.
 
-[04/2024] I joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> and established the **Fusion Intelligence Laboratory**. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
+[04/2024] I joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> and established the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)**. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
 <div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
