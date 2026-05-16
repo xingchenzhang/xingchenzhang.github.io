@@ -60,7 +60,7 @@ News
 
 [05/2026] Invited to give a talk at University Paris-Saclay.
 
-[04/2026] I have joined the UKRI AIRR User Advisory Group (UAG) as a core member.
+[04/2026] I have joined the DSIT/UKRI AIRR User Advisory Group (UAG) as a core member.
 
 [04/2026] Invited to give a talk at Yanshan University.
 
