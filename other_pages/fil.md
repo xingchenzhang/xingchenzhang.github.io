@@ -157,7 +157,7 @@ Building on Dr Zhang’s experience at **Imperial College London**, FIL aims to 
   <a href="#people">People</a>
   <a href="#lab-news">Lab News</a>
   <a href="#selected-publications">Selected Publications</a>
-  <a href="#selected-funders">Selected Funders</a>
+  <a href="#selected-funders">Selected Funding and Research Support</a>
   <a href="#contact">Contact</a>
 </div>
 
@@ -223,7 +223,7 @@ The research in FIL covers following topics:
 
 <h2 id="lab-news">Lab News</h2>
 
-[05/2026] Zixian Zhao, the first PhD student at FIL, has been awarded the Dean of Postgraduate Research's Commendation for Excellence in Academic Citizenship. Congratulations to Zixian!
+[05/2026] Congratulations to Zixian Zhao, the first PhD student at FIL, on receiving the Dean of Postgraduate Research's Commendation for Excellence in Academic Citizenship.
 
 [05/2026] Dr. Xingchen Zhang has joined the **DSIT/UKRI AIRR User Advisory Group (UAG)** as a core member.
 
@@ -292,7 +292,7 @@ The research in FIL covers following topics:
 [04/2024] Dr. Xingchen Zhang joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> and established the **Fusion Intelligence Laboratory (FIL)**. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
 
-<h2 id="selected-publications">Selected Publications</h2>
+<h2 id="selected-publications">Publications</h2>
 
 ## 2026 
 
@@ -487,10 +487,21 @@ function closeImageBox() {
 }
 </script>
 
-<h2 id="selected-funders">Selected funders</h2>
+<h2 id="selected-funders">Funding and Support</h2>
+
+<ul>
+  <li>Royal Society Research Grant (PI)</li>
+  <li>Marie Skłodowska-Curie Postdoctoral Fellowship (Supervisor and Host)</li>
+  <li>NVIDIA Academic Grant (PI)</li>
+  <li>UKRI AIRR Gateway Project (PI)</li>
+  <li>Exeter-Fudan Fellowship (PI)</li>
+  <li>Exeter–Université Paris-Saclay Seed Fund Grant (PI)</li>
+  <li>QUEX Joint PhD Studentship (Supervisor)</li>
+</ul>
+
 <div style="display: flex; justify-content: center;">
   <img src="/images/funders/funders.jpg" alt="image2" width="700">
-</div>
+ </div>
 
 <!-- <h2>Selected collaborators</h2>
 
