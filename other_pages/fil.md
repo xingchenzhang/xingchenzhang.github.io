@@ -188,7 +188,7 @@ The research in FIL covers following topics:
 
 <h2>Lab News</h2>
 
-[05/2026] Zixian Zhao, the first PhD student at FIL, has been awared the Dean of Postgraduate Research's Commendation for Excellence in Academic Citizenship. Congratulations to Zixian!
+[05/2026] Zixian Zhao, the first PhD student at FIL, has been awarded the Dean of Postgraduate Research's Commendation for Excellence in Academic Citizenship. Congratulations to Zixian!
 
 [05/2026] Dr. Xingchen Zhang has joined the **DSIT/UKRI AIRR User Advisory Group (UAG)** as a core member.
 
