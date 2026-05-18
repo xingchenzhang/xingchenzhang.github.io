@@ -249,15 +249,15 @@ The research in FIL covers following topics:
 
 [12/2025] A BSc student (Aditya Bhardwaj) from our FIL has secured a position as a Data Scientist and AI Engineer at Lloyds Banking Group in London!
 
-[12/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will our lab access to one of the UK’s fastest artificial intelligence supercomputers (Dawn).
+[12/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will give our lab access to one of the UK’s fastest artificial intelligence supercomputers (Dawn).
 
-[12/2025] Dr. Xingchen Zhang was awared an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as the **<span style="color: red;">PI</span>**. This Seed Fund Grant will be helpful for the collaboration between our FIL and Université Paris-Saclay.
+[12/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as the **<span style="color: red;">PI</span>**. This Seed Fund Grant will be helpful for the collaboration between our FIL and Université Paris-Saclay.
 
 [11/2025] Prof. Jiande Sun from Shandong Normal University visited our lab.
 
-[10/2025] FIL graudates Qinqing Li and Heegon Kim got their MSc degrees with distinction! Additionally, Qinqing was also awared the Computer Science Prizes for MSc students (Faculty Commendations - A, which is awared to students who have made a significant contribution to the faculty). 
+[10/2025] FIL graduates Qinqing Li and Heegon Kim got their MSc degrees with distinction! Additionally, Qinqing was also awarded the Computer Science Prizes for MSc students (Faculty Commendations - A, which is awarded to students who have made a significant contribution to the faculty). 
 
-[10/2025] Dr. Yixiu Liang from Zhongshan Hospital, Fudan University visited our lab and gave a talk at the Computer Science Seminar. Dr. Liang's visit is a part our Exeter-Fudan Fellowship and will strength the collaboration between Zhongshan Hospital and my lab.
+[10/2025] Dr. Yixiu Liang from Zhongshan Hospital, Fudan University visited our lab and gave a talk at the Computer Science Seminar. Dr. Liang's visit is a part our Exeter-Fudan Fellowship and will strengthen the collaboration between Zhongshan Hospital and my lab.
 
 [10/2025] Dr. Xingchen Zhang's new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), is now freely available for download. Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. 
 
