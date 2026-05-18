@@ -113,6 +113,32 @@ full-width: true
 }
 </style>
 
+<style>
+.quick-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin: 25px 0 35px 0;
+}
+
+.quick-nav a {
+  display: inline-block;
+  padding: 8px 14px;
+  border: 1px solid #d0d7de;
+  border-radius: 20px;
+  text-decoration: none;
+  font-weight: 600;
+  color: #1a73e8;
+  background-color: #f8f9fa;
+}
+
+.quick-nav a:hover {
+  background-color: #eef4ff;
+  border-color: #1a73e8;
+}
+</style>
+
 
 The **Fusion Intelligence Laboratory (FIL)** is led by [Dr. Xingchen Zhang](https://xingchenzhang.github.io/) at the Department of Computer Science, University of Exeter. FIL develops machine intelligence and multi-source information fusion technologies for human benefit, with a focus on **human-centered multimodal AI**.
 
@@ -126,7 +152,16 @@ Building on Dr Zhang’s experience at **Imperial College London**, FIL aims to 
   <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
 </div>
 
-<h2>Research Topics</h2>
+<div class="quick-nav">
+  <a href="#research-topics">Research Topics</a>
+  <a href="#people">People</a>
+  <a href="#lab-news">Lab News</a>
+  <a href="#selected-publications">Selected Publications</a>
+  <a href="#selected-funders">Selected Funders</a>
+  <a href="#contact">Contact</a>
+</div>
+
+<h2 id="research-topics">Research Topics</h2>
 The research in FIL covers following topics:
 
 <ul>
@@ -140,7 +175,7 @@ The research in FIL covers following topics:
 </div>
 
 <div class="lab-section">
-  <h2>People</h2>
+  <h2 id="people">People</h2>
 
   <div class="lab-subsection">
     <h3>PI and Director</h3>
@@ -186,7 +221,7 @@ The research in FIL covers following topics:
 </div>
 
 
-<h2>Lab News</h2>
+<h2 id="lab-news">Lab News</h2>
 
 [05/2026] Zixian Zhao, the first PhD student at FIL, has been awarded the Dean of Postgraduate Research's Commendation for Excellence in Academic Citizenship. Congratulations to Zixian!
 
@@ -257,7 +292,7 @@ The research in FIL covers following topics:
 [04/2024] Dr. Xingchen Zhang joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> and established the **Fusion Intelligence Laboratory (FIL)**. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
 
-<h2>Selected Publications</h2>
+<h2 id="selected-publications">Selected Publications</h2>
 
 ## 2026 
 
@@ -452,7 +487,7 @@ function closeImageBox() {
 }
 </script>
 
-<h2>Selected funders</h2>
+<h2 id="selected-funders">Selected funders</h2>
 <div style="display: flex; justify-content: center;">
   <img src="/images/funders/funders.jpg" alt="image2" width="700">
 </div>
@@ -463,7 +498,7 @@ function closeImageBox() {
   <img src="/images/collaborators/collaborators.jpg" alt="image2" width="700">
 </div> -->
 
-<h2>Contact</h2>
+<h2 id="contact">Contact</h2>
 Address: Kathleen Booth Building, Streatham Campus, EX4 4RN, Exeter, UK 
 
 Email: x.zhang12@exeter.ac.uk
