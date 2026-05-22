@@ -23,7 +23,7 @@ My research aims to use machine intelligence and multi-source information fusion
 - **AI for Healthcare**. Multimodal medical data fusion for diagnostic assistance.  
 
 
-Some funded projects
+Selected Funded Projects and Research Support
 ----
 
 **University of Exeter**
