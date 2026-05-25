@@ -223,7 +223,7 @@ The research in FIL covers following topics:
 
 <h2 id="lab-news">Lab News</h2>
 
-[05/2026] Our paper **SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion** has been accepted by **IEEE Transactions on Image Processing**. Congratulations to Zixian!
+[05/2026] Our paper "[SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion](https://arxiv.org/abs/2509.22450)" has been accepted by **IEEE Transactions on Image Processing**. Congratulations to Zixian!
 
 [05/2026] Congratulations to Zixian Zhao, the first PhD student at FIL, on receiving the Dean of Postgraduate Research's Commendation for Excellence in Academic Citizenship.
 
