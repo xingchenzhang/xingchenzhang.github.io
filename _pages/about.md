@@ -59,7 +59,7 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[05/2026] Our paper **SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion** has been accepted by **IEEE Transactions on Image Processing**. Congratulations to Zixian!
+[05/2026] Our paper "[SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion](https://arxiv.org/abs/2509.22450)" has been accepted by **IEEE Transactions on Image Processing**. Congratulations to Zixian!
 
 [05/2026] Invited to give a talk at Université Paris-Saclay.
 
