@@ -223,6 +223,8 @@ The research in FIL covers following topics:
 
 <h2 id="lab-news">Lab News</h2>
 
+[05/2026] Our paper **SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion** has been accepted by **IEEE Transactions on Image Processing**. Congratulations to Zixian!
+
 [05/2026] Congratulations to Zixian Zhao, the first PhD student at FIL, on receiving the Dean of Postgraduate Research's Commendation for Excellence in Academic Citizenship.
 
 [05/2026] Dr. Xingchen Zhang has joined the **DSIT/UKRI AIRR User Advisory Group (UAG)** as a core member.
@@ -295,6 +297,21 @@ The research in FIL covers following topics:
 <h2 id="selected-publications">Publications</h2>
 
 ## 2026 
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
+            SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion
+        </div>
+        <img src="/images/research/SSVIF.jpg" alt="SSVIF" class="publication-image" onclick="expandImage(this, '/images/research/SSVIF.jpg')"><br />
+        <h3 class="conference-name">IEEE Transactions on Image Processing, 2026</h3>        
+        <p class="author-name">Z. Zhao, <strong>X. Zhang*</strong>.</p>
+        <div class="links">
+            <a href="https://arxiv.org/pdf/2509.22450" class="pdf">PDF</a>
+        </div>
+    </div>
+</div>
+
 
 <div class="publication-block">
     <div class="publication-info">
@@ -451,19 +468,6 @@ The research in FIL covers following topics:
     </div>
 </div>
 
-<div class="publication-block">
-    <div class="publication-info">
-        <div class="publication-title">
-            SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion
-        </div>
-        <img src="/images/research/SSVIF.jpg" alt="SSVIF" class="publication-image" onclick="expandImage(this, '/images/research/SSVIF.jpg')"><br />
-        <h3 class="conference-name">arXiv, 2025</h3>        
-        <p class="author-name">Z. Zhao, <strong>X. Zhang*</strong>.</p>
-        <div class="links">
-            <a href="https://arxiv.org/pdf/2509.22450" class="pdf">PDF</a>
-        </div>
-    </div>
-</div>
 
 
 <!-- Fullscreen image box -->
