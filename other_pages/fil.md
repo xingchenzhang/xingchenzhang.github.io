@@ -373,6 +373,18 @@ The research in FIL covers following topics:
 <div class="publication-block">
     <div class="publication-info">
         <div class="publication-title">
+            DualTTrack: Improving information flow consistency in multi-object tracking via dual-track matching and recovery
+        </div>
+        <img src="/images/research/DualTTrack.png" alt="DualTTrack" class="publication-image" onclick="expandImage(this, '/images/research/DualTTrack.png')"><br />
+        <h3 class="conference-name">Information Processing and Management, 2026</h3>        
+        <p class="author-name">H. Li, Z. Wang W. Kong, <strong>X. Zhang*</strong></p>
+    </div>
+</div>
+
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
             Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems
         </div>
         <img src="/images/research/FGCS.png" alt="FGCS" class="publication-image" onclick="expandImage(this, '/images/research/FGCS.png')"><br />
