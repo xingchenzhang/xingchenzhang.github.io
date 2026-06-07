@@ -27,11 +27,6 @@ At the University of Exeter, I lead the **[Fusion Intelligence Laboratory](https
   <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
 </div>
 
-Research Fellow:
-
-- A Marie-Curie Postdoctoral Fellow will join my lab.
-
-
 PhD students (as primary supervisor):
 
 - [Zixian Zhao](https://scholar.google.com/citations?hl=en&user=0mkQvWYAAAAJ&view_op=list_works&sortby=pubdate). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science)
@@ -57,19 +52,11 @@ MSc students:
 
 - Xiaotong Gao (2026)
 
+In-coming members:
 
-BSc students:
+- A Marie-Curie Postdoctoral Fellow will join my lab in Jan 2027
 
-- Aditya Bhardwaj (Sep 2025 - June 2026)
-
-- Oliver Johnson (Sep 2025 - June 2026)
-
-- Hivda Nasiroglu (Sep 2025 - June 2026)
-
-- Jason Chung (Sep 2025 - June 2026)
-
-- Rahul Somani (Sep 2025 - June 2026)
-
+- A PhD student will join my lab iin Sep 2026
 
 
 ## **Alumni**
@@ -153,6 +140,16 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
 
 - BSc students
 
-	- Toby Shelford (2024 - 2025, BSc)
+  - Aditya Bhardwaj (Sep 2025 - June 2026)
 
-	- Zihan Wang (2024 - 2025, BSc)
+  - Oliver Johnson (Sep 2025 - June 2026)
+
+  - Hivda Nasiroglu (Sep 2025 - June 2026)
+
+  - Jason Chung (Sep 2025 - June 2026)
+
+  - Rahul Somani (Sep 2025 - June 2026)
+
+  - Toby Shelford (2024 - 2025, BSc)
+  
+  - Zihan Wang (2024 - 2025, BSc)
