@@ -223,6 +223,8 @@ The research in FIL covers following topics:
 
 <h2 id="lab-news">Lab News</h2>
 
+[06/2026] Dr. Xingchen Zhang was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will give our lab access to the UK’s fastest artificial intelligence supercomputers (Isambard-AI).
+
 [05/2026] A candidate has been awarded an **Exeter-CSC PhD scholarship** and will be joining FIL in September.
 
 [05/2026] Our paper "[SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion](https://arxiv.org/abs/2509.22450)" has been accepted by **IEEE Transactions on Image Processing**. Congratulations to Zixian!

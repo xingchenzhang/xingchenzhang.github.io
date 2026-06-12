@@ -59,6 +59,8 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[06/2026] I was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as  **<span style="color: red;">PI</span>**. 
+
 [05/2026] A candidate has been awarded an **Exeter-CSC PhD scholarship** and will be joining my group in September.
 
 [05/2026] Our paper "[SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion](https://arxiv.org/abs/2509.22450)" has been accepted by **IEEE Transactions on Image Processing**. Congratulations to Zixian!

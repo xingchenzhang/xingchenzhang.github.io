@@ -31,7 +31,8 @@ Selected Funded Projects and Research Support
 - Marie Sklodowska-Curie Postdoctoral Fellowship, **Host and Supervisor**
 - The Royal Society Research Grant, **PI**  
 - NVIDIA Academic Grant, **PI**
-- UKRI AIRR Gateway project, **PI**
+- UKRI AIRR Gateway project (Dawn at Cambridge), **PI**
+- UKRI AIRR Gateway project (Isambard-AI), **PI**
 - Exeter-Fudan Fellowship, **PI**
 - Exeter-Université Paris-Saclay Seed Fund Grant , **PI**
 - QUEX Joint PhD Scholarship, **Supervisor** at University of Exeter
