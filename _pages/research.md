@@ -67,7 +67,7 @@ Communication, vol. 84, 2020.
 Infrared Images Using Fully Convolutional Siamese Networks. In Proceedings of the 22nd
 International Conference on Information Fusion, 2019.  
 7. **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community)  
-8. Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning. arXiv preprint arXiv:2505.06665. [[Link]](https://arxiv.org/pdf/2505.06665)  
+8. Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning. IEEE Transactions on Image Processing. [[Link]](https://arxiv.org/pdf/2505.06665)  
 9. H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. IEEE Transactions on Multimedia, 2026. [[Link]](https://arxiv.org/abs/2508.20817)  
 10. Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. IEEE Transactions on Image Processing. [[Link]](https://arxiv.org/abs/2509.22450) 
 11. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. DIFA 2025 Workshop, BMVC2025.  

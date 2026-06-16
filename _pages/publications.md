@@ -25,6 +25,8 @@ Selected Publications
 
 - Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. IEEE Transactions on Image Processing, 2026. [[Link]](https://arxiv.org/abs/2509.22450)
 
+- Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning, IEEE Transactions on Image Processing. [[Link]](https://arxiv.org/pdf/2505.06665)
+
 - Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.
 
 - H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. IEEE Transactions on Multimedia, 2026. [[Link]](https://arxiv.org/abs/2508.20817) 
@@ -54,9 +56,7 @@ Books
 Preprints
 ------------
 
-[P4] H. Li, W. He, W. Kong, **X. Zhang**\*. Adversarial Patch Generation for Visual-Infrared Dense Prediction Tasks via Joint Position-Color Optimization. arXiv preprint arXiv:2603.00266. [[Link]](https://arxiv.org/abs/2603.00266).
-
-[P3] Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning. arXiv preprint arXiv:2505.06665. [[Link]](https://arxiv.org/pdf/2505.06665)
+[P3] H. Li, W. He, W. Kong, **X. Zhang**\*. Adversarial Patch Generation for Visual-Infrared Dense Prediction Tasks via Joint Position-Color Optimization. arXiv preprint arXiv:2603.00266. [[Link]](https://arxiv.org/abs/2603.00266).
 
 [P2] **X. Zhang***, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023). [[link]](https://arxiv.org/abs/2301.11274)
 
