@@ -23,21 +23,11 @@ Selected Publications
 
 - **X. Zhang**. Benchmarking and Comparing Multi-exposure Image Fusion Algorithms. Information Fusion, vol. 74, pp. 111-131, 2021. (**The first multi-exposure image fusion benchmark**) [[Benchmark link]](https://github.com/xingchenzhang/MEFB)
 
-- Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. IEEE Transactions on Image Processing, 2026. [[Link]](https://arxiv.org/abs/2509.22450)
+- Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. IEEE Transactions on Image Processing, 2026. [[Link]](https://ieeexplore.ieee.org/document/11570838)
 
 - Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning, IEEE Transactions on Image Processing. [[Link]](https://arxiv.org/pdf/2505.06665)
 
 - Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.
-
-- H.Li, X. Liu, W. Kong, **X. Zhang**\*. FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning. IEEE Transactions on Multimedia, 2026. [[Link]](https://arxiv.org/abs/2508.20817) 
-
-- H. Li, T. Liao, W. Kong, **X. Zhang***. MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module. Information Fusion, 2026.  
-
-- W. Long, Y. Du, H, Li, **X. Zhang***. Towards a robust adversarial patch attack against RGB-T crowd counting. Pattern Recognition, 2026.  
-
-- H. Li, J. Liang, W. Kong, **X. Zhang***. Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking. Knowledge-based Systems, 2026.
-
-
 
 
 *indicates corresponding author
@@ -52,12 +42,3 @@ Books
   <img src="/images/fusion-books-Chinese.png" alt="image1" width="400">
 </div>
 
-
-Preprints
-------------
-
-[P3] H. Li, W. He, W. Kong, **X. Zhang**\*. Adversarial Patch Generation for Visual-Infrared Dense Prediction Tasks via Joint Position-Color Optimization. arXiv preprint arXiv:2603.00266. [[Link]](https://arxiv.org/abs/2603.00266).
-
-[P2] **X. Zhang***, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023). [[link]](https://arxiv.org/abs/2301.11274)
-
-[P1] **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community) [[link]](https://arxiv.org/abs/2005.01116)
