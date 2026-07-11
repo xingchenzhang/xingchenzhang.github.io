@@ -223,6 +223,8 @@ The research in FIL covers following topics:
 
 <h2 id="lab-news">Lab News</h2>
 
+[06/2026] One undergraduate student from our lab, Aditya Bhardwaj, has been awarded the Faculty Commendation A prize to recognise his contribution to the faculty. Congratulations to Aditya! 
+
 [06/2026] Our paper "[MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning](https://arxiv.org/abs/2505.06665)" has been accepted by IEEE Transactions on Image Processing.  Congratulations to Zixian!
 
 [06/2026] Dr. Xingchen Zhang was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will give our lab access to the UK’s fastest artificial intelligence supercomputers (Isambard-AI).
