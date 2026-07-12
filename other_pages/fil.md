@@ -309,13 +309,27 @@ The research in FIL covers following topics:
 <div class="publication-block">
     <div class="publication-info">
         <div class="publication-title">
+            MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning
+        </div>
+        <img src="/images/research/MultiTaskVIF.jpg" alt="MultiTaskVIF" class="publication-image" onclick="expandImage(this, '/images/research/MultiTaskVIF.jpg')"><br />
+        <h3 class="conference-name">IEEE Transactions on Image Processing, 2026</h3>        
+        <p class="author-name">Z. Zhao, A. Howes, <strong>X. Zhang*</strong>.</p>
+        <div class="links">
+            <a href="https://arxiv.org/pdf/2505.06665" class="pdf">PDF</a>
+        </div>
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
             SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion
         </div>
         <img src="/images/research/SSVIF.jpg" alt="SSVIF" class="publication-image" onclick="expandImage(this, '/images/research/SSVIF.jpg')"><br />
         <h3 class="conference-name">IEEE Transactions on Image Processing, 2026</h3>        
         <p class="author-name">Z. Zhao, <strong>X. Zhang*</strong>.</p>
         <div class="links">
-            <a href="https://arxiv.org/pdf/2509.22450" class="pdf">PDF</a>
+            <a href="https://ieeexplore.ieee.org/document/11570838/" class="pdf">PDF</a>
         </div>
     </div>
 </div>
@@ -474,19 +488,7 @@ The research in FIL covers following topics:
     </div>
 </div>
 
-<div class="publication-block">
-    <div class="publication-info">
-        <div class="publication-title">
-            MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning
-        </div>
-        <img src="/images/research/MultiTaskVIF.jpg" alt="MultiTaskVIF" class="publication-image" onclick="expandImage(this, '/images/research/MultiTaskVIF.jpg')"><br />
-        <h3 class="conference-name">arXiv, 2025</h3>        
-        <p class="author-name">Z. Zhao, A. Howes, <strong>X. Zhang*</strong>.</p>
-        <div class="links">
-            <a href="https://arxiv.org/pdf/2505.06665" class="pdf">PDF</a>
-        </div>
-    </div>
-</div>
+
 
 
 
