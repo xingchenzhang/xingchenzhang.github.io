@@ -223,6 +223,8 @@ The research in FIL covers following topics:
 
 <h2 id="lab-news">Lab News</h2>
 
+[07/2026] A candidate has been awarded an **University of Exeter - Paris-Saclay PhD scholarship** and will join FIL later this year.
+
 [06/2026] One undergraduate student from our lab, Aditya Bhardwaj, has been awarded the Faculty Commendation A prize to recognise his contribution to the faculty. Congratulations to Aditya! 
 
 [06/2026] Our paper "[MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning](https://arxiv.org/abs/2505.06665)" has been accepted by IEEE Transactions on Image Processing.  Congratulations to Zixian!
