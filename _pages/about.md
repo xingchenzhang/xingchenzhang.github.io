@@ -59,6 +59,8 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[07/2026] A candidate has been awarded an **University of Exeter - Paris-Saclay PhD scholarship** and will join my lab later this year.
+
 [06/2026] Our paper "[MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning](https://arxiv.org/abs/2505.06665)" has been accepted by IEEE Transactions on Image Processing.  Congratulations to Zixian!
 
 [06/2026] I was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as  **<span style="color: red;">PI</span>**. 
