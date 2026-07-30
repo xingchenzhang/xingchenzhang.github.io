@@ -10,7 +10,7 @@ redirect_from:
 
 ## Bio
 
-I am a **Senior Lecturer** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/). I lead the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)** and serve as the Deputy Director of Business Engagement & Innovation in the Department of Computer Science.
+I am a **Senior Lecturer** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/). I founded and currently lead the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)**. I also serve as the Deputy Director of Business Engagement & Innovation in the Department of Computer Science.
 
 Since joining Exeter in April 2024, I have established the Fusion Intelligence Laboratory as a growing research group with PhD students, research collaborators, and a portfolio of externally and internally funded projects. The lab aims to **develop machine intelligence and information fusion technologies for human benefit**, with applications in computer vision, embodied intelligence, trustworthy AI, and AI for healthcare. Our work has been supported by the **Royal Society**, the **Marie Skłodowska-Curie Actions** programme, **NVIDIA**, **UKRI AIRR**, the **Exeter-Fudan Fellowship**, and the **Exeter-Université Paris-Saclay Seed Fund Grant**.
 
