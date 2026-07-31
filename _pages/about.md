@@ -63,7 +63,7 @@ News
 
 [06/2026] I was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as  **<span style="color: red;">PI</span>**. 
 
-[05/2026] A candidate has been awarded an **Exeter-CSC PhD scholarship** and will join my group in September.
+[05/2026] A candidate has been awarded an **Exeter-CSC PhD scholarship** and will join my group in September this year.
 
 [05/2026] Our paper "[SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion](https://arxiv.org/abs/2509.22450)" has been accepted by **IEEE Transactions on Image Processing**. Congratulations to Zixian!
 
@@ -71,23 +71,15 @@ News
 
 [05/2026] I have joined the **DSIT/UKRI AIRR User Advisory Group (UAG)** as a core member.
 
-[04/2026] Invited to give a talk at Yanshan University.
-
 [04/2026] Our paper [DualTTrack: Improving Information Flow Consistency in Multi-Object Tracking via Dual-Track Matching and Recovery](https://www.sciencedirect.com/science/article/pii/S0306457326002347) has been accepted by Information Processing and Management.
-
-[03/2026] Our special issue proposal **Multimodal Representation Learning Based on Vision Foundation Models** has been accepted by **Pattern Recognition**. Open for Submission: from 15-Apr-2026 to 31-Mar-2027. More details can be found [here](https://www.sciencedirect.com/special-issue/332578/multimodal-representation-learning-based-on-vision-foundation-models).
-
-[03/2026] Our special issue proposal **Embodied Intelligence: Bringing Disciplines Through System Integration** has been accepted by **Virtual Reality & Intelligent Hardware**. The submission deadline is 31 December 2026. 
 
 [03/2026] Our paper "[FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning](https://arxiv.org/abs/2508.20817)" has been accepted by **IEEE Transactions on Multimedia**. 
 
 [03/2026] I was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
 
-[02/2026] A **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application (Horizon Europe) hosted by me has been successfully awarded. The fellow will join my lab shortly. 
+[02/2026] A **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application (Horizon Europe) hosted by me has been awarded. The MSCA fellow will join my lab shortly. 
 
-[01/2026] Invited to give a talk at Zhongshan Hospital, Fudan University
-
-[01/2026] Invited to give a talk at Shanghai Jiao Tong University
+[01/2026] Invited to give talks at Zhongshan Hospital (Fudan University) and Shanghai Jiao Tong University.
 
 [01/2026] Our paper "[Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966)" has been accepted by **Knowledge-Based Systems**.
 
@@ -96,8 +88,6 @@ News
 [01/2026] Our paper "[Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2600018X)" has been accepted by **Future Generation Computer Systems**.
 
 [01/2026] Our paper "[MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module](https://www.sciencedirect.com/science/article/pii/S1566253526000217)" has been accepted by **Information Fusion**. 
-
-[01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted by **ICRA2026**, which will be held in Vienna, Austria, on June 1, 2026. More details can be found [here](https://workshop-pbp2026.github.io/).
 
 [01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is fully funded by a QUEX (UQ-Exeter) joint PhD studentship.
 
@@ -129,14 +119,11 @@ News
  
 [02/2025] I was awarded a **<span style="color: red;">Royal Society Research Grant</span>** from  as **<span style="color: red;">PI</span>**. 
 
-[02/2025] I gave a talk at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), Imperial College London.
+[02/2025] Invited to give a talk at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), Imperial College London.
 
-[02/2025] I gave a talk at the [Intelligent Systems and Network Group](https://www.imperial.ac.uk/electrical-engineering/research/intelligent-systems-and-networks/), Imperial College London.
+[02/2025] Invited to give a talk at the [Intelligent Systems and Network Group](https://www.imperial.ac.uk/electrical-engineering/research/intelligent-systems-and-networks/), Imperial College London.
 
 [01/2025] Welcome Ning to join my lab as a PhD student! 
-
-[09/2024] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>**
- ([Stanford University's list](https://topresearcherslist.com/), 2024)! 
 
 [09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian received his MSc degree in Applied Machine Learning (with distinction) from **Imperial College London**.
 
@@ -150,7 +137,7 @@ News
 
 [04/2024] I started my position as a **Visiting Researcher** at Imperial College London.
 
-[04/2024] I joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> and established the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)**. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
+[04/2024] I joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> and founded the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)**. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
 <div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
