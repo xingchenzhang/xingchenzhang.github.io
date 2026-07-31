@@ -227,7 +227,7 @@ The research in FIL covers following topics:
 
 [06/2026] One undergraduate student from our lab, Aditya Bhardwaj, has been awarded the Faculty Commendation A prize to recognise his contribution to the faculty. Congratulations to Aditya! 
 
-[06/2026] Our paper "[MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning](https://arxiv.org/abs/2505.06665)" has been accepted by IEEE Transactions on Image Processing.  Congratulations to Zixian!
+[06/2026] Our paper "[MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning](https://arxiv.org/abs/2505.06665)" has been accepted by **IEEE Transactions on Image Processing**.  Congratulations to Zixian!
 
 [06/2026] Dr. Xingchen Zhang was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will give our lab access to the UK’s fastest artificial intelligence supercomputers (Isambard-AI).
 
@@ -239,13 +239,13 @@ The research in FIL covers following topics:
 
 [05/2026] Dr. Xingchen Zhang has joined the **DSIT/UKRI AIRR User Advisory Group (UAG)** as a core member.
 
-[04/2026] Our paper **DualTTrack: Improving Information Flow Consistency in Multi-Object Tracking via Dual-Track Matching and Recovery** has been accepted by Information Processing and Management.
+[04/2026] Our paper [DualTTrack: Improving Information Flow Consistency in Multi-Object Tracking via Dual-Track Matching and Recovery](https://www.sciencedirect.com/science/article/pii/S0306457326002347) has been accepted by Information Processing and Management.
 
 [03/2026] Our paper "[FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning](https://arxiv.org/abs/2508.20817)" has been accepted by **IEEE Transactions on Multimedia**. 
 
 [03/2026] Dr. Xingchen Zhang was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
 
-[02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application from FIL has been successfully awarded. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. The fellow will join FIL shortly (supervisor: Dr. Xingchen Zhang).
+[02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application from FIL has been successfully awarded. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. The fellow will join FIL shortly.
 
 [01/2026] Our paper "[Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966)" has been accepted by **Knowledge-Based Systems**.
 
@@ -258,8 +258,6 @@ The research in FIL covers following topics:
 [01/2026] Our paper "[MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module](https://www.sciencedirect.com/science/article/pii/S1566253526000217)" has been accepted by **Information Fusion**. 
 
 [01/2026] Welcome Yanlong to join FIL as a PhD student!  Yanlong is funded by a QUEX joint PhD studentship.
-
-[12/2025] A BSc student (Aditya Bhardwaj) from our FIL has secured a position as a Data Scientist and AI Engineer at Lloyds Banking Group in London!
 
 [12/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will give our lab access to one of the UK’s fastest artificial intelligence supercomputers (Dawn).
 
