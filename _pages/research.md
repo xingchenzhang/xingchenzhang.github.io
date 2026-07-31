@@ -35,6 +35,7 @@ Selected Funded Projects and Research Support
 - UKRI AIRR Gateway project (Isambard-AI), **PI**
 - Exeter-Fudan Fellowship, **PI**
 - Exeter-Université Paris-Saclay Seed Fund Grant , **PI**
+- Exeter - Paris-Saclay PhD scholarship, **Supervisor**
 - QUEX Joint PhD Scholarship, **Supervisor** at University of Exeter
 
 **Imperial College London**
