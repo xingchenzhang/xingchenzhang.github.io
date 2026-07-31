@@ -521,7 +521,7 @@ function closeImageBox() {
   <li>NVIDIA Academic Grant (PI)</li>
   <li>UKRI AIRR Gateway Project (PI)</li>
   <li>Exeter-Fudan Fellowship (PI)</li>
-  <li>Exeter–Université Paris-Saclay Seed Fund Grant (PI)</li>
+  <li>Exeter-Université Paris-Saclay Seed Fund Grant (PI)</li>
   <li>Exeter - Paris-Saclay PhD scholarship (Supervisor)</li>
   <li>QUEX Joint PhD Studentship (Supervisor)</li>
 </ul>
