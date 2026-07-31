@@ -11,10 +11,6 @@ If you are interested in joining my group at the University of Exeter as a PhD s
 Postdoc Opportunities
 -------------
 
-I am happy to support outstanding researchers to apply for fellowships. 
-
-- [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). If you are interested in applying for a MSCA postdoctoral fellowship with me as the host, please contact me and send your CV to me. The application will open from 9 Aprial 2026, and the deadline is **<span style="color: red;"> 9 September 2026</span>**.
-
 
 PhD Opportunities
 ----------
