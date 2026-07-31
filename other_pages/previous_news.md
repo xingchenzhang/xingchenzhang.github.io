@@ -5,6 +5,14 @@ author_profile: true
 permalink: /previous_news/
 ---
 
+[04/2026] Invited to give a talk at Yanshan University.
+
+[03/2026] Our special issue proposal **Multimodal Representation Learning Based on Vision Foundation Models** has been accepted by **Pattern Recognition**. Open for Submission: from 15-Apr-2026 to 31-Mar-2027. More details can be found [here](https://www.sciencedirect.com/special-issue/332578/multimodal-representation-learning-based-on-vision-foundation-models).
+
+[03/2026] Our special issue proposal **Embodied Intelligence: Bringing Disciplines Through System Integration** has been accepted by **Virtual Reality & Intelligent Hardware**. The submission deadline is 31 December 2026. 
+
+[01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted by **ICRA2026**, which will be held in Vienna, Austria, on June 1, 2026. More details can be found [here](https://workshop-pbp2026.github.io/).
+
 [11/2025] I organized a BMVC2025 workshop "DIFA: Deep Learning-based Information Fusion and Its Applications" on 27th November 2025 in the Cutlers’ Hall, Sheffield, UK. Other organizers are Dr. Zhixiang Chen from University of Sheffield and Dr. Shuyan Li from Queen's University Belfast.  More details can be found on our [workshop website](https://difa2025-bmvc.github.io/).  
 
 [10/2025] Invited to give a talk at the "AI for everyone" event organized by the UK Huazhong University of Science and Technology Alumni Association.
@@ -19,8 +27,6 @@ permalink: /previous_news/
 
 [12/2024] I organised the first Exeter Computer Vision Workshop at the University of Exeter. This is the first formal activity of the Exeter Computer Vision Group. [Exeter CS News (internal only)](https://universityofexeteruk.sharepoint.com/:u:/r/sites/ComputerScienceESE/SitePages/1st-Exeter-Computer-Vision-Workshop!.aspx?csf=1&web=1&e=bZ8QI6)
 
-[11/2024] I organized a [BMVC2024](https://bmvc2024.org/) workshop titled “DIFA: Deep Learning-based Image Fusion and Its Applications” as the lead organizer in Glasgow, UK, on 27th November 2024. More details can be found on our [workshop website](https://difa2024.github.io/).
-
 [12/2024] I gave a talk at the 1st Exeter Computer Vision Workshop, Exeter, UK.
 
 [12/2024] I gave a talk titled "How AI is changing my job" at the Around The World Webinar of the MCAA AI GIG (Marie Curie Alumni Association Artificial Intelligence General Interest Group).
@@ -29,11 +35,16 @@ permalink: /previous_news/
 
 [12/2024] Invited to join the Executive Committee of the UK Huazhong University of Science and Technology Alumni Association.
 
+[11/2024] I organized a [BMVC2024](https://bmvc2024.org/) workshop titled “DIFA: Deep Learning-based Image Fusion and Its Applications” as the lead organizer in Glasgow, UK, on 27th November 2024. More details can be found on our [workshop website](https://difa2024.github.io/).
+
 [11/2024] Invited to attend the AI roundtable discussion at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting in London. 
 
 [11/2024] I gave a talk titled "An introduction to Prompt Engineering" at Wuhan Union Hospital of China (online).
 
 [11/2024] I gave a talk titled "A brief introduction to AI" at Wuhan Union Hospital of China (online).
+
+[09/2024] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>**
+ ([Stanford University's list](https://topresearcherslist.com/), 2024)! 
 
 [08/2024] I gave a talk at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) about faculty positions and fellowship applications.
 
