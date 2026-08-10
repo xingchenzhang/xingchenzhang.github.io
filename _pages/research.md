@@ -23,28 +23,6 @@ My research aims to use machine intelligence and multi-source information fusion
 - **AI for Healthcare**. Multimodal medical data fusion for diagnostic assistance.  
 
 
-Selected Funded Projects and Research Support
-----
-
-**University of Exeter**
-
-- Marie Sklodowska-Curie Postdoctoral Fellowship, **Host and Supervisor**
-- The Royal Society Research Grant, **PI**  
-- NVIDIA Academic Grant, **PI**
-- UKRI AIRR Gateway project (Dawn at Cambridge), **PI**
-- UKRI AIRR Gateway project (Isambard-AI), **PI**
-- Exeter-Fudan Fellowship, **PI**
-- Exeter-Université Paris-Saclay Seed Fund Grant , **PI**
-- Exeter - Paris-Saclay PhD scholarship, **Supervisor**
-- QUEX Joint PhD Scholarship, **Supervisor** at University of Exeter
-
-**Imperial College London**
-
-- Marie Sklodowska-Curie Individual Fellowship, **PI**  
-
-Alongside my academic research, I have provided **expert consultancy for clinical hospitals**.
-
-
 Research topics
 ----
 
