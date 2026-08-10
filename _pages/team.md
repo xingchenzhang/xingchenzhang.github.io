@@ -53,12 +53,6 @@ MSc students:
 
 - Xiaotong Gao (2026)
 
-In-coming members:
-
-- A Marie-Curie Postdoctoral Fellow will join my lab in Jan 2027
-
-- A PhD student will join my lab iin Sep 2026
-
 
 ## **Alumni**
 
