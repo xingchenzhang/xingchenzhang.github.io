@@ -239,23 +239,11 @@ The research in FIL covers following topics:
 
 [05/2026] Dr. Xingchen Zhang has joined the **DSIT/UKRI AIRR User Advisory Group (UAG)** as a core member.
 
-[04/2026] Our paper [DualTTrack: Improving Information Flow Consistency in Multi-Object Tracking via Dual-Track Matching and Recovery](https://www.sciencedirect.com/science/article/pii/S0306457326002347) has been accepted by Information Processing and Management.
-
-[03/2026] Our paper "[FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning](https://arxiv.org/abs/2508.20817)" has been accepted by **IEEE Transactions on Multimedia**. 
-
 [03/2026] Dr. Xingchen Zhang was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
 
 [02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application from FIL has been successfully awarded. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. The fellow will join FIL shortly.
 
-[01/2026] Our paper "[Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966)" has been accepted by **Knowledge-Based Systems**.
-
-[01/2026] Our paper "[Towards a robust adversarial patch attack against RGB-T crowd counting](https://www.sciencedirect.com/science/article/pii/S0031320326001123)" has been accepted by **Pattern Recognition**.
-
-[01/2026] Our paper "[Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2600018X)" has been accepted by Future Generation Computer Systems.
-
 [01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted by **ICRA2026**, which will be held in Vienna, Austria, on June 1-5, 2026. 
-
-[01/2026] Our paper "[MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module](https://www.sciencedirect.com/science/article/pii/S1566253526000217)" has been accepted by **Information Fusion**. 
 
 [01/2026] Welcome Yanlong to join FIL as a PhD student!  Yanlong is funded by a QUEX joint PhD studentship.
 
@@ -284,8 +272,6 @@ The research in FIL covers following topics:
 [05/2025] FIL attended the ESE Research Showcase to present our robot dog (Code-E) and our research. It was a great pleasure to introduce my work to the **President and Vice-Chancellor of the University of Exeter, Prof. Lisa Roberts**, and other members of the University Council. [Exeter News 1 (internal only)](https://universityofexeteruk.sharepoint.com/sites/FacultyofEnvironmentScienceandEconomyESEnew/SitePages/Faculty-Hosts-University-Council-and-Celebrates-Research-Excellence(2).aspx). [Exeter News 2 (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/94nqv79qsln4d208rfh9qq?email=true&lang=en&a=2&p=5014214&t=2297131).
 
 [05/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** to strengthen the collaboration between FIL and Zhongshan Hospital, Fudan University. Only three academics at the University of Exeter recieved this fellowship this year.
-
-[05/2025] Our paper ''[SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection](https://ieeexplore.ieee.org/document/11015693)'' has been accepted by IEEE Sensors Journal. Congratulations to all co-authors! The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
 
 [04/2025] Our paper "[BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling" has been accepted by **IJCAI2025**](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8690.pdf). This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
 

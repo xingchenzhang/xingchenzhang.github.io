@@ -71,23 +71,11 @@ News
 
 [05/2026] I have joined the **DSIT/UKRI AIRR User Advisory Group (UAG)** as a core member.
 
-[04/2026] Our paper [DualTTrack: Improving Information Flow Consistency in Multi-Object Tracking via Dual-Track Matching and Recovery](https://www.sciencedirect.com/science/article/pii/S0306457326002347) has been accepted by Information Processing and Management.
-
-[03/2026] Our paper "[FusionCounting: Robust visible-infrared image fusion guided by crowd counting via multi-task learning](https://arxiv.org/abs/2508.20817)" has been accepted by **IEEE Transactions on Multimedia**. 
-
 [03/2026] I was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
 
 [02/2026] A **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application (Horizon Europe) hosted by me has been awarded. The MSCA fellow will join my lab shortly. 
 
 [01/2026] Invited to give talks at Zhongshan Hospital (Fudan University) and Shanghai Jiao Tong University.
-
-[01/2026] Our paper "[Three-stage progressive modality reweighting and interaction framework for robust RGB-T tracking](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001966)" has been accepted by **Knowledge-Based Systems**.
-
-[01/2026] Our paper "[Towards a robust adversarial patch attack against RGB-T crowd counting](https://www.sciencedirect.com/science/article/pii/S0031320326001123)" has been accepted by **Pattern Recognition**.
-
-[01/2026] Our paper "[Multi-view pedestrian detection via residual mask fusion and cosine similarity-based passive sampler for video surveillance systems](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2600018X)" has been accepted by **Future Generation Computer Systems**.
-
-[01/2026] Our paper "[MCIVA: A Multi-View Pedestrian Detection Framework with Central Inverse Nearest Neighbor Map and View Adaptive Module](https://www.sciencedirect.com/science/article/pii/S1566253526000217)" has been accepted by **Information Fusion**. 
 
 [01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is fully funded by a QUEX (UQ-Exeter) joint PhD studentship.
 
@@ -112,8 +100,6 @@ News
 [06/2025] I’m very pleased to have received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>**. [Exeter News (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/21vkxfbi5y24d208rfh9qq?email=true&lang=en&a=2&p=5082036&t=2322721)
 
 [05/2025] I was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** as **<span style="color: red;">PI</span>**. 
-
-[05/2025] Our paper ''[SelectMOT: Improving Data Association in Multiple Object Tracking via Quality-Aware Bounding Box Selection](https://ieeexplore.ieee.org/document/11015693)'' has been accepted by **IEEE Sensors Journal**. 
 
 [04/2025] Our paper "[BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8690.pdf)" has been accepted by **IJCAI2025**. 
  
