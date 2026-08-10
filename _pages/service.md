@@ -15,11 +15,6 @@ author_profile: true
 - Core member, UKRI AIRR User Advisory Group 
 - Executive Committee Member, the UK Huazhong University of Science and Technology Alumni Association
 - Executive Committee Member, the UK Shanghai Jiao Tong University Alumni Association
-- Committee Member, Youth Working Committee of the Information Fusion Division, Chinese Society of Aeronautics and Astronautics
-
-**Organizer for Conferences**
-
-- Program Committee Member, Chinese Conference on Information Fusion, 2025
 
 **Organizer for Workshops**
 
@@ -52,10 +47,6 @@ author_profile: true
 - Guest Editor, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (for the Special Issue **Advances in Multimodal Image Fusion for Remote Sensing Applications**)
 
 - Guest Editor, Virtual Reality & Intelligent Hardware (for the Special Issue **Embodied Intelligence: Bringing Disciplines Through System Integration**)
-
-- Associate Editor, Chinese Journal of Information Fusion [[Details]](https://www.iece.org/journal/cjif)
-
-- Early-career Editorial Board Member, Chinese Journal of Aeronautics [[Details]](https://www.sciencedirect.com/journal/chinese-journal-of-aeronautics)
 
 - Guest Editor, Remote Sensing [[Details]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)
 
@@ -151,11 +142,6 @@ author_profile: true
 - Member, Marie Curie Alumni Association
 
 - Founding Member, Marie Curie Alumni Association Artificial Intelligence Working Group
-
-- Member, China Society of Image and Graphics
-
-- Member, Chinese Association for Artificial Intelligence
-
-- Member, Information Fusion Division, Chinese Society of Aeronautics and Astronautics
+utics
 
 
