@@ -5,7 +5,6 @@ author_profile: true
 permalink: /previous_news/
 ---
 
-[04/2026] Invited to give a talk at Yanshan University.
 
 [03/2026] Our special issue proposal **Multimodal Representation Learning Based on Vision Foundation Models** has been accepted by **Pattern Recognition**. Open for Submission: from 15-Apr-2026 to 31-Mar-2027. More details can be found [here](https://www.sciencedirect.com/special-issue/332578/multimodal-representation-learning-based-on-vision-foundation-models).
 
@@ -39,16 +38,10 @@ permalink: /previous_news/
 
 [11/2024] Invited to attend the AI roundtable discussion at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting in London. 
 
-[11/2024] I gave a talk titled "An introduction to Prompt Engineering" at Wuhan Union Hospital of China (online).
-
-[11/2024] I gave a talk titled "A brief introduction to AI" at Wuhan Union Hospital of China (online).
-
 [09/2024] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>**
  ([Stanford University's list](https://topresearcherslist.com/), 2024)! 
 
 [08/2024] I gave a talk at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) about faculty positions and fellowship applications.
-
-[08/2024] I started serving as an Associate Editor for the [Chinese Journal of Information Fusion](https://www.iece.org/journal/cjif).
 
 [06/2024] I gave a talk on 6th June at "Future of AI Awards 2024: Collaborate, Debate, Invent". I introduced my research and shared my fellowship experience.
 

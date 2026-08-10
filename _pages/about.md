@@ -10,9 +10,9 @@ redirect_from:
 
 ## Bio
 
-I am a **Senior Lecturer** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/). I founded and currently lead the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)**. I also serve as the Deputy Director of Business Engagement & Innovation in the Department of Computer Science.
+I am a **Senior Lecturer** in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/). I founded and currently lead the **[Fusion Intelligence Laboratory (FIL)](https://xingchenzhang.github.io/fil/)**. I also serve as the Deputy Director of Business Engagement & Innovation in the Department of Computer Science.
 
-Since joining the University of Exeter in April 2024, I have been establishing the Fusion Intelligence Laboratory (FIL). The lab aims to **develop machine intelligence and information fusion technologies for human benefit**, with applications in computer vision, embodied intelligence, trustworthy AI, and AI for healthcare. Our research has been supported by the **Royal Society**, the **Marie Skłodowska-Curie Actions** programme, **NVIDIA**, **UKRI AIRR**, the **Exeter-Fudan Fellowship**, and the **Exeter-Université Paris-Saclay Seed Fund Grant**.
+Since joining the University of Exeter in April 2024, I have been establishing the Fusion Intelligence Laboratory. The lab aims to **develop machine intelligence and information fusion technologies for human benefit**, with applications in computer vision, embodied intelligence, trustworthy AI, and AI for healthcare. Our research has been supported by the **Royal Society**, the **Marie Skłodowska-Curie Actions** programme, **NVIDIA**, **UKRI AIRR**, the **Exeter-Fudan Fellowship**, and the **Exeter-Université Paris-Saclay Seed Fund Grant**.
 
 Before joining Exeter, I spent several years at **[Imperial College London](https://www.imperial.ac.uk/)**, where I worked across research, teaching, supervision, and fellowship roles in the [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/). I was a Visiting Researcher and **Marie Skłodowska-Curie Individual Fellow** at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), working with **[Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris)**. I also served as a **Teaching Fellow**, teaching the Deep Learning module together with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk), and as a **Research Associate**, working on robotics, computer vision, and intelligent transportation projects with Prof. Yiannis Demiris and collaborators including [Prof. Panagiotis Angeloudis](https://transport-systems.imperial.ac.uk/). I also contributed to student supervision as an **Assistant Supervisor** and a mentor of Activate Student Mentoring Programme at Imperial. These experiences have strongly shaped my research vision in human-centered computer vision, multimodal perception, robotics, and AI for real-world applications.
 
@@ -74,8 +74,6 @@ News
 [03/2026] I was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
 
 [02/2026] A **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application (Horizon Europe) hosted by me has been awarded. The MSCA fellow will join my lab shortly. 
-
-[01/2026] Invited to give talks at Zhongshan Hospital (Fudan University) and Shanghai Jiao Tong University.
 
 [01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is fully funded by a QUEX (UQ-Exeter) joint PhD studentship.
 
