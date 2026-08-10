@@ -145,16 +145,4 @@ Related publications:
 Related publications:  
 1. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. DIFA 2025 Workshop, BMVC2025. 
 
-<h2>6. Others</h2>
-<h3>(1) AI for Social Good</h3>
-
-<p align="center"> 
-  <img width="500" src="/images/research/BGM-IJCAI2025.png" />
-</p>
-
-Related publications:  
-1. Y. Zhao, H. Wen, **X. Zhang**, M. Luo. BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling, IJCAI2025.
-
-<h3>(2) AI for Science</h3>
-
 
