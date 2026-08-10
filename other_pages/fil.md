@@ -225,7 +225,7 @@ The research in FIL covers following topics:
 
 [07/2026] A candidate has been awarded an **University of Exeter - Paris-Saclay PhD scholarship** and will join FIL later this year.
 
-[06/2026] One undergraduate student from our lab, Aditya Bhardwaj, has been awarded the Faculty Commendation A prize to recognise his contribution to the faculty. Congratulations to Aditya! 
+[06/2026] One undergraduate student from our lab has been awarded the Faculty Commendation A prize to recognise his contribution to the faculty.
 
 [06/2026] Our paper "[MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning](https://arxiv.org/abs/2505.06665)" has been accepted by **IEEE Transactions on Image Processing**.  Congratulations to Zixian!
 
@@ -249,15 +249,11 @@ The research in FIL covers following topics:
 
 [12/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will give our lab access to one of the UK’s fastest artificial intelligence supercomputers (Dawn).
 
-[12/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as the **<span style="color: red;">PI</span>**. This Seed Fund Grant will be helpful for the collaboration between our FIL and Université Paris-Saclay.
-
-[11/2025] Prof. Jiande Sun from Shandong Normal University visited our lab.
+[12/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as the **<span style="color: red;">PI</span>**. 
 
 [10/2025] FIL graduates Qinqing Li and Heegon Kim got their MSc degrees with distinction! Additionally, Qinqing was also awarded the Computer Science Prizes for MSc students (Faculty Commendations - A, which is awarded to students who have made a significant contribution to the faculty). 
 
-[10/2025] Dr. Yixiu Liang from Zhongshan Hospital, Fudan University visited our lab and gave a talk at the Computer Science Seminar. Dr. Liang's visit is a part our Exeter-Fudan Fellowship and will strengthen the collaboration between Zhongshan Hospital and my lab.
-
-[10/2025] Dr. Xingchen Zhang's new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), is now freely available for download. Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. 
+[10/2025] Dr. Xingchen Zhang's new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), is now freely available for download. This book provides a systematic overview of deep learning-based image fusion methods and applications. 
 
 [09/2025] Our paper "[More effort is needed to protect pedestrian privacy in the era of AI](https://openreview.net/pdf?id=rdeCalg68L)" has been accepted by **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, top 1.3%). [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
 
@@ -265,11 +261,7 @@ The research in FIL covers following topics:
 
 [09/2025] Our paper "[Brain tumor segmentation using multimodal MRI](https://ore.exeter.ac.uk/articles/conference_contribution/Brain_tumor_segmentation_using_multimodal_MRI/30790127?file=60108110)" has been accepted by the DIFA 2025 workshop (BMVC2025). This paper is resulted from my MSc student Qinqing Li's final project.
 
-[08/2025] A candidate has been awarded an **QUEX joint PhD studentship** and will be joining FIL shortly. This student will be co-supervised by Dr. Shelley Keating from the University of Queensland.
-
-[06/2025] A candidate has been awarded an **Exeter-CSC PhD scholarship** and will be joining FIL in September.
-
-[05/2025] FIL attended the ESE Research Showcase to present our robot dog (Code-E) and our research. It was a great pleasure to introduce my work to the **President and Vice-Chancellor of the University of Exeter, Prof. Lisa Roberts**, and other members of the University Council. [Exeter News 1 (internal only)](https://universityofexeteruk.sharepoint.com/sites/FacultyofEnvironmentScienceandEconomyESEnew/SitePages/Faculty-Hosts-University-Council-and-Celebrates-Research-Excellence(2).aspx). [Exeter News 2 (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/94nqv79qsln4d208rfh9qq?email=true&lang=en&a=2&p=5014214&t=2297131).
+[05/2025] FIL members attended the ESE Research Showcase to present our robot dog (Code-E) and our research. It was a great pleasure to introduce my work to the **President and Vice-Chancellor of the University of Exeter, Prof. Lisa Roberts**, and other members of the University Council. [Exeter News 1 (internal only)](https://universityofexeteruk.sharepoint.com/sites/FacultyofEnvironmentScienceandEconomyESEnew/SitePages/Faculty-Hosts-University-Council-and-Celebrates-Research-Excellence(2).aspx). [Exeter News 2 (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/94nqv79qsln4d208rfh9qq?email=true&lang=en&a=2&p=5014214&t=2297131).
 
 [05/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** to strengthen the collaboration between FIL and Zhongshan Hospital, Fudan University. Only three academics at the University of Exeter recieved this fellowship this year.
 
