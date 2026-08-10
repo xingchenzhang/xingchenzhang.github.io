@@ -23,12 +23,11 @@ Selected Publications
 
 - **X. Zhang**. Benchmarking and Comparing Multi-exposure Image Fusion Algorithms. Information Fusion, vol. 74, pp. 111-131, 2021. (**The first multi-exposure image fusion benchmark**) [[Benchmark link]](https://github.com/xingchenzhang/MEFB)
 
-- Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. IEEE Transactions on Image Processing, 2026. [[Link]](https://ieeexplore.ieee.org/document/11570838)
-
-- Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning, IEEE Transactions on Image Processing. [[Link]](https://arxiv.org/pdf/2505.06665)
-
 - Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.
 
+- Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. IEEE Transactions on Image Processing, 2026. [[Link]](https://ieeexplore.ieee.org/document/11570838)
+
+- Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning, IEEE Transactions on Image Processing, 2026. [[Link]](https://arxiv.org/pdf/2505.06665)
 
 *indicates corresponding author
 
