@@ -12,8 +12,9 @@ I have supervised and co-supervised students at various universities and continu
 
 - I received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>** in 2025 in the University of Exeter.
 
-- I am a **<span style="color: red;">Fellow of the Higher Education Academy</span>**.
+- My PhD student received the **<span style="color: red;"> Dean of Postgraduate Research’s Commendation for Excellence in Academic Citizenship</span>**.
 
+- My MSc student and BSc student received the **<span style="color: red;"> Computer Science Prizes for MSc students (Faculty Commendations - A)</span>**.
 
 ## **Current team**
 
@@ -62,6 +63,48 @@ In-coming members:
 ## **Alumni**
 
 My students have pursued diverse career paths: some have become faculty members at Chinese universities, others have joined leading companies like Google and Bosch, while others have continued their academic journey by pursuing PhDs at prestigious universities.
+
+### University of Exeter:
+
+- MSc students
+
+	- Qinqing Li (November 2024 - Aug 2025)
+        - **Distinction**
+        - **Computer Science Prizes for MSc students (Faculty Commendations - A)**, which is awared to students who have made a significant contribution to the faculty)
+        - Now a Software Engineer in DeGould
+
+	- Heegon Kim (Jan 2025 - Aug 2025): **Distinction**
+
+	- Mujeeb Adewuyi Sonibare (Jan 2025 - Aug 2025)
+
+	- Raghavendra Margasahayam Venkatesh (Jan 2025 - Aug 2025) 
+
+	- Yuanhang Zhang (Mar 2025 - Aug 2025)
+
+	- Xuan Zhang (Mar 2025 - Aug 2025) 
+
+	- Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators    
+	
+	- Ahmer Jalil Najar (2024, MSc): Advanced Sentiment Analysis in Sub-Reddit Discussions    
+
+	- Yifeng Wang (2024, MSc): NLP Techniques for Anonymising Sensitive Data   
+	 
+
+- BSc students
+
+  - Aditya Bhardwaj (Sep 2025 - June 2026)
+
+  - Oliver Johnson (Sep 2025 - June 2026)
+
+  - Hivda Nasiroglu (Sep 2025 - June 2026)
+
+  - Jason Chung (Sep 2025 - June 2026)
+
+  - Rahul Somani (Sep 2025 - June 2026)
+
+  - Toby Shelford (2024 - 2025, BSc)
+  
+  - Zihan Wang (2024 - 2025, BSc)
 
 ### Imperial College London:
 
@@ -112,44 +155,3 @@ I was the primary supervisor of one MSc student in Applied Machine Learning at t
 	  - Topic: Computer vision, object tracking
 	  - Now a PhD student in Computer Science at **Georgia Institute of Technology**
     
-### University of Exeter:
-
-- MSc students
-
-	- Qinqing Li (November 2024 - Aug 2025)
-        - **Distinction**
-        - **Computer Science Prizes for MSc students (Faculty Commendations - A)**, which is awared to students who have made a significant contribution to the faculty)
-        - Now a Software Engineer in DeGould
-
-	- Heegon Kim (Jan 2025 - Aug 2025): **Distinction**
-
-	- Mujeeb Adewuyi Sonibare (Jan 2025 - Aug 2025)
-
-	- Raghavendra Margasahayam Venkatesh (Jan 2025 - Aug 2025) 
-
-	- Yuanhang Zhang (Mar 2025 - Aug 2025)
-
-	- Xuan Zhang (Mar 2025 - Aug 2025) 
-
-	- Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators    
-	
-	- Ahmer Jalil Najar (2024, MSc): Advanced Sentiment Analysis in Sub-Reddit Discussions    
-
-	- Yifeng Wang (2024, MSc): NLP Techniques for Anonymising Sensitive Data   
-	 
-
-- BSc students
-
-  - Aditya Bhardwaj (Sep 2025 - June 2026)
-
-  - Oliver Johnson (Sep 2025 - June 2026)
-
-  - Hivda Nasiroglu (Sep 2025 - June 2026)
-
-  - Jason Chung (Sep 2025 - June 2026)
-
-  - Rahul Somani (Sep 2025 - June 2026)
-
-  - Toby Shelford (2024 - 2025, BSc)
-  
-  - Zihan Wang (2024 - 2025, BSc)

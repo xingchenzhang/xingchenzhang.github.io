@@ -9,7 +9,10 @@ author_profile: true
 
 {% include base_path %}
 
-I enjoy seeing students improve through my teaching. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life**.  
+I enjoy seeing students improve through my teaching. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life**. 
+
+- I am a **<span style="color: red;">Fellow of the Higher Education Academy</span>**.
+
 
 **At University of Exeter**
 
