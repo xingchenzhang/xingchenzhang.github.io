@@ -5,9 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-**Coming talks**
-
-**Past talks**
+**Talks**
 
 - Human-Centered Computer Vision: From Unimodality to Multimodality, Université Paris-Saclay, France, May, 2026.
 
