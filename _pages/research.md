@@ -123,4 +123,7 @@ Related publications:
 Related publications:  
 1. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. DIFA 2025 Workshop, BMVC2025. 
 
+<h2>6. AI for X </h2>
+AI for Science, AI for Engineering, etc.
+
 
