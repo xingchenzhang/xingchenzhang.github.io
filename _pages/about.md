@@ -45,8 +45,6 @@ You're welcome to submit your manuscript to the following journals and special i
 
 - **Virtual Reality & Intelligent Hardware** Special Issue on **Embodied Intelligence: Bringing Disciplines Through System Integration**. Submission deadline: 31 December 2026
 
-- **Chinese Journal of Information Fusion**. [[Details and Submission]](https://www.iece.org/journal/cjif). We always welcome submissions.
-
 - **Remote Sensing** Special Issue: "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum". **Deadline: 30 Aug 2026**. [[Remote Sensing Submission]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)  
 
 News
