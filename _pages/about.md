@@ -76,11 +76,7 @@ News
 
 [12/2025] I was awared an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as **<span style="color: red;">PI</span>**. 
 
-[10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), is now freely available for download. Written in Chinese, it provides a systematic overview of deep learning-based image fusion methods and applications. 
-
-<div style="display: flex; justify-content: center;">
-  <img src="/images/Intelligence-of-fusion-Chinese.png" alt="image1" width="200">
-</div>
+[10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), is now freely available for download. 
 
 [09/2025] Our paper "[**More effort is needed to protect pedestrian privacy in the era of AI**](https://openreview.net/forum?id=rdeCalg68L)" has been accepted by **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, acceptance rate is less than 6%). [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
 
