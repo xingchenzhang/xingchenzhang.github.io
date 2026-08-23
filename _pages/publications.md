@@ -17,17 +17,17 @@ Selected Publications
 
 - **X. Zhang**, Deep Learning-based Multi-focus Image Fusion: A Survey and A Comparative Study, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, No. 9, pp. 4819 – 4838, 2022. [[Link]](https://github.com/xingchenzhang/MFIFB) (**ESI Highly Cited Paper**)
 
-- **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 11, pp. 20773-20782, 2022.
-
 - **X. Zhang***, P. Angeloudis, Y. Demiris. Dual-branch Spatio-Temporal Graph Neural Networks for Pedestrian Trajectory Prediction, Pattern Recognition, vol. 142, 2023.
+
+- **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 11, pp. 20773-20782, 2022.
 
 - **X. Zhang**. Benchmarking and Comparing Multi-exposure Image Fusion Algorithms. Information Fusion, vol. 74, pp. 111-131, 2021. (**The first multi-exposure image fusion benchmark**) [[Benchmark link]](https://github.com/xingchenzhang/MEFB)
 
 - Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.
 
-- Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. IEEE Transactions on Image Processing, 2026. [[Link]](https://ieeexplore.ieee.org/document/11570838)
-
 - Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning, IEEE Transactions on Image Processing, 2026. [[Link]](https://arxiv.org/pdf/2505.06665)
+
+- Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. IEEE Transactions on Image Processing, 2026. [[Link]](https://ieeexplore.ieee.org/document/11570838)
 
 *indicates corresponding author
 
