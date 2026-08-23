@@ -35,11 +35,6 @@ Research interests
 
 To know more about my research, please go to the  '[Research](https://xingchenzhang.github.io/research/)' section.
 
-**Joining my Fusion Intelligence Laboratory**
--------
-
-I am always looking for self-motivated PhD students. If you're interested in joining my Fusion Intelligence Laboratory as a PhD student, or if you wish to join by applying for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, Newton International Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**). For more details and funding opportunities, please see the '[Opportunities](https://xingchenzhang.github.io/opportunities/)' section.  
-
 
 **Call for papers**
 -------
@@ -73,7 +68,7 @@ News
 
 [03/2026] I was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
 
-[02/2026] A **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application (Horizon Europe) hosted by me has been awarded. The MSCA fellow will join my lab shortly. 
+[02/2026] A **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application (Horizon Europe) hosted by me has been awarded. 
 
 [01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is fully funded by a QUEX (UQ-Exeter) joint PhD studentship.
 
@@ -95,59 +90,6 @@ News
 
 [09/2025] My TPAMI paper [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/document/10088423/) was selected as **<span style="color: red;">ESI Hot Paper</span>**. This is also an **ESI Highly Cited** paper. 
 
-[06/2025] I’m very pleased to have received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>**. [Exeter News (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/21vkxfbi5y24d208rfh9qq?email=true&lang=en&a=2&p=5082036&t=2322721)
-
-[05/2025] I was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** as **<span style="color: red;">PI</span>**. 
-
-[04/2025] Our paper "[BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8690.pdf)" has been accepted by **IJCAI2025**. 
- 
-[02/2025] I was awarded a **<span style="color: red;">Royal Society Research Grant</span>** from  as **<span style="color: red;">PI</span>**. 
-
-[02/2025] Invited to give a talk at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), Imperial College London.
-
-[02/2025] Invited to give a talk at the [Intelligent Systems and Network Group](https://www.imperial.ac.uk/electrical-engineering/research/intelligent-systems-and-networks/), Imperial College London.
-
-[01/2025] Welcome Ning to join my lab as a PhD student! 
-
-[09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian received his MSc degree in Applied Machine Learning (with distinction) from **Imperial College London**.
-
-[09/2024] I started to serve as the **Deputy Director of Business Engagement & Innovation** at the Department of Computer Science.
-
-[07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by **Transportmetrica B: Transport Dynamics**. This is a collaborative paper with the Transport Systems & Logistics Lab and Personal Robotics Lab at Imperial College London. 
-
-[07/2024] Two of my IEEE T-PAMI papers were selected as **<span style="color: red;">ESI Highly Cited Papers</span>**.
-
-[06/2024] Our paper “[3PFS: Protecting pedestrian privacy through face swapping](https://ieeexplore.ieee.org/abstract/document/10682960/)” has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian!  The paper is based on Zixian's MSc project at Imperial College London, where I was his primary supervisor and Prof. Yiannis Demiris was his co-supervisor. The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
-
-[04/2024] I started my position as a **Visiting Researcher** at Imperial College London.
-
-[04/2024] I joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> and founded the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)**. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
-
-<div style="display: flex; justify-content: center; margin-bottom: 40px;">
-  <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
-</div>
-
-[03/2024] I was featured as **<span style="color: red;">"Imperial People"</span>**
-[[Details]](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/).
-
-<div style="display: flex; justify-content: center; margin-bottom: 40px;">
-  <img src="/images/imperial-people.jpg" alt="image1" width="400">
-</div>
-
-[12/2023] I was awarded the **Department Award for Citizenship and Communit**y by the Department of EEE, Imperial College London. [[Imperial News]](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/).
-
-
-[11/2023] I was selected as "**Fellow of the Month**" by the Postdoc and Fellows Development Centre (PFDC), Imperial College London. [[PFDC Newsletter]](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1fftgrnkwzim5ti3wepqzp?lang=en&a=2&p=11850824&t=4496005).
-
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="/images/fellow-of-the-month.jpg" alt="image1" width="400">
-</div>
-
-[08/2020] The book [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3) that I co-authored has been published by Shanghai Jiao Tong University Press & Springer Nature Singapore. This book has won the National Science and Technology Academic Publications Fund of China (2019).
-
-<div style="display: flex; justify-content: center; margin-bottom: 40px;">
-  <img src="/images/image_fusion.jpg" alt="image1" width="300">
-</div>
 
 More news about me can be found [**here**](https://xingchenzhang.github.io/previous_news/).
 

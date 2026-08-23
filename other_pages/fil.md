@@ -241,7 +241,7 @@ The research in FIL covers following topics:
 
 [03/2026] Dr. Xingchen Zhang was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
 
-[02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application from FIL has been successfully awarded. This year’s MSCA call was exceptionally competitive, with a success rate of below 10%. The fellow will join FIL shortly.
+[02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application from FIL has been successfully awarded.
 
 [01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted by **ICRA2026**, which will be held in Vienna, Austria, on June 1-5, 2026. 
 

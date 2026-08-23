@@ -18,11 +18,26 @@ permalink: /previous_news/
 
 [09/2025] Our paper "Brain tumor segmentation using multimodal MRI" has been accepted by the DIFA 2025 workshop (BMVC2025). This paper is resulted from my MSc student Qinqing Li's final project.
 
+[06/2025] I’m very pleased to have received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>**. [Exeter News (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/21vkxfbi5y24d208rfh9qq?email=true&lang=en&a=2&p=5082036&t=2322721)
+
 [05/2025] Invited to give a talk at Exeter CS Seminar.
 
 [05/2025] I organized the Exeter Computer Vision Workshop: PhD Research Talks.
 
+[05/2025] I was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** as **<span style="color: red;">PI</span>**. 
+
+[04/2025] Our paper "[BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8690.pdf)" has been accepted by **IJCAI2025**. 
+
 [04/2025] My MSc student, Qinqing Li, attended the [BCSWomen Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) in the University of Glasgow to present her work on multimodal medical image processing.
+
+[02/2025] Invited to give a talk at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), Imperial College London.
+
+[02/2025] Invited to give a talk at the [Intelligent Systems and Network Group](https://www.imperial.ac.uk/electrical-engineering/research/intelligent-systems-and-networks/), Imperial College London.
+
+[02/2025] I was awarded a **<span style="color: red;">Royal Society Research Grant</span>** from  as **<span style="color: red;">PI</span>**. 
+
+
+[01/2025] Welcome Ning to join my lab as a PhD student! 
 
 [12/2024] I organised the first Exeter Computer Vision Workshop at the University of Exeter. This is the first formal activity of the Exeter Computer Vision Group. [Exeter CS News (internal only)](https://universityofexeteruk.sharepoint.com/:u:/r/sites/ComputerScienceESE/SitePages/1st-Exeter-Computer-Vision-Workshop!.aspx?csf=1&web=1&e=bZ8QI6)
 
@@ -38,14 +53,52 @@ permalink: /previous_news/
 
 [11/2024] Invited to attend the AI roundtable discussion at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) Annual Meeting in London. 
 
+[09/2024] Welcome Zixian to join my lab as a PhD student! Before joining my lab, Zixian received his MSc degree in Applied Machine Learning (with distinction) from **Imperial College London**.
+
 [09/2024] I have been listed among the **<span style="color: red;">World's Top 2% Scientists</span>**
  ([Stanford University's list](https://topresearcherslist.com/), 2024)! 
 
+[09/2024] I started to serve as the **Deputy Director of Business Engagement & Innovation** at the Department of Computer Science.
+
+
 [08/2024] I gave a talk at the [Outstanding Young Scholars Society UK](https://www.oyss.org.uk/) about faculty positions and fellowship applications.
+
+[07/2024] Our paper "[Predicting Spatio-temporal Traffic Flow: A Comprehensive End-to-end Approach from Surveillance Cameras](https://www.tandfonline.com/doi/epdf/10.1080/21680566.2024.2380915?needAccess=true) " has been accepted by **Transportmetrica B: Transport Dynamics**. This is a collaborative paper with the Transport Systems & Logistics Lab and Personal Robotics Lab at Imperial College London. 
+
+[07/2024] Two of my IEEE T-PAMI papers were selected as **<span style="color: red;">ESI Highly Cited Papers</span>**.
 
 [06/2024] I gave a talk on 6th June at "Future of AI Awards 2024: Collaborate, Debate, Invent". I introduced my research and shared my fellowship experience.
 
+[06/2024] Our paper “[3PFS: Protecting pedestrian privacy through face swapping](https://ieeexplore.ieee.org/abstract/document/10682960/)” has been accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congratulations to Zixian!  The paper is based on Zixian's MSc project at Imperial College London, where I was his primary supervisor and Prof. Yiannis Demiris was his co-supervisor. The video demo can be found in the '[Research](https://xingchenzhang.github.io/research/)' section.
+
 [04/2024] I gave a talk at the [BMVA One Day Meeting - Trustworthy Multimodal Learning with Foundation Models: Bridging the Gap between AI Research and Real World Applications](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) in the British Computer Society (BCS), London.
+
+[04/2024] I started my position as a **Visiting Researcher** at Imperial College London.
+
+
+[04/2024] I joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> and founded the **[Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/)**. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
+
+<div style="display: flex; justify-content: center; margin-bottom: 40px;">
+  <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
+</div>
+
+[03/2024] I was featured as **<span style="color: red;">"Imperial People"</span>**
+[[Details]](https://blogs.imperial.ac.uk/imperial-people/2024/03/11/xingchen-zhang-marie-sklodowska-curie-individual-fellow-department-of-electrical-and-electronic-engineering/).
+
+<div style="display: flex; justify-content: center; margin-bottom: 40px;">
+  <img src="/images/imperial-people.jpg" alt="image1" width="400">
+</div>
+
+
+[12/2023] I was awarded the **Department Award for Citizenship and Communit**y by the Department of EEE, Imperial College London. [[Imperial News]](https://www.imperial.ac.uk/news/250163/great-contributions-eee-thanks-celebrates-colleagues/).
+
+
+[11/2023] I was selected as "**Fellow of the Month**" by the Postdoc and Fellows Development Centre (PFDC), Imperial College London. [[PFDC Newsletter]](https://icpostdocfellowsdevelopmentcentreepm.newsweaver.com/6fmnosak95/1fftgrnkwzim5ti3wepqzp?lang=en&a=2&p=11850824&t=4496005).
+
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <img src="/images/fellow-of-the-month.jpg" alt="image1" width="400">
+</div>
+
 
 [11/2023] I gave an invited talk at the Redwood Academy entitled "Beauty of fusion: Deep learning-based image fusion and its applications" on 8th November 2023.
 
@@ -80,4 +133,11 @@ permalink: /previous_news/
 [02/2021] My application for Marie Skłodowska-Curie Individual Fellowships has been successful. This is one of the most prestigious fellowships in the world. [[EEE Newsletter]](https://electricalandelectronicengineering.newsweaver.com/16mrh6sy1j/12ut2w7sbtx).
 
 [02/2021] One paper has been accepted by **Information Fusion**.
+
+
+[08/2020] The book [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3) that I co-authored has been published by Shanghai Jiao Tong University Press & Springer Nature Singapore. This book has won the National Science and Technology Academic Publications Fund of China (2019).
+
+<div style="display: flex; justify-content: center; margin-bottom: 40px;">
+  <img src="/images/image_fusion.jpg" alt="image1" width="300">
+</div>
 
