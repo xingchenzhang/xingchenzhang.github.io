@@ -20,7 +20,7 @@ I have published over 40 peer-reviewed papers in leading journals and conference
 
 I have been a **Fellow of the [Higher Education Academy (HEA)](https://www.advance-he.ac.uk/)** since July 2023 and have been listed among the **World’s Top 2% Scientists** ([Stanford University's list](https://topscinet.com/), 2023, 2024, 2025). In June 2025, I received the **Dean of PGR’s Commendation for Excellence in Supervision** at the University of Exeter. In 2021, I was awarded a **Marie Skłodowska-Curie Individual Fellowship** by the European Commission.
 
-I am a **Global Talent endorsed by the Royal Society** and a **member of the UKRI Talent Peer Review College**, where I review major funding schemes, including the UKRI Future Leaders Fellowships, EPSRC Open Fellowship, EPSRC New Investigator Award, EPSRC Standard Research Grant, and EPSRC Working with Overseas Scientists. I am also a **core member of the DSIT/UKRI AIRR User Advisory Group** and regularly review for leading journals and conferences, including IEEE TPAMI, IJCV, IEEE TIP, IEEE TMM, Information Fusion, CVPR, ECCV, ICCV, NeurIPS, ICLR, ICRA, and IROS.
+I am a **Global Talent endorsed by the Royal Society** and a **member of the UKRI Talent Peer Review College**, where I review major funding schemes, including the UKRI Future Leaders Fellowships, EPSRC Open Fellowship, EPSRC New Investigator Award, EPSRC Standard Research Grant, and EPSRC Working with Overseas Scientists. I am also a **core member of the DSIT/UKRI AIRR User Advisory Group** and regularly serve as a reviewer for leading journals and conferences, including IEEE TPAMI, IJCV, IEEE TIP, IEEE TMM, Information Fusion, CVPR, ECCV, ICCV, NeurIPS, ICLR, ICRA, and IROS.
 
 
 Research interests
