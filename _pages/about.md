@@ -29,7 +29,7 @@ Research interests
 
 - Multimodal Learning and Image Fusion     
 - Human-Centered Computer Vision  
-- Embodied Intelligence  
+- Robotics and Embodied Intelligence  
 - Trustworthy and Ethical AI  
 - AI for Healthcare  
 

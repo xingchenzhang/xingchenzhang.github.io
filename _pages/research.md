@@ -18,7 +18,7 @@ My research aims to use machine intelligence and multi-source information fusion
 
 - **Multimodal Learning and Image Fusion**. Visible–infrared fusion, multi-focus and multi-exposure fusion, multimodal medical imaging, and cross-modal representation learning.  
 - **Human-Centered Computer Vision**. Pedestrian tracking, human pose estimation, and behavior prediction with a focus on safety, robustness, and privacy protection.  
-- **Embodied Intelligence**. My lab has robots and various sensors to work on Embodied Intelligence.    
+- **Robotics and Embodied Intelligence**. My lab has robots and various sensors to work on Embodied Intelligence.    
 - **Trustworthy and Ethical AI**. Generative-AI-based pedestrian privacy protection, adversarial robustness, and AI alignment in embodied systems.  
 - **AI for Healthcare**. Multimodal medical data fusion for diagnostic assistance.
 - **AI for X**  
@@ -88,9 +88,9 @@ correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-
 6. J. Zhao, G. Xiao\*, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019.  
 
 
-<h2>3. Embodied Intelligence, especially robot perception</h2>
+<h2>3. Robotics and Embodied Intelligence, especially robot perception</h2>
 
-More info to come.
+My lab has received from the Royal Society, NVIDIA Academic Grant, European Commission, UKRI AIRR to conduct research in robotics and embodied intelligence. More info to come.
 
 <h2>4. Trustworthy and Ethical AI </h2>
 <h3>Pedestrian Privacy Protection</h3>  
