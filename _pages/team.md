@@ -60,43 +60,44 @@ My students have pursued diverse career paths: some have become faculty members 
   - Shuai Wei (2026)
 
   - Xiaotong Gao (2026)
-  - Qinqing Li (November 2024 - Aug 2025)  
+
+  - Qinqing Li (2025)  
         - **Distinction**  
         - **Computer Science Prizes for MSc students (Faculty Commendations - A)**, which is awared to students who have made a significant contribution to the faculty)  
         - Now a Software Engineer in DeGould  
         
-  - Heegon Kim (Jan 2025 - Aug 2025): **Distinction**
+  - Heegon Kim (2025): **Distinction**
 
-  - Mujeeb Adewuyi Sonibare (Jan 2025 - Aug 2025)
+  - Mujeeb Adewuyi Sonibare (2025)
   
-  - Raghavendra Margasahayam Venkatesh (Jan 2025 - Aug 2025) 
+  - Raghavendra Margasahayam Venkatesh (2025) 
   
-  - Yuanhang Zhang (Mar 2025 - Aug 2025)
+  - Yuanhang Zhang (2025)
   
-  - Xuan Zhang (Mar 2025 - Aug 2025) 
+  - Xuan Zhang (2025) 
   
-  - Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators    
+  - Charlie Wilkinson (2024): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators    
   
-  - Ahmer Jalil Najar (2024, MSc): Advanced Sentiment Analysis in Sub-Reddit Discussions    
+  - Ahmer Jalil Najar (2024): Advanced Sentiment Analysis in Sub-Reddit Discussions    
   
-  - Yifeng Wang (2024, MSc): NLP Techniques for Anonymising Sensitive Data   
+  - Yifeng Wang (2024): NLP Techniques for Anonymising Sensitive Data   
 	 
 
 - BSc students
 
-  - Aditya Bhardwaj (Sep 2025 - June 2026)
+  - Aditya Bhardwaj (2026)
 
-  - Oliver Johnson (Sep 2025 - June 2026)
+  - Oliver Johnson (2026)
 
-  - Hivda Nasiroglu (Sep 2025 - June 2026)
+  - Hivda Nasiroglu (2026)
 
-  - Jason Chung (Sep 2025 - June 2026)
+  - Jason Chung (2026)
 
-  - Rahul Somani (Sep 2025 - June 2026)
+  - Rahul Somani (2026)
 
-  - Toby Shelford (2024 - 2025, BSc)
+  - Toby Shelford (2025)
   
-  - Zihan Wang (2024 - 2025, BSc)
+  - Zihan Wang (2025)
 
 ### Imperial College London:
 
