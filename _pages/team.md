@@ -10,11 +10,13 @@ author_profile: true
 
 I have supervised and co-supervised students at various universities and continue to do so in my current role. I deeply enjoy supporting students' growth and development through my supervision. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life.**
 
-- I received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>** in 2025 in the University of Exeter.
+- In 2025, I received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>** in the University of Exeter.
 
-- My PhD student received the **<span style="color: red;"> Dean of Postgraduate Research’s Commendation for Excellence in Academic Citizenship</span>**.
+- In 2026, My PhD student Zixian Zhao received the **<span style="color: red;"> Dean of Postgraduate Research’s Commendation for Excellence in Academic Citizenship</span>**.
 
-- My MSc student and BSc student received the **<span style="color: red;"> Computer Science Prizes for MSc students (Faculty Commendations - A)</span>**.
+- In 2026, My BSc student Aditya Bhardwaj received the **<span style="color: red;"> Computer Science Prizes for MSc students (Faculty Commendations - A)</span>**.
+
+- In 2025, My MSc student Qinqing Li received the **<span style="color: red;"> Computer Science Prizes for MSc students (Faculty Commendations - A)</span>**.
 
 ## **Current team**
 
