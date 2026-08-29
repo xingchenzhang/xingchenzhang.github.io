@@ -8,8 +8,7 @@ author_profile: true
 
 For a full list of my publications, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=w-7b36cAAAAJ&hl=en).
 
-Selected Publications
-------------------
+**Selected Publications**
 
 - **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS Position Paper Track, 2025. **Oral paper**. [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
 
