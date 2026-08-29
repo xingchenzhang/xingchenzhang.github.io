@@ -31,7 +31,7 @@ full-width: true
 }
 </style>
 
-<h2>Responsible and ethical AI: Pedestrian privacy protection</h2>
+<h2>Trustworthy and ethical AI: Pedestrian privacy protection</h2>
 
 <h3>Team</h3>
 - Dr. Xingchen Zhang, Senior Lecturer, University of Exeter. Former Marie-Curie Individual Fellow at Imperial College London  

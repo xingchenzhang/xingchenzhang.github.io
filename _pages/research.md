@@ -80,13 +80,12 @@ Related publications:
 
 1. **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 11, pp. 20773-20782, 2022.  
 2. **X. Zhang***, P. Angeloudis, Y. Demiris. Dual-branch Spatio-Temporal Graph Neural Networks for Pedestrian Trajectory Prediction, Pattern Recognition, vol. 142, 2023.  
-5. **X. Zhang**\*, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023).   
-6. J. Liu, P. Ye. **X. Zhang***, G. Xiao. Real-time long-term tracking with reliability assessment and
+3. **X. Zhang**\*, Y. Demiris. Self-Supervised RGB-T Tracking with Cross-Input Consistency. arXiv preprint arXiv:2301.11274 (2023).   
+4. J. Liu, P. Ye. **X. Zhang***, G. Xiao. Real-time long-term tracking with reliability assessment and
 object recovery. IET Image Processing, vol. 15, no. 4, pp. 918-935, 2021.  
-7. J. Liu, G. Xiao, **X. Zhang***, P. Ye, X. Xiong, S. Peng. Anti-occlusion object tracking based on
+5. J. Liu, G. Xiao, **X. Zhang***, P. Ye, X. Xiong, S. Peng. Anti-occlusion object tracking based on
 correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-761, 2020.  
-8. J. Zhao, G. Xiao\*, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019.  
-
+6. J. Zhao, G. Xiao\*, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019.  
 
 
 <h2>3. Embodied Intelligence, especially robot perception</h2>
@@ -94,8 +93,9 @@ correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-
 More info to come.
 
 <h2>4. Trustworthy and Ethical AI </h2>
-<h3>Pedestrian Privacy Protection</h3>
-Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles while maintaining the utility of the anonymized videos.
+<h3>Pedestrian Privacy Protection</h3>  
+
+Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles while maintaining the utility of the anonymized videos. More details on our pedestrian privacy protection project can be found [here](https://xingchenzhang.github.io/research/privacy/). 
 
 <!-- <img align="center" width="600" src="/images/word cloud.png" />  -->
 
@@ -118,7 +118,7 @@ Related publications:
 <h2>5. AI for Healthcare</h2>
 
 Related publications:  
-1. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. DIFA 2025 Workshop, BMVC2025. 
+1. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. BMVC Workshop 2025. 
 
 <h2>6. AI for X </h2>
 AI for Science, AI for Engineering, etc.
