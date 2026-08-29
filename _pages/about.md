@@ -43,7 +43,7 @@ You're welcome to submit your manuscript to the following journals and special i
 
 - **Pattern Recognition** Special Issue: **Multimodal Representation Learning Based on Vision Foundation Models**. Open for Submission: from 15-Apr-2026 to 31-Mar-2027. More details can be found [here](https://www.sciencedirect.com/special-issue/332578/multimodal-representation-learning-based-on-vision-foundation-models).
 
-- **Virtual Reality & Intelligent Hardware** Special Issue on **Embodied Intelligence: Bringing Disciplines Through System Integration**. Submission deadline: 31 December 2026
+- **Virtual Reality & Intelligent Hardware** Special Issue on **Embodied Intelligence: Bringing Disciplines Through System Integration**. Submission deadline: 31 December 2026 [[Details]](https://www.keaipublishing.com/en/journals/virtual-reality-and-intelligent-hardware/call-for-papers/special-issue-on-embodied-intelligence-bridging-disciplines-through-system-integration/)
 
 - **Remote Sensing** Special Issue: "Advances in Detection-Oriented Multi-Sensor Fusion Beyond the Visible Spectrum". **Deadline: 30 Aug 2026**. [[Remote Sensing Submission]](https://www.mdpi.com/journal/remotesensing/special_issues/T7010HP00E)  
 
