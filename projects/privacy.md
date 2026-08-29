@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Privacy"
+title: "Pedestrian Privacy Protection"
 excerpt: "Privacy"
 author_profile: false
 sidebar: false
