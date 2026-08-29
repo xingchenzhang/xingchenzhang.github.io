@@ -142,6 +142,5 @@ author_profile: true
 - Member, Marie Curie Alumni Association
 
 - Founding Member, Marie Curie Alumni Association Artificial Intelligence Working Group
-utics
 
 

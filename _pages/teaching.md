@@ -11,23 +11,25 @@ author_profile: true
 
 I enjoy seeing students improve through my teaching. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life**. 
 
-- I am a **<span style="color: red;">Fellow of the Higher Education Academy</span>**.
+Teaching qualification
+
+- I am a **<span style="color: red;">Fellow of the Higher Education Academy (FHEA)</span>**.
 
 
 **At University of Exeter**
 
-- **Lecturer**, COM2017, Introduction to Prompt Engineering (2024-2025; 2025-2026), Department of Computer Science. I teach this module together with Dr. Avon Huxor. This is a module for both BSc and MSc students. Accelerate Module Score from students: **4.46/5**
+- **Module lead and Lecturer**, COMM042 and COMM042J (2025-2026), Introduction to Computer Vision, Department of Computer Science. This is a module for MSc students. Accelerate Module Score from students: **4.54/5**
+
+- **Module lead and Lecturer**, COM2013, Data Science Group Project 2 (2024-2025), Department of Computer Science. This is a module for undergraduate (second year) and graduate students.
+
+- **Lecturer**, COM2017, Introduction to Prompt Engineering (2024-2025; 2025-2026), Department of Computer Science. I taught this module together with Dr. Avon Huxor. This is a module for both BSc and MSc students. Accelerate Module Score from students: **4.46/5**
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/teaching/teaching-prompt-engineering-1.jpg" alt="image1" width="400" style="margin-right: 10px;">
   <img src="/images/teaching/teaching-prompt-engineering-2.jpg" alt="image2" width="400">
 </div>
 
-- **Module lead and Lecturer**, COMM042 and COMM042J (2025-2026), Introduction to Computer Vision, Department of Computer Science. This is a module for MSc students. Accelerate Module Score from students: **4.54/5**
-
-- **Module lead and Lecturer**, COM2013, Data Science Group Project 2 (2024-2025), Department of Computer Science. This is a module for undergraduate (second year) and graduate students.
-
-- **Lecturer**, COMM109Z, Programming with Python (Online MSc course, 2025-2026), Department of Computer Science. I teach this module together with several colleauges.
+- **Lecturer**, COMM109Z, Programming with Python (Online MSc course, 2025-2026), Department of Computer Science. I taught this module together with several colleauges.
 
 **At Imperial College London**
 

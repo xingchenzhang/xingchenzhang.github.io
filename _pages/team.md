@@ -24,7 +24,6 @@ At the University of Exeter, I lead the **[Fusion Intelligence Laboratory](https
 
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="/images/FIL/FIL-20250402.jpg" alt="Lab Photo" style="height: 300px; width: auto;">
   <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
 </div>
 
@@ -38,20 +37,10 @@ PhD students (as primary supervisor):
 
 - Yanlong Meng. Co-supervisor: Dr. Shelley Keating (University of Queensland), Prof. Nicholas Gilson (University of Queensland), Dr. Samantha Van Beurden (Exeter) 
   
-PhD students (as co-supervisor):
-
-- Hao Tang (Dec 2024 - ). Co-supervising with Prof. Lu Liu and Prof. Nick Stone. 
 
 MSc students:
-- Taylor Xu (2026)
 
 - Ali Sajjad (2026)
-
-- Nikhil Anil Deshmukh (2026)
-
-- Shuai Wei (2026)
-
-- Xiaotong Gao (2026)
 
 
 ## **Alumni**
@@ -62,26 +51,33 @@ My students have pursued diverse career paths: some have become faculty members 
 
 - MSc students
 
-	- Qinqing Li (November 2024 - Aug 2025)
-        - **Distinction**
-        - **Computer Science Prizes for MSc students (Faculty Commendations - A)**, which is awared to students who have made a significant contribution to the faculty)
-        - Now a Software Engineer in DeGould
+  - Taylor Xu (2026)
 
-	- Heegon Kim (Jan 2025 - Aug 2025): **Distinction**
+  - Nikhil Anil Deshmukh (2026)
 
-	- Mujeeb Adewuyi Sonibare (Jan 2025 - Aug 2025)
+  - Shuai Wei (2026)
 
-	- Raghavendra Margasahayam Venkatesh (Jan 2025 - Aug 2025) 
+  - Xiaotong Gao (2026)
+  - Qinqing Li (November 2024 - Aug 2025)  
+        - **Distinction**  
+        - **Computer Science Prizes for MSc students (Faculty Commendations - A)**, which is awared to students who have made a significant contribution to the faculty)  
+        - Now a Software Engineer in DeGould  
+        
+  - Heegon Kim (Jan 2025 - Aug 2025): **Distinction**
 
-	- Yuanhang Zhang (Mar 2025 - Aug 2025)
-
-	- Xuan Zhang (Mar 2025 - Aug 2025) 
-
-	- Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators    
-	
-	- Ahmer Jalil Najar (2024, MSc): Advanced Sentiment Analysis in Sub-Reddit Discussions    
-
-	- Yifeng Wang (2024, MSc): NLP Techniques for Anonymising Sensitive Data   
+  - Mujeeb Adewuyi Sonibare (Jan 2025 - Aug 2025)
+  
+  - Raghavendra Margasahayam Venkatesh (Jan 2025 - Aug 2025) 
+  
+  - Yuanhang Zhang (Mar 2025 - Aug 2025)
+  
+  - Xuan Zhang (Mar 2025 - Aug 2025) 
+  
+  - Charlie Wilkinson (2024, MSc): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators    
+  
+  - Ahmer Jalil Najar (2024, MSc): Advanced Sentiment Analysis in Sub-Reddit Discussions    
+  
+  - Yifeng Wang (2024, MSc): NLP Techniques for Anonymising Sensitive Data   
 	 
 
 - BSc students
