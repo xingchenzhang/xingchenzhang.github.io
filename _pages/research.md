@@ -20,7 +20,8 @@ My research aims to use machine intelligence and multi-source information fusion
 - **Human-Centered Computer Vision**. Pedestrian tracking, human pose estimation, and behavior prediction with a focus on safety, robustness, and privacy protection.  
 - **Embodied Intelligence**. My lab has robots and various sensors to work on Embodied Intelligence.    
 - **Trustworthy and Ethical AI**. Generative-AI-based pedestrian privacy protection, adversarial robustness, and AI alignment in embodied systems.  
-- **AI for Healthcare**. Multimodal medical data fusion for diagnostic assistance.  
+- **AI for Healthcare**. Multimodal medical data fusion for diagnostic assistance.
+- **AI for X**  
 
 
 Research topics
@@ -89,15 +90,11 @@ correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-
 
 
 <h2>3. Embodied Intelligence, especially robot perception</h2>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="/images/research/dog_video1.gif" alt="First Image" style="height: 350px; width: auto; margin-right: 20px;">
-  <img src="/images/research/dog_video2.gif" alt="Second Image" style="height: 350px; width: auto;">
-</div>
 
 More info to come.
 
 <h2>4. Trustworthy and Ethical AI </h2>
-<h3>(1). Pedestrian Privacy Protection</h3>
+<h3>Pedestrian Privacy Protection</h3>
 Many videos are captured to train AI models. We aim to protect pedestrian privacy in videos captured by cameras mounted on robots and vehicles while maintaining the utility of the anonymized videos.
 
 <!-- <img align="center" width="600" src="/images/word cloud.png" />  -->
