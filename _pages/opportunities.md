@@ -6,10 +6,12 @@ author_profile: true
 ---
 {% include base_path %}
 
-If you are interested in joining my group at the University of Exeter as a PhD student, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships, EPSRC Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**).
+If you are interested in joining my group at the University of Exeter as a PhD student, or if you wish to apply for postdoctoral fellowships (e.g., MSCA Postdoctoral Fellowships), please email me your CV (**Please DO NOT send me a very long email!**).
 
 Postdoc Opportunities
 -------------
+
+- [[MSCA Postdoctoral Fellowships]](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 
 
 PhD Opportunities
