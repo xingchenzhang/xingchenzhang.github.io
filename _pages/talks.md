@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+
+<div style="display: flex; justify-content: center;">
+  <img src="/images/talks/talk-ICL.jpg" alt="image1" width="400" style="margin-right: 10px;">
+  <img src="/images/talks/talk-Paris.JPG" alt="image2" width="400">
+</div>
+
 **Selected Talks**
 
 - Human-Centered Computer Vision: From Unimodality to Multimodality, Université Paris-Saclay, France, May, 2026.
