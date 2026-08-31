@@ -6,6 +6,12 @@ author_profile: true
 ---
 {% include base_path %}
 
+
+<div style="display: flex; justify-content: center;">
+  <img src="/images/service/bmvc2024-2.JPG" alt="image1" width="400" style="margin-right: 10px;">
+  <img src="/images/service/bmvc2025.JPG" alt="image2" width="400">
+</div>
+
 **Service at the University of Exeter**
 
 - Deputy Director of Business Engagement and Innovation, Department of Computer Science, University of Exeter
