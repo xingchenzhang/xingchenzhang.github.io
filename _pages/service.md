@@ -7,11 +7,6 @@ author_profile: true
 {% include base_path %}
 
 
-<div style="display: flex; justify-content: center;">
-  <img src="/images/service/bmvc2024-2.JPG" alt="image1" width="400" style="margin-right: 10px;">
-  <img src="/images/service/bmvc2025.JPG" alt="image2" width="400">
-</div>
-
 **Service at the University of Exeter**
 
 - Deputy Director of Business Engagement and Innovation, Department of Computer Science, University of Exeter
@@ -33,6 +28,11 @@ author_profile: true
 - Organizer, The 1st Exeter Computer Vision Workshop
 
 - Lead organizer, BMVC2024 Workshop: "DIFA: Deep Learning-based Image Fusion and Its Applications" [[Workshop website]](https://difa2024.github.io/)
+
+<div style="display: flex; justify-content: center;">
+  <img src="/images/service/bmvc2024-2.JPG" alt="image1" width="400" style="margin-right: 10px;">
+  <img src="/images/service/bmvc2025.JPG" alt="image2" width="400">
+</div>
 
 **Reviewer for grants (as a member of the UKRI Talent Peer Review College)**
 
