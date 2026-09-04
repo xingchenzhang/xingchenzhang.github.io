@@ -400,6 +400,17 @@ function closeImageBox() {
 
 <h2 id="selected-funders">Funding and Support</h2>
 
+<ul>
+  <li>Royal Society Research Grant (PI)</li>
+  <li>Marie Skłodowska-Curie Postdoctoral Fellowship (Supervisor and Host)</li>
+  <li>NVIDIA Academic Grant (PI)</li>
+  <li>UKRI AIRR Gateway Project (twice, PI)</li>
+  <li>Exeter-Fudan Fellowship (PI)</li>
+  <li>Exeter-Université Paris-Saclay Seed Fund Grant (PI)</li>
+  <li>Exeter - Paris-Saclay PhD scholarship (Supervisor)</li>
+  <li>QUEX Joint PhD Studentship (Supervisor)</li>
+</ul>
+
 <div style="display: flex; justify-content: center;">
   <img src="/images/funders/funders.jpg" alt="image2" width="700">
  </div>
