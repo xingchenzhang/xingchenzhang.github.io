@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xingchen Zhang (张星辰)"
+title: "Xingchen Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
