@@ -144,7 +144,7 @@ The **Fusion Intelligence Laboratory (FIL)** is led by [Dr. Xingchen Zhang](http
 
 Our research spans multimodal learning and information fusion, computer vision, robotics and embodied intelligence, trustworthy and responsible AI, and AI for healthcare. Since its establishment in 2024, FIL has grown into an active research group with PhD students, research collaborators, and a portfolio of funded projects.  Our work has received funding and support from various sources, including the **Royal Society**, the **Marie Skłodowska-Curie Actions** programme, **NVIDIA**, **UKRI AIRR**, and global partnership funding from the University of Exeter.
 
-Building on Dr Zhang’s experience at **Imperial College London**, FIL investigates how intelligent systems can integrate heterogeneous information to perceive, understand, and act reliably in complex real-world environments. We aim to develop robust, trustworthy, and useful AI systems for applications in robotics, healthcare, and other real-world domains. We welcome motivated students and collaborators who share this vision.
+Building on Dr Zhang’s experience at **Imperial College London**, FIL investigates **how intelligent systems can integrate heterogeneous information to perceive, understand, and act reliably in complex real-world environments**. We aim to develop robust, trustworthy, and useful AI systems for applications in robotics, healthcare, and other real-world domains. We welcome motivated students and collaborators who share this vision.
 
 <div class="lab-section">
 
@@ -243,7 +243,7 @@ The research in FIL covers following topics:
 
 [03/2026] Dr. Xingchen Zhang was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
 
-[02/2026] An **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application from FIL has been successfully awarded.
+[02/2026] A **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application from FIL has been successfully awarded.
 
 [01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted by **ICRA2026**, which will be held in Vienna, Austria, on June 1-5, 2026. 
 
@@ -261,15 +261,15 @@ The research in FIL covers following topics:
 
 [09/2025] Welcome Quangao to join FIL as a PhD student! Quangao received his Master degree from Chinese Academy of Science before joining FIL.
 
-[09/2025] Our paper "[Brain tumor segmentation using multimodal MRI](https://ore.exeter.ac.uk/articles/conference_contribution/Brain_tumor_segmentation_using_multimodal_MRI/30790127?file=60108110)" has been accepted by the DIFA 2025 workshop (BMVC2025). This paper is resulted from my MSc student Qinqing Li's final project.
+[09/2025] Our paper "[Brain tumor segmentation using multimodal MRI](https://ore.exeter.ac.uk/articles/conference_contribution/Brain_tumor_segmentation_using_multimodal_MRI/30790127?file=60108110)" has been accepted by the DIFA 2025 workshop (BMVC2025). This paper resulted from my MSc student Qinqing Li’s final project.
 
 [05/2025] FIL members attended the ESE Research Showcase to present our robot dog (Code-E) and our research. It was a great pleasure to introduce my work to the **President and Vice-Chancellor of the University of Exeter, Prof. Lisa Roberts**, and other members of the University Council. [Exeter News 1 (internal only)](https://universityofexeteruk.sharepoint.com/sites/FacultyofEnvironmentScienceandEconomyESEnew/SitePages/Faculty-Hosts-University-Council-and-Celebrates-Research-Excellence(2).aspx). [Exeter News 2 (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/94nqv79qsln4d208rfh9qq?email=true&lang=en&a=2&p=5014214&t=2297131).
 
-[05/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** to strengthen the collaboration between FIL and Zhongshan Hospital, Fudan University. Only three academics at the University of Exeter recieved this fellowship this year.
+[05/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">Exeter-Fudan Fellowship</span>** to strengthen the collaboration between FIL and Zhongshan Hospital, Fudan University.
 
 [04/2025] Our paper "[BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling" has been accepted by **IJCAI2025**](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/8690.pdf). This is a collaborative paper with colleagues at the University of Exeter and the University of Warwick. Congratulations to all co-authors!
 
-[02/2025] Dr. Xingchen Zhang was awarded a **<span style="color: red;">Royal Society Research Grant</span>** from  as the **<span style="color: red;">PI</span>**.  This grant will support FIL to conduct research in Embodied Intelligence.
+[02/2025] Dr. Xingchen Zhang was awarded a **<span style="color: red;">Royal Society Research Grant</span>** as the **<span style="color: red;">PI</span>**.  This grant will support FIL to conduct research in Embodied Intelligence.
 
 [01/2025] Welcome Ning to join FIL as a PhD student! 
 
