@@ -16,12 +16,12 @@ Research areas
 ----
 My research aims to use machine intelligence and multi-source information fusion to benefit humanity by developing multimodal and embodied AI systems that can understand complex environments, assist humans in daily life, and improve decision-making in healthcare, with a strong emphasis on trustworthiness, robustness, and privacy protection. Specifically, my research areas include
 
-- **Multimodal Learning and Image Fusion**. Visible–infrared fusion, multi-focus and multi-exposure fusion, multimodal medical imaging, and cross-modal representation learning.  
-- **Human-Centered Computer Vision**. Pedestrian tracking, human pose estimation, and behavior prediction with a focus on safety, robustness, and privacy protection.  
-- **Robotics and Embodied Intelligence**. My lab has robots and various sensors to work on Embodied Intelligence.    
-- **Trustworthy and Ethical AI**. Generative-AI-based pedestrian privacy protection, adversarial robustness, and AI alignment in embodied systems.  
-- **AI for Healthcare**. Multimodal medical data fusion for diagnostic assistance.
-- **AI for X**  
+- Multimodal Learning and Image Fusion     
+- Robotics and Embodied Intelligence  
+- Human-Centered Computer Vision  
+- Trustworthy and Responsible AI
+- AI for Healthcare 
+- AI for X
 
 
 Research topics
@@ -56,7 +56,13 @@ International Conference on Information Fusion, 2019.
 \* Corresponding authors
 
 
-<h2>2. Human-Centered Computer Vision</h2>
+
+<h2>2. Robotics and Embodied Intelligence, especially robot perception</h2>
+
+My lab has received from the Royal Society, NVIDIA Academic Grant, European Commission, UKRI AIRR to conduct research in robotics and embodied intelligence. More info to come.
+
+
+<h2>3. Human-Centered Computer Vision</h2>
 <h3>(1) Pedestrian Trajectory Prediction</h3>
 <p align="center"> 
   <img width="500" src="/images/research/Demo Social TAG.gif" />
@@ -87,11 +93,6 @@ object recovery. IET Image Processing, vol. 15, no. 4, pp. 918-935, 2021.
 correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-761, 2020.  
 6. J. Zhao, G. Xiao\*, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019.  
 
-
-<h2>3. Robotics and Embodied Intelligence, especially robot perception</h2>
-
-My lab has received from the Royal Society, NVIDIA Academic Grant, European Commission, UKRI AIRR to conduct research in robotics and embodied intelligence. More info to come.
-
 <h2>4. Trustworthy and Ethical AI </h2>
 <h3>Pedestrian Privacy Protection</h3>  
 
@@ -119,8 +120,5 @@ Related publications:
 
 Related publications:  
 1. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. BMVC Workshop 2025. 
-
-<h2>6. AI for X </h2>
-AI for Science, AI for Engineering, etc.
 
 

@@ -24,9 +24,9 @@ Research interests
 **My Fusion Intelligence Laboratory aims to use machine intelligence and multi-source information fusion to benefit humanity**. I am very interested in applying fusion intelligence in robot perception, medical data processing, and computer vision. Specifically, my research areas include
 
 - Multimodal Learning and Image Fusion     
-- Human-Centered Computer Vision  
 - Robotics and Embodied Intelligence  
-- Trustworthy and Ethical AI  
+- Human-Centered Computer Vision  
+- Trustworthy and Responsible AI
 - AI for Healthcare  
 
 To know more about my research, please go to the  '[Research](https://xingchenzhang.github.io/research/)' section.
