@@ -363,6 +363,7 @@ The research in FIL covers following topics:
         <div class="publication-title">
            Brain tumor segmentation using multimodal MRI
         </div>
+                <img src="/images/research/bmvc2025.png" alt="BMVC2025" class="publication-image" onclick="expandImage(this, '/images/research/bmvc2025.png')"><br />
         <h3 class="conference-name">DIFA 2025 Workshop, BMVC2025</h3>        
         <p class="author-name">Q. Li, Z. Zhao, <strong>X. Zhang*</strong>.</p>
                 <div class="links">
