@@ -140,11 +140,11 @@ full-width: true
 </style>
 
 
-The **Fusion Intelligence Laboratory (FIL)** is led by [Dr. Xingchen Zhang](https://xingchenzhang.github.io/) at the Department of Computer Science, University of Exeter. FIL develops machine intelligence and multi-source information fusion technologies for human benefit, with a focus on **human-centered multimodal AI**.
+The **Fusion Intelligence Laboratory (FIL)** is led by [Dr. Xingchen Zhang](https://xingchenzhang.github.io/) at the Department of Computer Science, University of Exeter. FIL develops machine intelligence and multi-source information fusion technologies for human benefit, with research centred on multimodal learning, embodied intelligence, and human-centered AI.
 
-Our research spans computer vision, embodied intelligence, trustworthy AI, AI for healthcare, and real-world industrial applications. Since its establishment in 2024, FIL has grown into an active research group with PhD students, research collaborators, and a portfolio of externally and internally funded projects. Our work has been supported by the **Royal Society**, the **Marie Skłodowska-Curie Actions** programme, **NVIDIA**, **UKRI AIRR**, the **Exeter-Fudan Fellowship**, and the **Exeter-Université Paris-Saclay Seed Fund Grant**.
+Our research spans multimodal learning and information fusion, computer vision, robotics and embodied intelligence, trustworthy and responsible AI, and AI for healthcare. Since its establishment in 2024, FIL has grown into an active research group with PhD students, research collaborators, and a portfolio of funded projects.  Our work has received funding and support from various sources, including the **Royal Society**, the **Marie Skłodowska-Curie Actions** programme, **NVIDIA**, **UKRI AIRR**, and global partnership funding from the University of Exeter.
 
-Building on Dr Zhang’s experience at **Imperial College London**, FIL aims to develop robust and useful AI systems that integrate information from multiple sources and can support real-world decision-making in vision, robotics, healthcare, and industry. We welcome motivated students and collaborators who share this vision.
+Building on Dr Zhang’s experience at **Imperial College London**, FIL investigates how intelligent systems can integrate heterogeneous information to perceive, understand, and act reliably in complex real-world environments. We aim to develop robust, trustworthy, and useful AI systems for applications in robotics, healthcare, and other real-world domains. We welcome motivated students and collaborators who share this vision.
 
 <div class="lab-section">
 
