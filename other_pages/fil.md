@@ -282,7 +282,7 @@ The research in FIL covers following topics:
 [04/2024] Dr. Xingchen Zhang joined the University of Exeter as a <span style="color: red;">**Senior Lecturer** </span> and established the **Fusion Intelligence Laboratory (FIL)**. The lab aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
 
-<h2 id="selected-publications">Publications</h2>
+<h2 id="selected-publications">Selected Publications</h2>
 
 ## 2026 
 
@@ -322,6 +322,7 @@ The research in FIL covers following topics:
         <div class="publication-title">
             Intelligence of Fusion: Deep Learning-based Image Fusion
         </div>
+        <h3 class="conference-name">The first book to systematically introduce deep learning-based image fusion.</h3>    
         <p class="author-name"><strong>X. Zhang</strong></p>
         <div class="links">
             <a href="https://xingchenzhang.github.io/imagefusionbook/" class="pdf">PDF</a>
