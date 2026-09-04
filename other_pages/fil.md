@@ -156,7 +156,7 @@ Building on Dr Zhang’s experience at **Imperial College London**, FIL investig
   <a href="#research-topics">Research Topics</a>
   <a href="#people">People</a>
   <a href="#lab-news">Lab News</a>
-  <a href="#selected-publications">Publications</a>
+  <a href="#selected-publications">Selected Publications</a>
   <a href="#selected-funders">Funding and Support</a>
   <a href="#contact">Contact</a>
 </div>
