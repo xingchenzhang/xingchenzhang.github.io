@@ -223,6 +223,8 @@ The research in FIL covers following topics:
 
 <h2 id="lab-news">Lab News</h2>
 
+[09/2026] Welcome Yuan to join FIL as a PhD student!
+
 [07/2026] A candidate has been awarded an **University of Exeter - Paris-Saclay PhD scholarship** and will join FIL later this year.
 
 [06/2026] One undergraduate student from our lab has been awarded the Faculty Commendation A prize to recognise his contribution to the faculty.
