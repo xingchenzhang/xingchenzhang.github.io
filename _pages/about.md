@@ -58,7 +58,7 @@ News
 
 [05/2026] Invited to give a talk at Université Paris-Saclay.
 
-[05/2026] I have joined the **DSIT/UKRI AIRR User Advisory Group (UAG)** as a core member.
+[05/2026] I have joined the **UKRI AIRR User Advisory Group (UAG)** as a core member.
 
 [03/2026] I was awarded an **<span style="color: red;">NVIDIA Academic Grant</span>** as **<span style="color: red;">PI</span>**. 
 
