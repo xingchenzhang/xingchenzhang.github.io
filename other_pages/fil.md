@@ -166,9 +166,9 @@ The research in FIL covers following topics:
 
 <ul>
   <li>Multimodal Learning and Image Fusion</li>
-  <li>Human-Centered Computer Vision</li>
-  <li>Embodied Intelligence</li>
-  <li>Trustworthy and Ethical AI</li>
+  <li>Robotics and Embodied Intelligence</li>
+  <li>Human-Centered Computer Vision </li>
+  <li>Trustworthy and Responsible AI</li>
   <li>AI for Healthcare</li>
 </ul>
 
