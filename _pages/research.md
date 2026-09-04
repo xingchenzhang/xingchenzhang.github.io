@@ -21,8 +21,6 @@ My research aims to use machine intelligence and multi-source information fusion
 - Human-Centered Computer Vision  
 - Trustworthy and Responsible AI
 - AI for Healthcare 
-- AI for X
-
 
 Research topics
 ----
