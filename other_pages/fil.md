@@ -296,6 +296,7 @@ The research in FIL covers following topics:
         <p class="author-name">Z. Zhao, A. Howes, <strong>X. Zhang*</strong>.</p>
         <div class="links">
             <a href="https://arxiv.org/pdf/2505.06665" class="pdf">PDF</a>
+            <a href="https://github.com/CnoyZ/MultiTaskVIF" class="code">CODE</a>            
         </div>
     </div>
 </div>
@@ -310,6 +311,7 @@ The research in FIL covers following topics:
         <p class="author-name">Z. Zhao, <strong>X. Zhang*</strong>.</p>
         <div class="links">
             <a href="https://ieeexplore.ieee.org/document/11570838/" class="pdf">PDF</a>
+            <a href="https://github.com/CnoyZ/SSVIF" class="code">CODE</a>   
         </div>
     </div>
 </div>
@@ -326,6 +328,7 @@ The research in FIL covers following topics:
         <p class="author-name"><strong>X. Zhang</strong></p>
         <div class="links">
             <a href="https://xingchenzhang.github.io/imagefusionbook/" class="pdf">PDF</a>
+            <a href="https://github.com/xingchenzhang/ImageFusion-Book" class="pdf">Github</a>
         </div>
     </div>
 </div>
