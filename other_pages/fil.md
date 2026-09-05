@@ -330,6 +330,7 @@ The research in FIL covers following topics:
         <div class="publication-title">
             Intelligence of Fusion: Deep Learning-based Image Fusion
         </div>
+           <img src="/images/research/book-English.png" alt="Book" class="publication-image" onclick="expandImage(this, '/images/research/book-English.png')"><br />
         <h3 class="conference-name">The first book to systematically introduce deep learning-based image fusion.</h3>    
         <p class="author-name"><strong>X. Zhang</strong></p>
         <div class="links">
