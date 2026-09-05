@@ -76,7 +76,6 @@ This work is under review.
 
 1. **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS Position Paper Track, 2025. **Oral paper**. [[PDF]](https://openreview.net/pdf?id=rdeCalg68L)  
 1. Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.  
-1. Z. Zhao, **X. Zhang***, Y. Demiris. PedPrivacy: Pedestrian Privacy Protection through Pose Transferring and Face Swapping. Under review.
 
 <h3>Funding</h3>
 - The Royal Society Research Grant, **PI**    
