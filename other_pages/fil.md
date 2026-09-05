@@ -350,6 +350,8 @@ The research in FIL covers following topics:
         <p class="author-name"><strong>X. Zhang*</strong>, Z. Zhao.</p>
         <div class="links">
             <a href="https://openreview.net/pdf?id=rdeCalg68L" class="pdf">PDF</a>
+             <a href="https://xingchenzhang.github.io/research/privacy/" class="Project Page">Project Page</a>
+            
         </div>
     </div>
 </div>
