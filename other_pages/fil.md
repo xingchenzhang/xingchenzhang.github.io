@@ -290,7 +290,7 @@ The research in FIL covers following topics:
 
 <h2 id="selected-publications">Selected Publications</h2>
 
-## 2026 
+<h3>2026</h3>
 
 <div class="publication-block">
     <div class="publication-info">
@@ -323,7 +323,7 @@ The research in FIL covers following topics:
 </div>
 
 
-## 2025  
+<h3>2025</h3>
 
 <div class="publication-block">
     <div class="publication-info">
