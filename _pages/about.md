@@ -10,6 +10,8 @@ redirect_from:
 
 ## Bio
 
+<div style="text-align: justify;" markdown="1">
+
 I am a Senior Lecturer in Computer Vision and Artificial Intelligence at the [Department of Computer Science](https://computerscience.exeter.ac.uk/), [University of Exeter](https://www.exeter.ac.uk/). I founded and currently lead the **[Fusion Intelligence Laboratory (FIL)](https://xingchenzhang.github.io/fil/)**. I also serve as the Deputy Director of Business Engagement & Innovation in the Department of Computer Science.
 
 My research focuses on **machine intelligence and information fusion for human benefit**, with a particular emphasis on multimodal perception, embodied intelligence, and trustworthy AI, as well as applications in areas such as healthcare. Through FIL, I lead research in these areas with funding and support from various sources, including the **Royal Society**, the **Marie Skłodowska-Curie Actions** programme, **NVIDIA**, **UKRI AIRR**, and global partnership funding from the University of Exeter.
@@ -17,6 +19,8 @@ My research focuses on **machine intelligence and information fusion for human b
 Before joining Exeter, I spent several years at **[Imperial College London](https://www.imperial.ac.uk/)**, where I worked across research, teaching, and supervision in the [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/). I was a **Marie Skłodowska-Curie Individual Fellow** at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), working with **[Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris)**. I also worked as a **Research Associate** on robotics, computer vision, and intelligent transportation projects with Prof. Demiris and collaborators including [Prof. Panagiotis Angeloudis](https://transport-systems.imperial.ac.uk/). In addition, I served as a **Teaching Fellow**, teaching the Deep Learning module with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk).
 
 I have published over 40 peer-reviewed papers in leading journals and conferences. I co-authored the book [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors) and authored [**Intelligence of Fusion: Deep Learning-Based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/). I have been a **Fellow of the [Higher Education Academy (HEA)](https://www.advance-he.ac.uk/)** since July 2023 and have been listed among the **World’s Top 2% Scientists** ([Stanford University's list](https://topscinet.com/), 2023, 2024, 2025). 
+
+</div>
 
 
 Research interests
