@@ -52,8 +52,6 @@ News
 
 [06/2026] I was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as  **<span style="color: red;">PI</span>**. 
 
-[05/2026] A candidate has been awarded an **Exeter-CSC PhD scholarship** and will join my group in September this year.
-
 [05/2026] Our paper "[SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion](https://arxiv.org/abs/2509.22450)" has been accepted by **IEEE Transactions on Image Processing**. Congratulations to Zixian!
 
 [05/2026] Invited to give a talk at Université Paris-Saclay.
@@ -71,14 +69,6 @@ News
 [12/2025] I was awared an **<span style="color: red;">Exeter–Université Paris-Saclay Seed Fund Grant</span>** as **<span style="color: red;">PI</span>**. 
 
 [10/2025] My new book, [**Intelligence of Fusion: Deep Learning-based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/), is now freely available for download. 
-
-[09/2025] Our paper "[**More effort is needed to protect pedestrian privacy in the era of AI**](https://openreview.net/forum?id=rdeCalg68L)" has been accepted by **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, acceptance rate is less than 6%). [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
-
-[09/2025] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>**  (Stanford University’s list, 2025) — my third time receiving this recognition!
- 
-[09/2025] Welcome Quangao to join my lab as a PhD student! Quangao received his Master degree from Chinese Academy of Science before joining my lab.
-
-[09/2025] My TPAMI paper [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/document/10088423/) was selected as **<span style="color: red;">ESI Hot Paper</span>**. This is also an **ESI Highly Cited** paper. 
 
 
 More news about me can be found [**here**](https://xingchenzhang.github.io/previous_news/).
