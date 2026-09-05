@@ -5,14 +5,6 @@ author_profile: true
 permalink: /previous_news/
 ---
 
-[09/2025] Our paper "[**More effort is needed to protect pedestrian privacy in the era of AI**](https://openreview.net/forum?id=rdeCalg68L)" has been accepted by **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, acceptance rate is less than 6%). [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
-
-[09/2025] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>**  (Stanford University’s list, 2025) — my third time receiving this recognition!
- 
-[09/2025] Welcome Quangao to join my lab as a PhD student! Quangao received his Master degree from Chinese Academy of Science before joining my lab.
-
-[09/2025] My TPAMI paper [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/document/10088423/) was selected as **<span style="color: red;">ESI Hot Paper</span>**. This is also an **ESI Highly Cited** paper. 
-
 [05/2026] A candidate has been awarded an **Exeter-CSC PhD scholarship** and will join my group in September this year.
 
 [03/2026] Our special issue proposal **Multimodal Representation Learning Based on Vision Foundation Models** has been accepted by **Pattern Recognition**. Open for Submission: from 15-Apr-2026 to 31-Mar-2027. More details can be found [here](https://www.sciencedirect.com/special-issue/332578/multimodal-representation-learning-based-on-vision-foundation-models).
@@ -26,6 +18,15 @@ permalink: /previous_news/
 [10/2025] Invited to give a talk at the "AI for everyone" event organized by the UK Huazhong University of Science and Technology Alumni Association.
 
 [09/2025] Our paper "Brain tumor segmentation using multimodal MRI" has been accepted by the DIFA 2025 workshop (BMVC2025). This paper is resulted from my MSc student Qinqing Li's final project.
+
+
+[09/2025] Our paper "[**More effort is needed to protect pedestrian privacy in the era of AI**](https://openreview.net/forum?id=rdeCalg68L)" has been accepted by **<span style="color: red;">NeurIPS2025</span>** as an **<span style="color: red;">Oral paper</span>** (Position Paper Track, acceptance rate is less than 6%). [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
+
+[09/2025] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>**  (Stanford University’s list, 2025) — my third time receiving this recognition!
+ 
+[09/2025] Welcome Quangao to join my lab as a PhD student! Quangao received his Master degree from Chinese Academy of Science before joining my lab.
+
+[09/2025] My TPAMI paper [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/document/10088423/) was selected as **<span style="color: red;">ESI Hot Paper</span>**. This is also an **ESI Highly Cited** paper. 
 
 [06/2025] I’m very pleased to have received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>**. [Exeter News (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/21vkxfbi5y24d208rfh9qq?email=true&lang=en&a=2&p=5082036&t=2322721)
 
