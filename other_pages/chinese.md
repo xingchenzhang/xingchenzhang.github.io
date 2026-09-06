@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Talks"
+title: "个人简介"
 permalink: /bio_chinese/
 author_profile: true
 ---
 
-
-## 个人简介
 
 张星辰，英国埃克塞特大学计算机系高级讲师、[融合智能实验室](https://xingchenzhang.github.io/fil/)负责人、计算机系商业与创新副主任、欧盟玛丽居里学者、英国高等教育学会会士。曾在英国帝国理工学院担任教员讲授《Deep Learning》课程，并曾在帝国理工学院担任访问研究员、玛丽居里研究员和博士后研究员。
 
