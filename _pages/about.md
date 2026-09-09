@@ -109,7 +109,7 @@ I have been fortunate to collaborate with a range of internal and external partn
 Contact
 -------
 
-- Email: x (dot) zhang12 (at) exeter (dot) ac (dot) uk
 - Address: Department of Computer Science, University of Exeter, Exeter EX4 4RN
+- Email: x (dot) zhang12 (at) exeter (dot) ac (dot) uk
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-CywtQgKHbGRRCnc-YpbDfl5bc7oR80ZEIzATZjRRJA&cl=ffffff&w=a"></script>

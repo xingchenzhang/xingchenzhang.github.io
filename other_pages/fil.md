@@ -456,4 +456,4 @@ function closeImageBox() {
 <h2 id="contact">Contact</h2>
 Address: Kathleen Booth Building, Streatham Campus, EX4 4RN, Exeter, UK 
 
-Email: x.zhang12@exeter.ac.uk
+Email: x (dot) zhang12 (at) exeter (dot) ac (dot) uk
