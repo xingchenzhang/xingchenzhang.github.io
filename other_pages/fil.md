@@ -440,7 +440,7 @@ function closeImageBox() {
   <li>Exeter-Fudan Fellowship (PI)</li>
   <li>Exeter-Université Paris-Saclay Seed Fund Grant (PI)</li>
   <li>Exeter - Paris-Saclay PhD scholarship (Supervisor)</li>
-  <li>QUEX Joint PhD Studentship (Supervisor)</li>
+  <li>UQEX Joint PhD Studentship (Supervisor)</li>
 </ul>
 
 <div style="display: flex; justify-content: center;">
