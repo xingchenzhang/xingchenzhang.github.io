@@ -11,7 +11,12 @@ If you are interested in joining my group at the University of Exeter as a PhD s
 Postdoc Opportunities
 -------------
 
-- [[MSCA Postdoctoral Fellowships]](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
+**Open opportunities**
+
+
+**Other opportunities**
+
+- [[MSCA Postdoctoral Fellowships]](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). The application deadline for 2026 is **now closed**. 
 
 
 PhD Opportunities
@@ -19,7 +24,7 @@ PhD Opportunities
 
 NOTE: I **<span style="color: red;"> DO NOT</span>** accept visiting PhD students. 
 
-**Current opportunities**
+**Open opportunities**
 
 
 **Other PhD opportunities**
