@@ -444,7 +444,7 @@ function closeImageBox() {
 </ul>
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/funders/funders.jpg" alt="image2" width="700">
+  <img src="/images/funders/funders.png" alt="image2" width="700">
  </div>
 
 <!-- <h2>Selected collaborators</h2>
