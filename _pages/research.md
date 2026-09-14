@@ -76,9 +76,9 @@ My lab has received from the Royal Society, NVIDIA Academic Grant, European Comm
   <img width="700" src="/images/research/Pedestrian-tracking.gif" />
 </p>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img width="500" src="/images/research/MOT17-03-SelectMOT.gif" />
-</p>
+</p> -->
 
 Related publications:    
 
