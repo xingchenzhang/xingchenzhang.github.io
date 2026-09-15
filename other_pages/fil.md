@@ -436,7 +436,8 @@ function closeImageBox() {
   <li>Royal Society Research Grant (PI)</li>
   <li>Marie Skłodowska-Curie Postdoctoral Fellowship (Supervisor and Host)</li>
   <li>NVIDIA Academic Grant (PI)</li>
-  <li>UKRI AIRR Gateway Project (twice, PI)</li>
+  <li>UKRI AIRR Gateway Project (PI), 10000 GPU hours for Isambard-AI at the University of Bristol</li>
+  <li>UKRI AIRR Gateway Project (PI), 10000 GPU hours for Dawn at the University of Cambridge</li>
   <li>Exeter-Fudan Fellowship (PI)</li>
   <li>Exeter-Université Paris-Saclay Seed Fund Grant (PI)</li>
   <li>Exeter - Paris-Saclay PhD scholarship (Supervisor)</li>
