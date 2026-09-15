@@ -39,7 +39,7 @@ PhD students (as primary supervisor):
 
 - Yanlong Meng. Co-supervisor: Dr. Shelley Keating (University of Queensland), Prof. Nicholas Gilson (University of Queensland), Dr. Samantha Van Beurden (Exeter) 
 
-- Yuan Gao.
+- Yuan Gao. Co-supervisor: Dr. Hang Dong.
   
 
 MSc students:
