@@ -11,7 +11,7 @@ author_profile: true
 
 I enjoy seeing students improve through my teaching. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life**. 
 
-Teaching qualification
+**Teaching qualification**
 
 - I am a **<span style="color: red;">Fellow of the Higher Education Academy (FHEA)</span>**.
 
