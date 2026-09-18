@@ -64,12 +64,12 @@ However, traditional anonymization methods will affect the utility of the anonym
   <img src="/images/research/3PFS.gif" alt="Second Image" style="height: 300px; width: auto;">
 </div>
 
-<h3>Pedestrian anonymization via full-body anonymization</h3>
+<!-- <h3>Pedestrian anonymization via full-body anonymization</h3>
 This work is under review.
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="/images/research/PedPrivacy.gif" alt="First Image" style="height: 300px; width: auto; margin-right: 20px;">
-</div>
+</div> -->
 
 
 <h3>Related publications</h3>
