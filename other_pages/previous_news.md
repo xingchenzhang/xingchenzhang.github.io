@@ -5,6 +5,8 @@ author_profile: true
 permalink: /previous_news/
 ---
 
+[07/2026] A candidate has been awarded an **University of Exeter - Paris-Saclay PhD scholarship** and will join my group in October this year.
+
 [05/2026] A candidate has been awarded an **Exeter-CSC PhD scholarship** and will join my group in September this year.
 
 [03/2026] Our special issue proposal **Multimodal Representation Learning Based on Vision Foundation Models** has been accepted by **Pattern Recognition**. Open for Submission: from 15-Apr-2026 to 31-Mar-2027. More details can be found [here](https://www.sciencedirect.com/special-issue/332578/multimodal-representation-learning-based-on-vision-foundation-models).
