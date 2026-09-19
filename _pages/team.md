@@ -41,7 +41,7 @@ PhD students (as primary supervisor):
 
 - Yuan Gao (2026 -). Co-supervisor: Dr. Hang Dong.
 
-- Zhenyue Gu (2026 -). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science), Dr. Céline Clavel (Université Paris-Saclay), Prof. Nicolas Sabouret (Université Paris-Saclay)
+- [Zhenyue Gu](https://scholar.google.com/citations?user=s4FCNVUAAAAJ&hl=en) (2026 -). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science), Dr. Céline Clavel (Université Paris-Saclay), Prof. Nicolas Sabouret (Université Paris-Saclay)
   
 
 MSc students:
