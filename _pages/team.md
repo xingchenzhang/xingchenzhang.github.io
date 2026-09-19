@@ -32,17 +32,17 @@ At the University of Exeter, I lead the **[Fusion Intelligence Laboratory](https
 
 PhD students (as primary supervisor):
 
-- [Zixian Zhao](https://scholar.google.com/citations?hl=en&user=0mkQvWYAAAAJ&view_op=list_works&sortby=pubdate) (2024 -). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science)
+- [Zixian Zhao](https://scholar.google.com/citations?hl=en&user=0mkQvWYAAAAJ&view_op=list_works&sortby=pubdate) (2024-). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science)
 
-- Ning Wang (2025 -). Co-supervisor: Prof. Xujiong Ye
+- Ning Wang (2025-). Co-supervisor: Prof. Xujiong Ye
 
-- [Quangao Liu](https://scholar.google.com/citations?user=amE9NlYAAAAJ&hl=zh-CN) (2025 - ). Co-supervisor: Prof. Lu Liu
+- [Quangao Liu](https://scholar.google.com/citations?user=amE9NlYAAAAJ&hl=zh-CN) (2025- ). Co-supervisor: Prof. Lu Liu
 
-- Yanlong Meng (2026 -). Co-supervisor: Dr. Shelley Keating (University of Queensland), Prof. Nicholas Gilson (University of Queensland), Dr. Samantha Van Beurden (Exeter) 
+- Yanlong Meng (2026-). Co-supervisor: Dr. Shelley Keating (University of Queensland), Prof. Nicholas Gilson (University of Queensland), Dr. Samantha Van Beurden (Exeter) 
 
-- Yuan Gao (2026 -). Co-supervisor: Dr. Hang Dong.
+- Yuan Gao (2026-). Co-supervisor: Dr. Hang Dong.
 
-- [Zhenyue Gu](https://scholar.google.com/citations?user=s4FCNVUAAAAJ&hl=en) (2026 -). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science), Dr. Céline Clavel (Université Paris-Saclay), Prof. Nicolas Sabouret (Université Paris-Saclay)
+- [Zhenyue Gu](https://scholar.google.com/citations?user=s4FCNVUAAAAJ&hl=en) (2026-). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science), Dr. Céline Clavel (Université Paris-Saclay), Prof. Nicolas Sabouret (Université Paris-Saclay)
 
 BSc students:  
 
