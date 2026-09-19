@@ -18,18 +18,26 @@ I enjoy seeing students improve through my teaching. As Mencius the philosopher 
 
 **At University of Exeter**
 
-- **Module lead and Lecturer**, COMM042 and COMM042J (2025-2026), Introduction to Computer Vision, Department of Computer Science. This is a module for MSc students. Accelerate Module Score from students: **4.54/5**
+- **Module lead and Lecturer**, COMM042 and COMM042J (2025- ), Introduction to Computer Vision. This is a module for MSc students. Accelerate Module Score from students: **4.54/5**
 
-- **Module lead and Lecturer**, COM2013, Data Science Group Project 2 (2024-2025), Department of Computer Science. This is a module for undergraduate (second year) and graduate students.
+- **Module lead and Lecturer**, COM2013, Data Science Group Project 2 (2024-2025). This is a module for undergraduate (second year) and graduate students.
 
-- **Lecturer**, COM2017, Introduction to Prompt Engineering (2024-2025; 2025-2026), Department of Computer Science. I taught this module together with Dr. Avon Huxor. This is a module for both BSc and MSc students. Accelerate Module Score from students: **4.46/5**
+- **Lecturer**, COM2017, Introduction to Prompt Engineering (2024-2025; 2025-2026). I taught this module together with Dr. Avon Huxor. This is a module for both BSc and MSc students. Accelerate Module Score from students: **4.46/5**
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/teaching/teaching-prompt-engineering-1.jpg" alt="image1" width="400" style="margin-right: 10px;">
   <img src="/images/teaching/teaching-prompt-engineering-2.jpg" alt="image2" width="400">
 </div>
 
-- **Lecturer**, COMM109Z, Programming with Python (Online MSc course, 2025-2026), Department of Computer Science. I taught this module together with several colleauges.
+- **Lecturer**, COMM109Z, Programming with Python (Online MSc course, 2025-2026). I taught this module together with several colleauges.
+
+- **Project Supervisor**, ECM3401, BSc Projects (2024- ) 
+
+- **Project Supervisor**, COMM514 and COMM424DA, MSc Projects (2024 - )
+
+- **Module Moderator**,  ECM3428, Algorithms That Changed The World (2024- ) 
+
+- **Module Moderator**,  ECM3438, Synoptic Project (2024- ) 
 
 **At Imperial College London**
 

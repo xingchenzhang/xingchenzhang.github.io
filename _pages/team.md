@@ -12,11 +12,12 @@ I have supervised and co-supervised students at various universities and continu
 
 - In 2025, I received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>** in the University of Exeter.
 
-- In 2026, My PhD student Zixian Zhao received the **<span style="color: red;"> Dean of Postgraduate Research’s Commendation for Excellence in Academic Citizenship</span>**.
+- In 2025, My MSc student Qinqing Li received the **Computer Science Prizes for MSc students (Faculty Commendations - A)**.
 
-- In 2026, My BSc student Aditya Bhardwaj received the **<span style="color: red;"> Computer Science Prizes for MSc students (Faculty Commendations - A)</span>**.
+- In 2026, My PhD student Zixian Zhao received the **Dean of Postgraduate Research’s Commendation for Excellence in Academic Citizenship**.
 
-- In 2025, My MSc student Qinqing Li received the **<span style="color: red;"> Computer Science Prizes for MSc students (Faculty Commendations - A)</span>**.
+- In 2026, My BSc student Aditya Bhardwaj received the **Computer Science Prizes for MSc students (Faculty Commendations - A)**.
+
 
 ## **Current team**
 
@@ -42,7 +43,12 @@ PhD students (as primary supervisor):
 - Yuan Gao (2026 -). Co-supervisor: Dr. Hang Dong.
 
 - [Zhenyue Gu](https://scholar.google.com/citations?user=s4FCNVUAAAAJ&hl=en) (2026 -). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science), Dr. Céline Clavel (Université Paris-Saclay), Prof. Nicolas Sabouret (Université Paris-Saclay)
-  
+
+BSc students:  
+
+- Kazybek Khairulla
+- Oliver Methold
+- Pyae Thaw
 
 MSc students:
 
