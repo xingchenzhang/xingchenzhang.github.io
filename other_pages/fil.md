@@ -237,7 +237,7 @@ The research in FIL covers following topics:
       <div class="lab-person">
           <img src="/images/people/Yanlong.jpg" alt="Yanlong Meng">
           <div><strong>Yanlong Meng</strong></div>
-          <div>Funded QUEX Joint PhD studentship</div>
+          <div>Funded by UQEX Joint PhD studentship</div>
       </div>
     </div>
   </div>
@@ -272,7 +272,7 @@ The research in FIL covers following topics:
 
 [01/2026] Our workshop proposal on pedestrian behavior prediction has been accepted by **ICRA2026**, which will be held in Vienna, Austria, on June 1-5, 2026. 
 
-[01/2026] Welcome Yanlong to join FIL as a PhD student!  Yanlong is funded by a QUEX joint PhD studentship.
+[01/2026] Welcome Yanlong to join FIL as a PhD student!  Yanlong is funded by a UQEX joint PhD studentship.
 
 [12/2025] Dr. Xingchen Zhang was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as the **<span style="color: red;">PI</span>**. This will give our lab access to one of the UK’s fastest artificial intelligence supercomputers (Dawn).
 

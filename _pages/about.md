@@ -63,7 +63,7 @@ News
 
 [02/2026] A **<span style="color: red;">Marie Sklodowska-Curie Postdoctoral Fellowship</span>** application (Horizon Europe) hosted by me has been awarded. 
 
-[01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is fully funded by a QUEX (UQ-Exeter) joint PhD studentship.
+[01/2026] Welcome Yanlong to join my lab as a PhD student!  Yanlong is fully funded by a UQEX (UQ-Exeter) joint PhD studentship.
 
 [12/2025] I was awarded an **<span style="color: red;">UKRI AIRR Gateway project</span>** as  **<span style="color: red;">PI</span>**. 
 
