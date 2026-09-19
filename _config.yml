@@ -264,9 +264,9 @@ defaults:
   # _vacancies
   - scope:
       path: ""
-      type: opportunities
+      type: vacancies
     values:
-      layout: opportunities
+      layout: vacancies
       author_profile: true
       share: true
 

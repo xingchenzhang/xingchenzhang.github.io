@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Opportunities"
-permalink: /opportunities/
+title: "Vacancies"
+permalink: /vacancies/
 author_profile: true
 ---
 {% include base_path %}
@@ -16,7 +16,9 @@ Postdoc Opportunities
 
 **Other opportunities**
 
-- [[MSCA Postdoctoral Fellowships]](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). The application deadline for 2026 is **now closed**. 
+- [[MSCA Postdoctoral Fellowships]](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). The application in 2026 is **now closed**. 
+
+- [Newton International Fellowship](Newton International Fellowship). The application in 2026 is **now closed**. 
 
 
 PhD Opportunities
