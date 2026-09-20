@@ -16,7 +16,7 @@ I have supervised and co-supervised students at various universities and continu
 
 - In 2026, My PhD student Zixian Zhao received the **Dean of Postgraduate Research’s Commendation for Excellence in Academic Citizenship**.
 
-- In 2026, My BSc student Aditya Bhardwaj received the **Computer Science Prizes for MSc students (Faculty Commendations - A)**.
+- In 2026, My BSc student Aditya Bhardwaj received the **Computer Science Prizes for BSc students (Faculty Commendations - A)**.
 
 
 ## **Current team**
