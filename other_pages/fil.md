@@ -221,11 +221,13 @@ The research in FIL covers following topics:
           <div><strong>Zixian Zhao</strong></div>  
         </a>
         <div>Funded by Exeter PhD studentship</div>
+        <div>2024-</div>
       </div>
       <div class="lab-person">
           <img src="/images/people/Ning.jpg" alt="Ning Wang">
           <div><strong>Ning Wang</strong></div>
           <div>Funded by CSC PhD studentship</div>
+          <div>2025-</div>
       </div>
       <div class="lab-person">
         <a href="https://scholar.google.com/citations?user=amE9NlYAAAAJ&hl=zh-CN">
@@ -233,11 +235,26 @@ The research in FIL covers following topics:
           <div><strong>Quangao Liu</strong></div>
         </a>
         <div>Funded by CSC PhD studentship</div>
+        <div>2025-</div>
       </div>
       <div class="lab-person">
           <img src="/images/people/Yanlong.jpg" alt="Yanlong Meng">
           <div><strong>Yanlong Meng</strong></div>
           <div>Funded by UQEX Joint PhD studentship</div>
+          <div>2025-</div>
+      </div>
+            <div class="lab-person">
+          <img src="/images/people/Yuan.png" alt="Yuan Gap">
+          <div><strong>Yuan Gao</strong></div>
+          <div>Funded by CSC PhD studentship</div>
+          <div>2026-</div>
+      </div>
+            <div class="lab-person">
+          <a href="https://scholar.google.com/citations?user=s4FCNVUAAAAJ&hl=en">
+          <img src="/images/people/Zhenyue.jpg" alt="Zhenyue">
+          <div><strong>Zhenyue Gu</strong></div>
+          <div>Funded by Exeter-Paris-Saclay Joint PhD studentship</div>
+          <div>2026-</div>
       </div>
     </div>
   </div>
