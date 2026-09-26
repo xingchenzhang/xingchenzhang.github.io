@@ -137,7 +137,7 @@ author_profile: true
 
 **Professional membership**
 
-- Member, IEEE
+- Senior Member, IEEE
 
 - Member, IET
 

@@ -266,6 +266,8 @@ The research in FIL covers following topics:
 
 <div class="lab-news-box" markdown="1">
 
+[09/2026] Dr. Xingchen Zhang has been elevated to IEEE Senior Member.
+
 [09/2026] Welcome Zhenyue and Yuan to join FIL as PhD students!
 
 [07/2026] A candidate has been awarded an **University of Exeter - Paris-Saclay PhD scholarship** and will join FIL later this year.
