@@ -10,8 +10,6 @@ For a full list of my publications, please refer to my [Google Scholar profile](
 
 **Selected Publications**
 
-- **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS Position Paper Track, 2025. **Oral paper**. [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
-
 - **X. Zhang***, Y. Demiris. Visible and Infrared Image Fusion using Deep Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 10535-10554, 2023. (**ESI Highly Cited Paper**, **ESI Hot Paper**)
 
 - **X. Zhang**, Deep Learning-based Multi-focus Image Fusion: A Survey and A Comparative Study, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, No. 9, pp. 4819 – 4838, 2022. [[Link]](https://github.com/xingchenzhang/MFIFB) (**ESI Highly Cited Paper**)
@@ -21,6 +19,8 @@ For a full list of my publications, please refer to my [Google Scholar profile](
 - **X. Zhang***, P. Angeloudis, Y. Demiris. ST CrossingPose: A Spatial-Temporal Graph Convolutional Network for Skeleton-based Pedestrian Crossing Intention Prediction, IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 11, pp. 20773-20782, 2022.
 
 - **X. Zhang**. Benchmarking and Comparing Multi-exposure Image Fusion Algorithms. Information Fusion, vol. 74, pp. 111-131, 2021. (**The first multi-exposure image fusion benchmark**) [[Benchmark link]](https://github.com/xingchenzhang/MEFB)
+
+- **X. Zhang***, Z. Zhao. More effort is needed to protect pedestrian privacy in the era of AI. NeurIPS Position Paper Track, 2025. **Oral paper**. [[PDF]](https://openreview.net/pdf?id=rdeCalg68L) 
 
 - Z. Zhao, **X. Zhang***, Y. Demiris. 3PFS: Protecting pedestrian privacy through face swapping, IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 16845-16854, 2024.
 
