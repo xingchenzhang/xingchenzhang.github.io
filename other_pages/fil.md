@@ -267,6 +267,8 @@ The research in FIL covers following topics:
 
 <div class="lab-news-box" markdown="1">
 
+[09/2026] Prof. Nicolas Sabouret and Dr. Céline Clavel from LISN, Université Paris-Saclay, France, visited our lab and gave a talk at the Department of Computer Science.
+
 [09/2026] Dr. Xingchen Zhang has been elevated to IEEE Senior Member.
 
 [09/2026] Welcome Zhenyue and Yuan to join FIL as PhD students!
