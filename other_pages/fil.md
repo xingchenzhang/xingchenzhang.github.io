@@ -482,6 +482,11 @@ function closeImageBox() {
 <h2 id="awards">Awards</h2>
 
 <ul>
+
+  <li>2026: World's Top 2% Scientists – Career Data — Xingchen Zhang (PI and Lab Director)</li>
+
+  <li>2023–2026: World's Top 2% Scientists – Single-Year Data — Xingchen Zhang (PI and Lab Director)</li>
+
   <li>2026: Dean of Postgraduate Research's Commendation for Excellence in Academic Citizenship — Zixian Zhao (PhD Student)</li>
 
   <li>2026: Computer Science Prize / Faculty Commendation A — Aditya Bhardwaj (BSc Student)</li>
@@ -489,8 +494,6 @@ function closeImageBox() {
   <li>2025: Computer Science Prize / Faculty Commendation A — Qinqing Li (MSc Student)</li>
 
   <li>2025: Dean of Postgraduate Research's Commendation for Excellence in Supervision — Xingchen Zhang (PI and Lab Director)</li>
-
-  <li>2023–2026: World's Top 2% Scientists — Xingchen Zhang (PI and Lab Director)</li>
 </ul>
 
 
