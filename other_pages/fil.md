@@ -267,6 +267,8 @@ The research in FIL covers following topics:
 
 <div class="lab-news-box" markdown="1">
 
+[10/2026] Dr. Xingchen Zhang was listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>**  (Stanford University’s list, 2026) — his fourth time receiving this recognition!
+
 [09/2026] Prof. Nicolas Sabouret and Dr. Céline Clavel from LISN, Université Paris-Saclay, France, visited our lab and gave a talk at the Department of Computer Science.
 
 [09/2026] Dr. Xingchen Zhang has been elevated to IEEE Senior Member.
@@ -488,7 +490,7 @@ function closeImageBox() {
 
   <li>2025: Dean of Postgraduate Research's Commendation for Excellence in Supervision — Xingchen Zhang (PI and Lab Director)</li>
 
-  <li>2023–2025: World's Top 2% Scientists — Xingchen Zhang (PI and Lab Director)</li>
+  <li>2023–2026: World's Top 2% Scientists — Xingchen Zhang (PI and Lab Director)</li>
 </ul>
 
 
