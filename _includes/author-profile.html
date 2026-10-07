@@ -25,6 +25,13 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      {% if author.fil_website %}
+        <li>
+          <a href="{{ author.fil_website }}">
+          <i class="fas fa-fw fa-flask" aria-hidden="true"></i> Fusion Intelligence Lab
+          </a>
+        </li>
+      {% endif %} 
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
