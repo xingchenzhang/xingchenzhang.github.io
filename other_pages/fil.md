@@ -181,6 +181,7 @@ Building on Dr Zhang’s experience at **Imperial College London**, FIL investig
   <a href="#lab-news">Lab News</a>
   <a href="#selected-publications">Selected Publications</a>
   <a href="#selected-funders">Funding and Support</a>
+  <a href="#awards">Awards</a>
   <a href="#contact">Contact</a>
 </div>
 
@@ -473,6 +474,21 @@ function closeImageBox() {
 <div style="display: flex; justify-content: center;">
   <img src="/images/collaborators/collaborators.jpg" alt="image2" width="700">
 </div> -->
+
+<h2 id="awards">Awards</h2>
+
+<ul>
+  <li>2026: Dean of Postgraduate Research's Commendation for Excellence in Academic Citizenship — Zixian Zhao (PhD Student)</li>
+
+  <li>2026: Computer Science Prize / Faculty Commendation A — Aditya Bhardwaj (BSc Student)</li>
+
+  <li>2025: Computer Science Prize / Faculty Commendation A — Qinqing Li (MSc Student)</li>
+
+  <li>2025: Dean of Postgraduate Research's Commendation for Excellence in Supervision — Xingchen Zhang (PI and Lab Director)</li>
+
+  <li>2023–2025: World's Top 2% Scientists — Xingchen Zhang (PI and Lab Director)</li>
+</ul>
+
 
 <h2 id="contact">Contact</h2>
 Address: Kathleen Booth Building, Streatham Campus, EX4 4RN, Exeter, UK 
