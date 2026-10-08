@@ -267,7 +267,7 @@ The research in FIL covers following topics:
 
 <div class="lab-news-box" markdown="1">
 
-[10/2026] Dr. Xingchen Zhang has been listed once again among the <span style="color: red;">World’s Top 2% Scientists</span> (Stanford University/Elsevier, 2026). This marks his fourth consecutive inclusion in the single-year data list, and his first inclusion in the career data list.
+[10/2026] Dr. Xingchen Zhang has been listed once again among the <span style="color: red;">World’s Top 2% Scientists</span> (Stanford University/Elsevier, 2026). This marks his fourth consecutive inclusion in the "Single Year List", and his first inclusion in the "Career Long List".
 
 [09/2026] Prof. Nicolas Sabouret and Dr. Céline Clavel from LISN, Université Paris-Saclay, France, visited our lab and gave a talk at the Department of Computer Science.
 
@@ -483,9 +483,9 @@ function closeImageBox() {
 
 <ul>
 
-  <li>2026: World's Top 2% Scientists – Career Data — Xingchen Zhang (PI and Lab Director)</li>
+  <li>2026: World's Top 2% Scientists – Career Long List — Xingchen Zhang (PI and Lab Director)</li>
 
-  <li>2023–2026: World's Top 2% Scientists – Single-Year Data — Xingchen Zhang (PI and Lab Director)</li>
+  <li>2023–2026: World's Top 2% Scientists – Single Year List — Xingchen Zhang (PI and Lab Director)</li>
 
   <li>2026: Dean of Postgraduate Research's Commendation for Excellence in Academic Citizenship — Zixian Zhao (PhD Student)</li>
 

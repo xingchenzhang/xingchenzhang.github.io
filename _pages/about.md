@@ -19,7 +19,7 @@ My research focuses on **machine intelligence and information fusion for human b
 
 Before joining Exeter as a Senior Lecturer, I spent several years at **[Imperial College London](https://www.imperial.ac.uk/)**, where I worked across research, teaching, and supervision in the [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/). I was a **Marie Skłodowska-Curie Individual Fellow** at the [Personal Robotics Laboratory](https://www.imperial.ac.uk/personal-robotics/), working with **[Prof. Yiannis Demiris](https://www.imperial.ac.uk/people/y.demiris)**. I also worked as a **Research Associate** on robotics, computer vision, and intelligent transportation projects with Prof. Demiris and collaborators including [Prof. Panagiotis Angeloudis](https://transport-systems.imperial.ac.uk/). In addition, I served as a **Teaching Fellow**, teaching the Deep Learning module with [Prof. Krystian Mikolajczyk](https://profiles.imperial.ac.uk/k.mikolajczyk).
 
-I have published over 40 peer-reviewed papers in leading journals and conferences. I co-authored the book [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors) and authored [**Intelligence of Fusion: Deep Learning-Based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/). I am an IEEE Senior Member. I have been a **Fellow of the [Higher Education Academy (HEA)](https://www.advance-he.ac.uk/)** since July 2023. I have been listed among the **World’s Top 2% Scientists** ([Stanford University/Elsevier list](https://topscinet.com/)), including the **single year data list** in 2023, 2024, 2025 and 2026, and the **career data list** in 2026.
+I have published over 40 peer-reviewed papers in leading journals and conferences. I co-authored the book [**Image Fusion**](https://link.springer.com/book/10.1007/978-981-15-4867-3#aboutAuthors) and authored [**Intelligence of Fusion: Deep Learning-Based Image Fusion**](https://xingchenzhang.github.io/imagefusionbook/). I am an IEEE Senior Member. I have been a **Fellow of the [Higher Education Academy (HEA)](https://www.advance-he.ac.uk/)** since July 2023. I have been listed among the **World’s Top 2% Scientists** ([Stanford University/Elsevier list](https://topscinet.com/)), including the **Single Year List** in 2023, 2024, 2025 and 2026, and the **Career Long List** in 2026.
 
 
 Research interests
@@ -47,7 +47,7 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
-[10/2026] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>** (Stanford University/Elsevier, 2026). This marks my fourth consecutive inclusion in the **single-year data** list, and I am also delighted to be included for the first time in the **career data** list.
+[10/2026] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>** (Stanford University/Elsevier, 2026). This marks my fourth consecutive inclusion in the **Single Year List**, and I am also delighted to be included for the first time in the **Career Long List**.
 
 [09/2026] I have been elevated to IEEE Senior Member.
 
