@@ -132,8 +132,6 @@ author_profile: true
 
 - International Conference on Information Fusion (Fusion)
 
-- NeurIPS 2022 Workshop: AI for Science: Progress and Promises
-
 
 **Professional membership**
 
