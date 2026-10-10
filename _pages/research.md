@@ -35,13 +35,13 @@ Research areas
 ----
 Under the vision of Fusion Intelligence, my research spans five closely connected directions:
 
-- Multimodal Learning and Image Fusion     
-- Robotics and Embodied Intelligence  
-- Human-Centered Computer Vision  
-- Trustworthy and Responsible AI
-- AI for Healthcare 
+- [Multimodal Learning and Image Fusion](#multimodal-learning-and-image-fusion)  
+- [Robotics and Embodied Intelligence](#robotics-and-embodied-intelligence)  
+- [Human-Centered Computer Vision](#human-centered-computer-vision)  
+- [Trustworthy and Responsible AI](#trustworthy-and-responsible-ai)  
+- [AI for Healthcare](#ai-for-healthcare)  
 
-**Multimodal learning and image fusion** provide the methodological foundation for integrating complementary visual and sensory information. **Robotics and embodied intelligence** extend fusion from perception to action in physical environments. **Human-centered computer vision** focuses on understanding and assisting people in real-world scenarios. **Trustworthy and responsible AI** focuses on robustness, privacy protection, and socially responsible AI technologies. **AI for healthcare** explores how multimodal learning and image analysis can support the analysis of medical images and biomedical multimodal data.
+[**Multimodal learning and image fusion**](#multimodal-learning-and-image-fusion) provide the methodological foundation for integrating complementary visual and sensory information. [**Robotics and embodied intelligence**](#robotics-and-embodied-intelligence) develop research capacity for studying intelligent systems in physical environments. [**Human-centered computer vision**](#human-centered-computer-vision) focuses on understanding and assisting people in real-world scenarios. [**Trustworthy and responsible AI**](#trustworthy-and-responsible-ai) focuses on robustness, privacy protection, and socially responsible AI technologies. [**AI for healthcare**](#ai-for-healthcare) explores how multimodal learning and image analysis can support the analysis of medical images and biomedical multimodal data.
 
 Research topics
 ----
