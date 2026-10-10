@@ -57,22 +57,13 @@ Research topics
 
 Beyond developing individual algorithms, I have also contributed to the community through surveys, benchmarks, comparative studies, open resources, and books, including the published book [*Image Fusion*](https://link.springer.com/book/10.1007/978-981-15-4867-3) and the open-source book project [*Intelligence of Fusion*](https://xingchenzhang.github.io/imagefusionbook/). These efforts aim to organise and communicate the foundations, progress, and future directions of multimodal information fusion. Together, they provide the core perception and representation-learning capabilities that support my broader research in [embodied intelligence](#robotics-and-embodied-intelligence), [trustworthy AI](#trustworthy-and-responsible-ai), and [healthcare applications](#ai-for-healthcare).
 
-Related publications:  
+Selected publications:  
 1. **X. Zhang**, Y. Demiris. Visible and Infrared Image Fusion using Deep Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 10535-10554, 2023. (**ESI Highly Cited Paper, ESI hot paper)**  
 2. **X. Zhang**. Deep Learning-based Multi-focus Image Fusion: A Survey and A Comparative Study, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, No. 9, pp. 4819 – 4838, 2022. [[Link]](https://github.com/xingchenzhang/MFIFB) (**ESI Highly Cited Paper**)  
 3. **X. Zhang**. Benchmarking and Comparing Multi-exposure Image Fusion Algorithms. Information Fusion, vol. 74, pp. 111-131, 2021. (The first multi-exposure image fusion benchmark) [[Benchmark link]](https://github.com/xingchenzhang/MEFB)  
-4. **X. Zhang**, P. Ye, H. Leung, K. Gong, G. Xiao. Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review. Information Fusion, vol. 63, pp. 166-187, 2020. 
 4. **X. Zhang**, P. Ye, G. Xiao. VIFB: A Visible and Infrared Image Fusion Benchmark, In the Proceedings of IEEE/CVF Conference on Computer Vision Workshops, 2020. (The first image fusion benchmark, which has been utilized by researchers from more than 10 countries.) [[Benchmark link]](https://github.com/xingchenzhang/VIFB)  
-5. **X. Zhang**, P. Ye, S. Peng, J. Liu, G. Xiao. DSiamMFT: An RGB-T fusion tracking method via
-dynamic Siamese networks using multi-layer feature fusion. Signal Processing: Image
-Communication, vol. 84, 2020.  
-6. **X. Zhang**, P. Ye, D. Qiao, J. Zhao, S. Peng, G. Xiao. Object Fusion Tracking Based on Visible and
-Infrared Images Using Fully Convolutional Siamese Networks. In Proceedings of the 22nd
-International Conference on Information Fusion, 2019.  
-7. **X. Zhang**. "Multi-focus image fusion: A benchmark." arXiv preprint arXiv:2005.01116 (2020). (The first multi-focus image fusion benchmark in the community)  
-8. Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning. IEEE Transactions on Image Processing. [[Link]](https://arxiv.org/pdf/2505.06665)  
-10. Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. IEEE Transactions on Image Processing. [[Link]](https://arxiv.org/abs/2509.22450) 
-11. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. DIFA 2025 Workshop, BMVC2025.  
+8. Z. Zhao, A. Howes, **X. Zhang**\*. MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning, IEEE Transactions on Image Processing, 2026. [[Link]](https://arxiv.org/pdf/2505.06665)
+9. Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. IEEE Transactions on Image Processing, 2026. [[Link]](https://ieeexplore.ieee.org/document/11570838)
 1. G. Xiao, D.P. Bavirisetti , G. Liu , **X. Zhang**, [Image Fusion](https://link.springer.com/book/10.1007/978-981-15-4867-3), Springer Nature Singapore and Shanghai Jiao Tong University Press, 2020. This book has won the **National Science and Technology Academic Publications Fund of China** (2019).   
 2. **X. Zhang**. Intelligence of Fusion: Deep Learning-based Image Fusion (written in Chinese). 2025. This book is available [here](https://xingchenzhang.github.io/imagefusionbook/). 
 
