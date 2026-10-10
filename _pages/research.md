@@ -41,7 +41,7 @@ Under the vision of Fusion Intelligence, my research spans five closely connecte
 - Trustworthy and Responsible AI
 - AI for Healthcare 
 
-**Multimodal learning and image fusion** provide the methodological foundation for integrating complementary visual and sensory information. **Robotics and embodied intelligence** extend fusion from perception to action in physical environments. **Human-centered computer vision** focuses on understanding and assisting people in real-world scenarios. **Trustworthy and responsible AI** ensures that such systems are robust, privacy-preserving, and ethically deployed. **AI for healthcare** applies fusion intelligence to high-impact clinical and biomedical problems where reliable decision-making is critical.
+**Multimodal learning and image fusion** provide the methodological foundation for integrating complementary visual and sensory information. **Robotics and embodied intelligence** extend fusion from perception to action in physical environments. **Human-centered computer vision** focuses on understanding and assisting people in real-world scenarios. **Trustworthy and responsible AI** focuses on robustness, privacy protection, and socially responsible AI technologies. **AI for healthcare** explores how multimodal learning and image analysis can support the analysis of medical images and biomedical multimodal data.
 
 Research topics
 ----
@@ -55,7 +55,7 @@ Research topics
 
 **Multimodal learning and image fusion** form the methodological foundation of my research on **Fusion Intelligence**. This direction focuses on developing algorithms that can integrate complementary information from multiple sensors, modalities, or data sources, such as visible images, infrared images, depth, event data, LiDAR, and medical imaging data. My work has covered both **low-level image fusion**, including visible-infrared, multi-focus, and multi-exposure image fusion, and **high-level multimodal understanding**, including RGB-T tracking, segmentation-oriented fusion, and multimodal medical image analysis.
 
-Beyond developing individual algorithms, I have also contributed to the community through surveys, benchmarks, comparative studies, open resources, and books, including the published book [*Image Fusion*](https://link.springer.com/book/10.1007/978-981-15-4867-3) and the open-source book project [*Intelligence of Fusion*](https://xingchenzhang.github.io/imagefusionbook/). These efforts aim to organise and communicate the foundations, progress, and future directions of multimodal information fusion. Together, they provide the core perception and representation-learning capabilities that support my broader research in [embodied intelligence](#robotics-and-embodied-intelligence), [trustworthy AI](#trustworthy-and-ethical-ai), and [healthcare applications](#ai-for-healthcare).
+Beyond developing individual algorithms, I have also contributed to the community through surveys, benchmarks, comparative studies, open resources, and books, including the published book [*Image Fusion*](https://link.springer.com/book/10.1007/978-981-15-4867-3) and the open-source book project [*Intelligence of Fusion*](https://xingchenzhang.github.io/imagefusionbook/). These efforts aim to organise and communicate the foundations, progress, and future directions of multimodal information fusion. Together, they provide the core perception and representation-learning capabilities that support my broader research in [embodied intelligence](#robotics-and-embodied-intelligence), [trustworthy AI](#trustworthy-and-responsible-ai), and [healthcare applications](#ai-for-healthcare).
 
 Related publications:  
 1. **X. Zhang**, Y. Demiris. Visible and Infrared Image Fusion using Deep Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 10535-10554, 2023. (**ESI Highly Cited Paper, ESI hot paper)**  
@@ -82,31 +82,30 @@ International Conference on Information Fusion, 2019.
 
 <h2 id="robotics-and-embodied-intelligence">2. Robotics and Embodied Intelligence</h2>
 
-My lab has received funding and support from the Royal Society, NVIDIA Academic Grant, European Commission, UKRI AIRR to conduct research in robotics and embodied intelligence. 
+My lab has received funding and support from the Royal Society, NVIDIA Academic Grant, the European Commission, and UKRI AIRR to develop research capacity in robotics and embodied intelligence.
 
-We have several robots, different sensors, several NVIDIA Jetsons in the lab.
+We are building a robotics research platform with mobile robots, different sensors, and NVIDIA Jetson edge-computing devices.
 
-<p align="image-center"> 
+<p class="image-center"> 
   <img width="700" src="/images/research/FIL-robot.jpg" />
 </p>
 
-More info to come.
-
 
 <h2 id="human-centered-computer-vision">3. Human-Centered Computer Vision</h2>
+Human-centered computer vision focuses on developing AI systems that can understand, predict, and assist human behaviour in real-world environments. My research in this area has mainly explored pedestrian perception, including pedestrian trajectory prediction, crossing intention prediction, and pedestrian tracking. These studies aim to improve the ability of intelligent systems to understand people’s movements, intentions, and interactions with the surrounding environment, contributing to my broader goal of developing AI technologies that can assist humans and support safer, more intelligent real-world systems.
 
 <h3>(1) Pedestrian Trajectory Prediction</h3>
-<p align="image-center"> 
+<p class="image-center"> 
   <img width="500" src="/images/research/Demo Social TAG.gif" />
 </p>
 
 <h3>(2) Pedestrian Crossing Intention Prediction</h3>
-<p align="image-center"> 
+<p class="image-center"> 
   <img width="700" src="/images/research/crossingpose.png" />
 </p>
 
 <h3>(3) Pedestrian Tracking</h3>
-<p align="image-center"> 
+<p class="image-center"> 
   <img width="700" src="/images/research/Pedestrian-tracking.gif" />
 </p>
 
@@ -125,7 +124,8 @@ object recovery. IET Image Processing, vol. 15, no. 4, pp. 918-935, 2021.
 correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-761, 2020.  
 6. J. Zhao, G. Xiao\*, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019.  
 
-<h2 id="trustworthy-and-ethical-ai">4. Trustworthy and Ethical AI</h2>
+<h2 id="trustworthy-and-responsbile-ai">4. Trustworthy and Responsible AI</h2>
+Trustworthy and responsible AI focuses on developing AI technologies that are reliable, robust, privacy-preserving, and socially responsible. My current work in this area includes privacy protection in visual data, with a particular focus on reducing the risk of exposing identifiable personal information while preserving the utility of images and videos for computer vision tasks.
 
 <h3>Pedestrian Privacy Protection</h3>  
 
@@ -150,6 +150,7 @@ Related publications:
 
 
 <h2 id="ai-for-healthcare">5. AI for Healthcare</h2>
+AI for healthcare focuses on developing machine learning and computer vision methods for the analysis of medical images and biomedical multimodal data. My research in this area explores how AI can extract useful information from complex image-based and multimodal healthcare-related data. This direction builds on my broader interests in multimodal learning and image analysis.
 
 Related publications:  
 1. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. BMVC Workshop 2025. 
