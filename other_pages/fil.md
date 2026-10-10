@@ -161,11 +161,14 @@ full-width: true
 
 <div style="text-align: justify;" markdown="1">
 
-The **Fusion Intelligence Laboratory (FIL)** is led by [Dr. Xingchen Zhang](https://xingchenzhang.github.io/) at the Department of Computer Science, University of Exeter. FIL develops machine intelligence and multi-source information fusion technologies for human benefit, with research centred on multimodal learning, embodied intelligence, and human-centered AI.
 
-Our research spans multimodal learning and information fusion, computer vision, robotics and embodied intelligence, trustworthy and responsible AI, and AI for healthcare. Since its establishment in 2024, FIL has grown into an active research group with PhD students, research collaborators, and a portfolio of funded projects.  Our work has received funding and support from various sources, including the **Royal Society**, the **European Union's Marie Skłodowska-Curie Actions (MSCA)**, **NVIDIA**, **UKRI AI Research Resource (AIRR)**, the **University of Exeter's global partnership funding**, and **joint PhD studentships** with the University of Queensland and Université Paris-Saclay.
+The **Fusion Intelligence Laboratory (FIL)** is led by [Dr. Xingchen Zhang](https://xingchenzhang.github.io/) at the Department of Computer Science, University of Exeter.
 
-Building on Dr Zhang’s experience at **Imperial College London**, FIL investigates **how intelligent systems can integrate heterogeneous information to perceive, understand, and act reliably in complex real-world environments**. We aim to develop robust, trustworthy, and useful AI systems for applications in robotics, healthcare, and other real-world domains. We welcome motivated students and collaborators who share this vision.
+FIL aims to **use machine intelligence and multi-source information fusion to benefit humanity**. The idea of **Fusion Intelligence** was first conceived during Dr. Zhang’s time at **Imperial College London** and was formalised in 2024 when he established the Fusion Intelligence Laboratory at the University of Exeter.
+
+Building on Dr. Zhang’s research and teaching experience at **Imperial College London**, FIL conducts research in machine intelligence, computer vision, and multi-source information fusion, with the broad goal of developing AI technologies that can support human-centred perception, decision-making, and real-world applications.
+
+Our work has received funding and support from various sources, including the **Royal Society**, the **European Union's Marie Skłodowska-Curie Actions (MSCA)**, **NVIDIA**, **UKRI AI Research Resource (AIRR)**, the **University of Exeter's global partnership funding**, and **joint PhD studentships** with the University of Queensland and Université Paris-Saclay.
 
 </div>
 
@@ -186,7 +189,7 @@ Building on Dr Zhang’s experience at **Imperial College London**, FIL investig
 </div>
 
 <h2 id="research-topics">Research Topics</h2>
-The research in FIL covers following topics:
+FIL's research covers the following closely connected topics:
 
 <ul>
   <li>Multimodal Learning and Image Fusion</li>
