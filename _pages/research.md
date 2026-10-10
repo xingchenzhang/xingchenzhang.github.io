@@ -55,9 +55,15 @@ International Conference on Information Fusion, 2019.
 
 
 
-<h2>2. Robotics and Embodied Intelligence, especially robot perception</h2>
+<h2>2. Robotics and Embodied Intelligence.</h2>
 
-My lab has received funding and support from the Royal Society, NVIDIA Academic Grant, European Commission, UKRI AIRR to conduct research in robotics and embodied intelligence. More info to come.
+My lab has received funding and support from the Royal Society, NVIDIA Academic Grant, European Commission, UKRI AIRR to conduct research in robotics and embodied intelligence. We have several robots, different sensors, several NVIDIA Jetsons in the lab.
+
+<p align="center"> 
+  <img width="500" src="/images/research/FIL-robot.jpg" />
+</p>
+
+More info to come.
 
 
 <h2>3. Human-Centered Computer Vision</h2>
