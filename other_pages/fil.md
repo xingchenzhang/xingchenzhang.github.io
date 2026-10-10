@@ -210,8 +210,9 @@ FIL's research covers the following closely connected topics:
       <div class="lab-person">
         <a href="https://xingchenzhang.github.io/">
           <img src="/images/people/Xingchen.jpg" alt="Xingchen Zhang">
-          <div><strong>Xingchen Zhang</strong></div>
+          <div><strong>Dr. Xingchen Zhang</strong></div>
         </a>
+          <div><strong>Senior Lecturer</strong></div>
       </div>
     </div>
   </div>
