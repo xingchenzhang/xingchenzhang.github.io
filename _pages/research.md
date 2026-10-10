@@ -124,7 +124,7 @@ object recovery. IET Image Processing, vol. 15, no. 4, pp. 918-935, 2021.
 correlation filter. Signal, Image and Video Processing, vol. 14, no. 4, pp. 753-761, 2020.  
 6. J. Zhao, G. Xiao\*, **X. Zhang***, D. P. Bavirisetti. An improved long-term correlation tracking method with occlusion handling. Chinese Optics Letters, vol. 17, no. 3, pp. 031001-1: 031001-6, 2019.  
 
-<h2 id="trustworthy-and-responsbile-ai">4. Trustworthy and Responsible AI</h2>
+<h2 id="trustworthy-and-responsible-ai">4. Trustworthy and Responsible AI</h2>
 Trustworthy and responsible AI focuses on developing AI technologies that are reliable, robust, privacy-preserving, and socially responsible. My current work in this area includes privacy protection in visual data, with a particular focus on reducing the risk of exposing identifiable personal information while preserving the utility of images and videos for computer vision tasks.
 
 <h3>Pedestrian Privacy Protection</h3>  
