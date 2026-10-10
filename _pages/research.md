@@ -73,7 +73,7 @@ Selected publications:
 
 <h2 id="robotics-and-embodied-intelligence">2. Robotics and Embodied Intelligence</h2>
 
-My lab has received funding and support from the Royal Society, NVIDIA Academic Grant, the European Commission, and UKRI AIRR to develop research capacity in robotics and embodied intelligence.
+My lab has received funding and support from the **Royal Society**, **the European Commission**, **NVIDIA Academic Grant**, and **UKRI AIRR** to develop research capacity in robotics and embodied intelligence.
 
 We are building a robotics research platform with mobile robots, different sensors, and NVIDIA Jetson edge-computing devices.
 
