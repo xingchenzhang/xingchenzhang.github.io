@@ -6,6 +6,19 @@ author_profile: true
 ---
 {% include base_path %}
 
+<style>
+.research-text p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.research-text li {
+  text-align: left;
+}
+</style>
+
+<div class="research-text" markdown="1">
+
 Vision
 ----
 
@@ -137,4 +150,4 @@ Related publications:
 Related publications:  
 1. Q. Li, Z. Zhao, **X. Zhang**\*. Brain tumor segmentation using multimodal MRI. BMVC Workshop 2025. 
 
-
+</div>
