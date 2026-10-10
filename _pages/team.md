@@ -49,7 +49,7 @@ MSc and Undergraduate Research Students
 
 I also supervise MSc and undergraduate research projects each year. Selected current students working closely with FIL are listed below.
 
-- Kazybek Khairulla
+- [Kazybek Khairulla](https://www.linkedin.com/in/kazybek-khairulla/)
 
 ## Selected Alumni and Former Students
 
@@ -65,7 +65,8 @@ My students have pursued diverse career paths: some have become faculty members 
         - Published a BMVC2025 Workshop paper with me 
         - Now a Software Engineer in DeGould  
         
-  - Heegon Kim (2025): **Distinction**
+  - Heegon Kim (2025)  
+      - Distinction
 
 
 - BSc students
