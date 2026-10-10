@@ -19,7 +19,7 @@ I have supervised and co-supervised students at various universities and continu
 - In 2026, My BSc student Aditya Bhardwaj received the **Computer Science Prizes for BSc students (Faculty Commendations - A)**.
 
 
-## **Current team**
+## Current team
 
 ### University of Exeter:
 
@@ -44,18 +44,14 @@ PhD students (as primary supervisor):
 
 - [Zhenyue Gu](https://scholar.google.com/citations?user=s4FCNVUAAAAJ&hl=en) (2026-). Co-supervisor: Prof. Andrew Howes (Head of the Department of Computer Science), Dr. Céline Clavel (Université Paris-Saclay), Prof. Nicolas Sabouret (Université Paris-Saclay)
 
-BSc students:  
+
+MSc and Undergraduate Research Students
+
+I also supervise MSc and undergraduate research projects each year. Selected current students working closely with FIL are listed below.
 
 - Kazybek Khairulla
-- Oliver Methold
-- Pyae Thaw
 
-MSc students:
-
-- Ali Sajjad (2026)
-
-
-## **Alumni**
+## Selected Alumni and Former Students
 
 My students have pursued diverse career paths: some have become faculty members at Chinese universities, others have joined leading companies like Google and Bosch, while others have continued their academic journey by pursuing PhDs at prestigious universities.
 
@@ -63,51 +59,25 @@ My students have pursued diverse career paths: some have become faculty members 
 
 - MSc students
 
-  - Taylor Xu (2026)
-
-  - Nikhil Anil Deshmukh (2026)
-
-  - Shuai Wei (2026)
-
-  - Xiaotong Gao (2026)
-
-  - Qinqing Li (2025)  
-        - **Distinction**  
-        - **Computer Science Prizes for MSc students (Faculty Commendations - A)**, which is awared to students who have made a significant contribution to the faculty)  
+   - Qinqing Li (2025)  
+        - Distinction  
+        - Received the **Computer Science Prizes for MSc students (Faculty Commendations - A)**, which is awared to students who have made a significant contribution to the faculty
+        - Published a BMVC2025 Workshop paper with me 
         - Now a Software Engineer in DeGould  
         
   - Heegon Kim (2025): **Distinction**
 
-  - Mujeeb Adewuyi Sonibare (2025)
-  
-  - Raghavendra Margasahayam Venkatesh (2025) 
-  
-  - Yuanhang Zhang (2025)
-  
-  - Xuan Zhang (2025) 
-  
-  - Charlie Wilkinson (2024): Leveraging NLP and ML to Predict and Differentiate Substance Abuse Statuses: Uncovering Key Linguistic Indicators    
-  
-  - Ahmer Jalil Najar (2024): Advanced Sentiment Analysis in Sub-Reddit Discussions    
-  
-  - Yifeng Wang (2024): NLP Techniques for Anonymising Sensitive Data   
-	 
 
 - BSc students
 
-  - Aditya Bhardwaj (2026)
+  - [Aditya Bhardwaj](https://www.linkedin.com/in/aditya-bhardwaj-801b482a5/) (2026)
+    - First class degree
+    - Received the **Computer Science Prizes for BSc students (Faculty Commendations - A)**.
+    - Now an AI Engineer at Lloyds Banking Group
 
-  - Oliver Johnson (2026)
+  - [Oliver Johnson](https://www.linkedin.com/in/oliver-r-johnson/) (2026)
+    - Now a Graduate Software Engineer at Kepler Cheuvreux
 
-  - Hivda Nasiroglu (2026)
-
-  - Jason Chung (2026)
-
-  - Rahul Somani (2026)
-
-  - Toby Shelford (2025)
-  
-  - Zihan Wang (2025)
 
 ### Imperial College London:
 
