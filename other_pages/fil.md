@@ -164,7 +164,7 @@ full-width: true
 
 The **Fusion Intelligence Laboratory (FIL)** is led by [Dr. Xingchen Zhang](https://xingchenzhang.github.io/) at the Department of Computer Science, University of Exeter.
 
-FIL aims to **use machine intelligence and multi-source information fusion to benefit humanity**. The idea of **Fusion Intelligence** was first conceived during Dr. Zhang’s time at **Imperial College London** and was formalised in 2024 when he established the Fusion Intelligence Laboratory at the University of Exeter. It describes the lab’s long-term research vision: developing intelligent systems that can integrate complementary information from multiple sensors, modalities, and data sources to perceive, reason, and support decision-making more reliably in complex real-world environments.
+FIL aims to **use machine intelligence and multi-source information fusion to benefit humanity**. The idea of **Fusion Intelligence** was first conceived during Dr. Zhang’s time at **Imperial College London** and was formalised in 2024 when he established the Fusion Intelligence Laboratory at the University of Exeter. It describes the lab’s long-term research vision: **developing intelligent systems that can integrate complementary information from multiple sensors, modalities, and data sources to perceive, reason, and support more reliable decision-making in complex real-world environments**
 
 Building on Dr. Zhang’s research experience at **Imperial College London**, FIL conducts research in machine intelligence, computer vision, and multi-source information fusion, with the broader goal of developing AI technologies for human benefit.
 
