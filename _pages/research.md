@@ -11,16 +11,20 @@ Vision
 
 My Fusion Intelligence Laboratory aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
 
+The idea of **Fusion Intelligence** was first conceived during my time at Imperial College London and was formalised in 2024 when I established the Fusion Intelligence Laboratory. It describes my long-term research agenda: developing intelligent systems that can integrate complementary information from multiple sensors, modalities, and data sources to perceive, reason, and support decision-making more reliably in complex real-world environments. Rather than treating multimodal learning, image fusion, robotics, healthcare AI, and trustworthy AI as separate topics, my work connects them through a common goal: building AI systems that combine complementary sources of information to support human-centred perception, decision-making, and action.
+
 
 Research areas
 ----
-My research aims to use machine intelligence and multi-source information fusion to benefit humanity by developing multimodal and embodied AI systems that can understand complex environments, assist humans in daily life, and improve decision-making in healthcare, with a strong emphasis on trustworthiness, robustness, and privacy protection. Specifically, my research areas include
+Under the vision of Fusion Intelligence, my research spans five closely connected directions:
 
 - Multimodal Learning and Image Fusion     
 - Robotics and Embodied Intelligence  
 - Human-Centered Computer Vision  
 - Trustworthy and Responsible AI
 - AI for Healthcare 
+
+**Multimodal learning and image fusion** provide the methodological foundation for integrating complementary visual and sensory information. **Robotics and embodied intelligence** extend fusion from perception to action in physical environments. **Human-centered computer vision** focuses on understanding and assisting people in real-world scenarios. **Trustworthy and responsible AI** ensures that such systems are robust, privacy-preserving, and ethically deployed. **AI for healthcare** applies fusion intelligence to high-impact clinical and biomedical problems where reliable decision-making is critical.
 
 Research topics
 ----
