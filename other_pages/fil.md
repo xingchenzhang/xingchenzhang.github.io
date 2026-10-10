@@ -263,6 +263,18 @@ FIL's research covers the following closely connected topics:
       </div>
     </div>
   </div>
+
+
+  <div class="lab-subsection">
+    <h3>Undergraduate Researcher</h3>
+    <div class="lab-people">
+      <div class="lab-person">
+        <a href="https://www.linkedin.com/in/kazybek-khairulla/">
+          <img src="/images/people/Kazybek.jpg" alt="Kazybek Khairulla">
+          <div><strong>Kazybek Khairulla</strong></div>  
+        </a>
+      </div>
+  </div>
 </div>
 
 
