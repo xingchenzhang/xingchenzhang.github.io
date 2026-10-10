@@ -24,7 +24,11 @@ I have published over 40 peer-reviewed papers in leading journals and conference
 
 Research interests
 --
-**My Fusion Intelligence Laboratory aims to use machine intelligence and multi-source information fusion to benefit humanity**. I am very interested in applying fusion intelligence in robot perception, medical data processing, and computer vision. Specifically, my research areas include
+**My Fusion Intelligence Laboratory aims to use machine intelligence and multi-source information fusion to benefit humanity**. 
+
+My research is centred on **Fusion Intelligence**: developing intelligent systems that can integrate complementary information from multiple sensors, modalities, and data sources to perceive, reason, and support decision-making more reliably in complex real-world environments. I am particularly interested in applying Fusion Intelligence to robot perception, embodied AI, human-centered computer vision, trustworthy AI, and AI for healthcare.
+
+Specifically, my research areas include:
 
 - Multimodal Learning and Image Fusion     
 - Robotics and Embodied Intelligence  
@@ -32,7 +36,7 @@ Research interests
 - Trustworthy and Responsible AI
 - AI for Healthcare  
 
-To know more about my research, please go to the  '[Research](https://xingchenzhang.github.io/research/)' section.
+To know more about my research, please visit the  '[Research](https://xingchenzhang.github.io/research/)' section.
 
 
 **Call for papers**
