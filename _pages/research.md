@@ -12,6 +12,10 @@ author_profile: true
   text-justify: inter-word;
 }
 
+.research-text p.image-center {
+  text-align: center;
+}
+
 .research-text li {
   text-align: left;
 }
@@ -82,7 +86,7 @@ My lab has received funding and support from the Royal Society, NVIDIA Academic 
 
 We have several robots, different sensors, several NVIDIA Jetsons in the lab.
 
-<p align="center"> 
+<p align="image-center"> 
   <img width="700" src="/images/research/FIL-robot.jpg" />
 </p>
 
@@ -92,17 +96,17 @@ More info to come.
 <h2 id="human-centered-computer-vision">3. Human-Centered Computer Vision</h2>
 
 <h3>(1) Pedestrian Trajectory Prediction</h3>
-<p align="center"> 
+<p align="image-center"> 
   <img width="500" src="/images/research/Demo Social TAG.gif" />
 </p>
 
 <h3>(2) Pedestrian Crossing Intention Prediction</h3>
-<p align="center"> 
+<p align="image-center"> 
   <img width="700" src="/images/research/crossingpose.png" />
 </p>
 
 <h3>(3) Pedestrian Tracking</h3>
-<p align="center"> 
+<p align="image-center"> 
   <img width="700" src="/images/research/Pedestrian-tracking.gif" />
 </p>
 
