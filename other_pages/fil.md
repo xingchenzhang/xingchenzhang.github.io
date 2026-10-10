@@ -164,11 +164,11 @@ full-width: true
 
 The **Fusion Intelligence Laboratory (FIL)** is led by [Dr. Xingchen Zhang](https://xingchenzhang.github.io/) at the Department of Computer Science, University of Exeter.
 
-FIL aims to **use machine intelligence and multi-source information fusion to benefit humanity**. The idea of **Fusion Intelligence** was first conceived during Dr. Zhang’s time at **Imperial College London** and was formalised in 2024 when he established the Fusion Intelligence Laboratory at the University of Exeter.
+FIL aims to **use machine intelligence and multi-source information fusion to benefit humanity**. The idea of **Fusion Intelligence** was first conceived during Dr. Zhang’s time at **Imperial College London** and was formalised in 2024 when he established the Fusion Intelligence Laboratory at the University of Exeter. It describes the lab’s long-term research vision: developing intelligent systems that can integrate complementary information from multiple sensors, modalities, and data sources to perceive, reason, and support decision-making more reliably in complex real-world environments.
 
-Building on Dr. Zhang’s research and teaching experience at **Imperial College London**, FIL conducts research in machine intelligence, computer vision, and multi-source information fusion, with the broad goal of developing AI technologies that can support human-centred perception, decision-making, and real-world applications.
+Building on Dr. Zhang’s research experience at **Imperial College London**, FIL conducts research in machine intelligence, computer vision, and multi-source information fusion, with the broader goal of developing AI technologies for human benefit.
 
-Our work has received funding and support from various sources, including the **Royal Society**, the **European Union's Marie Skłodowska-Curie Actions (MSCA)**, **NVIDIA**, **UKRI AI Research Resource (AIRR)**, the **University of Exeter's global partnership funding**, and **joint PhD studentships** with the University of Queensland and Université Paris-Saclay.
+FIL‘s work has received funding and support from various sources, including the **Royal Society**, the **European Union's Marie Skłodowska-Curie Actions (MSCA)**, **NVIDIA**, **UKRI AI Research Resource (AIRR)**, the **University of Exeter's global partnership funding**, and **joint PhD studentships** with the University of Queensland and Université Paris-Saclay.
 
 </div>
 
