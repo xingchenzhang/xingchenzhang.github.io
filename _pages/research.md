@@ -47,10 +47,10 @@ Research topics
 
 <h2 id="multimodal-learning-and-image-fusion">1. Multimodal Learning and Image Fusion</h2>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<!-- <div style="display: flex; justify-content: center; align-items: center;">
   <img src="/images/research/vif.png" alt="First Image" style="height: 300px; width: auto; margin-right: 20px;">
   <img src="/images/research/mef.png" alt="Second Image" style="height: 300px; width: auto;">
-</div>
+</div> -->
 
 **Multimodal learning and image fusion** form the methodological foundation of my research on **Fusion Intelligence**. This direction focuses on developing algorithms that can integrate complementary information from multiple sensors, modalities, or data sources, such as visible images, infrared images, depth, event data, LiDAR, and medical imaging data. My work has covered both **low-level image fusion**, including visible-infrared, multi-focus, and multi-exposure image fusion, and **high-level multimodal understanding**, including RGB-T tracking, segmentation-oriented fusion, and multimodal medical image analysis.
 
@@ -94,10 +94,10 @@ Human-centered computer vision focuses on developing AI systems that can underst
   <img width="700" src="/images/research/crossingpose.png" />
 </p>
 
-<h3>(3) Pedestrian Tracking</h3>
+<!-- <h3>(3) Pedestrian Tracking</h3>
 <p class="image-center"> 
   <img width="700" src="/images/research/Pedestrian-tracking.gif" />
-</p>
+</p> -->
 
 <!-- <p align="center"> 
   <img width="500" src="/images/research/MOT17-03-SelectMOT.gif" />
