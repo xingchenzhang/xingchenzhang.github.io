@@ -26,9 +26,7 @@ author_profile: true
 Vision
 ----
 
-My [Fusion Intelligence Laboratory](https://xingchenzhang.github.io/fil/) aims to **use machine intelligence and multi-source information fusion to benefit humanity.**
-
-The idea of **Fusion Intelligence** was first conceived during my time at **Imperial College London** and was formalised in 2024 when I established FIL at the University of Exeter. It describes my long-term research agenda: **developing intelligent systems that can integrate complementary information from multiple sensors, modalities, and data sources to perceive, reason, and support more reliable decision-making in complex real-world environments**, with the broader goal of advancing AI for human benefit.
+My [**Fusion Intelligence Laboratory (FIL)**](https://xingchenzhang.github.io/fil/) aims to **use machine intelligence and multi-source information fusion to benefit humanity.** The idea of **Fusion Intelligence** was first conceived during my time at **Imperial College London** and was formalised in 2024 when I established FIL at the University of Exeter. 
 
 Research areas
 ----
