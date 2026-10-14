@@ -8,6 +8,8 @@ author_profile: true
 
 **At University of Exeter**
 
+- 13 Oct 2026, Robotics demo, High School "Saint Joseph" Visit
+
 - 14th/21st/28th March 2026, Robot dog demo, Offer Holders Visit Day
 
 - 29 July 2025, Pedestrian privacy protection and robot dog demo, International Study Centre, University of Exeter
