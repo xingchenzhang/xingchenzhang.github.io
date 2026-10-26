@@ -30,9 +30,10 @@ NOTE: I **<span style="color: red;"> DO NOT</span>** accept visiting PhD student
 
 - [[Exeter-CSC PhD studentship (Chinese students only)]](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): Please contact me if you are interested in applying for a CSC scholarship.
 
-- [[Commonwealth PhD Scholarships]](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2027/28 academic year is open, and the deadline is 16:00 BST on Tuesday 20 October. Please contact me if you are eligible and interested in this scholarship.
-
 **Other PhD opportunities**
+
+- [[Commonwealth PhD Scholarships]](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/): Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The application for the 2027/28 academic year is **closed**.
+
 
 - [[University of Exeter - Paris-Saclay studentships (Double PhD Degrees)]](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/paris-saclay/): I am looking for candidates for this PhD studentship (international students are eligible). The project title is Multimodal Robot Perception withPersonality-Based Models of Human Decision Making for Efficient Anticipation inPedestrian-Centric Applications. [Prof. Andrew Howes](https://experts.exeter.ac.uk/41016-andrew-howes), our Head of Department, will be the co-supervisor at Exeter. [Dr. Céline Clavel](https://clavelcel.wixsite.com/monsite) and [Prof. Nicolas Sabouret](https://perso.limsi.fr/sabouret/) will be the supervisor at the Université Paris-Saclay. The successful candidate will spend at least one year at the Université Paris-Saclay. Applications must be submitted on the [Paris-Saclay ADUM portal](https://adum.fr/as/ed/voirproposition.pl?site=PSaclay&matricule_prop=70347&langue=en). The application deadline for 2026 September entry is **now closed**. 
 
