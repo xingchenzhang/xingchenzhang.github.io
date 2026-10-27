@@ -53,7 +53,7 @@ News
 
 [10/2026] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>** (Stanford University/Elsevier, 2026). This marks my fourth consecutive inclusion in the **Single Year List**, and I am also delighted to be included for the first time in the **Career Long List**.
 
-[09/2026] I have been elevated to IEEE Senior Member.
+[09/2026] I have been elevated to **IEEE Senior Member**.
 
 [09/2026] Welcome Zhenyue and Yuan to join my group as PhD students!
 
