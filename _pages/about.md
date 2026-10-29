@@ -51,6 +51,8 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[10/2026] I have been shortlisted for Supervisor of the Year, Exeter Students' Guild Teaching Awards.
+
 [10/2026] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>** (Stanford University/Elsevier, 2026). This marks my fourth consecutive inclusion in the **Single Year List**, and I am also delighted to be included for the first time in the **Career Long List**.
 
 [09/2026] I have been elevated to **IEEE Senior Member**.
