@@ -28,7 +28,7 @@ For a full list of my publications, please refer to my [Google Scholar profile](
 
 - Z. Zhao, **X. Zhang**\*. SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion. IEEE Transactions on Image Processing, 2026. [[Link]](https://ieeexplore.ieee.org/document/11570838)
 
-- Q. Liu, N. Wang, Z. Zhao, **X. Zhang**. ActiveReID: Target-Conditioned Active Viewpoint Optimization for Mobile Robot Person Re-Identification. IEEE Robotics and Automation Letters, 2026.
+- Q. Liu, N. Wang, Z. Zhao, **X. Zhang***. ActiveReID: Target-Conditioned Active Viewpoint Optimization for Mobile Robot Person Re-Identification. IEEE Robotics and Automation Letters, 2026.
 
 *indicates corresponding author
 
