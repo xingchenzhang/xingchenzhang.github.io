@@ -357,6 +357,21 @@ FIL's research covers the following closely connected topics:
 <div class="publication-block">
     <div class="publication-info">
         <div class="publication-title">
+            ActiveReID: Target-Conditioned Active Viewpoint Optimization for Mobile Robot Person Re-Identification
+        </div>
+        <img src="/images/research/ActiveReID.png" alt="ActiveReID" class="publication-image" onclick="expandImage(this, '/images/research/ActiveReID.png')"><br />
+        <h3 class="conference-name">IEEE Robotics and Automation Letters, 2026</h3>        
+        <p class="author-name">Q. Liu, N. Wang, Z. Zhao, <strong>X. Zhang*</strong>.</p>
+        <!-- <div class="links">
+            <a href="https://arxiv.org/pdf/2505.06665" class="pdf">PDF</a>
+            <a href="https://github.com/CnoyZ/MultiTaskVIF" class="code">CODE</a>            
+        </div> -->
+    </div>
+</div>
+
+<div class="publication-block">
+    <div class="publication-info">
+        <div class="publication-title">
             MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning
         </div>
         <img src="/images/research/MultiTaskVIF.jpg" alt="MultiTaskVIF" class="publication-image" onclick="expandImage(this, '/images/research/MultiTaskVIF.jpg')"><br />
