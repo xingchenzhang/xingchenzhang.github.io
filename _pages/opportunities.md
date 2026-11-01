@@ -26,6 +26,8 @@ PhD Opportunities
 
 NOTE: I **<span style="color: red;"> DO NOT</span>** accept visiting PhD students. 
 
+Unfortunately, I currently only have PhD funding available through the CSC scholarship scheme for Chinese students. If you are not eligible for this scholarship, please do not contact me regarding PhD opportunities.
+
 **Open opportunities**
 
 - [[Exeter-CSC PhD studentship (Chinese students only)]](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/): Please contact me if you are interested in applying for a CSC scholarship.
