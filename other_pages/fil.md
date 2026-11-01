@@ -280,6 +280,10 @@ FIL's research covers the following closely connected topics:
 
 <div class="lab-news-box" markdown="1">
 
+[11/2026] Our paper **ActiveReID: Target-Conditioned Active Viewpoint Optimization for Mobile Robot Person Re-Identification** has been accepted by IEEE RAL. Congratulations to Quangao!
+
+[10/2026] Dr. Xingchen Zhang has been shortlisted for Supervisor of the Year, Exeter Students' Guild Teaching Awards.
+
 [10/2026] Dr. Xingchen Zhang has been listed once again among the <span style="color: red;">**World’s Top 2% Scientists**</span> (Stanford University/Elsevier, 2026). This marks his fourth consecutive inclusion in the "Single Year List", and his first inclusion in the "Career Long List".
 
 [09/2026] Prof. Nicolas Sabouret and Dr. Céline Clavel from LISN, Université Paris-Saclay, France, visited our lab and gave a talk at the Department of Computer Science.

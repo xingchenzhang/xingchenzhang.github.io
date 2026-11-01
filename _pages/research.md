@@ -78,6 +78,9 @@ We are building a robotics research platform with mobile robots, different senso
   <img width="700" src="/images/research/FIL-robot.jpg" />
 </p>
 
+Related publications:
+
+1. Q. Liu, N. Wang, Z. Zhao, **X. Zhang**. ActiveReID: Target-Conditioned Active Viewpoint Optimization for Mobile Robot Person Re-Identification. IEEE Robotics and Automation Letters, 2026.
 
 <h2 id="human-centered-computer-vision">3. Human-Centered Computer Vision</h2>
 Human-centered computer vision focuses on developing AI systems that can understand, predict, and assist human behaviour in real-world environments. My research in this area has mainly explored pedestrian perception, including pedestrian trajectory prediction, crossing intention prediction, and pedestrian tracking. These studies aim to improve the ability of intelligent systems to understand people’s movements, intentions, and interactions with the surrounding environment, contributing to my broader goal of developing AI technologies that can assist humans and support safer, more intelligent real-world systems.
