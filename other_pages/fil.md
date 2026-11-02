@@ -534,31 +534,35 @@ function closeImageBox() {
 
 <h2 id="selected-alumni">Selected Alumni</h2>
 
-  - Qinqing Li (MSc Project Student, 2024–2025)    
-    
-    - Graduated with Distinction  
-    
-    - Received a Faculty Commendation (A) in the Computer Science MSc Prizes  
-    
-    - First author of a paper co-authored with Dr. Xingchen Zhang, published at a BMVC 2025 workshop  
-    
-    - Currently a Software Engineer at DeGould  
+<ul>
+  <li>
+    <strong>Qinqing Li</strong> (MSc Project Student, 2024–2025)
+    <ul>
+      <li>Graduated with Distinction</li>
+      <li>Received a Faculty Commendation (A) in the Computer Science MSc Prizes</li>
+      <li>First author of a paper co-authored with Dr. Xingchen Zhang, published at a BMVC 2025 workshop</li>
+      <li>Currently a Software Engineer at DeGould</li>
+    </ul>
+  </li>
 
-  - Aditya Bhardwaj (BSc Project Student, 2025–2026)    
-    
-    - Graduated with First-Class Honours  
-    
-    - Received a Faculty Commendation (A) in the Computer Science BSc Prizes  
-    
-    - First author of a research paper co-authored with Dr. Xingchen Zhang and submitted for publication  
-    
-    - Currently an AI Engineer at Lloyds Banking Group  
+  <li>
+    <strong>Aditya Bhardwaj</strong> (BSc Project Student, 2025–2026)
+    <ul>
+      <li>Graduated with First-Class Honours</li>
+      <li>Received a Faculty Commendation (A) in the Computer Science BSc Prizes</li>
+      <li>First author of a research paper co-authored with Dr. Xingchen Zhang and submitted for publication</li>
+      <li>Currently an AI Engineer at Lloyds Banking Group</li>
+    </ul>
+  </li>
 
-  - Oliver Johnson (BSc Project Student, 2025–2026)    
-    
-    - First author of a research paper co-authored with Dr. Xingchen Zhang and submitted for publication  
-    
-    - Currently a Graduate Software Engineer at Kepler Cheuvreux  
+  <li>
+    <strong>Oliver Johnson</strong> (BSc Project Student, 2025–2026)
+    <ul>
+      <li>First author of a research paper co-authored with Dr. Xingchen Zhang and submitted for publication</li>
+      <li>Currently a Graduate Software Engineer at Kepler Cheuvreux</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h2 id="contact">Contact</h2>
