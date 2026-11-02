@@ -182,6 +182,7 @@ FIL‘s work has received funding and support from various sources, including th
   <a href="#selected-publications">Selected Publications</a>
   <a href="#selected-funders">Funding and Support</a>
   <a href="#awards">Awards</a>
+  <a href="#selected-alumni">Selected Alumni</a>
   <a href="#contact">Contact</a>
 </div>
 
@@ -515,6 +516,8 @@ function closeImageBox() {
 
 <ul>
 
+  <li>2026: Shortliste for Supervisor of the Year — Xingchen Zhang (PI and Lab Director)</li>
+
   <li>2026: World's Top 2% Scientists – Career Long List — Xingchen Zhang (PI and Lab Director)</li>
 
   <li>2023–2026: World's Top 2% Scientists – Single Year List — Xingchen Zhang (PI and Lab Director)</li>
@@ -527,6 +530,25 @@ function closeImageBox() {
 
   <li>2025: Dean of Postgraduate Research's Commendation for Excellence in Supervision — Xingchen Zhang (PI and Lab Director)</li>
 </ul>
+
+
+<h2 id="selected-alumni">Selected Alumni</h2>
+
+- **Qinqing Li** — MSc Project Student (2024–2025).
+  - Graduated with Distinction
+  - Received a Faculty Commendation (A) in the Computer Science MSc Prizes
+  - First author of a paper co-authored with Dr. Xingchen Zhang, published at a BMVC 2025 workshop
+  - Currently a Software Engineer at DeGould
+
+- **Aditya Bhardwaj** — BSc Project Student (2025–2026).
+  - Graduated with First-Class Honours.
+  - Received a Faculty Commendation (A) in the Computer Science BSc Prizes.
+  - First author of a research paper co-authored with Dr. Xingchen Zhang and submitted for publication
+  - Currently an AI Engineer at Lloyds Banking Group
+
+- **Oliver Johnson** — BSc Project Student (2025–2026).
+  - First author of a research paper co-authored with Dr. Xingchen Zhang and submitted for publication
+  - Currently a Graduate Software Engineer at Kepler Cheuvreux
 
 
 <h2 id="contact">Contact</h2>
