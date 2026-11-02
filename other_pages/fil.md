@@ -178,9 +178,9 @@ FIL‘s work has received funding and support from various sources, including th
 <div class="quick-nav">
   <a href="#research-topics">Research Topics</a>
   <a href="#people">People</a>
-  <a href="#lab-news">Lab News</a>
+  <a href="#lab-news">News</a>
   <a href="#selected-publications">Selected Publications</a>
-  <a href="#selected-funders">Funding and Support</a>
+  <a href="#selected-funders">Funding</a>
   <a href="#awards">Awards</a>
   <a href="#selected-alumni">Selected Alumni</a>
   <a href="#contact">Contact</a>
