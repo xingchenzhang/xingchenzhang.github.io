@@ -516,7 +516,7 @@ function closeImageBox() {
 
 <ul>
 
-  <li>2026: Shortliste for Supervisor of the Year — Xingchen Zhang (PI and Lab Director)</li>
+  <li>2026: Shortlisted for Supervisor of the Year — Xingchen Zhang (PI and Lab Director)</li>
 
   <li>2026: World's Top 2% Scientists – Career Long List — Xingchen Zhang (PI and Lab Director)</li>
 
