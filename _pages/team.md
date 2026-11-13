@@ -14,11 +14,11 @@ I have supervised and co-supervised students at various universities and continu
 
 - In 2025, I received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>** in the University of Exeter.
 
-- In 2025, My MSc student Qinqing Li received the **Computer Science Prizes for MSc students (Faculty Commendations - A)**.
-
 - In 2026, My PhD student Zixian Zhao received the **Dean of Postgraduate Research’s Commendation for Excellence in Academic Citizenship**.
 
 - In 2026, My BSc student Aditya Bhardwaj received the **Computer Science Prizes for BSc students (Faculty Commendations - A)**.
+
+- In 2025, My MSc student Qinqing Li received the **Computer Science Prizes for MSc students (Faculty Commendations - A)**.
 
 
 ## Current team
