@@ -10,6 +10,8 @@ author_profile: true
 
 I have supervised and co-supervised students at various universities and continue to do so in my current role. I deeply enjoy supporting students' growth and development through my supervision. As Mencius the philosopher said, **attracting talented individuals from all over the world and educating them is one of the greatest joys in life.**
 
+- In 2026, I was shortlisted for **<span style="color: red;"> Supervisor of the Year</span>** in the University of Exeter.
+
 - In 2025, I received the **<span style="color: red;"> Dean of PGR’s Commendation for Excellence in Supervision</span>** in the University of Exeter.
 
 - In 2025, My MSc student Qinqing Li received the **Computer Science Prizes for MSc students (Faculty Commendations - A)**.
