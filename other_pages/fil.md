@@ -283,7 +283,7 @@ FIL's research covers the following closely connected topics:
 
 [11/2026] Our paper **ActiveReID: Target-Conditioned Active Viewpoint Optimization for Mobile Robot Person Re-Identification** has been accepted by **IEEE Robotics and Automation Letters**. Congratulations to Quangao!
 
-[10/2026] Dr. Xingchen Zhang has been shortlisted for **Supervisor of the Year**, Exeter Students' Guild Teaching Awards.
+[10/2026] Dr. Xingchen Zhang has been shortlisted for Supervisor of the Year at the Exeter Students’ Guild Teaching Awards.
 
 [10/2026] Dr. Xingchen Zhang has been listed once again among the <span style="color: red;">**World’s Top 2% Scientists**</span> (Stanford University/Elsevier, 2026). This marks his fourth consecutive inclusion in the "Single Year List", and his first inclusion in the "Career Long List".
 
