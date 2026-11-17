@@ -64,7 +64,7 @@ My students have pursued diverse career paths: some have become faculty members 
    - Qinqing Li (2025)  
         - Distinction  
         - Received the **Computer Science Prizes for MSc students (Faculty Commendations - A)**, which is awared to students who have made a significant contribution to the faculty
-        - Published a BMVC2025 Workshop paper with me 
+        - Published a paper titled "[Brain tumor segmentation using multimodal MRI](https://bmva-archive.org.uk/bmvc/2025/assets/workshops/DIFA/Paper_14/paper.pdf)" in BMVC2025 Workshop paper with me 
         - Now a Software Engineer in DeGould  
         
   - Heegon Kim (2025)  
@@ -75,7 +75,8 @@ My students have pursued diverse career paths: some have become faculty members 
 
   - [Aditya Bhardwaj](https://www.linkedin.com/in/aditya-bhardwaj-801b482a5/) (2026)
     - First class degree
-    - Received the **Computer Science Prizes for BSc students (Faculty Commendations - A)**.
+    - Received the **Computer Science Prizes for BSc students (Faculty Commendations - A)**
+    - Wrote a paper titled "[From Prediction to Action: An Execution-Aware End-to-End Machine Learning Framework for Structured Investment Decision Support](https://arxiv.org/abs/2611.20348)" with me
     - Now an AI Engineer at Lloyds Banking Group
 
   - [Oliver Johnson](https://www.linkedin.com/in/oliver-r-johnson/) (2026)

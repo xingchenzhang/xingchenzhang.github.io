@@ -550,7 +550,7 @@ function closeImageBox() {
     <ul>
       <li>Graduated with First-Class Honours</li>
       <li>Received a Faculty Commendation (A) in the Computer Science BSc Prizes</li>
-      <li>First author of a research paper co-authored with Dr. Xingchen Zhang and submitted for publication</li>
+      <li>First author of a research paper titled "From Prediction to Action: An Execution-Aware End-to-End Machine Learning Framework for Structured Investment Decision Support“ co-authored with Dr. Xingchen Zhang and submitted for publication</li>
       <li>Currently an AI Engineer at Lloyds Banking Group</li>
     </ul>
   </li>
@@ -558,7 +558,7 @@ function closeImageBox() {
   <li>
     <strong>Oliver Johnson</strong> (BSc Project Student, 2025–2026)
     <ul>
-      <li>First author of a research paper co-authored with Dr. Xingchen Zhang and submitted for publication</li>
+      <li>First author of a research paper  co-authored with Dr. Xingchen Zhang and submitted for publication</li>
       <li>Currently a Graduate Software Engineer at Kepler Cheuvreux</li>
     </ul>
   </li>
