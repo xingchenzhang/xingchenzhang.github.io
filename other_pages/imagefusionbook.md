@@ -44,8 +44,7 @@ full-width: true
 </style>
 
 <div class="book-section">
-  <h2>《融合之智：基于深度学习的图像融合》</h2>
-   <h3>作者：张星辰（英国埃克塞特大学高级讲师、融合智能实验室负责人）</h3>
+  <h2>作者：<a href="https://xingchenzhang.github.io/" target="_blank">张星辰</a>（英国埃克塞特大学高级讲师、<a href="https://xingchenzhang.github.io/fil/" target="_blank">融合智能实验室</a>负责人）</h2>
   <p><strong>版本号：</strong>v20261027 &nbsp;|&nbsp; <strong>更新时间：</strong>2026-10-27</p>
 
   <p>这是我的《融合之智：基于深度学习的图像融合》初稿，欢迎下载阅读并提供宝贵意见。</p>
@@ -64,6 +63,11 @@ full-width: true
 </div>
 
 ---
+
+
+<div style="display: flex; justify-content: center;">
+  <img src="/images/Intelligence-of-fusion-Chinese.png" alt="image1" width="400">
+</div>
 
 ## 更新记录
 * **2026-10-27** 改正了第2页，第158页，第165页的一些错别字；将第5章的部分图片替换为中文版；更正图10.3的caption；更正15.3小节里的小标题编号
@@ -90,3 +94,7 @@ full-width: true
   doi          = {10.5281/zenodo.17808948},  
   url          = {https://doi.org/10.5281/zenodo.17808948},  
 }
+
+## 读者书评
+
+感谢读者“汐萌”撰写的[图像融合“西瓜书”来啦！没想到有人把图像融合写成了“武侠小说”？玛丽居里学者亲笔，新人入门必读！](https://mp.weixin.qq.com/s/oZqc63qwEtsLtFi8TEdcOg)
