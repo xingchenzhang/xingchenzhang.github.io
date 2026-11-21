@@ -66,7 +66,7 @@ full-width: true
 
 
 <div style="display: flex; justify-content: center;">
-  <img src="/images/Intelligence-of-fusion-Chinese.png" alt="image1" width="400">
+  <img src="/images/Intelligence-of-fusion-Chinese.png" alt="image1" width="200">
 </div>
 
 ## 更新记录
