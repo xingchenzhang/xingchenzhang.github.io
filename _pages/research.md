@@ -54,9 +54,9 @@ Research topics
 
 Beyond developing individual algorithms, I have also contributed to the community through surveys, benchmarks, comparative studies, open resources, and books, including the published book [*Image Fusion*](https://link.springer.com/book/10.1007/978-981-15-4867-3) and the open-source book project [*Intelligence of Fusion*](https://xingchenzhang.github.io/imagefusionbook/). These efforts aim to organise and communicate the foundations, progress, and future directions of multimodal information fusion. Together, they provide the core perception and representation-learning capabilities that support my broader research in [embodied intelligence](#robotics-and-embodied-intelligence), [trustworthy AI](#trustworthy-and-responsible-ai), and [healthcare applications](#ai-for-healthcare).
 
-Users of my [VIFB benchmark](https://github.com/xingchenzhang/VIFB):
+<!-- Users of my [VIFB benchmark](https://github.com/xingchenzhang/VIFB):
 
-Users of my [MEBF benchmark](https://github.com/xingchenzhang/MEFB):
+Users of my [MEBF benchmark](https://github.com/xingchenzhang/MEFB): -->
 
 Selected publications:  
 1. **X. Zhang**, Y. Demiris. Visible and Infrared Image Fusion using Deep Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 8, pp. 10535-10554, 2023. (**ESI Highly Cited Paper, ESI hot paper)**  
