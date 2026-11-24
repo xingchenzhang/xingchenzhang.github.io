@@ -38,10 +38,10 @@ Specifically, my research areas include:
 
 To know more about my research, please visit the  '[Research](https://xingchenzhang.github.io/research/)' section.
 
-
+P
 **Call for papers**
 -------
-
+PP
 You're welcome to submit your manuscript to the following journals and special issues where I serve on the editorial board, or to the workshop I am organizing. Please feel free to contact me before submission if you have any questions.
 
 - **Pattern Recognition** Special Issue: **Multimodal Representation Learning Based on Vision Foundation Models**. Open for Submission: from 15-Apr-2026 to 31-Mar-2027. More details can be found [here](https://www.sciencedirect.com/special-issue/332578/multimodal-representation-learning-based-on-vision-foundation-models).
@@ -53,7 +53,7 @@ News
 
 [11/2026] Our paper **ActiveReID: Target-Conditioned Active Viewpoint Optimization for Mobile Robot Person Re-Identification** has been accepted by **IEEE Robotics and Automation Letters**. Congratulations to Quangao!
 
-[10/2026] I have been shortlisted for **Supervisor of the Year** at the Exeter Students’ Guild Teaching Awards.
+[10/2026] I have been shortlisted for **Supervisor of the Year**, University of Exeter.
 
 [10/2026] Honored to be listed once again among the **<span style="color: red;">World’s Top 2% Scientists</span>** (Stanford University/Elsevier, 2026). This marks my fourth consecutive inclusion in the **Single Year List**, and I am also delighted to be included for the first time in the **Career Long List**.
 
