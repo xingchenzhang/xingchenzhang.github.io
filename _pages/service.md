@@ -50,7 +50,7 @@ author_profile: true
 
 - Guest Editor, Pattern Recognition (for the Special Issue **[Multimodal Representation Learning Based on Vision Foundation Models](https://www.sciencedirect.com/special-issue/332578/multimodal-representation-learning-based-on-vision-foundation-models)**)
 
-- Guest Editor, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (for the Special Issue **[Advances in Multimodal Image Fusion and Downstream Tasks for Remote Sensing Applications](https://www.grss-ieee.org/publications/call-for-papers/jstars-special-issues/)**)
+- Guest Editor, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (for the Special Issue **[Advances in Multimodal Image Fusion and Downstream Tasks for Remote Sensing Applications](https://www.grss-ieee.org/wp-content/uploads/2026/11/JSTARS_CfP_Advances-in-Multimodal-Image-Fusion.pdf)**)
 
 - Guest Editor, Virtual Reality & Intelligent Hardware (for the Special Issue **[Embodied Intelligence: Bringing Disciplines Through System Integration](https://www.sciencedirect.com/special-issue/333927/embodied-intelligence-bridging-disciplines-through-system-integration)**)
 

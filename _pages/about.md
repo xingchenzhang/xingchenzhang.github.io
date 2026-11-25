@@ -38,15 +38,18 @@ Specifically, my research areas include:
 
 To know more about my research, please visit the  '[Research](https://xingchenzhang.github.io/research/)' section.
 
-P
+
 **Call for papers**
 -------
-PP
+
 You're welcome to submit your manuscript to the following journals and special issues where I serve on the editorial board, or to the workshop I am organizing. Please feel free to contact me before submission if you have any questions.
 
 - **Pattern Recognition** Special Issue: **Multimodal Representation Learning Based on Vision Foundation Models**. Open for Submission: from 15-Apr-2026 to 31-Mar-2027. More details can be found [here](https://www.sciencedirect.com/special-issue/332578/multimodal-representation-learning-based-on-vision-foundation-models).
 
 - **Virtual Reality & Intelligent Hardware** Special Issue on **Embodied Intelligence: Bringing Disciplines Through System Integration**. Submission deadline: 31 December 2026 [[Details]](https://www.keaipublishing.com/en/journals/virtual-reality-and-intelligent-hardware/call-for-papers/special-issue-on-embodied-intelligence-bridging-disciplines-through-system-integration/)
+
+- **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing** Special Issue: Advances in Multimodal Image Fusion and Downstream Tasks for Remote Sensing Applications. Submission deadline: June 30 2027. [Details] (https://www.grss-ieee.org/wp-content/uploads/2026/11/JSTARS_CfP_Advances-in-Multimodal-Image-Fusion.pdf).
+
 
 News
 ----
