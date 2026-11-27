@@ -281,6 +281,9 @@ FIL's research covers the following closely connected topics:
 
 <div class="lab-news-box" markdown="1">
 
+
+[11/2026] Dr. Xingchen Zhang was awarded the **<span style="color: red;">Supervisor of the Year Award (UG)</span>**, University of Exeter.
+
 [11/2026] Our paper **ActiveReID: Target-Conditioned Active Viewpoint Optimization for Mobile Robot Person Re-Identification** has been accepted by **IEEE Robotics and Automation Letters**. Congratulations to Quangao!
 
 [10/2026] Dr. Xingchen Zhang has been shortlisted for **Supervisor of the Year**, University of Exeter.
@@ -516,7 +519,7 @@ function closeImageBox() {
 
 <ul>
 
-  <li>2026: Shortlisted for Supervisor of the Year — Xingchen Zhang (PI and Lab Director)</li>
+  <li>2026: Supervisor of the Year Award — Xingchen Zhang (PI and Lab Director)</li>
 
   <li>2026: World's Top 2% Scientists – Career Long List — Xingchen Zhang (PI and Lab Director)</li>
 

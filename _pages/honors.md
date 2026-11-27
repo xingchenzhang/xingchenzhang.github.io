@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-- 2026: Shortlisted for **Supervisor of the Year**, University of Exeter.
+- 2026: **Supervisor of the Year Award**, University of Exeter.
 - 2026: **World’s Top 2% Scientists – "Career Long" List** ([Stanford University/Elsevier list](https://topscinet.com/))
 - 2023–2026: **World’s Top 2% Scientists – "Single Year" List** ([Stanford University/Elsevier list](https://topscinet.com/))
 - 2025: **Dean of PGR’s Commendation for Excellence in Supervision**, University of Exeter [[Exeter News (internal only)](https://uoeinternalcomms.newsweaver.com/7gj2uiim03/21vkxfbi5y24d208rfh9qq?email=true&lang=en&a=2&p=5082036&t=2322721)]

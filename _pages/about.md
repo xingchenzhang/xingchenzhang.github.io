@@ -54,6 +54,8 @@ You're welcome to submit your manuscript to the following journals and special i
 News
 ----
 
+[11/2026] I was awarded the **<span style="color: red;">Supervisor of the Year Award (UG)</span>**, University of Exeter.
+
 [11/2026] Our paper **ActiveReID: Target-Conditioned Active Viewpoint Optimization for Mobile Robot Person Re-Identification** has been accepted by **IEEE Robotics and Automation Letters**. Congratulations to Quangao!
 
 [10/2026] I have been shortlisted for **Supervisor of the Year**, University of Exeter.
