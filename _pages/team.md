@@ -29,7 +29,7 @@ At the University of Exeter, I lead the **[Fusion Intelligence Laboratory](https
 
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
+  <img src="/images/FIL/FIL-new-logo.png" alt="Lab Logo" style="height: 120px; width: auto;">
 </div>
 
 PhD students (as primary supervisor):

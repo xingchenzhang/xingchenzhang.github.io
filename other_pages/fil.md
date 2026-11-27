@@ -172,7 +172,7 @@ FIL‘s work has received funding and support from various sources, including th
 <div class="lab-section">
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="/images/FIL/LOGO.png" alt="Lab Logo" style="height: 120px; width: auto;">
+  <img src="/images/FIL/FIL-new-logo.png" alt="Lab Logo" style="height: 120px; width: auto;">
 </div>
 
 <div class="quick-nav">
